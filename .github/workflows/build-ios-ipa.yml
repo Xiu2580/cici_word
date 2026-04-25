@@ -31,19 +31,97 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
 
-      - name: Build iOS without signing
+      - name: Generate Flutter iOS build config
+        shell: bash
         run: |
-          flutter build ios --release --no-codesign
+          mkdir -p ios/Flutter ios/Flutter/ephemeral build/logs build/ios/unsigned
+
+          FLUTTER_BIN="$(which flutter)"
+          FLUTTER_ROOT="$(dirname "$(dirname "$FLUTTER_BIN")")"
+          APP_VERSION="$(ruby -e "match = File.read('pubspec.yaml').match(/^version:\s*([^\s]+)/); puts(match ? match[1] : '1.0.0+1')")"
+          BUILD_NAME="${APP_VERSION%%+*}"
+          BUILD_NUMBER="${APP_VERSION#*+}"
+
+          if [ "$BUILD_NUMBER" = "$APP_VERSION" ]; then
+            BUILD_NUMBER="1"
+          fi
+
+          cat > ios/Flutter/Generated.xcconfig <<EOF
+          // This is a generated file; do not edit or check into version control.
+          FLUTTER_ROOT=$FLUTTER_ROOT
+          FLUTTER_APPLICATION_PATH=$GITHUB_WORKSPACE
+          COCOAPODS_PARALLEL_CODE_SIGN=true
+          FLUTTER_TARGET=lib/main.dart
+          FLUTTER_BUILD_DIR=build
+          FLUTTER_BUILD_NAME=$BUILD_NAME
+          FLUTTER_BUILD_NUMBER=$BUILD_NUMBER
+          EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+          EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+          DART_OBFUSCATION=false
+          TRACK_WIDGET_CREATION=false
+          TREE_SHAKE_ICONS=false
+          PACKAGE_CONFIG=.dart_tool/package_config.json
+          EOF
+
+          cat > ios/Flutter/flutter_export_environment.sh <<EOF
+          #!/bin/sh
+          # This is a generated file; do not edit or check into version control.
+          export "FLUTTER_ROOT=$FLUTTER_ROOT"
+          export "FLUTTER_APPLICATION_PATH=$GITHUB_WORKSPACE"
+          export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+          export "FLUTTER_TARGET=lib/main.dart"
+          export "FLUTTER_BUILD_DIR=build"
+          export "FLUTTER_BUILD_NAME=$BUILD_NAME"
+          export "FLUTTER_BUILD_NUMBER=$BUILD_NUMBER"
+          export "DART_OBFUSCATION=false"
+          export "TRACK_WIDGET_CREATION=false"
+          export "TREE_SHAKE_ICONS=false"
+          export "PACKAGE_CONFIG=.dart_tool/package_config.json"
+          EOF
+
+          chmod +x ios/Flutter/flutter_export_environment.sh
+
+      - name: Install CocoaPods dependencies
+        working-directory: ios
+        run: pod install
+
+      - name: Build iOS app without signing
+        shell: bash
+        run: |
+          set -o pipefail
+          xcodebuild \
+            -workspace ios/Runner.xcworkspace \
+            -scheme Runner \
+            -configuration Release \
+            -sdk iphoneos \
+            -destination generic/platform=iOS \
+            -derivedDataPath build/ios_derived \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGN_STYLE=Manual \
+            DEVELOPMENT_TEAM="" \
+            PROVISIONING_PROFILE_SPECIFIER="" \
+            VALIDATE_PRODUCT=NO \
+            build | tee build/logs/xcodebuild.log
 
       - name: Create IPA
+        shell: bash
         run: |
-          mkdir -p build/ios/iphoneos/Payload
-          cp -r build/ios/iphoneos/Runner.app build/ios/iphoneos/Payload/
-          cd build/ios/iphoneos
+          rm -rf build/ios/unsigned/Payload
+          mkdir -p build/ios/unsigned/Payload
+          cp -R build/ios_derived/Build/Products/Release-iphoneos/Runner.app build/ios/unsigned/Payload/
+          cd build/ios/unsigned
           zip -r PikaMusic.ipa Payload
 
       - name: Upload IPA Artifact
         uses: actions/upload-artifact@v4
         with:
           name: PikaMusic-iOS-Unsigned-IPA
-          path: build/ios/iphoneos/PikaMusic.ipa
+          path: build/ios/unsigned/PikaMusic.ipa
+
+      - name: Upload Build Log
+        uses: actions/upload-artifact@v4
+        with:
+          name: PikaMusic-iOS-Build-Log
+          path: build/logs/xcodebuild.log
