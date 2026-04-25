@@ -1,3 +1,13 @@
+name: Build iOS IPA (unsigned)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
+
 jobs:
   build-ios-ipa:
     name: Build unsigned iOS IPA
@@ -14,6 +24,13 @@ jobs:
           channel: stable
           cache: true
 
+      - name: Show tool versions
+        run: |
+          flutter --version
+          dart --version
+          xcodebuild -version
+          pod --version
+
       - name: Get Flutter dependencies
         run: flutter pub get
 
@@ -22,22 +39,20 @@ jobs:
           cd ios
           pod install
 
-   
+     
       - name: Disable Xcode code signing
         run: |
           cd ios
-          sed -i '' 's/CODE_SIGN_STYLE = Automatic;/CODE_SIGN_STYLE = Manual;/g' Runner.xcodeproj/project.pbxproj
-
-          sed -i '' 's/DEVELOPMENT_TEAM = .*/DEVELOPMENT_TEAM = "0000000000";/g' Runner.xcodeproj/project.pbxproj
-
+          sed -i '' 's/DEVELOPMENT_TEAM = .*/DEVELOPMENT_TEAM = "";/g' Runner.xcodeproj/project.pbxproj
           sed -i '' 's/CODE_SIGN_IDENTITY = "iPhone Developer"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
           sed -i '' 's/CODE_SIGN_IDENTITY = "Apple Development"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
+          sed -i '' 's/CODE_SIGN_IDENTITY = "iOS Developer"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
           sed -i '' 's/PROVISIONING_PROFILE_SPECIFIER = .*/PROVISIONING_PROFILE_SPECIFIER = "";/g' Runner.xcodeproj/project.pbxproj
 
+          sed -i '' 's/buildSettings = {/buildSettings = {\nCODE_SIGNING_ALLOWED = NO;\nCODE_SIGNING_REQUIRED = NO;/g' Runner.xcodeproj/project.pbxproj
+
       - name: Build iOS app without signing
-        run: |
-          flutter build ios --release --no-codesign \
-            --xcode-build-arguments='CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO'
+        run: flutter build ios --release --no-codesign
 
       - name: Package unsigned IPA
         run: |
@@ -45,7 +60,7 @@ jobs:
           mkdir -p build/ios/iphoneos/Payload
           cp -R build/ios/iphoneos/Runner.app build/ios/iphoneos/Payload/
           cd build/ios/iphoneos
-          zip -X -r ios-unsigned.ipa Payload
+          zip -r ios-unsigned.ipa Payload
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
