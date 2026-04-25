@@ -34,13 +34,57 @@ jobs:
       - name: Get Flutter dependencies
         run: flutter pub get
 
+      - name: Generate Flutter iOS build config
+        run: |
+          mkdir -p ios/Flutter ios/Flutter/ephemeral
+
+          FLUTTER_ROOT="$(dirname "$(dirname "$(which flutter)")")"
+          APP_VERSION="$(ruby -e "match = File.read('pubspec.yaml').match(/^version:\s*([^\s]+)/); puts(match ? match[1] : '1.0.0+1')")"
+          BUILD_NAME="${APP_VERSION%%+*}"
+          BUILD_NUMBER="${APP_VERSION#*+}"
+          if [ "$BUILD_NUMBER" = "$APP_VERSION" ]; then
+            BUILD_NUMBER="1"
+          fi
+
+          cat > ios/Flutter/Generated.xcconfig <<EOF
+          // This is a generated file; do not edit or check into version control.
+          FLUTTER_ROOT=$FLUTTER_ROOT
+          FLUTTER_APPLICATION_PATH=$GITHUB_WORKSPACE
+          COCOAPODS_PARALLEL_CODE_SIGN=true
+          FLUTTER_TARGET=lib/main.dart
+          FLUTTER_BUILD_DIR=build
+          FLUTTER_BUILD_NAME=$BUILD_NAME
+          FLUTTER_BUILD_NUMBER=$BUILD_NUMBER
+          EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+          EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+          DART_OBFUSCATION=false
+          TRACK_WIDGET_CREATION=false
+          TREE_SHAKE_ICONS=false
+          PACKAGE_CONFIG=.dart_tool/package_config.json
+          EOF
+
+          cat > ios/Flutter/flutter_export_environment.sh <<EOF
+          #!/bin/sh
+          # This is a generated file; do not edit or check into version control.
+          export "FLUTTER_ROOT=$FLUTTER_ROOT"
+          export "FLUTTER_APPLICATION_PATH=$GITHUB_WORKSPACE"
+          export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+          export "FLUTTER_TARGET=lib/main.dart"
+          export "FLUTTER_BUILD_DIR=build"
+          export "FLUTTER_BUILD_NAME=$BUILD_NAME"
+          export "FLUTTER_BUILD_NUMBER=$BUILD_NUMBER"
+          export "DART_OBFUSCATION=false"
+          export "TRACK_WIDGET_CREATION=false"
+          export "TREE_SHAKE_ICONS=false"
+          export "PACKAGE_CONFIG=.dart_tool/package_config.json"
+          EOF
+
+          chmod +x ios/Flutter/flutter_export_environment.sh
+
       - name: Install CocoaPods dependencies
         run: |
           cd ios
           pod install
-
-      - name: Prepare Flutter iOS build files
-        run: flutter build ios --config-only --release
 
       - name: Build unsigned Runner.app with xcodebuild
         run: |
