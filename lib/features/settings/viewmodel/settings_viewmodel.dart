@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 
-import '../../../data/repositories/i_settings_repository.dart';
-import '../../../data/repositories/i_word_repository.dart';
+import '../../../../data/repositories/i_settings_repository.dart';
+import '../../../../data/repositories/i_word_repository.dart';
 import '../../review/viewmodel/review_mistake_store.dart';
 
 class SettingsViewModel extends ChangeNotifier {

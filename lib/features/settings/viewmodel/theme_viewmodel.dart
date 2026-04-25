@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../../core/constants/app_constants.dart';
-import '../../../data/repositories/i_settings_repository.dart';
+import '../../../../core/constants/app_constants.dart';
+import '../../../../data/repositories/i_settings_repository.dart';
 
 class ThemeViewModel extends ChangeNotifier {
   ThemeViewModel([this._settingsRepository]) {
@@ -19,7 +19,8 @@ class ThemeViewModel extends ChangeNotifier {
   bool get animationsEnabled => _animationsEnabled;
 
   Future<void> _load() async {
-    final settings = await _settingsRepository?.getSettings() ?? const <String, dynamic>{};
+    final settings =
+        await _settingsRepository?.getSettings() ?? const <String, dynamic>{};
     _mode = _parseThemeMode(settings['theme_mode'] as String?);
     _fontScale = (settings['font_scale'] as num?)?.toDouble() ?? 1.0;
     _animationsEnabled = settings['animations_enabled'] as bool? ?? true;

@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 
-import '../../../data/models/word.dart';
-import '../../../data/repositories/i_word_repository.dart';
-import '../../../data/repositories/i_wordbook_repository.dart';
+import '../../../../data/models/word.dart';
+import '../../../../data/repositories/i_word_repository.dart';
+import '../../../../data/repositories/i_wordbook_repository.dart';
 
 class SearchViewModel extends ChangeNotifier {
   SearchViewModel(this._wordRepository, this._wordbookRepository);

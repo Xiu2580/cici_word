@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
 
-import '../../../data/repositories/i_word_repository.dart';
+import '../../../../data/repositories/i_word_repository.dart';
 import '../viewmodel/review_mistake_store.dart';
 import '../viewmodel/review_page_viewmodel.dart';
 

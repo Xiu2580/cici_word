@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 
-import '../../../data/models/word.dart';
-import '../../../data/repositories/i_word_repository.dart';
+import '../../../../data/models/word.dart';
+import '../../../../data/repositories/i_word_repository.dart';
 
 class FavoritesViewModel extends ChangeNotifier {
   FavoritesViewModel(this._repository);

@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 
-import '../../../data/models/study_stats.dart';
-import '../../../data/models/word.dart';
-import '../../../data/repositories/i_word_repository.dart';
-import '../../../data/repositories/i_wordbook_repository.dart';
+import '../../../../data/models/study_stats.dart';
+import '../../../../data/models/word.dart';
+import '../../../../data/repositories/i_word_repository.dart';
+import '../../../../data/repositories/i_wordbook_repository.dart';
 
 class StatViewModel extends ChangeNotifier {
   StatViewModel(this._wordRepo, [this._wordbookRepository]) {
@@ -27,7 +27,8 @@ class StatViewModel extends ChangeNotifier {
     try {
       final favorites = await _wordRepo.getFavorites();
       final mistakes = await _wordRepo.getMistakes();
-      final wordbooks = await _wordbookRepository?.getBuiltInWordbooks() ?? const [];
+      final wordbooks =
+          await _wordbookRepository?.getBuiltInWordbooks() ?? const [];
 
       final loadedWordIds = <String>{};
       var knownCount = 0;
@@ -49,8 +50,7 @@ class StatViewModel extends ChangeNotifier {
       }
 
       final reviewedCount = studiedCount + mistakes.length;
-      final correctRate =
-          reviewedCount == 0 ? 0.0 : knownCount / reviewedCount;
+      final correctRate = reviewedCount == 0 ? 0.0 : knownCount / reviewedCount;
 
       _stats = StudyStats(
         todayLearned: studiedCount,
