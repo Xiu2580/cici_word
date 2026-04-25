@@ -1,17 +1,107 @@
-# cici_word
+# 📖 词词不忘（cici_word）
 
-A new Flutter project.
+一个基于 Flutter 的离线英语单词学习应用，面向中小学到高中的教材词书场景，支持词书浏览、学习、默写、搜索、收藏、复习和基础设置。
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 界面
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="assets\images\词库.png" width="300" height="600"/>
+  <img src="assets\images\s1.gif" width="300" height="600"/>
+  <img src="assets\images\搜索单词.png" width="300" height="600"/>
+</p>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🗂️ 项目概览
+
+以「内置离线词书 + 本地学习状态持久化」为核心，已具备完整可运行的主流程：
+
+- 📚 内置 23 本教材词书，覆盖小学、初中、高中
+- 📝 约 2494 个词条，资源存放于 `assets/word_lists/`
+- 🎯 支持词书选择、单词浏览、学习与默写入口
+- 🔍 支持搜索、收藏、错词复习、学习记录清空
+- ⚙️ 支持主题模式、字号、动画、发音偏好等个性化设置
+
+---
+
+## ✨ 功能介绍
+
+### 1. 📚 词书与学习入口
+
+- 词书页支持列表 / 网格视图切换
+- 内置小学、初中、高中分组词书
+- 支持查看词书详情
+- 支持从当前词书进入学习或默写流程
+
+### 2. 🧠 学习与复习
+
+- 学习页基于当前选中词书启动
+- 复习页展示今日待复习、错词强化、复习队列
+- 错词可进入专项复习页面
+- 单词熟悉度保存至本地
+
+### 3. ✏️ 默写与发音
+
+- 支持从词书直接进入默写
+- 提供完整默写 / 提示默写两种模式
+- 集成 `flutter_tts`，可配合设置中的发音偏好使用
+
+### 4. 🔍 搜索、收藏与导入
+
+- 支持中英文关键词搜索
+- 搜索结果支持收藏 / 取消收藏
+- 收藏页可集中查看已收藏单词
+- 导入页支持文本和 JSON 预览导入草稿
+
+### 5. ⚙️ 设置与本地数据
+
+- 支持浅色 / 深色 / 跟随系统三种主题
+- 支持字号缩放、动画开关、每日学习量设置
+- 支持美式 / 英式发音偏好切换
+- 使用 `shared_preferences` 持久化设置、收藏和熟悉度状态
+
+---
+
+## 🛠️ 技术栈
+
+| 类别         | 选型                 |
+| ------------ | -------------------- |
+| 🧩 框架       | Flutter              |
+| 💬 语言       | Dart                 |
+| 🔄 状态管理   | `provider`           |
+| 🗺️ 路由       | `go_router`          |
+| 💾 本地持久化 | `shared_preferences` |
+| 🔊 语音能力   | `flutter_tts`        |
+| 🔗 外部链接   | `url_launcher`       |
+
+---
+
+## 📁 项目结构
+
+```
+assets/
+└── word_lists/          # 📚 内置词书资源（小学 / 初中 / 高中）
+
+lib/
+├── main.dart            # 🚀 应用入口
+├── app.dart             # 🔧 应用装配与 Provider 注入
+├── core/                # ⚙️  路由、主题、常量、服务
+├── data/                # 🗄️  本地仓储、数据模型、仓储接口
+├── features/            # 📦 业务模块
+│   ├── dictation/       # ✏️  默写
+│   ├── favorites/       # ⭐ 收藏
+│   ├── import/          # 📥 导入预览
+│   ├── learn/           # 🎯 学习入口
+│   ├── review/          # 🔁 复习与错词强化
+│   ├── search/          # 🔍 搜索
+│   ├── settings/        # ⚙️  设置
+│   ├── splash/          # 🌅 启动页
+│   ├── stats/           # 📊 统计 ViewModel / 页面预留
+│   ├── study/           # 📖 学习过程
+│   └── wordbook/        # 📚 词书列表与详情
+├── shared/              # 🧱 通用页面与组件
+
+```
