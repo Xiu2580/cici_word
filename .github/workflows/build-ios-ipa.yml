@@ -39,8 +39,19 @@ jobs:
           cd ios
           pod install
 
+      - name: Disable Xcode code signing
+        run: |
+          cd ios
+          sed -i '' 's/CODE_SIGN_STYLE = Automatic;/CODE_SIGN_STYLE = Manual;/g' Runner.xcodeproj/project.pbxproj
+          sed -i '' 's/DEVELOPMENT_TEAM = .*/DEVELOPMENT_TEAM = "";/g' Runner.xcodeproj/project.pbxproj
+          sed -i '' 's/CODE_SIGN_IDENTITY = "iPhone Developer"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
+          sed -i '' 's/CODE_SIGN_IDENTITY = "Apple Development"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
+
       - name: Build iOS app without signing
-        run: flutter build ios --release --no-codesign
+        run: |
+          flutter build ios --release --no-codesign \
+            --xcode-flag="CODE_SIGNING_ALLOWED=NO" \
+            --xcode-flag="CODE_SIGN_IDENTITY="
 
       - name: Package unsigned IPA
         run: |
