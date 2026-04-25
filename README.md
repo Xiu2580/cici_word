@@ -6,26 +6,16 @@
 
 ## 🌟 界面
 
-<p align="center">
-  <img src="assets\images\词库.png" width="300" height="600"/>
-  <img src="assets\images\s1.gif" width="300" height="600"/>
-  <img src="assets\images\搜索单词.png" width="300" height="600"/>
+<p>
+  <img src="assets\images\词库.png"  height="400"/>
+  <img src="assets\images\s1.gif"  height="400"/>
+  <img src="assets\images\默写单词.png" height="400"/>
+  <img src="assets\images\搜索单词.png" height="400"/>
 </p>
 
 
 ---
 
-## 🗂️ 项目概览
-
-以「内置离线词书 + 本地学习状态持久化」为核心，已具备完整可运行的主流程：
-
-- 📚 内置 23 本教材词书，覆盖小学、初中、高中
-- 📝 约 2494 个词条，资源存放于 `assets/word_lists/`
-- 🎯 支持词书选择、单词浏览、学习与默写入口
-- 🔍 支持搜索、收藏、错词复习、学习记录清空
-- ⚙️ 支持主题模式、字号、动画、发音偏好等个性化设置
-
----
 
 ## ✨ 功能介绍
 
