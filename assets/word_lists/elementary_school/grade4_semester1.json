@@ -1,0 +1,532 @@
+[
+  {
+    "english": "classroom",
+    "chinese": "教室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklæsruːm/",
+    "uk_phonetic": "/ˈklɑːsruːm/",
+    "example_sentence_en": "Our classroom is big and bright.",
+    "example_sentence_cn": "我们的教室又大又明亮。",
+    "inflection": "复数: classrooms"
+  },
+  {
+    "english": "blackboard",
+    "chinese": "黑板",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈblækbɔːrd/",
+    "uk_phonetic": "/ˈblækbɔːd/",
+    "example_sentence_en": "Please look at the blackboard.",
+    "example_sentence_cn": "请看黑板。",
+    "inflection": "复数: blackboards"
+  },
+  {
+    "english": "whiteboard",
+    "chinese": "白板",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwaɪtbɔːrd/",
+    "uk_phonetic": "/ˈwaɪtbɔːd/",
+    "example_sentence_en": "The teacher writes on the whiteboard.",
+    "example_sentence_cn": "老师在白板上写字。",
+    "inflection": "复数: whiteboards"
+  },
+  {
+    "english": "chair",
+    "chinese": "椅子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tʃer/",
+    "uk_phonetic": "/tʃeə(r)/",
+    "example_sentence_en": "Please sit on the chair.",
+    "example_sentence_cn": "请坐在椅子上。",
+    "inflection": "复数: chairs"
+  },
+  {
+    "english": "light",
+    "chinese": "灯；光",
+    "part_of_speech": "n.",
+    "us_phonetic": "/laɪt/",
+    "uk_phonetic": "/laɪt/",
+    "example_sentence_en": "Turn on the light, please.",
+    "example_sentence_cn": "请把灯打开。",
+    "inflection": "复数: lights"
+  },
+  {
+    "english": "fan",
+    "chinese": "风扇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fæn/",
+    "uk_phonetic": "/fæn/",
+    "example_sentence_en": "The fan is running.",
+    "example_sentence_cn": "风扇在转。",
+    "inflection": "复数: fans"
+  },
+  {
+    "english": "wall",
+    "chinese": "墙壁",
+    "part_of_speech": "n.",
+    "us_phonetic": "/wɔːl/",
+    "uk_phonetic": "/wɔːl/",
+    "example_sentence_en": "There is a map on the wall.",
+    "example_sentence_cn": "墙上有张地图。",
+    "inflection": "复数: walls"
+  },
+  {
+    "english": "computer",
+    "chinese": "电脑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəmˈpjuːtər/",
+    "uk_phonetic": "/kəmˈpjuːtə(r)/",
+    "example_sentence_en": "We have a new computer.",
+    "example_sentence_cn": "我们有一台新电脑。",
+    "inflection": "复数: computers"
+  },
+  {
+    "english": "picture",
+    "chinese": "图片；图画",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɪktʃər/",
+    "uk_phonetic": "/ˈpɪktʃə(r)/",
+    "example_sentence_en": "Draw a picture, please.",
+    "example_sentence_cn": "请画一幅画。",
+    "inflection": "复数: pictures"
+  },
+  {
+    "english": "map",
+    "chinese": "地图",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mæp/",
+    "uk_phonetic": "/mæp/",
+    "example_sentence_en": "This is a map of China.",
+    "example_sentence_cn": "这是一张中国地图。",
+    "inflection": "复数: maps"
+  },
+  {
+    "english": "screen",
+    "chinese": "屏幕",
+    "part_of_speech": "n.",
+    "us_phonetic": "/skriːn/",
+    "uk_phonetic": "/skriːn/",
+    "example_sentence_en": "Look at the screen.",
+    "example_sentence_cn": "看屏幕。",
+    "inflection": "复数: screens"
+  },
+  {
+    "english": "teacher's desk",
+    "chinese": "讲台",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːtʃərz desk/",
+    "uk_phonetic": "/ˈtiːtʃəz desk/",
+    "example_sentence_en": "The books are on the teacher's desk.",
+    "example_sentence_cn": "书在讲台上。",
+    "inflection": "复数: teachers' desks"
+  },
+  {
+    "english": "backpack",
+    "chinese": "书包",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbækpæk/",
+    "uk_phonetic": "/ˈbækpæk/",
+    "example_sentence_en": "My backpack is heavy.",
+    "example_sentence_cn": "我的书包很重。",
+    "inflection": "复数: backpacks"
+  },
+  {
+    "english": "Chinese book",
+    "chinese": "语文书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌtʃaɪˈniːz bʊk/",
+    "uk_phonetic": "/ˌtʃaɪˈniːz bʊk/",
+    "example_sentence_en": "I like reading my Chinese book.",
+    "example_sentence_cn": "我喜欢读语文书。",
+    "inflection": "复数: Chinese books"
+  },
+  {
+    "english": "math book",
+    "chinese": "数学书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mæθ bʊk/",
+    "uk_phonetic": "/mæθ bʊk/",
+    "example_sentence_en": "Where is my math book?",
+    "example_sentence_cn": "我的数学书在哪里？",
+    "inflection": "复数: math books"
+  },
+  {
+    "english": "English book",
+    "chinese": "英语书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪŋɡlɪʃ bʊk/",
+    "uk_phonetic": "/ˈɪŋɡlɪʃ bʊk/",
+    "example_sentence_en": "Open your English book.",
+    "example_sentence_cn": "打开你的英语书。",
+    "inflection": "复数: English books"
+  },
+  {
+    "english": "storybook",
+    "chinese": "故事书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstɔːribʊk/",
+    "uk_phonetic": "/ˈstɔːribʊk/",
+    "example_sentence_en": "This is a fun storybook.",
+    "example_sentence_cn": "这是一本有趣的故事书。",
+    "inflection": "复数: storybooks"
+  },
+  {
+    "english": "workbook",
+    "chinese": "练习册",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɜːrkbʊk/",
+    "uk_phonetic": "/ˈwɜːkbʊk/",
+    "example_sentence_en": "Do the exercises in the workbook.",
+    "example_sentence_cn": "做练习册上的练习。",
+    "inflection": "复数: workbooks"
+  },
+  {
+    "english": "dictionary",
+    "chinese": "词典",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪkʃəneri/",
+    "uk_phonetic": "/ˈdɪkʃənri/",
+    "example_sentence_en": "I look up words in the dictionary.",
+    "example_sentence_cn": "我在词典里查单词。",
+    "inflection": "复数: dictionaries"
+  },
+  {
+    "english": "glue stick",
+    "chinese": "固体胶",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡluː stɪk/",
+    "uk_phonetic": "/ɡluː stɪk/",
+    "example_sentence_en": "I need a glue stick.",
+    "example_sentence_cn": "我需要一支固体胶。",
+    "inflection": "复数: glue sticks"
+  },
+  {
+    "english": "stapler",
+    "chinese": "订书机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsteɪplər/",
+    "uk_phonetic": "/ˈsteɪplə(r)/",
+    "example_sentence_en": "Pass me the stapler, please.",
+    "example_sentence_cn": "请把订书机递给我。",
+    "inflection": "复数: staplers"
+  },
+  {
+    "english": "folder",
+    "chinese": "文件夹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfoʊldər/",
+    "uk_phonetic": "/ˈfəʊldə(r)/",
+    "example_sentence_en": "Put the paper in the folder.",
+    "example_sentence_cn": "把纸放进文件夹里。",
+    "inflection": "复数: folders"
+  },
+  {
+    "english": "homework",
+    "chinese": "家庭作业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhoʊmwɜːrk/",
+    "uk_phonetic": "/ˈhəʊmwɜːk/",
+    "example_sentence_en": "I do my homework every day.",
+    "example_sentence_cn": "我每天做家庭作业。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "flashcard",
+    "chinese": "单词卡",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈflæʃkɑːrd/",
+    "uk_phonetic": "/ˈflæʃkɑːd/",
+    "example_sentence_en": "We use flashcards to learn words.",
+    "example_sentence_cn": "我们用单词卡学单词。",
+    "inflection": "复数: flashcards"
+  },
+  {
+    "english": "friend",
+    "chinese": "朋友",
+    "part_of_speech": "n.",
+    "us_phonetic": "/frend/",
+    "uk_phonetic": "/frend/",
+    "example_sentence_en": "She is my best friend.",
+    "example_sentence_cn": "她是我最好的朋友。",
+    "inflection": "复数: friends"
+  },
+  {
+    "english": "classmate",
+    "chinese": "同学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklæsmeɪt/",
+    "uk_phonetic": "/ˈklɑːsmeɪt/",
+    "example_sentence_en": "He is my classmate.",
+    "example_sentence_cn": "他是我的同学。",
+    "inflection": "复数: classmates"
+  },
+  {
+    "english": "buddy",
+    "chinese": "伙伴；好朋友",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbʌdi/",
+    "uk_phonetic": "/ˈbʌdi/",
+    "example_sentence_en": "We are good buddies.",
+    "example_sentence_cn": "我们是好伙伴。",
+    "inflection": "复数: buddies"
+  },
+  {
+    "english": "neighbor",
+    "chinese": "邻居",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈneɪbər/",
+    "uk_phonetic": "/ˈneɪbə(r)/",
+    "example_sentence_en": "My neighbor is very nice.",
+    "example_sentence_cn": "我的邻居非常好。",
+    "inflection": "复数: neighbors (英式: neighbours)"
+  },
+  {
+    "english": "friendly",
+    "chinese": "友好的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfrendli/",
+    "uk_phonetic": "/ˈfrendli/",
+    "example_sentence_en": "Our teacher is very friendly.",
+    "example_sentence_cn": "我们的老师非常友好。",
+    "inflection": "比较级: friendlier | 最高级: friendliest"
+  },
+  {
+    "english": "kind",
+    "chinese": "和蔼的；善良的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kaɪnd/",
+    "uk_phonetic": "/kaɪnd/",
+    "example_sentence_en": "He is a kind boy.",
+    "example_sentence_cn": "他是一个善良的男孩。",
+    "inflection": "比较级: kinder | 最高级: kindest"
+  },
+  {
+    "english": "helpful",
+    "chinese": "乐于助人的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhelpfl/",
+    "uk_phonetic": "/ˈhelpfl/",
+    "example_sentence_en": "She is very helpful.",
+    "example_sentence_cn": "她很乐于助人。",
+    "inflection": "比较级: more helpful | 最高级: most helpful"
+  },
+  {
+    "english": "polite",
+    "chinese": "有礼貌的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/pəˈlaɪt/",
+    "uk_phonetic": "/pəˈlaɪt/",
+    "example_sentence_en": "Be polite to others.",
+    "example_sentence_cn": "对别人要有礼貌。",
+    "inflection": "比较级: politer | 最高级: politest"
+  },
+  {
+    "english": "quiet",
+    "chinese": "安静的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkwaɪət/",
+    "uk_phonetic": "/ˈkwaɪət/",
+    "example_sentence_en": "Please be quiet in the library.",
+    "example_sentence_cn": "请在图书馆保持安静。",
+    "inflection": "比较级: quieter | 最高级: quietest"
+  },
+  {
+    "english": "active",
+    "chinese": "活跃的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈæktɪv/",
+    "uk_phonetic": "/ˈæktɪv/",
+    "example_sentence_en": "He is an active boy in class.",
+    "example_sentence_cn": "他在课上是个活跃的男孩。",
+    "inflection": "比较级: more active | 最高级: most active"
+  },
+  {
+    "english": "smart",
+    "chinese": "聪明的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/smɑːrt/",
+    "uk_phonetic": "/smɑːt/",
+    "example_sentence_en": "The dog is very smart.",
+    "example_sentence_cn": "这只狗非常聪明。",
+    "inflection": "比较级: smarter | 最高级: smartest"
+  },
+  {
+    "english": "shy",
+    "chinese": "害羞的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʃaɪ/",
+    "uk_phonetic": "/ʃaɪ/",
+    "example_sentence_en": "The little girl is shy.",
+    "example_sentence_cn": "这个小女孩很害羞。",
+    "inflection": "比较级: shyer | 最高级: shyest"
+  },
+  {
+    "english": "funny",
+    "chinese": "滑稽的；有趣的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfʌni/",
+    "uk_phonetic": "/ˈfʌni/",
+    "example_sentence_en": "My friend is very funny.",
+    "example_sentence_cn": "我的朋友很滑稽。",
+    "inflection": "比较级: funnier | 最高级: funniest"
+  },
+  {
+    "english": "apartment",
+    "chinese": "公寓",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈpɑːrtmənt/",
+    "uk_phonetic": "/əˈpɑːtmənt/",
+    "example_sentence_en": "I live in an apartment.",
+    "example_sentence_cn": "我住在一所公寓里。",
+    "inflection": "复数: apartments"
+  },
+  {
+    "english": "bed",
+    "chinese": "床",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bed/",
+    "uk_phonetic": "/bed/",
+    "example_sentence_en": "My bed is very soft.",
+    "example_sentence_cn": "我的床很软。",
+    "inflection": "复数: beds"
+  },
+  {
+    "english": "pillow",
+    "chinese": "枕头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɪloʊ/",
+    "uk_phonetic": "/ˈpɪləʊ/",
+    "example_sentence_en": "I need a soft pillow.",
+    "example_sentence_cn": "我需要一个软枕头。",
+    "inflection": "复数: pillows"
+  },
+  {
+    "english": "blanket",
+    "chinese": "毯子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈblæŋkɪt/",
+    "uk_phonetic": "/ˈblæŋkɪt/",
+    "example_sentence_en": "It is a warm blanket.",
+    "example_sentence_cn": "这是一条暖和的毯子。",
+    "inflection": "复数: blankets"
+  },
+  {
+    "english": "sofa",
+    "chinese": "沙发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsoʊfə/",
+    "uk_phonetic": "/ˈsəʊfə/",
+    "example_sentence_en": "Sit on the sofa, please.",
+    "example_sentence_cn": "请坐在沙发上。",
+    "inflection": "复数: sofas"
+  },
+  {
+    "english": "lamp",
+    "chinese": "台灯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/læmp/",
+    "uk_phonetic": "/læmp/",
+    "example_sentence_en": "Turn off the lamp before you leave.",
+    "example_sentence_cn": "离开前关掉台灯。",
+    "inflection": "复数: lamps"
+  },
+  {
+    "english": "table",
+    "chinese": "桌子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈteɪbl/",
+    "uk_phonetic": "/ˈteɪbl/",
+    "example_sentence_en": "The food is on the table.",
+    "example_sentence_cn": "食物在桌子上。",
+    "inflection": "复数: tables"
+  },
+  {
+    "english": "fridge",
+    "chinese": "冰箱",
+    "part_of_speech": "n.",
+    "us_phonetic": "/frɪdʒ/",
+    "uk_phonetic": "/frɪdʒ/",
+    "example_sentence_en": "The milk is in the fridge.",
+    "example_sentence_cn": "牛奶在冰箱里。",
+    "inflection": "复数: fridges"
+  },
+  {
+    "english": "TV",
+    "chinese": "电视",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌtiːˈviː/",
+    "uk_phonetic": "/ˌtiːˈviː/",
+    "example_sentence_en": "I watch TV in the evening.",
+    "example_sentence_cn": "我在晚上看电视。",
+    "inflection": "复数: TVs"
+  },
+  {
+    "english": "mirror",
+    "chinese": "镜子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɪrər/",
+    "uk_phonetic": "/ˈmɪrə(r)/",
+    "example_sentence_en": "Look in the mirror.",
+    "example_sentence_cn": "照照镜子。",
+    "inflection": "复数: mirrors"
+  },
+  {
+    "english": "clock",
+    "chinese": "钟表",
+    "part_of_speech": "n.",
+    "us_phonetic": "/klɑːk/",
+    "uk_phonetic": "/klɒk/",
+    "example_sentence_en": "The clock is on the wall.",
+    "example_sentence_cn": "钟表在墙上。",
+    "inflection": "复数: clocks"
+  },
+  {
+    "english": "plant",
+    "chinese": "植物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/plænt/",
+    "uk_phonetic": "/plɑːnt/",
+    "example_sentence_en": "The plant is green.",
+    "example_sentence_cn": "这棵植物是绿色的。",
+    "inflection": "复数: plants"
+  },
+  {
+    "english": "shelf",
+    "chinese": "书架；架子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃelf/",
+    "uk_phonetic": "/ʃelf/",
+    "example_sentence_en": "The books are on the shelf.",
+    "example_sentence_cn": "书在书架上。",
+    "inflection": "复数: shelves"
+  },
+  {
+    "english": "wardrobe",
+    "chinese": "衣柜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɔːrdroʊb/",
+    "uk_phonetic": "/ˈwɔːdrəʊb/",
+    "example_sentence_en": "My clothes are in the wardrobe.",
+    "example_sentence_cn": "我的衣服在衣柜里。",
+    "inflection": "复数: wardrobes"
+  },
+  {
+    "english": "rug",
+    "chinese": "小地毯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rʌɡ/",
+    "uk_phonetic": "/rʌɡ/",
+    "example_sentence_en": "The cat is sleeping on the rug.",
+    "example_sentence_cn": "猫正在小地毯上睡觉。",
+    "inflection": "复数: rugs"
+  },
+  {
+    "english": "toy",
+    "chinese": "玩具",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tɔɪ/",
+    "uk_phonetic": "/tɔɪ/",
+    "example_sentence_en": "I have many toys.",
+    "example_sentence_cn": "我有很多玩具。",
+    "inflection": "复数: toys"
+  }
+]

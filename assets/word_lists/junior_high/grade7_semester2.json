@@ -1,0 +1,1352 @@
+[
+  {
+    "english": "run",
+    "chinese": "跑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rʌn/",
+    "uk_phonetic": "/rʌn/",
+    "example_sentence_en": "He is running in the park now.",
+    "example_sentence_cn": "他现在正在公园里跑步。",
+    "inflection": "动词变化: runs / ran / running"
+  },
+  {
+    "english": "swim",
+    "chinese": "游泳",
+    "part_of_speech": "v.",
+    "us_phonetic": "/swɪm/",
+    "uk_phonetic": "/swɪm/",
+    "example_sentence_en": "They are swimming in the pool.",
+    "example_sentence_cn": "他们正在游泳池里游泳。",
+    "inflection": "动词变化: swims / swam / swimming"
+  },
+  {
+    "english": "dance",
+    "chinese": "跳舞",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dæns/",
+    "uk_phonetic": "/dɑːns/",
+    "example_sentence_en": "She is dancing with her friends.",
+    "example_sentence_cn": "她正在和朋友们跳舞。",
+    "inflection": "动词变化: dances / danced / dancing"
+  },
+  {
+    "english": "exercise",
+    "chinese": "锻炼",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈeksərsaɪz/",
+    "uk_phonetic": "/ˈeksəsaɪz/",
+    "example_sentence_en": "I exercised yesterday morning.",
+    "example_sentence_cn": "我昨天早上锻炼了。",
+    "inflection": "动词变化: exercises / exercised / exercising; 复数: exercises"
+  },
+  {
+    "english": "practice",
+    "chinese": "练习",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpræktɪs/",
+    "uk_phonetic": "/ˈpræktɪs/",
+    "example_sentence_en": "He is practicing the guitar.",
+    "example_sentence_cn": "他正在练习弹吉他。",
+    "inflection": "动词变化: practices / practiced / practicing"
+  },
+  {
+    "english": "clean",
+    "chinese": "打扫",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kliːn/",
+    "uk_phonetic": "/kliːn/",
+    "example_sentence_en": "We are cleaning the classroom.",
+    "example_sentence_cn": "我们正在打扫教室。",
+    "inflection": "动词变化: cleans / cleaned / cleaning"
+  },
+  {
+    "english": "wash",
+    "chinese": "洗",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɑːʃ/",
+    "uk_phonetic": "/wɒʃ/",
+    "example_sentence_en": "She is washing her clothes.",
+    "example_sentence_cn": "她正在洗衣服。",
+    "inflection": "动词变化: washes / washed / washing"
+  },
+  {
+    "english": "cook",
+    "chinese": "烹饪",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kʊk/",
+    "uk_phonetic": "/kʊk/",
+    "example_sentence_en": "My mother cooked dinner yesterday.",
+    "example_sentence_cn": "我妈妈昨天做了晚饭。",
+    "inflection": "动词变化: cooks / cooked / cooking"
+  },
+  {
+    "english": "watch",
+    "chinese": "观看",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɑːtʃ/",
+    "uk_phonetic": "/wɒtʃ/",
+    "example_sentence_en": "They are watching TV now.",
+    "example_sentence_cn": "他们现在正在看电视。",
+    "inflection": "动词变化: watches / watched / watching"
+  },
+  {
+    "english": "listen",
+    "chinese": "听",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈlɪsn/",
+    "uk_phonetic": "/ˈlɪsn/",
+    "example_sentence_en": "He is listening to music.",
+    "example_sentence_cn": "他正在听音乐。",
+    "inflection": "动词变化: listens / listened / listening"
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡觉",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sliːp/",
+    "uk_phonetic": "/sliːp/",
+    "example_sentence_en": "The baby is sleeping now.",
+    "example_sentence_cn": "宝宝现在正在睡觉。",
+    "inflection": "动词变化: sleeps / slept / sleeping"
+  },
+  {
+    "english": "wake",
+    "chinese": "醒来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/weɪk/",
+    "uk_phonetic": "/weɪk/",
+    "example_sentence_en": "I woke up early this morning.",
+    "example_sentence_cn": "我今天早上醒得很早。",
+    "inflection": "动词变化: wakes / woke / waking"
+  },
+  {
+    "english": "study",
+    "chinese": "学习",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈstʌdi/",
+    "uk_phonetic": "/ˈstʌdi/",
+    "example_sentence_en": "She is studying for the test.",
+    "example_sentence_cn": "她正在为考试复习。",
+    "inflection": "动词变化: studies / studied / studying"
+  },
+  {
+    "english": "read",
+    "chinese": "阅读",
+    "part_of_speech": "v.",
+    "us_phonetic": "/riːd/",
+    "uk_phonetic": "/riːd/",
+    "example_sentence_en": "He read a book last night.",
+    "example_sentence_cn": "他昨晚读了一本书。",
+    "inflection": "动词变化: reads / read / reading"
+  },
+  {
+    "english": "write",
+    "chinese": "写",
+    "part_of_speech": "v.",
+    "us_phonetic": "/raɪt/",
+    "uk_phonetic": "/raɪt/",
+    "example_sentence_en": "She is writing a letter.",
+    "example_sentence_cn": "她正在写一封信。",
+    "inflection": "动词变化: writes / wrote / writing"
+  },
+  {
+    "english": "play",
+    "chinese": "玩；播放",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pleɪ/",
+    "uk_phonetic": "/pleɪ/",
+    "example_sentence_en": "They played soccer yesterday.",
+    "example_sentence_cn": "他们昨天踢了足球。",
+    "inflection": "动词变化: plays / played / playing"
+  },
+  {
+    "english": "make",
+    "chinese": "制作；使",
+    "part_of_speech": "v.",
+    "us_phonetic": "/meɪk/",
+    "uk_phonetic": "/meɪk/",
+    "example_sentence_en": "He is making a model plane.",
+    "example_sentence_cn": "他正在制作模型飞机。",
+    "inflection": "动词变化: makes / made / making"
+  },
+  {
+    "english": "shop",
+    "chinese": "购物",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ʃɑːp/",
+    "uk_phonetic": "/ʃɒp/",
+    "example_sentence_en": "We shopped at the mall last weekend.",
+    "example_sentence_cn": "我们上周末在商场购物了。",
+    "inflection": "动词变化: shops / shopped / shopping"
+  },
+  {
+    "english": "rest",
+    "chinese": "休息",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rest/",
+    "uk_phonetic": "/rest/",
+    "example_sentence_en": "I am resting now.",
+    "example_sentence_cn": "我现在正在休息。",
+    "inflection": "动词变化: rests / rested / resting"
+  },
+  {
+    "english": "chat",
+    "chinese": "聊天",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tʃæt/",
+    "uk_phonetic": "/tʃæt/",
+    "example_sentence_en": "They are chatting online.",
+    "example_sentence_cn": "他们正在网上聊天。",
+    "inflection": "动词变化: chats / chatted / chatting"
+  },
+  {
+    "english": "wait",
+    "chinese": "等待",
+    "part_of_speech": "v.",
+    "us_phonetic": "/weɪt/",
+    "uk_phonetic": "/weɪt/",
+    "example_sentence_en": "I am waiting for the bus.",
+    "example_sentence_cn": "我正在等公交车。",
+    "inflection": "动词变化: waits / waited / waiting"
+  },
+  {
+    "english": "leave",
+    "chinese": "离开",
+    "part_of_speech": "v.",
+    "us_phonetic": "/liːv/",
+    "uk_phonetic": "/liːv/",
+    "example_sentence_en": "He left home at 7:00 yesterday.",
+    "example_sentence_cn": "他昨天7点离开了家。",
+    "inflection": "动词变化: leaves / left / leaving"
+  },
+  {
+    "english": "prepare",
+    "chinese": "准备",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈper/",
+    "uk_phonetic": "/prɪˈpeə(r)/",
+    "example_sentence_en": "She is preparing for the exam.",
+    "example_sentence_cn": "她正在准备考试。",
+    "inflection": "动词变化: prepares / prepared / preparing"
+  },
+  {
+    "english": "eat",
+    "chinese": "吃",
+    "part_of_speech": "v.",
+    "us_phonetic": "/iːt/",
+    "uk_phonetic": "/iːt/",
+    "example_sentence_en": "We are eating breakfast now.",
+    "example_sentence_cn": "我们现在正在吃早餐。",
+    "inflection": "动词变化: eats / ate / eating"
+  },
+  {
+    "english": "drink",
+    "chinese": "喝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/drɪŋk/",
+    "uk_phonetic": "/drɪŋk/",
+    "example_sentence_en": "He drank a glass of milk.",
+    "example_sentence_cn": "他喝了一杯牛奶。",
+    "inflection": "动词变化: drinks / drank / drinking"
+  },
+  {
+    "english": "brush",
+    "chinese": "刷",
+    "part_of_speech": "v.",
+    "us_phonetic": "/brʌʃ/",
+    "uk_phonetic": "/brʌʃ/",
+    "example_sentence_en": "She is brushing her teeth.",
+    "example_sentence_cn": "她正在刷牙。",
+    "inflection": "动词变化: brushes / brushed / brushing"
+  },
+  {
+    "english": "jump",
+    "chinese": "跳",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dʒʌmp/",
+    "uk_phonetic": "/dʒʌmp/",
+    "example_sentence_en": "The cat jumped over the wall.",
+    "example_sentence_cn": "猫跳过了墙。",
+    "inflection": "动词变化: jumps / jumped / jumping"
+  },
+  {
+    "english": "climb",
+    "chinese": "攀爬",
+    "part_of_speech": "v.",
+    "us_phonetic": "/klaɪm/",
+    "uk_phonetic": "/klaɪm/",
+    "example_sentence_en": "They are climbing the mountain.",
+    "example_sentence_cn": "他们正在爬山。",
+    "inflection": "动词变化: climbs / climbed / climbing"
+  },
+  {
+    "english": "sing",
+    "chinese": "唱歌",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sɪŋ/",
+    "uk_phonetic": "/sɪŋ/",
+    "example_sentence_en": "She sang a song for us.",
+    "example_sentence_cn": "她为我们唱了一首歌。",
+    "inflection": "动词变化: sings / sang / singing"
+  },
+  {
+    "english": "draw",
+    "chinese": "画画",
+    "part_of_speech": "v.",
+    "us_phonetic": "/drɔː/",
+    "uk_phonetic": "/drɔː/",
+    "example_sentence_en": "He is drawing a picture.",
+    "example_sentence_cn": "他正在画一幅画。",
+    "inflection": "动词变化: draws / drew / drawing"
+  },
+  {
+    "english": "use",
+    "chinese": "使用",
+    "part_of_speech": "v.",
+    "us_phonetic": "/juːz/",
+    "uk_phonetic": "/juːz/",
+    "example_sentence_en": "She is using the computer.",
+    "example_sentence_cn": "她正在使用电脑。",
+    "inflection": "动词变化: uses / used / using"
+  },
+  {
+    "english": "help",
+    "chinese": "帮助",
+    "part_of_speech": "v.",
+    "us_phonetic": "/help/",
+    "uk_phonetic": "/help/",
+    "example_sentence_en": "I helped my mom yesterday.",
+    "example_sentence_cn": "我昨天帮助了我妈妈。",
+    "inflection": "动词变化: helps / helped / helping"
+  },
+  {
+    "english": "work",
+    "chinese": "工作",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɜːrk/",
+    "uk_phonetic": "/wɜːk/",
+    "example_sentence_en": "My dad is working now.",
+    "example_sentence_cn": "我爸爸现在正在工作。",
+    "inflection": "动词变化: works / worked / working"
+  },
+  {
+    "english": "sit",
+    "chinese": "坐",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sɪt/",
+    "uk_phonetic": "/sɪt/",
+    "example_sentence_en": "She is sitting on the chair.",
+    "example_sentence_cn": "她正坐在椅子上。",
+    "inflection": "动词变化: sits / sat / sitting"
+  },
+  {
+    "english": "stand",
+    "chinese": "站立",
+    "part_of_speech": "v.",
+    "us_phonetic": "/stænd/",
+    "uk_phonetic": "/stænd/",
+    "example_sentence_en": "He stood up and answered the question.",
+    "example_sentence_cn": "他站起来回答了问题。",
+    "inflection": "动词变化: stands / stood / standing"
+  },
+  {
+    "english": "lie",
+    "chinese": "躺",
+    "part_of_speech": "v.",
+    "us_phonetic": "/laɪ/",
+    "uk_phonetic": "/laɪ/",
+    "example_sentence_en": "The dog is lying on the grass.",
+    "example_sentence_cn": "狗正躺在草地上。",
+    "inflection": "动词变化: lies / lay / lying"
+  },
+  {
+    "english": "carry",
+    "chinese": "携带；搬运",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkæri/",
+    "uk_phonetic": "/ˈkæri/",
+    "example_sentence_en": "He is carrying a heavy box.",
+    "example_sentence_cn": "他正搬着一个重箱子。",
+    "inflection": "动词变化: carries / carried / carrying"
+  },
+  {
+    "english": "rule",
+    "chinese": "规则；规章",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ruːl/",
+    "uk_phonetic": "/ruːl/",
+    "example_sentence_en": "We must follow the school rules.",
+    "example_sentence_cn": "我们必须遵守学校规则。",
+    "inflection": "复数: rules"
+  },
+  {
+    "english": "must",
+    "chinese": "必须",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/mʌst/",
+    "uk_phonetic": "/mʌst/",
+    "example_sentence_en": "You must wear a uniform.",
+    "example_sentence_cn": "你必须穿校服。",
+    "inflection": "无"
+  },
+  {
+    "english": "follow",
+    "chinese": "遵循；跟随",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈfɑːloʊ/",
+    "uk_phonetic": "/ˈfɒləʊ/",
+    "example_sentence_en": "Please follow the rules.",
+    "example_sentence_cn": "请遵守规则。",
+    "inflection": "动词变化: follows / followed / following"
+  },
+  {
+    "english": "break",
+    "chinese": "违反（规则）；打破",
+    "part_of_speech": "v.",
+    "us_phonetic": "/breɪk/",
+    "uk_phonetic": "/breɪk/",
+    "example_sentence_en": "Don't break the rules.",
+    "example_sentence_cn": "不要违反规则。",
+    "inflection": "动词变化: breaks / broke / breaking"
+  },
+  {
+    "english": "quiet",
+    "chinese": "安静的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkwaɪət/",
+    "uk_phonetic": "/ˈkwaɪət/",
+    "example_sentence_en": "Please be quiet in the library.",
+    "example_sentence_cn": "请在图书馆保持安静。",
+    "inflection": "比较级: quieter | 最高级: quietest"
+  },
+  {
+    "english": "noisy",
+    "chinese": "吵闹的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈnɔɪzi/",
+    "uk_phonetic": "/ˈnɔɪzi/",
+    "example_sentence_en": "The classroom is too noisy.",
+    "example_sentence_cn": "教室太吵闹了。",
+    "inflection": "比较级: noisier | 最高级: noisiest"
+  },
+  {
+    "english": "arrive",
+    "chinese": "到达",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈraɪv/",
+    "uk_phonetic": "/əˈraɪv/",
+    "example_sentence_en": "He arrived at school late yesterday.",
+    "example_sentence_cn": "他昨天到学校迟到了。",
+    "inflection": "动词变化: arrives / arrived / arriving"
+  },
+  {
+    "english": "late",
+    "chinese": "迟的；晚的",
+    "part_of_speech": "adj. / adv.",
+    "us_phonetic": "/leɪt/",
+    "uk_phonetic": "/leɪt/",
+    "example_sentence_en": "Don't be late for class.",
+    "example_sentence_cn": "上课不要迟到。",
+    "inflection": "比较级: later | 最高级: latest"
+  },
+  {
+    "english": "early",
+    "chinese": "早的",
+    "part_of_speech": "adj. / adv.",
+    "us_phonetic": "/ˈɜːrli/",
+    "uk_phonetic": "/ˈɜːli/",
+    "example_sentence_en": "We arrived early this morning.",
+    "example_sentence_cn": "我们今天早上到得很早。",
+    "inflection": "比较级: earlier | 最高级: earliest"
+  },
+  {
+    "english": "uniform",
+    "chinese": "校服；制服",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈjuːnɪfɔːrm/",
+    "uk_phonetic": "/ˈjuːnɪfɔːm/",
+    "example_sentence_en": "Students must wear uniforms.",
+    "example_sentence_cn": "学生必须穿校服。",
+    "inflection": "复数: uniforms"
+  },
+  {
+    "english": "bring",
+    "chinese": "带来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/brɪŋ/",
+    "uk_phonetic": "/brɪŋ/",
+    "example_sentence_en": "Please bring your book to class.",
+    "example_sentence_cn": "请把你的书带到课上来。",
+    "inflection": "动词变化: brings / brought / bringing"
+  },
+  {
+    "english": "wear",
+    "chinese": "穿；戴",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wer/",
+    "uk_phonetic": "/weə(r)/",
+    "example_sentence_en": "She is wearing a red hat.",
+    "example_sentence_cn": "她戴着一顶红帽子。",
+    "inflection": "动词变化: wears / wore / wearing"
+  },
+  {
+    "english": "fight",
+    "chinese": "打架；打仗",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/faɪt/",
+    "uk_phonetic": "/faɪt/",
+    "example_sentence_en": "Don't fight with your classmates.",
+    "example_sentence_cn": "不要和同学打架。",
+    "inflection": "动词变化: fights / fought / fighting"
+  },
+  {
+    "english": "litter",
+    "chinese": "乱扔垃圾",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈlɪtər/",
+    "uk_phonetic": "/ˈlɪtə(r)/",
+    "example_sentence_en": "We mustn't litter in the park.",
+    "example_sentence_cn": "我们不能在公园里乱扔垃圾。",
+    "inflection": "动词变化: litters / littered / littering"
+  },
+  {
+    "english": "polite",
+    "chinese": "有礼貌的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/pəˈlaɪt/",
+    "uk_phonetic": "/pəˈlaɪt/",
+    "example_sentence_en": "Be polite to others.",
+    "example_sentence_cn": "对他人要有礼貌。",
+    "inflection": "比较级: politer | 最高级: politest"
+  },
+  {
+    "english": "respect",
+    "chinese": "尊重",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/rɪˈspekt/",
+    "uk_phonetic": "/rɪˈspekt/",
+    "example_sentence_en": "We should respect our teachers.",
+    "example_sentence_cn": "我们应该尊重老师。",
+    "inflection": "动词变化: respects / respected / respecting"
+  },
+  {
+    "english": "allow",
+    "chinese": "允许",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈlaʊ/",
+    "uk_phonetic": "/əˈlaʊ/",
+    "example_sentence_en": "We don't allow eating in class.",
+    "example_sentence_cn": "我们不允许在课上吃东西。",
+    "inflection": "动词变化: allows / allowed / allowing"
+  },
+  {
+    "english": "outside",
+    "chinese": "在外面",
+    "part_of_speech": "adv. / prep.",
+    "us_phonetic": "/ˌaʊtˈsaɪd/",
+    "uk_phonetic": "/ˌaʊtˈsaɪd/",
+    "example_sentence_en": "We are playing outside.",
+    "example_sentence_cn": "我们正在外面玩。",
+    "inflection": "无"
+  },
+  {
+    "english": "inside",
+    "chinese": "在里面",
+    "part_of_speech": "adv. / prep.",
+    "us_phonetic": "/ˌɪnˈsaɪd/",
+    "uk_phonetic": "/ˌɪnˈsaɪd/",
+    "example_sentence_en": "Please wait inside the room.",
+    "example_sentence_cn": "请在房间里面等。",
+    "inflection": "无"
+  },
+  {
+    "english": "hallway",
+    "chinese": "走廊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɔːlweɪ/",
+    "uk_phonetic": "/ˈhɔːlweɪ/",
+    "example_sentence_en": "Don't run in the hallway.",
+    "example_sentence_cn": "不要在走廊里跑。",
+    "inflection": "复数: hallways"
+  },
+  {
+    "english": "strict",
+    "chinese": "严格的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/strɪkt/",
+    "uk_phonetic": "/strɪkt/",
+    "example_sentence_en": "Our teacher is very strict.",
+    "example_sentence_cn": "我们的老师非常严格。",
+    "inflection": "比较级: stricter | 最高级: strictest"
+  },
+  {
+    "english": "keep",
+    "chinese": "保持",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kiːp/",
+    "uk_phonetic": "/kiːp/",
+    "example_sentence_en": "Keep your desk clean.",
+    "example_sentence_cn": "保持你的书桌干净。",
+    "inflection": "动词变化: keeps / kept / keeping"
+  },
+  {
+    "english": "dirty",
+    "chinese": "脏的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈdɜːrti/",
+    "uk_phonetic": "/ˈdɜːti/",
+    "example_sentence_en": "Your shoes are dirty.",
+    "example_sentence_cn": "你的鞋子脏了。",
+    "inflection": "比较级: dirtier | 最高级: dirtiest"
+  },
+  {
+    "english": "safety",
+    "chinese": "安全",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈseɪfti/",
+    "uk_phonetic": "/ˈseɪfti/",
+    "example_sentence_en": "Safety is the most important thing.",
+    "example_sentence_cn": "安全是最重要的事情。",
+    "inflection": "复数: safeties"
+  },
+  {
+    "english": "danger",
+    "chinese": "危险",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdeɪndʒər/",
+    "uk_phonetic": "/ˈdeɪndʒə(r)/",
+    "example_sentence_en": "Stay away from danger.",
+    "example_sentence_cn": "远离危险。",
+    "inflection": "复数: dangers"
+  },
+  {
+    "english": "sign",
+    "chinese": "标志；指示牌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/saɪn/",
+    "uk_phonetic": "/saɪn/",
+    "example_sentence_en": "Look at the traffic sign.",
+    "example_sentence_cn": "看那个交通标志。",
+    "inflection": "复数: signs"
+  },
+  {
+    "english": "obey",
+    "chinese": "服从；遵守",
+    "part_of_speech": "v.",
+    "us_phonetic": "/oʊˈbeɪ/",
+    "uk_phonetic": "/əˈbeɪ/",
+    "example_sentence_en": "We must obey the rules.",
+    "example_sentence_cn": "我们必须遵守规则。",
+    "inflection": "动词变化: obeys / obeyed / obeying"
+  },
+  {
+    "english": "fair",
+    "chinese": "公平的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/fer/",
+    "uk_phonetic": "/feə(r)/",
+    "example_sentence_en": "The rules are fair to everyone.",
+    "example_sentence_cn": "规则对每个人都是公平的。",
+    "inflection": "比较级: fairer | 最高级: fairest"
+  },
+  {
+    "english": "punish",
+    "chinese": "惩罚",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpʌnɪʃ/",
+    "uk_phonetic": "/ˈpʌnɪʃ/",
+    "example_sentence_en": "The teacher punished him for breaking the rule.",
+    "example_sentence_cn": "老师因为他违反规则惩罚了他。",
+    "inflection": "动词变化: punishes / punished / punishing"
+  },
+  {
+    "english": "behavior",
+    "chinese": "行为；举止",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɪˈheɪvjər/",
+    "uk_phonetic": "/bɪˈheɪvjə(r)/",
+    "example_sentence_en": "His behavior is very good.",
+    "example_sentence_cn": "他的行为非常好。",
+    "inflection": "不可数名词 (英式拼写: behaviour)"
+  },
+  {
+    "english": "shout",
+    "chinese": "喊叫",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ʃaʊt/",
+    "uk_phonetic": "/ʃaʊt/",
+    "example_sentence_en": "Don't shout in the classroom.",
+    "example_sentence_cn": "不要在教室里大喊大叫。",
+    "inflection": "动词变化: shouts / shouted / shouting"
+  },
+  {
+    "english": "bus",
+    "chinese": "公共汽车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bʌs/",
+    "uk_phonetic": "/bʌs/",
+    "example_sentence_en": "I took the bus to school today.",
+    "example_sentence_cn": "我今天乘公共汽车去学校了。",
+    "inflection": "复数: buses"
+  },
+  {
+    "english": "train",
+    "chinese": "火车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/treɪn/",
+    "uk_phonetic": "/treɪn/",
+    "example_sentence_en": "We are taking the train to Shanghai.",
+    "example_sentence_cn": "我们正在乘火车去上海。",
+    "inflection": "复数: trains"
+  },
+  {
+    "english": "subway",
+    "chinese": "地铁",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsʌbweɪ/",
+    "uk_phonetic": "/ˈsʌbweɪ/",
+    "example_sentence_en": "She goes to work by subway.",
+    "example_sentence_cn": "她乘地铁去上班。",
+    "inflection": "复数: subways"
+  },
+  {
+    "english": "plane",
+    "chinese": "飞机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pleɪn/",
+    "uk_phonetic": "/pleɪn/",
+    "example_sentence_en": "They flew a plane to London.",
+    "example_sentence_cn": "他们乘飞机去了伦敦。",
+    "inflection": "复数: planes"
+  },
+  {
+    "english": "bike",
+    "chinese": "自行车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/baɪk/",
+    "uk_phonetic": "/baɪk/",
+    "example_sentence_en": "He is riding a bike.",
+    "example_sentence_cn": "他正在骑自行车。",
+    "inflection": "复数: bikes"
+  },
+  {
+    "english": "taxi",
+    "chinese": "出租车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtæksi/",
+    "uk_phonetic": "/ˈtæksi/",
+    "example_sentence_en": "We took a taxi to the airport.",
+    "example_sentence_cn": "我们乘出租车去了机场。",
+    "inflection": "复数: taxis"
+  },
+  {
+    "english": "boat",
+    "chinese": "小船",
+    "part_of_speech": "n.",
+    "us_phonetic": "/boʊt/",
+    "uk_phonetic": "/bəʊt/",
+    "example_sentence_en": "They are rowing a boat.",
+    "example_sentence_cn": "他们正在划船。",
+    "inflection": "复数: boats"
+  },
+  {
+    "english": "ship",
+    "chinese": "轮船",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɪp/",
+    "uk_phonetic": "/ʃɪp/",
+    "example_sentence_en": "The ship is sailing on the sea.",
+    "example_sentence_cn": "轮船正在海上航行。",
+    "inflection": "复数: ships"
+  },
+  {
+    "english": "ride",
+    "chinese": "骑；乘坐",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/raɪd/",
+    "uk_phonetic": "/raɪd/",
+    "example_sentence_en": "She rode a horse yesterday.",
+    "example_sentence_cn": "她昨天骑了马。",
+    "inflection": "动词变化: rides / rode / riding"
+  },
+  {
+    "english": "drive",
+    "chinese": "驾驶",
+    "part_of_speech": "v.",
+    "us_phonetic": "/draɪv/",
+    "uk_phonetic": "/draɪv/",
+    "example_sentence_en": "My dad is driving the car.",
+    "example_sentence_cn": "我爸爸正在开车。",
+    "inflection": "动词变化: drives / drove / driving"
+  },
+  {
+    "english": "stop",
+    "chinese": "停止；车站",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/stɑːp/",
+    "uk_phonetic": "/stɒp/",
+    "example_sentence_en": "The bus stopped at the station.",
+    "example_sentence_cn": "公交车在车站停下了。",
+    "inflection": "动词变化: stops / stopped / stopping; 复数: stops"
+  },
+  {
+    "english": "station",
+    "chinese": "车站",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsteɪʃn/",
+    "uk_phonetic": "/ˈsteɪʃn/",
+    "example_sentence_en": "I met him at the train station.",
+    "example_sentence_cn": "我在火车站遇见了他。",
+    "inflection": "复数: stations"
+  },
+  {
+    "english": "airport",
+    "chinese": "机场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈerpɔːrt/",
+    "uk_phonetic": "/ˈeəpɔːt/",
+    "example_sentence_en": "We arrived at the airport early.",
+    "example_sentence_cn": "我们早早到达了机场。",
+    "inflection": "复数: airports"
+  },
+  {
+    "english": "ticket",
+    "chinese": "票",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtɪkɪt/",
+    "uk_phonetic": "/ˈtɪkɪt/",
+    "example_sentence_en": "I bought a ticket yesterday.",
+    "example_sentence_cn": "我昨天买了一张票。",
+    "inflection": "复数: tickets"
+  },
+  {
+    "english": "fast",
+    "chinese": "快的；快地",
+    "part_of_speech": "adj. / adv.",
+    "us_phonetic": "/fæst/",
+    "uk_phonetic": "/fɑːst/",
+    "example_sentence_en": "The train is very fast.",
+    "example_sentence_cn": "这列火车非常快。",
+    "inflection": "比较级: faster | 最高级: fastest"
+  },
+  {
+    "english": "slow",
+    "chinese": "慢的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sloʊ/",
+    "uk_phonetic": "/sləʊ/",
+    "example_sentence_en": "The turtle is very slow.",
+    "example_sentence_cn": "乌龟非常慢。",
+    "inflection": "比较级: slower | 最高级: slowest"
+  },
+  {
+    "english": "safe",
+    "chinese": "安全的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/seɪf/",
+    "uk_phonetic": "/seɪf/",
+    "example_sentence_en": "Wear a helmet to be safe.",
+    "example_sentence_cn": "戴上头盔以确保安全。",
+    "inflection": "比较级: safer | 最高级: safest"
+  },
+  {
+    "english": "dangerous",
+    "chinese": "危险的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈdeɪndʒərəs/",
+    "uk_phonetic": "/ˈdeɪndʒərəs/",
+    "example_sentence_en": "It is dangerous to cross the red light.",
+    "example_sentence_cn": "闯红灯很危险。",
+    "inflection": "比较级: more dangerous | 最高级: most dangerous"
+  },
+  {
+    "english": "cross",
+    "chinese": "穿过；横过",
+    "part_of_speech": "v.",
+    "us_phonetic": "/krɔːs/",
+    "uk_phonetic": "/krɒs/",
+    "example_sentence_en": "We are crossing the street now.",
+    "example_sentence_cn": "我们现在正在过马路。",
+    "inflection": "动词变化: crosses / crossed / crossing"
+  },
+  {
+    "english": "bridge",
+    "chinese": "桥",
+    "part_of_speech": "n.",
+    "us_phonetic": "/brɪdʒ/",
+    "uk_phonetic": "/brɪdʒ/",
+    "example_sentence_en": "We drove across the bridge.",
+    "example_sentence_cn": "我们开车穿过了那座桥。",
+    "inflection": "复数: bridges"
+  },
+  {
+    "english": "road",
+    "chinese": "道路",
+    "part_of_speech": "n.",
+    "us_phonetic": "/roʊd/",
+    "uk_phonetic": "/rəʊd/",
+    "example_sentence_en": "The road is very busy now.",
+    "example_sentence_cn": "现在这条路很繁忙。",
+    "inflection": "复数: roads"
+  },
+  {
+    "english": "street",
+    "chinese": "街道",
+    "part_of_speech": "n.",
+    "us_phonetic": "/striːt/",
+    "uk_phonetic": "/striːt/",
+    "example_sentence_en": "He walked down the street.",
+    "example_sentence_cn": "他沿着街道走去了。",
+    "inflection": "复数: streets"
+  },
+  {
+    "english": "corner",
+    "chinese": "拐角",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɔːrnər/",
+    "uk_phonetic": "/ˈkɔːnə(r)/",
+    "example_sentence_en": "The shop is on the corner.",
+    "example_sentence_cn": "商店在拐角处。",
+    "inflection": "复数: corners"
+  },
+  {
+    "english": "traffic",
+    "chinese": "交通",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtræfɪk/",
+    "uk_phonetic": "/ˈtræfɪk/",
+    "example_sentence_en": "The traffic is heavy today.",
+    "example_sentence_cn": "今天交通很拥挤。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "passenger",
+    "chinese": "乘客",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpæsəndʒər/",
+    "uk_phonetic": "/ˈpæsɪndʒə(r)/",
+    "example_sentence_en": "The passengers are getting on the bus.",
+    "example_sentence_cn": "乘客们正在上公交车。",
+    "inflection": "复数: passengers"
+  },
+  {
+    "english": "driver",
+    "chinese": "司机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdraɪvər/",
+    "uk_phonetic": "/ˈdraɪvə(r)/",
+    "example_sentence_en": "The driver stopped the car.",
+    "example_sentence_cn": "司机停下了车。",
+    "inflection": "复数: drivers"
+  },
+  {
+    "english": "map",
+    "chinese": "地图",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mæp/",
+    "uk_phonetic": "/mæp/",
+    "example_sentence_en": "She is looking at the map.",
+    "example_sentence_cn": "她正在看地图。",
+    "inflection": "复数: maps"
+  },
+  {
+    "english": "journey",
+    "chinese": "旅行；旅程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒɜːrni/",
+    "uk_phonetic": "/ˈdʒɜːni/",
+    "example_sentence_en": "We had a long journey yesterday.",
+    "example_sentence_cn": "我们昨天有一段长途旅行。",
+    "inflection": "复数: journeys"
+  },
+  {
+    "english": "trip",
+    "chinese": "旅行",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trɪp/",
+    "uk_phonetic": "/trɪp/",
+    "example_sentence_en": "We are planning a trip to Beijing.",
+    "example_sentence_cn": "我们正在计划去北京的旅行。",
+    "inflection": "复数: trips"
+  },
+  {
+    "english": "travel",
+    "chinese": "旅行；游历",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈtrævl/",
+    "uk_phonetic": "/ˈtrævl/",
+    "example_sentence_en": "I traveled to Shanghai last month.",
+    "example_sentence_cn": "我上个月去上海旅行了。",
+    "inflection": "动词变化: travels / traveled / traveling"
+  },
+  {
+    "english": "distance",
+    "chinese": "距离",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪstəns/",
+    "uk_phonetic": "/ˈdɪstəns/",
+    "example_sentence_en": "The distance between the two cities is short.",
+    "example_sentence_cn": "两座城市之间的距离很短。",
+    "inflection": "复数: distances"
+  },
+  {
+    "english": "far",
+    "chinese": "远的",
+    "part_of_speech": "adj. / adv.",
+    "us_phonetic": "/fɑːr/",
+    "uk_phonetic": "/fɑː(r)/",
+    "example_sentence_en": "The school is not far from my home.",
+    "example_sentence_cn": "学校离我家不远。",
+    "inflection": "比较级: farther | 最高级: farthest"
+  },
+  {
+    "english": "tall",
+    "chinese": "高的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/tɔːl/",
+    "uk_phonetic": "/tɔːl/",
+    "example_sentence_en": "He is a tall boy.",
+    "example_sentence_cn": "他是个高个子男孩。",
+    "inflection": "比较级: taller | 最高级: tallest"
+  },
+  {
+    "english": "short",
+    "chinese": "矮的；短的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʃɔːrt/",
+    "uk_phonetic": "/ʃɔːt/",
+    "example_sentence_en": "She is shorter than her sister.",
+    "example_sentence_cn": "她比她姐姐矮。",
+    "inflection": "比较级: shorter | 最高级: shortest"
+  },
+  {
+    "english": "thin",
+    "chinese": "瘦的；薄的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/θɪn/",
+    "uk_phonetic": "/θɪn/",
+    "example_sentence_en": "He looks very thin.",
+    "example_sentence_cn": "他看起来很瘦。",
+    "inflection": "比较级: thinner | 最高级: thinnest"
+  },
+  {
+    "english": "heavy",
+    "chinese": "重的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhevi/",
+    "uk_phonetic": "/ˈhevi/",
+    "example_sentence_en": "The box is too heavy.",
+    "example_sentence_cn": "这个箱子太重了。",
+    "inflection": "比较级: heavier | 最高级: heaviest"
+  },
+  {
+    "english": "slim",
+    "chinese": "苗条的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/slɪm/",
+    "uk_phonetic": "/slɪm/",
+    "example_sentence_en": "She has a slim figure.",
+    "example_sentence_cn": "她身材苗条。",
+    "inflection": "比较级: slimmer | 最高级: slimmest"
+  },
+  {
+    "english": "curly",
+    "chinese": "卷曲的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkɜːrli/",
+    "uk_phonetic": "/ˈkɜːli/",
+    "example_sentence_en": "He has curly hair.",
+    "example_sentence_cn": "他有一头卷发。",
+    "inflection": "比较级: curlier | 最高级: curliest"
+  },
+  {
+    "english": "straight",
+    "chinese": "直的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/streɪt/",
+    "uk_phonetic": "/streɪt/",
+    "example_sentence_en": "She has long straight hair.",
+    "example_sentence_cn": "她有一头长直发。",
+    "inflection": "无"
+  },
+  {
+    "english": "blonde",
+    "chinese": "金黄色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/blɑːnd/",
+    "uk_phonetic": "/blɒnd/",
+    "example_sentence_en": "The girl has blonde hair.",
+    "example_sentence_cn": "那个女孩有一头金发。",
+    "inflection": "无"
+  },
+  {
+    "english": "brown",
+    "chinese": "棕色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/braʊn/",
+    "uk_phonetic": "/braʊn/",
+    "example_sentence_en": "He has brown eyes.",
+    "example_sentence_cn": "他有一双棕色的眼睛。",
+    "inflection": "比较级: browner | 最高级: brownest"
+  },
+  {
+    "english": "bald",
+    "chinese": "秃头的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/bɔːld/",
+    "uk_phonetic": "/bɔːld/",
+    "example_sentence_en": "The old man is bald.",
+    "example_sentence_cn": "那位老人是秃头。",
+    "inflection": "比较级: balder | 最高级: baldest"
+  },
+  {
+    "english": "glasses",
+    "chinese": "眼镜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡlæsɪz/",
+    "uk_phonetic": "/ˈɡlɑːsɪz/",
+    "example_sentence_en": "She is wearing glasses.",
+    "example_sentence_cn": "她戴着眼镜。",
+    "inflection": "复数: glasses (成对名词)"
+  },
+  {
+    "english": "beard",
+    "chinese": "胡须",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɪrd/",
+    "uk_phonetic": "/bɪəd/",
+    "example_sentence_en": "The man has a long beard.",
+    "example_sentence_cn": "那个男人留着长胡须。",
+    "inflection": "复数: beards"
+  },
+  {
+    "english": "beautiful",
+    "chinese": "美丽的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbjuːtɪfl/",
+    "uk_phonetic": "/ˈbjuːtɪfl/",
+    "example_sentence_en": "She is a beautiful girl.",
+    "example_sentence_cn": "她是一个美丽的女孩。",
+    "inflection": "比较级: more beautiful | 最高级: most beautiful"
+  },
+  {
+    "english": "handsome",
+    "chinese": "英俊的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhænsəm/",
+    "uk_phonetic": "/ˈhænsəm/",
+    "example_sentence_en": "He is a handsome boy.",
+    "example_sentence_cn": "他是个英俊的男孩。",
+    "inflection": "比较级: more handsome | 最高级: most handsome"
+  },
+  {
+    "english": "cute",
+    "chinese": "可爱的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kjuːt/",
+    "uk_phonetic": "/kjuːt/",
+    "example_sentence_en": "The baby is very cute.",
+    "example_sentence_cn": "这个婴儿非常可爱。",
+    "inflection": "比较级: cuter | 最高级: cutest"
+  },
+  {
+    "english": "young",
+    "chinese": "年轻的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/jʌŋ/",
+    "uk_phonetic": "/jʌŋ/",
+    "example_sentence_en": "She looks very young.",
+    "example_sentence_cn": "她看起来很年轻。",
+    "inflection": "比较级: younger | 最高级: youngest"
+  },
+  {
+    "english": "old",
+    "chinese": "老的；岁数的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/oʊld/",
+    "uk_phonetic": "/əʊld/",
+    "example_sentence_en": "He is an old man.",
+    "example_sentence_cn": "他是一位老人。",
+    "inflection": "比较级: older | 最高级: oldest"
+  },
+  {
+    "english": "look",
+    "chinese": "看起来；看",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/lʊk/",
+    "uk_phonetic": "/lʊk/",
+    "example_sentence_en": "She looks like her mother.",
+    "example_sentence_cn": "她长得像她妈妈。",
+    "inflection": "动词变化: looks / looked / looking"
+  },
+  {
+    "english": "face",
+    "chinese": "脸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/feɪs/",
+    "uk_phonetic": "/feɪs/",
+    "example_sentence_en": "He has a round face.",
+    "example_sentence_cn": "他有一张圆脸。",
+    "inflection": "复数: faces"
+  },
+  {
+    "english": "eye",
+    "chinese": "眼睛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/aɪ/",
+    "uk_phonetic": "/aɪ/",
+    "example_sentence_en": "She has big eyes.",
+    "example_sentence_cn": "她有一双大眼睛。",
+    "inflection": "复数: eyes"
+  },
+  {
+    "english": "nose",
+    "chinese": "鼻子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/noʊz/",
+    "uk_phonetic": "/nəʊz/",
+    "example_sentence_en": "He has a high nose.",
+    "example_sentence_cn": "他有一个高挺的鼻子。",
+    "inflection": "复数: noses"
+  },
+  {
+    "english": "mouth",
+    "chinese": "嘴巴",
+    "part_of_speech": "n.",
+    "us_phonetic": "/maʊθ/",
+    "uk_phonetic": "/maʊθ/",
+    "example_sentence_en": "She has a small mouth.",
+    "example_sentence_cn": "她有一张小嘴巴。",
+    "inflection": "复数: mouths"
+  },
+  {
+    "english": "ear",
+    "chinese": "耳朵",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪr/",
+    "uk_phonetic": "/ɪə(r)/",
+    "example_sentence_en": "The rabbit has long ears.",
+    "example_sentence_cn": "兔子有长耳朵。",
+    "inflection": "复数: ears"
+  },
+  {
+    "english": "hair",
+    "chinese": "头发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/her/",
+    "uk_phonetic": "/heə(r)/",
+    "example_sentence_en": "She has black hair.",
+    "example_sentence_cn": "她有一头黑发。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "head",
+    "chinese": "头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hed/",
+    "uk_phonetic": "/hed/",
+    "example_sentence_en": "He nodded his head.",
+    "example_sentence_cn": "他点了点头。",
+    "inflection": "复数: heads"
+  },
+  {
+    "english": "neck",
+    "chinese": "脖子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nek/",
+    "uk_phonetic": "/nek/",
+    "example_sentence_en": "The giraffe has a long neck.",
+    "example_sentence_cn": "长颈鹿有长脖子。",
+    "inflection": "复数: necks"
+  },
+  {
+    "english": "shoulder",
+    "chinese": "肩膀",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʃoʊldər/",
+    "uk_phonetic": "/ˈʃəʊldə(r)/",
+    "example_sentence_en": "He put his hand on my shoulder.",
+    "example_sentence_cn": "他把他的手放在我的肩膀上。",
+    "inflection": "复数: shoulders"
+  },
+  {
+    "english": "height",
+    "chinese": "身高；高度",
+    "part_of_speech": "n.",
+    "us_phonetic": "/haɪt/",
+    "uk_phonetic": "/haɪt/",
+    "example_sentence_en": "What is your height?",
+    "example_sentence_cn": "你的身高是多少？",
+    "inflection": "复数: heights"
+  },
+  {
+    "english": "weight",
+    "chinese": "体重；重量",
+    "part_of_speech": "n.",
+    "us_phonetic": "/weɪt/",
+    "uk_phonetic": "/weɪt/",
+    "example_sentence_en": "He is trying to lose weight.",
+    "example_sentence_cn": "他正在努力减肥。",
+    "inflection": "复数: weights"
+  },
+  {
+    "english": "medium",
+    "chinese": "中等的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmiːdiəm/",
+    "uk_phonetic": "/ˈmiːdiəm/",
+    "example_sentence_en": "He is of medium height.",
+    "example_sentence_cn": "他中等身高。",
+    "inflection": "复数: mediums / media"
+  },
+  {
+    "english": "build",
+    "chinese": "体格；身材",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɪld/",
+    "uk_phonetic": "/bɪld/",
+    "example_sentence_en": "He has a strong build.",
+    "example_sentence_cn": "他体格健壮。",
+    "inflection": "动词变化: builds / built / building"
+  },
+  {
+    "english": "skin",
+    "chinese": "皮肤",
+    "part_of_speech": "n.",
+    "us_phonetic": "/skɪn/",
+    "uk_phonetic": "/skɪn/",
+    "example_sentence_en": "She has fair skin.",
+    "example_sentence_cn": "她皮肤白皙。",
+    "inflection": "复数: skins"
+  },
+  {
+    "english": "dark",
+    "chinese": "深色的；暗的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/dɑːrk/",
+    "uk_phonetic": "/dɑːk/",
+    "example_sentence_en": "He has dark hair.",
+    "example_sentence_cn": "他有深色的头发。",
+    "inflection": "比较级: darker | 最高级: darkest"
+  },
+  {
+    "english": "smile",
+    "chinese": "微笑",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/smaɪl/",
+    "uk_phonetic": "/smaɪl/",
+    "example_sentence_en": "She is smiling at me.",
+    "example_sentence_cn": "她正在对我微笑。",
+    "inflection": "动词变化: smiles / smiled / smiling; 复数: smiles"
+  },
+  {
+    "english": "laugh",
+    "chinese": "笑；大笑",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/læf/",
+    "uk_phonetic": "/lɑːf/",
+    "example_sentence_en": "They laughed happily.",
+    "example_sentence_cn": "他们开心地笑了。",
+    "inflection": "动词变化: laughs / laughed / laughing; 复数: laughs"
+  }
+]

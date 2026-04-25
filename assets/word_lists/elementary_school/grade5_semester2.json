@@ -1,0 +1,672 @@
+[
+  {
+    "english": "spring",
+    "chinese": "春天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sprɪŋ/",
+    "uk_phonetic": "/sprɪŋ/",
+    "example_sentence_en": "Spring is green with flowers.",
+    "example_sentence_cn": "春天是绿色的，开满了花。",
+    "inflection": "复数: springs"
+  },
+  {
+    "english": "summer",
+    "chinese": "夏天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsʌmər/",
+    "uk_phonetic": "/ˈsʌmə(r)/",
+    "example_sentence_en": "Summer is hot and sunny.",
+    "example_sentence_cn": "夏天是炎热且阳光明媚的。",
+    "inflection": "复数: summers"
+  },
+  {
+    "english": "autumn",
+    "chinese": "秋天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːtəm/",
+    "uk_phonetic": "/ˈɔːtəm/",
+    "example_sentence_en": "Leaves fall in autumn.",
+    "example_sentence_cn": "树叶在秋天掉落。",
+    "inflection": "复数: autumns"
+  },
+  {
+    "english": "winter",
+    "chinese": "冬天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɪntər/",
+    "uk_phonetic": "/ˈwɪntə(r)/",
+    "example_sentence_en": "It snows in winter.",
+    "example_sentence_cn": "冬天下雪。",
+    "inflection": "复数: winters"
+  },
+  {
+    "english": "season",
+    "chinese": "季节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsiːzn/",
+    "uk_phonetic": "/ˈsiːzn/",
+    "example_sentence_en": "There are four seasons in a year.",
+    "example_sentence_cn": "一年有四个季节。",
+    "inflection": "复数: seasons"
+  },
+  {
+    "english": "January",
+    "chinese": "一月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒænjueri/",
+    "uk_phonetic": "/ˈdʒænjuəri/",
+    "example_sentence_en": "New Year is in January.",
+    "example_sentence_cn": "新年在一月。",
+    "inflection": "复数: Januaries"
+  },
+  {
+    "english": "February",
+    "chinese": "二月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfebrueri/",
+    "uk_phonetic": "/ˈfebruəri/",
+    "example_sentence_en": "Valentine's Day is in February.",
+    "example_sentence_cn": "情人节在二月。",
+    "inflection": "复数: Februaries"
+  },
+  {
+    "english": "March",
+    "chinese": "三月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɑːrtʃ/",
+    "uk_phonetic": "/mɑːtʃ/",
+    "example_sentence_en": "Tree Planting Day is in March.",
+    "example_sentence_cn": "植树节在三月。",
+    "inflection": "复数: Marches"
+  },
+  {
+    "english": "April",
+    "chinese": "四月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈeɪprəl/",
+    "uk_phonetic": "/ˈeɪprəl/",
+    "example_sentence_en": "April is a warm month.",
+    "example_sentence_cn": "四月是一个温暖的月份。",
+    "inflection": "复数: Aprils"
+  },
+  {
+    "english": "May",
+    "chinese": "五月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/meɪ/",
+    "uk_phonetic": "/meɪ/",
+    "example_sentence_en": "Labor Day is in May.",
+    "example_sentence_cn": "劳动节在五月。",
+    "inflection": "复数: Mays"
+  },
+  {
+    "english": "June",
+    "chinese": "六月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒuːn/",
+    "uk_phonetic": "/dʒuːn/",
+    "example_sentence_en": "Children's Day is in June.",
+    "example_sentence_cn": "儿童节在六月。",
+    "inflection": "复数: Junes"
+  },
+  {
+    "english": "July",
+    "chinese": "七月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒuˈlaɪ/",
+    "uk_phonetic": "/dʒuˈlaɪ/",
+    "example_sentence_en": "We go swimming in July.",
+    "example_sentence_cn": "我们在七月去游泳。",
+    "inflection": "复数: Julies"
+  },
+  {
+    "english": "August",
+    "chinese": "八月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːɡəst/",
+    "uk_phonetic": "/ˈɔːɡəst/",
+    "example_sentence_en": "Summer vacation is in August.",
+    "example_sentence_cn": "暑假在八月。",
+    "inflection": "复数: Augusts"
+  },
+  {
+    "english": "September",
+    "chinese": "九月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sepˈtembər/",
+    "uk_phonetic": "/sepˈtembə(r)/",
+    "example_sentence_en": "School starts in September.",
+    "example_sentence_cn": "学校在九月开学。",
+    "inflection": "复数: Septembers"
+  },
+  {
+    "english": "October",
+    "chinese": "十月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɑːkˈtoʊbər/",
+    "uk_phonetic": "/ɒkˈtəʊbə(r)/",
+    "example_sentence_en": "National Day is in October.",
+    "example_sentence_cn": "国庆节在十月。",
+    "inflection": "复数: Octobers"
+  },
+  {
+    "english": "November",
+    "chinese": "十一月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/noʊˈvembər/",
+    "uk_phonetic": "/nəʊˈvembə(r)/",
+    "example_sentence_en": "It gets cold in November.",
+    "example_sentence_cn": "十一月开始变冷了。",
+    "inflection": "复数: Novembers"
+  },
+  {
+    "english": "December",
+    "chinese": "十二月",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈsembər/",
+    "uk_phonetic": "/dɪˈsembə(r)/",
+    "example_sentence_en": "Christmas is in December.",
+    "example_sentence_cn": "圣诞节在十二月。",
+    "inflection": "复数: Decembers"
+  },
+  {
+    "english": "month",
+    "chinese": "月份",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mʌnθ/",
+    "uk_phonetic": "/mʌnθ/",
+    "example_sentence_en": "There are twelve months in a year.",
+    "example_sentence_cn": "一年有十二个月。",
+    "inflection": "复数: months"
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfestɪvl/",
+    "uk_phonetic": "/ˈfestɪvl/",
+    "example_sentence_en": "Spring Festival is a Chinese festival.",
+    "example_sentence_cn": "春节是一个中国的节日。",
+    "inflection": "复数: festivals"
+  },
+  {
+    "english": "holiday",
+    "chinese": "假日；假期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɑːlədeɪ/",
+    "uk_phonetic": "/ˈhɒlədeɪ/",
+    "example_sentence_en": "We have a long holiday in summer.",
+    "example_sentence_cn": "我们在夏天有一个长假。",
+    "inflection": "复数: holidays"
+  },
+  {
+    "english": "Christmas",
+    "chinese": "圣诞节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɪsməs/",
+    "uk_phonetic": "/ˈkrɪsməs/",
+    "example_sentence_en": "Merry Christmas!",
+    "example_sentence_cn": "圣诞快乐！",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Halloween",
+    "chinese": "万圣节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌhæləˈwiːn/",
+    "uk_phonetic": "/ˌhæləˈwiːn/",
+    "example_sentence_en": "I dress up on Halloween.",
+    "example_sentence_cn": "我在万圣节装扮自己。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Thanksgiving",
+    "chinese": "感恩节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "uk_phonetic": "/ˌθæŋksˈɡɪvɪŋ/",
+    "example_sentence_en": "We eat turkey on Thanksgiving.",
+    "example_sentence_cn": "我们在感恩节吃火鸡。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "New Year",
+    "chinese": "新年",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnjuː jɪr/",
+    "uk_phonetic": "/ˈnjuː jɪə(r)/",
+    "example_sentence_en": "Happy New Year!",
+    "example_sentence_cn": "新年快乐！",
+    "inflection": "复数: New Years"
+  },
+  {
+    "english": "Easter",
+    "chinese": "复活节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːstər/",
+    "uk_phonetic": "/ˈiːstə(r)/",
+    "example_sentence_en": "We look for eggs at Easter.",
+    "example_sentence_cn": "我们在复活节找彩蛋。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Children's Day",
+    "chinese": "儿童节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃɪldrənz deɪ/",
+    "uk_phonetic": "/ˈtʃɪldrənz deɪ/",
+    "example_sentence_en": "I sing on Children's Day.",
+    "example_sentence_cn": "我在儿童节唱歌。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "National Day",
+    "chinese": "国庆节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnæʃnəl deɪ/",
+    "uk_phonetic": "/ˈnæʃnəl deɪ/",
+    "example_sentence_en": "We celebrate National Day.",
+    "example_sentence_cn": "我们庆祝国庆节。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Teachers' Day",
+    "chinese": "教师节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːtʃərz deɪ/",
+    "uk_phonetic": "/ˈtiːtʃəz deɪ/",
+    "example_sentence_en": "Happy Teachers' Day!",
+    "example_sentence_cn": "教师节快乐！",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "birthday",
+    "chinese": "生日",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbɜːrθdeɪ/",
+    "uk_phonetic": "/ˈbɜːθdeɪ/",
+    "example_sentence_en": "Happy birthday to you!",
+    "example_sentence_cn": "祝你生日快乐！",
+    "inflection": "复数: birthdays"
+  },
+  {
+    "english": "Mid-Autumn Festival",
+    "chinese": "中秋节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmɪd ˈɔːtəm ˈfestɪvl/",
+    "uk_phonetic": "/ˌmɪd ˈɔːtəm ˈfestɪvl/",
+    "example_sentence_en": "We eat mooncakes at Mid-Autumn Festival.",
+    "example_sentence_cn": "我们在中秋节吃月饼。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Dragon Boat Festival",
+    "chinese": "端午节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdræɡən boʊt ˈfestɪvl/",
+    "uk_phonetic": "/ˈdræɡən bəʊt ˈfestɪvl/",
+    "example_sentence_en": "We eat zongzi at Dragon Boat Festival.",
+    "example_sentence_cn": "我们在端午节吃粽子。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Spring Festival",
+    "chinese": "春节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sprɪŋ ˈfestɪvl/",
+    "uk_phonetic": "/sprɪŋ ˈfestɪvl/",
+    "example_sentence_en": "We make dumplings for Spring Festival.",
+    "example_sentence_cn": "我们为春节包饺子。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "Tree Planting Day",
+    "chinese": "植树节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/triː ˈplæntɪŋ deɪ/",
+    "uk_phonetic": "/triː ˈplɑːntɪŋ deɪ/",
+    "example_sentence_en": "We plant trees on Tree Planting Day.",
+    "example_sentence_cn": "我们在植树节种树。",
+    "inflection": "专有名词"
+  },
+  {
+    "english": "get up",
+    "chinese": "起床",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡet ʌp/",
+    "uk_phonetic": "/ɡet ʌp/",
+    "example_sentence_en": "I get up at seven o'clock.",
+    "example_sentence_cn": "我七点钟起床。",
+    "inflection": "动词变化: gets up / got up / getting up"
+  },
+  {
+    "english": "go to school",
+    "chinese": "去上学",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ tu skuːl/",
+    "uk_phonetic": "/ɡəʊ tu skuːl/",
+    "example_sentence_en": "I go to school by bus.",
+    "example_sentence_cn": "我乘公交车去上学。",
+    "inflection": "动词变化: goes to school / went to school / going to school"
+  },
+  {
+    "english": "go to bed",
+    "chinese": "上床睡觉",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ tu bed/",
+    "uk_phonetic": "/ɡəʊ tu bed/",
+    "example_sentence_en": "I go to bed at nine.",
+    "example_sentence_cn": "我九点上床睡觉。",
+    "inflection": "动词变化: goes to bed / went to bed / going to bed"
+  },
+  {
+    "english": "go home",
+    "chinese": "回家",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ hoʊm/",
+    "uk_phonetic": "/ɡəʊ həʊm/",
+    "example_sentence_en": "I go home at four thirty.",
+    "example_sentence_cn": "我四点半回家。",
+    "inflection": "动词变化: goes home / went home / going home"
+  },
+  {
+    "english": "have class",
+    "chinese": "上课",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hæv klæs/",
+    "uk_phonetic": "/hæv klɑːs/",
+    "example_sentence_en": "We have class from 8 to 12.",
+    "example_sentence_cn": "我们从8点到12点上课。",
+    "inflection": "动词变化: has class / had class / having class"
+  },
+  {
+    "english": "play sports",
+    "chinese": "做运动",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pleɪ spɔːrts/",
+    "uk_phonetic": "/pleɪ spɔːts/",
+    "example_sentence_en": "I play sports every day.",
+    "example_sentence_cn": "我每天都做运动。",
+    "inflection": "动词变化: plays sports / played sports / playing sports"
+  },
+  {
+    "english": "do homework",
+    "chinese": "做作业",
+    "part_of_speech": "v.",
+    "us_phonetic": "/duː ˈhoʊmwɜːrk/",
+    "uk_phonetic": "/duː ˈhəʊmwɜːk/",
+    "example_sentence_en": "I do homework after dinner.",
+    "example_sentence_cn": "我在晚饭后做作业。",
+    "inflection": "动词变化: does homework / did homework / doing homework"
+  },
+  {
+    "english": "read a book",
+    "chinese": "看书",
+    "part_of_speech": "v.",
+    "us_phonetic": "/riːd ə bʊk/",
+    "uk_phonetic": "/riːd ə bʊk/",
+    "example_sentence_en": "I read a book before bed.",
+    "example_sentence_cn": "我在睡觉前看书。",
+    "inflection": "动词变化: reads a book / read a book / reading a book"
+  },
+  {
+    "english": "watch TV",
+    "chinese": "看电视",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɑːtʃ tiːˈviː/",
+    "uk_phonetic": "/wɒtʃ tiːˈviː/",
+    "example_sentence_en": "I watch TV on weekends.",
+    "example_sentence_cn": "我在周末看电视。",
+    "inflection": "动词变化: watches TV / watched TV / watching TV"
+  },
+  {
+    "english": "take a walk",
+    "chinese": "散步",
+    "part_of_speech": "v.",
+    "us_phonetic": "/teɪk ə wɔːk/",
+    "uk_phonetic": "/teɪk ə wɔːk/",
+    "example_sentence_en": "We take a walk after dinner.",
+    "example_sentence_cn": "我们在晚饭后散步。",
+    "inflection": "动词变化: takes a walk / took a walk / taking a walk"
+  },
+  {
+    "english": "clean the room",
+    "chinese": "打扫房间",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kliːn ðə ruːm/",
+    "uk_phonetic": "/kliːn ðə ruːm/",
+    "example_sentence_en": "I clean the room on Saturdays.",
+    "example_sentence_cn": "我在星期六打扫房间。",
+    "inflection": "动词变化: cleans the room / cleaned the room / cleaning the room"
+  },
+  {
+    "english": "wash clothes",
+    "chinese": "洗衣服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɑːʃ kloʊðz/",
+    "uk_phonetic": "/wɒʃ kləʊðz/",
+    "example_sentence_en": "My mother washes clothes on Sunday.",
+    "example_sentence_cn": "我妈妈在星期天洗衣服。",
+    "inflection": "动词变化: washes clothes / washed clothes / washing clothes"
+  },
+  {
+    "english": "cook dinner",
+    "chinese": "做晚饭",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kʊk ˈdɪnər/",
+    "uk_phonetic": "/kʊk ˈdɪnə(r)/",
+    "example_sentence_en": "My dad cooks dinner today.",
+    "example_sentence_cn": "我爸爸今天做晚饭。",
+    "inflection": "动词变化: cooks dinner / cooked dinner / cooking dinner"
+  },
+  {
+    "english": "go shopping",
+    "chinese": "去购物",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ ˈʃɑːpɪŋ/",
+    "uk_phonetic": "/ɡəʊ ˈʃɒpɪŋ/",
+    "example_sentence_en": "We go shopping on weekends.",
+    "example_sentence_cn": "我们在周末去购物。",
+    "inflection": "动词变化: goes shopping / went shopping / going shopping"
+  },
+  {
+    "english": "go swimming",
+    "chinese": "去游泳",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ ˈswɪmɪŋ/",
+    "uk_phonetic": "/ɡəʊ ˈswɪmɪŋ/",
+    "example_sentence_en": "Let's go swimming in summer.",
+    "example_sentence_cn": "我们夏天去游泳吧。",
+    "inflection": "动词变化: goes swimming / went swimming / going swimming"
+  },
+  {
+    "english": "go hiking",
+    "chinese": "去远足",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ ˈhaɪkɪŋ/",
+    "uk_phonetic": "/ɡəʊ ˈhaɪkɪŋ/",
+    "example_sentence_en": "I often go hiking in autumn.",
+    "example_sentence_cn": "我经常在秋天去远足。",
+    "inflection": "动词变化: goes hiking / went hiking / going hiking"
+  },
+  {
+    "english": "go camping",
+    "chinese": "去露营",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ ˈkæmpɪŋ/",
+    "uk_phonetic": "/ɡəʊ ˈkæmpɪŋ/",
+    "example_sentence_en": "My family goes camping in July.",
+    "example_sentence_cn": "我家在七月去露营。",
+    "inflection": "动词变化: goes camping / went camping / going camping"
+  },
+  {
+    "english": "go fishing",
+    "chinese": "去钓鱼",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ ˈfɪʃɪŋ/",
+    "uk_phonetic": "/ɡəʊ ˈfɪʃɪŋ/",
+    "example_sentence_en": "My grandpa goes fishing a lot.",
+    "example_sentence_cn": "我爷爷经常去钓鱼。",
+    "inflection": "动词变化: goes fishing / went fishing / going fishing"
+  },
+  {
+    "english": "ride a bike",
+    "chinese": "骑自行车",
+    "part_of_speech": "v.",
+    "us_phonetic": "/raɪd ə baɪk/",
+    "uk_phonetic": "/raɪd ə baɪk/",
+    "example_sentence_en": "I ride a bike in the park.",
+    "example_sentence_cn": "我在公园里骑自行车。",
+    "inflection": "动词变化: rides a bike / rode a bike / riding a bike"
+  },
+  {
+    "english": "fly a kite",
+    "chinese": "放风筝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/flaɪ ə kaɪt/",
+    "uk_phonetic": "/flaɪ ə kaɪt/",
+    "example_sentence_en": "We fly kites in spring.",
+    "example_sentence_cn": "我们在春天放风筝。",
+    "inflection": "动词变化: flies a kite / flew a kite / flying a kite"
+  },
+  {
+    "english": "make a snowman",
+    "chinese": "堆雪人",
+    "part_of_speech": "v.",
+    "us_phonetic": "/meɪk ə ˈsnoʊmæn/",
+    "uk_phonetic": "/meɪk ə ˈsnəʊmæn/",
+    "example_sentence_en": "I make a snowman in winter.",
+    "example_sentence_cn": "我在冬天堆雪人。",
+    "inflection": "动词变化: makes a snowman / made a snowman / making a snowman"
+  },
+  {
+    "english": "plant trees",
+    "chinese": "种树",
+    "part_of_speech": "v.",
+    "us_phonetic": "/plænt triːz/",
+    "uk_phonetic": "/plɑːnt triːz/",
+    "example_sentence_en": "We plant trees in March.",
+    "example_sentence_cn": "我们在三月种树。",
+    "inflection": "动词变化: plants trees / planted trees / planting trees"
+  },
+  {
+    "english": "pick apples",
+    "chinese": "摘苹果",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pɪk ˈæplz/",
+    "uk_phonetic": "/pɪk ˈæplz/",
+    "example_sentence_en": "We pick apples in autumn.",
+    "example_sentence_cn": "我们在秋天摘苹果。",
+    "inflection": "动词变化: picks apples / picked apples / picking apples"
+  },
+  {
+    "english": "have a picnic",
+    "chinese": "去野餐",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hæv ə ˈpɪknɪk/",
+    "uk_phonetic": "/hæv ə ˈpɪknɪk/",
+    "example_sentence_en": "Let's have a picnic this Sunday.",
+    "example_sentence_cn": "这周日我们去野餐吧。",
+    "inflection": "动词变化: has a picnic / had a picnic / having a picnic"
+  },
+  {
+    "english": "visit grandparents",
+    "chinese": "看望祖父母",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈvɪzɪt ˈɡrænperənts/",
+    "uk_phonetic": "/ˈvɪzɪt ˈɡrænpeərənts/",
+    "example_sentence_en": "I visit grandparents on weekends.",
+    "example_sentence_cn": "我在周末看望祖父母。",
+    "inflection": "动词变化: visits grandparents / visited grandparents / visiting grandparents"
+  },
+  {
+    "english": "play the piano",
+    "chinese": "弹钢琴",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pleɪ ðə piˈænoʊ/",
+    "uk_phonetic": "/pleɪ ðə piˈænəʊ/",
+    "example_sentence_en": "She plays the piano every evening.",
+    "example_sentence_cn": "她每天晚上弹钢琴。",
+    "inflection": "动词变化: plays the piano / played the piano / playing the piano"
+  },
+  {
+    "english": "draw pictures",
+    "chinese": "画画",
+    "part_of_speech": "v.",
+    "us_phonetic": "/drɔː ˈpɪktʃərz/",
+    "uk_phonetic": "/drɔː ˈpɪktʃəz/",
+    "example_sentence_en": "I like to draw pictures.",
+    "example_sentence_cn": "我喜欢画画。",
+    "inflection": "动词变化: draws pictures / drew pictures / drawing pictures"
+  },
+  {
+    "english": "do exercise",
+    "chinese": "做锻炼",
+    "part_of_speech": "v.",
+    "us_phonetic": "/duː ˈeksərsaɪz/",
+    "uk_phonetic": "/duː ˈeksəsaɪz/",
+    "example_sentence_en": "We do exercise in the morning.",
+    "example_sentence_cn": "我们在早上做锻炼。",
+    "inflection": "动词变化: does exercise / did exercise / doing exercise"
+  },
+  {
+    "english": "take a trip",
+    "chinese": "去旅行",
+    "part_of_speech": "v.",
+    "us_phonetic": "/teɪk ə trɪp/",
+    "uk_phonetic": "/teɪk ə trɪp/",
+    "example_sentence_en": "We will take a trip in summer.",
+    "example_sentence_cn": "我们将在夏天去旅行。",
+    "inflection": "动词变化: takes a trip / took a trip / taking a trip"
+  },
+  {
+    "english": "always",
+    "chinese": "总是",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈɔːlweɪz/",
+    "uk_phonetic": "/ˈɔːlweɪz/",
+    "example_sentence_en": "I always do my homework.",
+    "example_sentence_cn": "我总是做我的作业。",
+    "inflection": "无"
+  },
+  {
+    "english": "usually",
+    "chinese": "通常",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈjuːʒuəli/",
+    "uk_phonetic": "/ˈjuːʒuəli/",
+    "example_sentence_en": "I usually walk to school.",
+    "example_sentence_cn": "我通常走路上学。",
+    "inflection": "无"
+  },
+  {
+    "english": "often",
+    "chinese": "经常",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈɔːfn/",
+    "uk_phonetic": "/ˈɒfn/",
+    "example_sentence_en": "I often play football.",
+    "example_sentence_cn": "我经常踢足球。",
+    "inflection": "无"
+  },
+  {
+    "english": "sometimes",
+    "chinese": "有时",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈsʌmtaɪmz/",
+    "uk_phonetic": "/ˈsʌmtaɪmz/",
+    "example_sentence_en": "Sometimes I go to the library.",
+    "example_sentence_cn": "有时我去图书馆。",
+    "inflection": "无"
+  },
+  {
+    "english": "never",
+    "chinese": "从不",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈnevər/",
+    "uk_phonetic": "/ˈnevə(r)/",
+    "example_sentence_en": "I never go to school late.",
+    "example_sentence_cn": "我上学从不迟到。",
+    "inflection": "无"
+  }
+]

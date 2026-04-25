@@ -1,0 +1,352 @@
+[
+  {
+    "english": "father",
+    "chinese": "父亲；爸爸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːðər/",
+    "uk_phonetic": "/ˈfɑːðə(r)/",
+    "example_sentence_en": "My father is tall.",
+    "example_sentence_cn": "我的爸爸很高。",
+    "inflection": "复数: fathers"
+  },
+  {
+    "english": "mother",
+    "chinese": "母亲；妈妈",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmʌðər/",
+    "uk_phonetic": "/ˈmʌðə(r)/",
+    "example_sentence_en": "My mother is kind.",
+    "example_sentence_cn": "我的妈妈很和蔼。",
+    "inflection": "复数: mothers"
+  },
+  {
+    "english": "brother",
+    "chinese": "兄弟",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbrʌðər/",
+    "uk_phonetic": "/ˈbrʌðə(r)/",
+    "example_sentence_en": "I love my brother.",
+    "example_sentence_cn": "我爱我的兄弟。",
+    "inflection": "复数: brothers"
+  },
+  {
+    "english": "sister",
+    "chinese": "姐妹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪstər/",
+    "uk_phonetic": "/ˈsɪstə(r)/",
+    "example_sentence_en": "She is my sister.",
+    "example_sentence_cn": "她是我的姐妹。",
+    "inflection": "复数: sisters"
+  },
+  {
+    "english": "grandfather",
+    "chinese": "祖父；外祖父",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrænfɑːðər/",
+    "uk_phonetic": "/ˈɡrænfɑːðə(r)/",
+    "example_sentence_en": "My grandfather is old.",
+    "example_sentence_cn": "我的爷爷年纪大了。",
+    "inflection": "复数: grandfathers"
+  },
+  {
+    "english": "grandmother",
+    "chinese": "祖母；外祖母",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrænmʌðər/",
+    "uk_phonetic": "/ˈɡrænmʌðə(r)/",
+    "example_sentence_en": "My grandmother is nice.",
+    "example_sentence_cn": "我的奶奶很好。",
+    "inflection": "复数: grandmothers"
+  },
+  {
+    "english": "family",
+    "chinese": "家庭",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfæməli/",
+    "uk_phonetic": "/ˈfæməli/",
+    "example_sentence_en": "I have a happy family.",
+    "example_sentence_cn": "我有一个幸福的家庭。",
+    "inflection": "复数: families"
+  },
+  {
+    "english": "dad",
+    "chinese": "爸爸（口语）",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dæd/",
+    "uk_phonetic": "/dæd/",
+    "example_sentence_en": "Dad, look at me!",
+    "example_sentence_cn": "爸爸，看我！",
+    "inflection": "复数: dads"
+  },
+  {
+    "english": "mom",
+    "chinese": "妈妈（口语）",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɑːm/",
+    "uk_phonetic": "/mɒm/",
+    "example_sentence_en": "Mom, I am hungry.",
+    "example_sentence_cn": "妈妈，我饿了。",
+    "inflection": "复数: moms"
+  },
+  {
+    "english": "uncle",
+    "chinese": "叔伯；舅；姨父",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʌŋkl/",
+    "uk_phonetic": "/ˈʌŋkl/",
+    "example_sentence_en": "My uncle is strong.",
+    "example_sentence_cn": "我的叔叔很强壮。",
+    "inflection": "复数: uncles"
+  },
+  {
+    "english": "aunt",
+    "chinese": "姑；姨；伯母；舅母",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ænt/",
+    "uk_phonetic": "/ɑːnt/",
+    "example_sentence_en": "My aunt is pretty.",
+    "example_sentence_cn": "我的阿姨很漂亮。",
+    "inflection": "复数: aunts"
+  },
+  {
+    "english": "cousin",
+    "chinese": "堂表兄弟姐妹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʌzn/",
+    "uk_phonetic": "/ˈkʌzn/",
+    "example_sentence_en": "This is my cousin.",
+    "example_sentence_cn": "这是我的表弟。",
+    "inflection": "复数: cousins"
+  },
+  {
+    "english": "room",
+    "chinese": "房间",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ruːm/",
+    "uk_phonetic": "/ruːm/",
+    "example_sentence_en": "Come to my room.",
+    "example_sentence_cn": "来我的房间。",
+    "inflection": "复数: rooms"
+  },
+  {
+    "english": "bedroom",
+    "chinese": "卧室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbedruːm/",
+    "uk_phonetic": "/ˈbedruːm/",
+    "example_sentence_en": "This is my bedroom.",
+    "example_sentence_cn": "这是我的卧室。",
+    "inflection": "复数: bedrooms"
+  },
+  {
+    "english": "bathroom",
+    "chinese": "浴室；洗手间",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbæθruːm/",
+    "uk_phonetic": "/ˈbɑːθruːm/",
+    "example_sentence_en": "Where is the bathroom?",
+    "example_sentence_cn": "洗手间在哪里？",
+    "inflection": "复数: bathrooms"
+  },
+  {
+    "english": "kitchen",
+    "chinese": "厨房",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɪtʃɪn/",
+    "uk_phonetic": "/ˈkɪtʃɪn/",
+    "example_sentence_en": "Mom is in the kitchen.",
+    "example_sentence_cn": "妈妈在厨房里。",
+    "inflection": "复数: kitchens"
+  },
+  {
+    "english": "living room",
+    "chinese": "客厅",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlɪvɪŋ ruːm/",
+    "uk_phonetic": "/ˈlɪvɪŋ ruːm/",
+    "example_sentence_en": "Let's go to the living room.",
+    "example_sentence_cn": "我们去客厅吧。",
+    "inflection": "复数: living rooms"
+  },
+  {
+    "english": "house",
+    "chinese": "房子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/haʊs/",
+    "uk_phonetic": "/haʊs/",
+    "example_sentence_en": "This is my house.",
+    "example_sentence_cn": "这是我的房子。",
+    "inflection": "复数: houses"
+  },
+  {
+    "english": "home",
+    "chinese": "家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hoʊm/",
+    "uk_phonetic": "/həʊm/",
+    "example_sentence_en": "I go home at five.",
+    "example_sentence_cn": "我五点回家。",
+    "inflection": "复数: homes"
+  },
+  {
+    "english": "door",
+    "chinese": "门",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɔːr/",
+    "uk_phonetic": "/dɔː(r)/",
+    "example_sentence_en": "Close the door, please.",
+    "example_sentence_cn": "请关上门。",
+    "inflection": "复数: doors"
+  },
+  {
+    "english": "window",
+    "chinese": "窗户",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɪndoʊ/",
+    "uk_phonetic": "/ˈwɪndəʊ/",
+    "example_sentence_en": "Open the window.",
+    "example_sentence_cn": "打开窗户。",
+    "inflection": "复数: windows"
+  },
+  {
+    "english": "floor",
+    "chinese": "地板",
+    "part_of_speech": "n.",
+    "us_phonetic": "/flɔːr/",
+    "uk_phonetic": "/flɔː(r)/",
+    "example_sentence_en": "The floor is clean.",
+    "example_sentence_cn": "地板很干净。",
+    "inflection": "复数: floors"
+  },
+  {
+    "english": "doctor",
+    "chinese": "医生",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɑːktər/",
+    "uk_phonetic": "/ˈdɒktə(r)/",
+    "example_sentence_en": "He is a doctor.",
+    "example_sentence_cn": "他是一名医生。",
+    "inflection": "复数: doctors"
+  },
+  {
+    "english": "nurse",
+    "chinese": "护士",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nɜːrs/",
+    "uk_phonetic": "/nɜːs/",
+    "example_sentence_en": "She is a nurse.",
+    "example_sentence_cn": "她是一名护士。",
+    "inflection": "复数: nurses"
+  },
+  {
+    "english": "teacher",
+    "chinese": "教师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːtʃər/",
+    "uk_phonetic": "/ˈtiːtʃə(r)/",
+    "example_sentence_en": "My mother is a teacher.",
+    "example_sentence_cn": "我的妈妈是一名教师。",
+    "inflection": "复数: teachers"
+  },
+  {
+    "english": "driver",
+    "chinese": "司机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdraɪvər/",
+    "uk_phonetic": "/ˈdraɪvə(r)/",
+    "example_sentence_en": "He is a bus driver.",
+    "example_sentence_cn": "他是一名公交车司机。",
+    "inflection": "复数: drivers"
+  },
+  {
+    "english": "farmer",
+    "chinese": "农民；农场主",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːrmər/",
+    "uk_phonetic": "/ˈfɑːmə(r)/",
+    "example_sentence_en": "The farmer has a big farm.",
+    "example_sentence_cn": "这个农民有一个大农场。",
+    "inflection": "复数: farmers"
+  },
+  {
+    "english": "cook",
+    "chinese": "厨师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kʊk/",
+    "uk_phonetic": "/kʊk/",
+    "example_sentence_en": "My dad is a cook.",
+    "example_sentence_cn": "我的爸爸是一名厨师。",
+    "inflection": "复数: cooks"
+  },
+  {
+    "english": "police officer",
+    "chinese": "警察",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pəˈliːs ˈɔːfɪsər/",
+    "uk_phonetic": "/pəˈliːs ˈɒfɪsə(r)/",
+    "example_sentence_en": "He is a police officer.",
+    "example_sentence_cn": "他是一名警察。",
+    "inflection": "复数: police officers"
+  },
+  {
+    "english": "worker",
+    "chinese": "工人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɜːrkər/",
+    "uk_phonetic": "/ˈwɜːkə(r)/",
+    "example_sentence_en": "He is a factory worker.",
+    "example_sentence_cn": "他是一名工厂工人。",
+    "inflection": "复数: workers"
+  },
+  {
+    "english": "pilot",
+    "chinese": "飞行员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpaɪlət/",
+    "uk_phonetic": "/ˈpaɪlət/",
+    "example_sentence_en": "The pilot flies a plane.",
+    "example_sentence_cn": "飞行员开飞机。",
+    "inflection": "复数: pilots"
+  },
+  {
+    "english": "singer",
+    "chinese": "歌手",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪŋər/",
+    "uk_phonetic": "/ˈsɪŋə(r)/",
+    "example_sentence_en": "She is a good singer.",
+    "example_sentence_cn": "她是一位好歌手。",
+    "inflection": "复数: singers"
+  },
+  {
+    "english": "dancer",
+    "chinese": "舞者；舞蹈家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdænsər/",
+    "uk_phonetic": "/ˈdɑːnsə(r)/",
+    "example_sentence_en": "I want to be a dancer.",
+    "example_sentence_cn": "我想成为一名舞蹈家。",
+    "inflection": "复数: dancers"
+  },
+  {
+    "english": "firefighter",
+    "chinese": "消防员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfaɪərfaɪtər/",
+    "uk_phonetic": "/ˈfaɪəfaɪtə(r)/",
+    "example_sentence_en": "He is a firefighter.",
+    "example_sentence_cn": "他是一名消防员。",
+    "inflection": "复数: firefighters"
+  },
+  {
+    "english": "vet",
+    "chinese": "兽医",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vet/",
+    "uk_phonetic": "/vet/",
+    "example_sentence_en": "She is a vet.",
+    "example_sentence_cn": "她是一名兽医。",
+    "inflection": "复数: vets"
+  }
+]

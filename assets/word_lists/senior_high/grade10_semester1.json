@@ -1,0 +1,1812 @@
+[
+  {
+    "english": "adolescence",
+    "chinese": "青春期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌædlˈesns/",
+    "uk_phonetic": "/ˌædəˈlesns/",
+    "example_sentence_en": "Adolescence is a period of rapid physical and emotional changes.",
+    "example_sentence_cn": "青春期是一段身心快速变化的时期。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "teenager",
+    "chinese": "青少年",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːneɪdʒər/",
+    "uk_phonetic": "/ˈtiːneɪdʒə(r)/",
+    "example_sentence_en": "Many teenagers face peer pressure at school.",
+    "example_sentence_cn": "许多青少年在学校面临同辈压力。",
+    "inflection": "复数: teenagers"
+  },
+  {
+    "english": "campus",
+    "chinese": "校园",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkæmpəs/",
+    "uk_phonetic": "/ˈkæmpəs/",
+    "example_sentence_en": "The campus is beautifully decorated with flowers in spring.",
+    "example_sentence_cn": "春天，校园里用鲜花装饰得非常美丽。",
+    "inflection": "复数: campuses"
+  },
+  {
+    "english": "schedule",
+    "chinese": "日程安排；时间表",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈskedʒuːl/",
+    "uk_phonetic": "/ˈʃedjuːl/",
+    "example_sentence_en": "He scheduled his time carefully to balance study and play.",
+    "example_sentence_cn": "他仔细安排时间以平衡学习和玩耍。",
+    "inflection": "动词变化: schedules / scheduled / scheduling; 复数: schedules"
+  },
+  {
+    "english": "academic",
+    "chinese": "学术的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌækəˈdemɪk/",
+    "uk_phonetic": "/ˌækəˈdemɪk/",
+    "example_sentence_en": "She has excellent academic performance in all subjects.",
+    "example_sentence_cn": "她在所有学科上都有优异的学术表现。",
+    "inflection": "无"
+  },
+  {
+    "english": "stress",
+    "chinese": "压力；强调",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/stres/",
+    "uk_phonetic": "/stres/",
+    "example_sentence_en": "Learning to manage stress is important for teenagers.",
+    "example_sentence_cn": "学会管理压力对青少年很重要。",
+    "inflection": "动词变化: stresses / stressed / stressing"
+  },
+  {
+    "english": "anxiety",
+    "chinese": "焦虑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/æŋˈzaɪəti/",
+    "uk_phonetic": "/æŋˈzaɪəti/",
+    "example_sentence_en": "He felt a lot of anxiety before the final exam.",
+    "example_sentence_cn": "他在期末考试前感到非常焦虑。",
+    "inflection": "复数: anxieties"
+  },
+  {
+    "english": "peer",
+    "chinese": "同龄人；同辈",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɪr/",
+    "uk_phonetic": "/pɪə(r)/",
+    "example_sentence_en": "She gets along well with her peers.",
+    "example_sentence_cn": "她和同龄人相处得很好。",
+    "inflection": "复数: peers"
+  },
+  {
+    "english": "volunteer",
+    "chinese": "志愿者；自愿做",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˌvɑːlənˈtɪr/",
+    "uk_phonetic": "/ˌvɒlənˈtɪə(r)/",
+    "example_sentence_en": "He volunteers at the local library every weekend.",
+    "example_sentence_cn": "他每个周末在本地图书馆做志愿者。",
+    "inflection": "动词变化: volunteers / volunteered / volunteering; 复数: volunteers"
+  },
+  {
+    "english": "extracurricular",
+    "chinese": "课外的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌekstrəkəˈrɪkjələr/",
+    "uk_phonetic": "/ˌekstrəkəˈrɪkjələ(r)/",
+    "example_sentence_en": "Colleges value students who participate in extracurricular activities.",
+    "example_sentence_cn": "大学看重参加课外活动的学生。",
+    "inflection": "无"
+  },
+  {
+    "english": "challenge",
+    "chinese": "挑战",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈtʃælɪndʒ/",
+    "uk_phonetic": "/ˈtʃælɪndʒ/",
+    "example_sentence_en": "Moving to a new school was a big challenge for her.",
+    "example_sentence_cn": "转到新学校对她来说是个巨大的挑战。",
+    "inflection": "动词变化: challenges / challenged / challenging; 复数: challenges"
+  },
+  {
+    "english": "adapt",
+    "chinese": "适应",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈdæpt/",
+    "uk_phonetic": "/əˈdæpt/",
+    "example_sentence_en": "It took him a while to adapt to the new environment.",
+    "example_sentence_cn": "他花了一段时间才适应新环境。",
+    "inflection": "动词变化: adapts / adapted / adapting"
+  },
+  {
+    "english": "mature",
+    "chinese": "成熟的；成熟",
+    "part_of_speech": "adj. / v.",
+    "us_phonetic": "/məˈtʃʊr/",
+    "uk_phonetic": "/məˈtʃʊə(r)/",
+    "example_sentence_en": "She has become much more mature over the past year.",
+    "example_sentence_cn": "在过去一年里她变得成熟多了。",
+    "inflection": "比较级: maturer | 最高级: maturest"
+  },
+  {
+    "english": "independence",
+    "chinese": "独立",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪndɪˈpendəns/",
+    "uk_phonetic": "/ˌɪndɪˈpendəns/",
+    "example_sentence_en": "College life helps students develop independence.",
+    "example_sentence_cn": "大学生活帮助学生培养独立性。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "identity",
+    "chinese": "身份；特性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/aɪˈdentəti/",
+    "uk_phonetic": "/aɪˈdentəti/",
+    "example_sentence_en": "Teenagers are trying to find their own identities.",
+    "example_sentence_cn": "青少年正试图寻找他们自己的身份认同。",
+    "inflection": "复数: identities"
+  },
+  {
+    "english": "conflict",
+    "chinese": "冲突；矛盾",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈkɑːnflɪkt/",
+    "uk_phonetic": "/ˈkɒnflɪkt/",
+    "example_sentence_en": "There is sometimes a conflict between parents and teenagers.",
+    "example_sentence_cn": "父母和青少年之间有时会有冲突。",
+    "inflection": "动词变化: conflicts / conflicted / conflicting; 复数: conflicts"
+  },
+  {
+    "english": "motivate",
+    "chinese": "激励；激发",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈmoʊtɪveɪt/",
+    "uk_phonetic": "/ˈməʊtɪveɪt/",
+    "example_sentence_en": "A good teacher knows how to motivate students.",
+    "example_sentence_cn": "一位好老师知道如何激励学生。",
+    "inflection": "动词变化: motivates / motivated / motivating"
+  },
+  {
+    "english": "concentrate",
+    "chinese": "集中注意力",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkɑːnsntreɪt/",
+    "uk_phonetic": "/ˈkɒnsntreɪt/",
+    "example_sentence_en": "I find it hard to concentrate in a noisy room.",
+    "example_sentence_cn": "我发现在嘈杂的房间里很难集中注意力。",
+    "inflection": "动词变化: concentrates / concentrated / concentrating"
+  },
+  {
+    "english": "balance",
+    "chinese": "平衡",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈbæləns/",
+    "uk_phonetic": "/ˈbæləns/",
+    "example_sentence_en": "You need to balance your work and rest.",
+    "example_sentence_cn": "你需要平衡工作和休息。",
+    "inflection": "动词变化: balances / balanced / balancing"
+  },
+  {
+    "english": "semester",
+    "chinese": "学期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sɪˈmestər/",
+    "uk_phonetic": "/sɪˈmestə(r)/",
+    "example_sentence_en": "We have four exams at the end of this semester.",
+    "example_sentence_cn": "这学期末我们有四门考试。",
+    "inflection": "复数: semesters"
+  },
+  {
+    "english": "curriculum",
+    "chinese": "课程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪkjələm/",
+    "uk_phonetic": "/kəˈrɪkjələm/",
+    "example_sentence_en": "The school has added computer programming to its curriculum.",
+    "example_sentence_cn": "学校把计算机编程加入了它的课程中。",
+    "inflection": "复数: curriculums / curricula"
+  },
+  {
+    "english": "guidance",
+    "chinese": "指导；引导",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡaɪdns/",
+    "uk_phonetic": "/ˈɡaɪdns/",
+    "example_sentence_en": "I need some guidance on choosing my major.",
+    "example_sentence_cn": "我在选择专业方面需要一些指导。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "counselor",
+    "chinese": "顾问；辅导员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkaʊnslər/",
+    "uk_phonetic": "/ˈkaʊnsələ(r)/",
+    "example_sentence_en": "The school counselor helps students with their problems.",
+    "example_sentence_cn": "学校辅导员帮助学生解决问题。",
+    "inflection": "复数: counselors"
+  },
+  {
+    "english": "pressure",
+    "chinese": "压力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpreʃər/",
+    "uk_phonetic": "/ˈpreʃə(r)/",
+    "example_sentence_en": "He is under a lot of pressure to succeed.",
+    "example_sentence_cn": "他承受着要取得成功的巨大压力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "overcome",
+    "chinese": "克服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌoʊvərˈkʌm/",
+    "uk_phonetic": "/ˌəʊvəˈkʌm/",
+    "example_sentence_en": "She overcame her fear of public speaking.",
+    "example_sentence_cn": "她克服了公开演讲的恐惧。",
+    "inflection": "动词变化: overcomes / overcame / overcoming"
+  },
+  {
+    "english": "confident",
+    "chinese": "自信的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkɑːnfɪdənt/",
+    "uk_phonetic": "/ˈkɒnfɪdənt/",
+    "example_sentence_en": "He is confident that he will pass the test.",
+    "example_sentence_cn": "他自信能通过考试。",
+    "inflection": "比较级: more confident | 最高级: most confident"
+  },
+  {
+    "english": "responsible",
+    "chinese": "有责任的；负责的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈspɑːnsəbl/",
+    "uk_phonetic": "/rɪˈspɒnsəbl/",
+    "example_sentence_en": "She is a responsible student who always finishes her homework.",
+    "example_sentence_cn": "她是一个总是完成作业的负责任的学生。",
+    "inflection": "比较级: more responsible | 最高级: most responsible"
+  },
+  {
+    "english": "discipline",
+    "chinese": "纪律；自制力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪsəplɪn/",
+    "uk_phonetic": "/ˈdɪsəplɪn/",
+    "example_sentence_en": "Self-discipline is essential for success in high school.",
+    "example_sentence_cn": "自律对高中的成功至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略；战略",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrætədʒi/",
+    "uk_phonetic": "/ˈstrætədʒi/",
+    "example_sentence_en": "We need a new strategy for learning English.",
+    "example_sentence_cn": "我们需要一个学习英语的新策略。",
+    "inflection": "复数: strategies"
+  },
+  {
+    "english": "potential",
+    "chinese": "潜力；潜能",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/pəˈtenʃl/",
+    "uk_phonetic": "/pəˈtenʃl/",
+    "example_sentence_en": "Every student has the potential to achieve great things.",
+    "example_sentence_cn": "每个学生都有取得伟大成就的潜力。",
+    "inflection": "无"
+  },
+  {
+    "english": "progress",
+    "chinese": "进步；进展",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈprɑːɡres/",
+    "uk_phonetic": "/ˈprəʊɡres/",
+    "example_sentence_en": "She has made great progress in math this term.",
+    "example_sentence_cn": "这学期她在数学方面取得了巨大进步。",
+    "inflection": "动词变化: progresses / progressed / progressing"
+  },
+  {
+    "english": "rewarding",
+    "chinese": "有益的；有报酬的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈwɔːrdɪŋ/",
+    "uk_phonetic": "/rɪˈwɔːdɪŋ/",
+    "example_sentence_en": "Volunteering can be a very rewarding experience.",
+    "example_sentence_cn": "做志愿者可以是一段非常有意义的经历。",
+    "inflection": "无"
+  },
+  {
+    "english": "awkward",
+    "chinese": "尴尬的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɔːkwərd/",
+    "uk_phonetic": "/ˈɔːkwəd/",
+    "example_sentence_en": "He felt awkward when he forgot her name.",
+    "example_sentence_cn": "当他忘了她的名字时，他感到很尴尬。",
+    "inflection": "比较级: more awkward | 最高级: most awkward"
+  },
+  {
+    "english": "belong",
+    "chinese": "属于",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪˈlɔːŋ/",
+    "uk_phonetic": "/bɪˈlɒŋ/",
+    "example_sentence_en": "I feel like I belong to this community.",
+    "example_sentence_cn": "我觉得我属于这个社区。",
+    "inflection": "动词变化: belongs / belonged / belonging"
+  },
+  {
+    "english": "transition",
+    "chinese": "过渡；转变",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trænˈzɪʃn/",
+    "uk_phonetic": "/trænˈzɪʃn/",
+    "example_sentence_en": "The transition from junior high to senior high is challenging.",
+    "example_sentence_cn": "从初中到高中的过渡是具有挑战性的。",
+    "inflection": "复数: transitions"
+  },
+  {
+    "english": "resilience",
+    "chinese": "韧性；恢复力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈzɪliəns/",
+    "uk_phonetic": "/rɪˈzɪliəns/",
+    "example_sentence_en": "Resilience helps teenagers bounce back from failures.",
+    "example_sentence_cn": "韧性帮助青少年从失败中恢复过来。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "proactive",
+    "chinese": "积极主动的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/proʊˈæktɪv/",
+    "uk_phonetic": "/prəʊˈæktɪv/",
+    "example_sentence_en": "A proactive student always prepares for lessons in advance.",
+    "example_sentence_cn": "积极主动的学生总是提前预习功课。",
+    "inflection": "无"
+  },
+  {
+    "english": "enthusiastic",
+    "chinese": "热情的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˌθuːziˈæstɪk/",
+    "uk_phonetic": "/ɪnˌθjuːziˈæstɪk/",
+    "example_sentence_en": "The students are enthusiastic about the upcoming trip.",
+    "example_sentence_cn": "学生们对即将到来的旅行充满热情。",
+    "inflection": "比较级: more enthusiastic | 最高级: most enthusiastic"
+  },
+  {
+    "english": "fluent",
+    "chinese": "流利的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfluːənt/",
+    "uk_phonetic": "/ˈfluːənt/",
+    "example_sentence_en": "She is fluent in both English and French.",
+    "example_sentence_cn": "她英语和法语都很流利。",
+    "inflection": "比较级: more fluent | 最高级: most fluent"
+  },
+  {
+    "english": "accent",
+    "chinese": "口音；重音",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæksent/",
+    "uk_phonetic": "/ˈæksent/",
+    "example_sentence_en": "He speaks English with a strong southern accent.",
+    "example_sentence_cn": "他说英语带有很重的南方口音。",
+    "inflection": "复数: accents"
+  },
+  {
+    "english": "dialect",
+    "chinese": "方言",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdaɪəlekt/",
+    "uk_phonetic": "/ˈdaɪəlekt/",
+    "example_sentence_en": "There are many different dialects in China.",
+    "example_sentence_cn": "中国有许多不同的方言。",
+    "inflection": "复数: dialects"
+  },
+  {
+    "english": "vocabulary",
+    "chinese": "词汇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vəˈkæbjəleri/",
+    "uk_phonetic": "/vəˈkæbjələri/",
+    "example_sentence_en": "Reading is a good way to expand your vocabulary.",
+    "example_sentence_cn": "阅读是扩大词汇量的好方法。",
+    "inflection": "复数: vocabularies"
+  },
+  {
+    "english": "grammar",
+    "chinese": "语法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡræmər/",
+    "uk_phonetic": "/ˈɡræmə(r)/",
+    "example_sentence_en": "English grammar can be quite difficult for beginners.",
+    "example_sentence_cn": "英语语法对初学者来说可能相当难。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "express",
+    "chinese": "表达",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈspres/",
+    "uk_phonetic": "/ɪkˈspres/",
+    "example_sentence_en": "It is important to express your feelings clearly.",
+    "example_sentence_cn": "清楚地表达你的感受很重要。",
+    "inflection": "动词变化: expresses / expressed / expressing"
+  },
+  {
+    "english": "comprehend",
+    "chinese": "理解",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌkɑːmprɪˈhend/",
+    "uk_phonetic": "/ˌkɒmprɪˈhend/",
+    "example_sentence_en": "I couldn't comprehend what he was trying to say.",
+    "example_sentence_cn": "我无法理解他试图说什么。",
+    "inflection": "动词变化: comprehends / comprehended / comprehending"
+  },
+  {
+    "english": "translate",
+    "chinese": "翻译",
+    "part_of_speech": "v.",
+    "us_phonetic": "/trænsˈleɪt/",
+    "uk_phonetic": "/trænsˈleɪt/",
+    "example_sentence_en": "Please translate this sentence into Chinese.",
+    "example_sentence_cn": "请把这个句子翻译成中文。",
+    "inflection": "动词变化: translates / translated / translating"
+  },
+  {
+    "english": "native",
+    "chinese": "本族的；本地的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈneɪtɪv/",
+    "uk_phonetic": "/ˈneɪtɪv/",
+    "example_sentence_en": "She is a native speaker of Japanese.",
+    "example_sentence_cn": "她的母语是日语。",
+    "inflection": "无"
+  },
+  {
+    "english": "bilingual",
+    "chinese": "双语的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/baɪˈlɪŋɡwəl/",
+    "uk_phonetic": "/baɪˈlɪŋɡwəl/",
+    "example_sentence_en": "Growing up in a bilingual environment is beneficial.",
+    "example_sentence_cn": "在双语环境中成长是有益的。",
+    "inflection": "无"
+  },
+  {
+    "english": "communicate",
+    "chinese": "交流；沟通",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kəˈmjuːnɪkeɪt/",
+    "uk_phonetic": "/kəˈmjuːnɪkeɪt/",
+    "example_sentence_en": "We can communicate with people from all over the world online.",
+    "example_sentence_cn": "我们可以在网上与来自世界各地的人交流。",
+    "inflection": "动词变化: communicates / communicated / communicating"
+  },
+  {
+    "english": "origin",
+    "chinese": "起源；源头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːrɪdʒɪn/",
+    "uk_phonetic": "/ˈɒrɪdʒɪn/",
+    "example_sentence_en": "The origin of this language dates back to centuries ago.",
+    "example_sentence_cn": "这种语言的起源可以追溯到几个世纪前。",
+    "inflection": "复数: origins"
+  },
+  {
+    "english": "pronunciation",
+    "chinese": "发音",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˌnʌnsiˈeɪʃn/",
+    "uk_phonetic": "/prəˌnʌnsiˈeɪʃn/",
+    "example_sentence_en": "Her pronunciation of French words is excellent.",
+    "example_sentence_cn": "她法语单词的发音非常棒。",
+    "inflection": "不可数名词/复数: pronunciations"
+  },
+  {
+    "english": "intonation",
+    "chinese": "语调",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪntəˈneɪʃn/",
+    "uk_phonetic": "/ˌɪntəˈneɪʃn/",
+    "example_sentence_en": "Pay attention to your intonation when asking questions.",
+    "example_sentence_cn": "问问题时要注意你的语调。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "context",
+    "chinese": "上下文；语境",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːntekst/",
+    "uk_phonetic": "/ˈkɒntekst/",
+    "example_sentence_en": "You can guess the meaning from the context.",
+    "example_sentence_cn": "你可以从上下文猜测词义。",
+    "inflection": "复数: contexts"
+  },
+  {
+    "english": "literature",
+    "chinese": "文学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlɪtrətʃər/",
+    "uk_phonetic": "/ˈlɪtrətʃə(r)/",
+    "example_sentence_en": "She studies English literature at university.",
+    "example_sentence_cn": "她在大学学习英国文学。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "phrase",
+    "chinese": "短语；词组",
+    "part_of_speech": "n.",
+    "us_phonetic": "/freɪz/",
+    "uk_phonetic": "/freɪz/",
+    "example_sentence_en": "Learn some useful phrases before you travel abroad.",
+    "example_sentence_cn": "出国旅行前学一些有用的短语。",
+    "inflection": "复数: phrases"
+  },
+  {
+    "english": "idiom",
+    "chinese": "习语；成语",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪdiəm/",
+    "uk_phonetic": "/ˈɪdiəm/",
+    "example_sentence_en": "\"Break a leg\" is a common English idiom.",
+    "example_sentence_cn": "“Break a leg”是一个常见的英语习语。",
+    "inflection": "复数: idioms"
+  },
+  {
+    "english": "slang",
+    "chinese": "俚语",
+    "part_of_speech": "n.",
+    "us_phonetic": "/slæŋ/",
+    "uk_phonetic": "/slæŋ/",
+    "example_sentence_en": "Teenagers often use slang when talking to each other.",
+    "example_sentence_cn": "青少年互相交谈时经常使用俚语。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "formal",
+    "chinese": "正式的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfɔːrml/",
+    "uk_phonetic": "/ˈfɔːml/",
+    "example_sentence_en": "You should write a formal letter to the principal.",
+    "example_sentence_cn": "你应该给校长写一封正式的信。",
+    "inflection": "比较级: more formal | 最高级: most formal"
+  },
+  {
+    "english": "informal",
+    "chinese": "非正式的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈfɔːrml/",
+    "uk_phonetic": "/ɪnˈfɔːml/",
+    "example_sentence_en": "This is an informal gathering, so wear casual clothes.",
+    "example_sentence_cn": "这是一个非正式的聚会，所以穿休闲装吧。",
+    "inflection": "比较级: more informal | 最高级: most informal"
+  },
+  {
+    "english": "articulate",
+    "chinese": "清晰明了地表达",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "uk_phonetic": "/ɑːˈtɪkjuleɪt/",
+    "example_sentence_en": "He articulated his ideas clearly during the debate.",
+    "example_sentence_cn": "他在辩论中清晰地表达了他的想法。",
+    "inflection": "动词变化: articulates / articulated / articulating"
+  },
+  {
+    "english": "literate",
+    "chinese": "有读写能力的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈlɪtərət/",
+    "uk_phonetic": "/ˈlɪtərət/",
+    "example_sentence_en": "Every child should be computer literate today.",
+    "example_sentence_cn": "今天每个孩子都应该具备计算机素养。",
+    "inflection": "比较级: more literate | 最高级: most literate"
+  },
+  {
+    "english": "fluency",
+    "chinese": "流利",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfluːənsi/",
+    "uk_phonetic": "/ˈfluːənsi/",
+    "example_sentence_en": "Fluency in a foreign language takes years of practice.",
+    "example_sentence_cn": "外语的流利需要多年的练习。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "proficiency",
+    "chinese": "精通；熟练",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈfɪʃnsi/",
+    "uk_phonetic": "/prəˈfɪʃnsi/",
+    "example_sentence_en": "A certificate of English proficiency is required for the job.",
+    "example_sentence_cn": "这份工作需要英语精通证书。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "barrier",
+    "chinese": "障碍；屏障",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbæriər/",
+    "uk_phonetic": "/ˈbæriə(r)/",
+    "example_sentence_en": "Language can be a barrier to communication.",
+    "example_sentence_cn": "语言可能成为沟通的障碍。",
+    "inflection": "复数: barriers"
+  },
+  {
+    "english": "interpret",
+    "chinese": "口译；解释",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈtɜːrprɪt/",
+    "uk_phonetic": "/ɪnˈtɜːprɪt/",
+    "example_sentence_en": "She had to interpret for the foreign guests.",
+    "example_sentence_cn": "她不得不为外宾做口译。",
+    "inflection": "动词变化: interprets / interpreted / interpreting"
+  },
+  {
+    "english": "nuance",
+    "chinese": "细微差别",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnuːɑːns/",
+    "uk_phonetic": "/ˈnjuːɑːns/",
+    "example_sentence_en": "It takes time to understand the nuances of a language.",
+    "example_sentence_cn": "理解一种语言的细微差别需要时间。",
+    "inflection": "复数: nuances"
+  },
+  {
+    "english": "dialogue",
+    "chinese": "对话",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdaɪəlɔːɡ/",
+    "uk_phonetic": "/ˈdaɪəlɒɡ/",
+    "example_sentence_en": "The dialogue in the movie was very funny.",
+    "example_sentence_cn": "电影里的对话非常有趣。",
+    "inflection": "复数: dialogues"
+  },
+  {
+    "english": "debate",
+    "chinese": "辩论",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/dɪˈbeɪt/",
+    "uk_phonetic": "/dɪˈbeɪt/",
+    "example_sentence_en": "We debated on the topic of school uniforms.",
+    "example_sentence_cn": "我们就校服的话题进行了辩论。",
+    "inflection": "动词变化: debates / debated / debating; 复数: debates"
+  },
+  {
+    "english": "persuade",
+    "chinese": "说服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈsweɪd/",
+    "uk_phonetic": "/pəˈsweɪd/",
+    "example_sentence_en": "I persuaded my parents to let me go on the trip.",
+    "example_sentence_cn": "我说服了父母让我去旅行。",
+    "inflection": "动词变化: persuades / persuaded / persuading"
+  },
+  {
+    "english": "convey",
+    "chinese": "传达；传递",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈveɪ/",
+    "uk_phonetic": "/kənˈveɪ/",
+    "example_sentence_en": "Words cannot convey how happy I am.",
+    "example_sentence_cn": "言语无法传达我有多开心。",
+    "inflection": "动词变化: conveys / conveyed / conveying"
+  },
+  {
+    "english": "imply",
+    "chinese": "暗示",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪmˈplaɪ/",
+    "uk_phonetic": "/ɪmˈplaɪ/",
+    "example_sentence_en": "Are you implying that I am wrong?",
+    "example_sentence_cn": "你在暗示我错了吗？",
+    "inflection": "动词变化: implies / implied / implying"
+  },
+  {
+    "english": "acquire",
+    "chinese": "获得；学到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈkwaɪər/",
+    "uk_phonetic": "/əˈkwaɪə(r)/",
+    "example_sentence_en": "Children acquire their first language naturally.",
+    "example_sentence_cn": "儿童自然地习得他们的第一语言。",
+    "inflection": "动词变化: acquires / acquired / acquiring"
+  },
+  {
+    "english": "immerse",
+    "chinese": "沉浸；专心于",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈmɜːrs/",
+    "uk_phonetic": "/ɪˈmɜːs/",
+    "example_sentence_en": "The best way to learn a language is to immerse yourself in it.",
+    "example_sentence_cn": "学习语言最好的方法就是沉浸其中。",
+    "inflection": "动词变化: immerses / immersed / immersing"
+  },
+  {
+    "english": "destination",
+    "chinese": "目的地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdestɪˈneɪʃn/",
+    "uk_phonetic": "/ˌdestɪˈneɪʃn/",
+    "example_sentence_en": "Paris is a popular tourist destination.",
+    "example_sentence_cn": "巴黎是一个受欢迎的旅游目的地。",
+    "inflection": "复数: destinations"
+  },
+  {
+    "english": "accommodation",
+    "chinese": "住处； accommodations",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˌkɑːməˈdeɪʃn/",
+    "uk_phonetic": "/əˌkɒməˈdeɪʃn/",
+    "example_sentence_en": "We booked our accommodation online before the trip.",
+    "example_sentence_cn": "我们在旅行前在网上预订了住处。",
+    "inflection": "不可数名词/复数: accommodations"
+  },
+  {
+    "english": "luggage",
+    "chinese": "行李",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlʌɡɪdʒ/",
+    "uk_phonetic": "/ˈlʌɡɪdʒ/",
+    "example_sentence_en": "Please keep your luggage with you at all times.",
+    "example_sentence_cn": "请随时保管好你的行李。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "itinerary",
+    "chinese": "行程安排",
+    "part_of_speech": "n.",
+    "us_phonetic": "/aɪˈtɪnəreri/",
+    "uk_phonetic": "/aɪˈtɪnərəri/",
+    "example_sentence_en": "Our travel agent planned a detailed itinerary for us.",
+    "example_sentence_cn": "我们的旅行社为我们规划了详细的行程。",
+    "inflection": "复数: itineraries"
+  },
+  {
+    "english": "excursion",
+    "chinese": "远足；短途旅行",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈskɜːrʒn/",
+    "uk_phonetic": "/ɪkˈskɜːʃn/",
+    "example_sentence_en": "We went on an excursion to the mountains last weekend.",
+    "example_sentence_cn": "上周末我们去山区远足了。",
+    "inflection": "复数: excursions"
+  },
+  {
+    "english": "explore",
+    "chinese": "探索；考察",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈsplɔːr/",
+    "uk_phonetic": "/ɪkˈsplɔː(r)/",
+    "example_sentence_en": "We spent the whole day exploring the ancient city.",
+    "example_sentence_cn": "我们花了一整天探索这座古城。",
+    "inflection": "动词变化: explores / explored / exploring"
+  },
+  {
+    "english": "voyage",
+    "chinese": "航行；航海",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɔɪɪdʒ/",
+    "uk_phonetic": "/ˈvɔɪɪdʒ/",
+    "example_sentence_en": "The voyage across the Pacific took three weeks.",
+    "example_sentence_cn": "横跨太平洋的航行花了三周时间。",
+    "inflection": "复数: voyages"
+  },
+  {
+    "english": "scenery",
+    "chinese": "风景；景色",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsiːnəri/",
+    "uk_phonetic": "/ˈsiːnəri/",
+    "example_sentence_en": "The scenery along the river is breathtaking.",
+    "example_sentence_cn": "沿河的风景令人叹为观止。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "souvenir",
+    "chinese": "纪念品",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsuːvəˈnɪr/",
+    "uk_phonetic": "/ˌsuːvəˈnɪə(r)/",
+    "example_sentence_en": "I bought a small souvenir for my sister.",
+    "example_sentence_cn": "我给妹妹买了一件小纪念品。",
+    "inflection": "复数: souvenirs"
+  },
+  {
+    "english": "passport",
+    "chinese": "护照",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpæspɔːrt/",
+    "uk_phonetic": "/ˈpɑːspɔːt/",
+    "example_sentence_en": "Don't forget to bring your passport to the airport.",
+    "example_sentence_cn": "别忘了带护照去机场。",
+    "inflection": "复数: passports"
+  },
+  {
+    "english": "departure",
+    "chinese": "离开；出发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈpɑːrtʃər/",
+    "uk_phonetic": "/dɪˈpɑːtʃə(r)/",
+    "example_sentence_en": "The departure time of the flight has been delayed.",
+    "example_sentence_cn": "航班的出发时间延误了。",
+    "inflection": "复数: departures"
+  },
+  {
+    "english": "expedition",
+    "chinese": "探险；远征",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌekspəˈdɪʃn/",
+    "uk_phonetic": "/ˌekspəˈdɪʃn/",
+    "example_sentence_en": "They went on an expedition to the North Pole.",
+    "example_sentence_cn": "他们去北极探险了。",
+    "inflection": "复数: expeditions"
+  },
+  {
+    "english": "guidebook",
+    "chinese": "旅游指南",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡaɪdbʊk/",
+    "uk_phonetic": "/ˈɡaɪdbʊk/",
+    "example_sentence_en": "I read the guidebook to find good restaurants.",
+    "example_sentence_cn": "我看了旅游指南来找好餐厅。",
+    "inflection": "复数: guidebooks"
+  },
+  {
+    "english": "resort",
+    "chinese": "度假胜地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈzɔːrt/",
+    "uk_phonetic": "/rɪˈzɔːt/",
+    "example_sentence_en": "We stayed at a beautiful beach resort.",
+    "example_sentence_cn": "我们住在一个美丽的海滩度假胜地。",
+    "inflection": "复数: resorts"
+  },
+  {
+    "english": "transport",
+    "chinese": "交通；运输",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈtrænspɔːrt/",
+    "uk_phonetic": "/ˈtrænspɔːt/",
+    "example_sentence_en": "Public transport in this city is very convenient.",
+    "example_sentence_cn": "这座城市的公共交通非常方便。",
+    "inflection": "动词变化: transports / transported / transporting"
+  },
+  {
+    "english": "landscape",
+    "chinese": "风景；地形",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlændskeɪp/",
+    "uk_phonetic": "/ˈlændskeɪp/",
+    "example_sentence_en": "The landscape of the countryside is very peaceful.",
+    "example_sentence_cn": "乡村的风景非常宁静。",
+    "inflection": "复数: landscapes"
+  },
+  {
+    "english": "wander",
+    "chinese": "漫步；游荡",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈwɑːndər/",
+    "uk_phonetic": "/ˈwɒndə(r)/",
+    "example_sentence_en": "We wandered around the old town for hours.",
+    "example_sentence_cn": "我们在老城区漫步了几个小时。",
+    "inflection": "动词变化: wanders / wandered / wandering"
+  },
+  {
+    "english": "trek",
+    "chinese": "长途跋涉",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/trek/",
+    "uk_phonetic": "/trek/",
+    "example_sentence_en": "We trekked through the jungle for two days.",
+    "example_sentence_cn": "我们在丛林中跋涉了两天。",
+    "inflection": "动词变化: treks / trekked / trekking"
+  },
+  {
+    "english": "cruise",
+    "chinese": "乘船游览；巡航",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/kruːz/",
+    "uk_phonetic": "/kruːz/",
+    "example_sentence_en": "They went on a cruise down the Nile River.",
+    "example_sentence_cn": "他们乘船游览了尼罗河。",
+    "inflection": "动词变化: cruises / cruised / cruising; 复数: cruises"
+  },
+  {
+    "english": "board",
+    "chinese": "登机；上船",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/bɔːrd/",
+    "uk_phonetic": "/bɔːd/",
+    "example_sentence_en": "We will board the plane in an hour.",
+    "example_sentence_cn": "我们一小时后登机。",
+    "inflection": "动词变化: boards / boarded / boarding"
+  },
+  {
+    "english": "visa",
+    "chinese": "签证",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈviːzə/",
+    "uk_phonetic": "/ˈviːzə/",
+    "example_sentence_en": "You need a visa to enter the country.",
+    "example_sentence_cn": "你需要签证才能进入该国。",
+    "inflection": "复数: visas"
+  },
+  {
+    "english": "remote",
+    "chinese": "偏远的；遥远的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈmoʊt/",
+    "uk_phonetic": "/rɪˈməʊt/",
+    "example_sentence_en": "The village is in a remote area of the mountains.",
+    "example_sentence_cn": "这个村庄位于山区一个偏远的地方。",
+    "inflection": "比较级: remoter | 最高级: remotest"
+  },
+  {
+    "english": "exotic",
+    "chinese": "异国的；奇异的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪɡˈzɑːtɪk/",
+    "uk_phonetic": "/ɪɡˈzɒtɪk/",
+    "example_sentence_en": "She loves to travel and see exotic plants.",
+    "example_sentence_cn": "她喜欢旅行去看异国植物。",
+    "inflection": "无"
+  },
+  {
+    "english": "route",
+    "chinese": "路线；航线",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ruːt/",
+    "uk_phonetic": "/ruːt/",
+    "example_sentence_en": "We took a scenic route to the coast.",
+    "example_sentence_cn": "我们走了一条风景优美的路线去海岸。",
+    "inflection": "复数: routes"
+  },
+  {
+    "english": "landmark",
+    "chinese": "地标；里程碑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlændmɑːrk/",
+    "uk_phonetic": "/ˈlændmɑːk/",
+    "example_sentence_en": "The Eiffel Tower is a famous landmark in Paris.",
+    "example_sentence_cn": "埃菲尔铁塔是巴黎著名的地标。",
+    "inflection": "复数: landmarks"
+  },
+  {
+    "english": "spectacular",
+    "chinese": "壮观的；惊人的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/spekˈtækjələr/",
+    "uk_phonetic": "/spekˈtækjələ(r)/",
+    "example_sentence_en": "The view from the top of the mountain was spectacular.",
+    "example_sentence_cn": "从山顶看到的景色非常壮观。",
+    "inflection": "无"
+  },
+  {
+    "english": "breathtaking",
+    "chinese": "令人叹为观止的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbreθteɪkɪŋ/",
+    "uk_phonetic": "/ˈbreθteɪkɪŋ/",
+    "example_sentence_en": "The sunset over the ocean was breathtaking.",
+    "example_sentence_cn": "海上的日落令人叹为观止。",
+    "inflection": "无"
+  },
+  {
+    "english": "picturesque",
+    "chinese": "风景如画的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌpɪktʃəˈresk/",
+    "uk_phonetic": "/ˌpɪktʃəˈresk/",
+    "example_sentence_en": "We visited a picturesque village by the lake.",
+    "example_sentence_cn": "我们参观了湖边一个风景如画的村庄。",
+    "inflection": "无"
+  },
+  {
+    "english": "tranquil",
+    "chinese": "宁静的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtræŋkwɪl/",
+    "uk_phonetic": "/ˈtræŋkwɪl/",
+    "example_sentence_en": "The hotel is located in a tranquil setting.",
+    "example_sentence_cn": "酒店坐落在宁静的环境中。",
+    "inflection": "比较级: more tranquil | 最高级: most tranquil"
+  },
+  {
+    "english": "bustling",
+    "chinese": "熙熙攘攘的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbʌslɪŋ/",
+    "uk_phonetic": "/ˈbʌslɪŋ/",
+    "example_sentence_en": "The bustling market was full of tourists.",
+    "example_sentence_cn": "熙熙攘攘的市场挤满了游客。",
+    "inflection": "无"
+  },
+  {
+    "english": "vibrant",
+    "chinese": "充满生机的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvaɪbrənt/",
+    "uk_phonetic": "/ˈvaɪbrənt/",
+    "example_sentence_en": "The city has a vibrant nightlife.",
+    "example_sentence_cn": "这座城市有充满生机的夜生活。",
+    "inflection": "无"
+  },
+  {
+    "english": "sightseeing",
+    "chinese": "观光",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsaɪtsiːɪŋ/",
+    "uk_phonetic": "/ˈsaɪtsiːɪŋ/",
+    "example_sentence_en": "We spent the morning sightseeing in London.",
+    "example_sentence_cn": "我们一早在伦敦观光。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "adventure",
+    "chinese": "冒险；奇遇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ədˈventʃər/",
+    "uk_phonetic": "/ədˈventʃə(r)/",
+    "example_sentence_en": "Traveling alone was a great adventure for him.",
+    "example_sentence_cn": "独自旅行对他来说是一次大冒险。",
+    "inflection": "复数: adventures"
+  },
+  {
+    "english": "embark",
+    "chinese": "上船；开始",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪmˈbɑːrk/",
+    "uk_phonetic": "/ɪmˈbɑːk/",
+    "example_sentence_en": "We will embark on a new journey tomorrow.",
+    "example_sentence_cn": "我们明天将开始一段新的旅程。",
+    "inflection": "动词变化: embarks / embarked / embarking"
+  },
+  {
+    "english": "abroad",
+    "chinese": "在国外；到国外",
+    "part_of_speech": "adv. / adj.",
+    "us_phonetic": "/əˈbrɔːd/",
+    "uk_phonetic": "/əˈbrɔːd/",
+    "example_sentence_en": "She plans to study abroad next year.",
+    "example_sentence_cn": "她计划明年出国留学。",
+    "inflection": "无"
+  },
+  {
+    "english": "wanderlust",
+    "chinese": "旅行癖；漫游癖",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɑːndərlʌst/",
+    "uk_phonetic": "/ˈwɒndəlʌst/",
+    "example_sentence_en": "His wanderlust made him travel to 50 countries.",
+    "example_sentence_cn": "他的漫游癖让他去了50个国家。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "ecology",
+    "chinese": "生态学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/iˈkɑːlədʒi/",
+    "uk_phonetic": "/iˈkɒlədʒi/",
+    "example_sentence_en": "She is studying ecology to help protect the environment.",
+    "example_sentence_cn": "她正在学习生态学以帮助保护环境。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "conservation",
+    "chinese": "保护；保存",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːnsərˈveɪʃn/",
+    "uk_phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "example_sentence_en": "Wildlife conservation is very important for our planet.",
+    "example_sentence_cn": "野生动物保护对我们的星球非常重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "biodiversity",
+    "chinese": "生物多样性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+    "uk_phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "example_sentence_en": "The rainforest is known for its rich biodiversity.",
+    "example_sentence_cn": "雨林以其丰富的生物多样性而闻名。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "wildlife",
+    "chinese": "野生动植物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwaɪldlaɪf/",
+    "uk_phonetic": "/ˈwaɪldlaɪf/",
+    "example_sentence_en": "We saw a lot of wildlife during our safari.",
+    "example_sentence_cn": "我们在狩猎旅行中看到了很多野生动物。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "habitat",
+    "chinese": "栖息地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhæbɪtæt/",
+    "uk_phonetic": "/ˈhæbɪtæt/",
+    "example_sentence_en": "Polar bears are losing their habitat due to global warming.",
+    "example_sentence_cn": "由于全球变暖，北极熊正在失去它们的栖息地。",
+    "inflection": "复数: habitats"
+  },
+  {
+    "english": "flora",
+    "chinese": "植物群",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈflɔːrə/",
+    "uk_phonetic": "/ˈflɔːrə/",
+    "example_sentence_en": "The island has unique flora and fauna.",
+    "example_sentence_cn": "这座岛屿拥有独特的动植物群。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "fauna",
+    "chinese": "动物群",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɔːnə/",
+    "uk_phonetic": "/ˈfɔːnə/",
+    "example_sentence_en": "The scientists studied the fauna of the region.",
+    "example_sentence_cn": "科学家们研究了该地区的动物群。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "climate",
+    "chinese": "气候",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklaɪmət/",
+    "uk_phonetic": "/ˈklaɪmət/",
+    "example_sentence_en": "Climate change is a serious global issue.",
+    "example_sentence_cn": "气候变化是一个严重的全球性问题。",
+    "inflection": "复数: climates"
+  },
+  {
+    "english": "glacier",
+    "chinese": "冰川",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡleɪʃər/",
+    "uk_phonetic": "/ˈɡlæsiə(r)/",
+    "example_sentence_en": "The glacier has been melting rapidly in recent years.",
+    "example_sentence_cn": "近年来冰川一直在迅速融化。",
+    "inflection": "复数: glaciers"
+  },
+  {
+    "english": "rainforest",
+    "chinese": "雨林",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈreɪnfɔːrɪst/",
+    "uk_phonetic": "/ˈreɪnfɒrɪst/",
+    "example_sentence_en": "The Amazon is the largest rainforest in the world.",
+    "example_sentence_cn": "亚马逊是世界上最大的雨林。",
+    "inflection": "复数: rainforests"
+  },
+  {
+    "english": "desert",
+    "chinese": "沙漠",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdezərt/",
+    "uk_phonetic": "/ˈdezət/",
+    "example_sentence_en": "The Sahara is a vast and hot desert.",
+    "example_sentence_cn": "撒哈拉是一个广阔而炎热的沙漠。",
+    "inflection": "复数: deserts"
+  },
+  {
+    "english": "volcano",
+    "chinese": "火山",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vɑːlˈkeɪnoʊ/",
+    "uk_phonetic": "/vɒlˈkeɪnəʊ/",
+    "example_sentence_en": "The volcano erupted after fifty years of silence.",
+    "example_sentence_cn": "这座火山在沉寂了五十年后喷发了。",
+    "inflection": "复数: volcanoes"
+  },
+  {
+    "english": "plateau",
+    "chinese": "高原",
+    "part_of_speech": "n.",
+    "us_phonetic": "/plæˈtoʊ/",
+    "uk_phonetic": "/ˈplætəʊ/",
+    "example_sentence_en": "The Qinghai-Tibet Plateau is known as the roof of the world.",
+    "example_sentence_cn": "青藏高原被称为世界屋脊。",
+    "inflection": "复数: plateaus / plateaux"
+  },
+  {
+    "english": "valley",
+    "chinese": "山谷；溪谷",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvæli/",
+    "uk_phonetic": "/ˈvæli/",
+    "example_sentence_en": "A river flows through the beautiful valley.",
+    "example_sentence_cn": "一条河流穿过美丽的山谷。",
+    "inflection": "复数: valleys"
+  },
+  {
+    "english": "peak",
+    "chinese": "山峰；顶峰",
+    "part_of_speech": "n.",
+    "us_phonetic": "/piːk/",
+    "uk_phonetic": "/piːk/",
+    "example_sentence_en": "We reached the peak of the mountain at noon.",
+    "example_sentence_cn": "我们在中午到达了山峰。",
+    "inflection": "复数: peaks"
+  },
+  {
+    "english": "ecosystem",
+    "chinese": "生态系统",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːkoʊsɪstəm/",
+    "uk_phonetic": "/ˈiːkəʊsɪstəm/",
+    "example_sentence_en": "The ecosystem of the ocean is very delicate.",
+    "example_sentence_cn": "海洋的生态系统非常脆弱。",
+    "inflection": "复数: ecosystems"
+  },
+  {
+    "english": "sustainable",
+    "chinese": "可持续的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səˈsteɪnəbl/",
+    "uk_phonetic": "/səˈsteɪnəbl/",
+    "example_sentence_en": "We need to find sustainable ways to live.",
+    "example_sentence_cn": "我们需要寻找可持续的生存方式。",
+    "inflection": "无"
+  },
+  {
+    "english": "endangered",
+    "chinese": "濒危的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈdeɪndʒərd/",
+    "uk_phonetic": "/ɪnˈdeɪndʒəd/",
+    "example_sentence_en": "Pandas are an endangered species.",
+    "example_sentence_cn": "熊猫是濒危物种。",
+    "inflection": "无"
+  },
+  {
+    "english": "magnificent",
+    "chinese": "壮丽的；宏伟的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/mæɡˈnɪfɪsnt/",
+    "uk_phonetic": "/mæɡˈnɪfɪsnt/",
+    "example_sentence_en": "The view of the mountains was truly magnificent.",
+    "example_sentence_cn": "山景确实非常壮丽。",
+    "inflection": "比较级: more magnificent | 最高级: most magnificent"
+  },
+  {
+    "english": "preserve",
+    "chinese": "保护；保存",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈzɜːrv/",
+    "uk_phonetic": "/prɪˈzɜːv/",
+    "example_sentence_en": "We should preserve our natural resources.",
+    "example_sentence_cn": "我们应该保护我们的自然资源。",
+    "inflection": "动词变化: preserves / preserved / preserving"
+  },
+  {
+    "english": "extinct",
+    "chinese": "灭绝的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈstɪŋkt/",
+    "uk_phonetic": "/ɪkˈstɪŋkt/",
+    "example_sentence_en": "Dinosaurs have been extinct for millions of years.",
+    "example_sentence_cn": "恐龙已经灭绝了数百万年。",
+    "inflection": "无"
+  },
+  {
+    "english": "pollution",
+    "chinese": "污染",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pəˈluːʃn/",
+    "uk_phonetic": "/pəˈluːʃn/",
+    "example_sentence_en": "Air pollution is a serious problem in big cities.",
+    "example_sentence_cn": "空气污染是大城市的一个严重问题。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "renewable",
+    "chinese": "可再生的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈnuːəbl/",
+    "uk_phonetic": "/rɪˈnjuːəbl/",
+    "example_sentence_en": "Solar energy is a type of renewable energy.",
+    "example_sentence_cn": "太阳能是一种可再生能源。",
+    "inflection": "无"
+  },
+  {
+    "english": "terrain",
+    "chinese": "地形；地带",
+    "part_of_speech": "n.",
+    "us_phonetic": "/təˈreɪn/",
+    "uk_phonetic": "/təˈreɪn/",
+    "example_sentence_en": "The terrain here is very rocky and steep.",
+    "example_sentence_cn": "这里的地形非常多岩石且陡峭。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "meadow",
+    "chinese": "草地；牧场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmedoʊ/",
+    "uk_phonetic": "/ˈmedəʊ/",
+    "example_sentence_en": "The sheep were grazing in the meadow.",
+    "example_sentence_cn": "羊在草地上吃草。",
+    "inflection": "复数: meadows"
+  },
+  {
+    "english": "cliff",
+    "chinese": "悬崖；峭壁",
+    "part_of_speech": "n.",
+    "us_phonetic": "/klɪf/",
+    "uk_phonetic": "/klɪf/",
+    "example_sentence_en": "They climbed up the steep cliff.",
+    "example_sentence_cn": "他们爬上了陡峭的悬崖。",
+    "inflection": "复数: cliffs"
+  },
+  {
+    "english": "waterfall",
+    "chinese": "瀑布",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɔːtərfɔːl/",
+    "uk_phonetic": "/ˈwɔːtəfɔːl/",
+    "example_sentence_en": "The waterfall cascaded down into the pool below.",
+    "example_sentence_cn": "瀑布倾泻而下流入下方的水池。",
+    "inflection": "复数: waterfalls"
+  },
+  {
+    "english": "marine",
+    "chinese": "海洋的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/məˈriːn/",
+    "uk_phonetic": "/məˈriːn/",
+    "example_sentence_en": "Marine life is threatened by plastic waste.",
+    "example_sentence_cn": "海洋生物受到塑料废弃物的威胁。",
+    "inflection": "无"
+  },
+  {
+    "english": "wilderness",
+    "chinese": "荒野；荒地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɪldərnəs/",
+    "uk_phonetic": "/ˈwɪldənəs/",
+    "example_sentence_en": "He survived alone in the wilderness for a week.",
+    "example_sentence_cn": "他在荒野中独自生存了一周。",
+    "inflection": "复数: wildernesses"
+  },
+  {
+    "english": "pristine",
+    "chinese": "原始的；未受破坏的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈprɪstiːn/",
+    "uk_phonetic": "/ˈprɪstiːn/",
+    "example_sentence_en": "We discovered a pristine beach with white sand.",
+    "example_sentence_cn": "我们发现了一片有着白沙的原始海滩。",
+    "inflection": "无"
+  },
+  {
+    "english": "majestic",
+    "chinese": "雄伟的；壮丽的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/məˈdʒestɪk/",
+    "uk_phonetic": "/məˈdʒestɪk/",
+    "example_sentence_en": "The majestic eagle soared through the sky.",
+    "example_sentence_cn": "雄伟的鹰在空中翱翔。",
+    "inflection": "比较级: more majestic | 最高级: most majestic"
+  },
+  {
+    "english": "thrive",
+    "chinese": "繁荣；茁壮成长",
+    "part_of_speech": "v.",
+    "us_phonetic": "/θraɪv/",
+    "uk_phonetic": "/θraɪv/",
+    "example_sentence_en": "Plants thrive in this warm and wet climate.",
+    "example_sentence_cn": "植物在这种温暖潮湿的气候中茁壮成长。",
+    "inflection": "动词变化: thrives / thrived / thriving"
+  },
+  {
+    "english": "evolve",
+    "chinese": "进化；发展",
+    "part_of_speech": "v.",
+    "us_phonetic": "/iˈvɑːlv/",
+    "uk_phonetic": "/iˈvɒlv/",
+    "example_sentence_en": "Animals must evolve to survive changing environments.",
+    "example_sentence_cn": "动物必须进化才能在不断变化的环境中生存。",
+    "inflection": "动词变化: evolves / evolved / evolving"
+  },
+  {
+    "english": "heritage",
+    "chinese": "遗产；传统",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈherɪtɪdʒ/",
+    "uk_phonetic": "/ˈherɪtɪdʒ/",
+    "example_sentence_en": "The Great Wall is an important cultural heritage site.",
+    "example_sentence_cn": "长城是一个重要的文化遗产地。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "tradition",
+    "chinese": "传统；惯例",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trəˈdɪʃn/",
+    "uk_phonetic": "/trəˈdɪʃn/",
+    "example_sentence_en": "It is a tradition to eat mooncakes during the Mid-Autumn Festival.",
+    "example_sentence_cn": "在中秋节吃月饼是一个传统。",
+    "inflection": "复数: traditions"
+  },
+  {
+    "english": "custom",
+    "chinese": "习俗；风俗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʌstəm/",
+    "uk_phonetic": "/ˈkʌstəm/",
+    "example_sentence_en": "Every country has its own unique customs.",
+    "example_sentence_cn": "每个国家都有自己独特的习俗。",
+    "inflection": "复数: customs"
+  },
+  {
+    "english": "festival",
+    "chinese": "节日；庆祝活动",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfestɪvl/",
+    "uk_phonetic": "/ˈfestɪvl/",
+    "example_sentence_en": "The Spring Festival is the most important holiday in China.",
+    "example_sentence_cn": "春节是中国最重要的节日。",
+    "inflection": "复数: festivals"
+  },
+  {
+    "english": "ceremony",
+    "chinese": "典礼；仪式",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈserəmoʊni/",
+    "uk_phonetic": "/ˈserəməni/",
+    "example_sentence_en": "The wedding ceremony was held in a beautiful garden.",
+    "example_sentence_cn": "婚礼仪式在一个美丽的花园里举行。",
+    "inflection": "复数: ceremonies"
+  },
+  {
+    "english": "costume",
+    "chinese": "服装；戏装",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːstuːm/",
+    "uk_phonetic": "/ˈkɒstjuːm/",
+    "example_sentence_en": "The actors wore traditional costumes for the performance.",
+    "example_sentence_cn": "演员们穿着传统服装进行表演。",
+    "inflection": "复数: costumes"
+  },
+  {
+    "english": "cuisine",
+    "chinese": "烹饪；菜肴",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kwɪˈziːn/",
+    "uk_phonetic": "/kwɪˈziːn/",
+    "example_sentence_en": "French cuisine is famous all over the world.",
+    "example_sentence_cn": "法国菜闻名全世界。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "architecture",
+    "chinese": "建筑学；建筑风格",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːrkɪtektʃər/",
+    "uk_phonetic": "/ˈɑːkɪtektʃə(r)/",
+    "example_sentence_en": "The city is known for its modern architecture.",
+    "example_sentence_cn": "这座城市以其现代建筑闻名。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "religion",
+    "chinese": "宗教",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈlɪdʒən/",
+    "uk_phonetic": "/rɪˈlɪdʒən/",
+    "example_sentence_en": "People of different religions live together peacefully here.",
+    "example_sentence_cn": "不同宗教的人们在这里和平共处。",
+    "inflection": "复数: religions"
+  },
+  {
+    "english": "belief",
+    "chinese": "信仰；信念",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɪˈliːf/",
+    "uk_phonetic": "/bɪˈliːf/",
+    "example_sentence_en": "He has a strong belief in justice.",
+    "example_sentence_cn": "他对正义有强烈的信念。",
+    "inflection": "复数: beliefs"
+  },
+  {
+    "english": "diversity",
+    "chinese": "多样性；差异",
+    "part_of_speech": "n.",
+    "us_phonetic": "/daɪˈvɜːrsəti/",
+    "uk_phonetic": "/daɪˈvɜːsəti/",
+    "example_sentence_en": "Cultural diversity makes our society richer.",
+    "example_sentence_cn": "文化多样性使我们的社会更丰富。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "legacy",
+    "chinese": "遗产；遗留",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈleɡəsi/",
+    "uk_phonetic": "/ˈleɡəsi/",
+    "example_sentence_en": "The writer left a rich literary legacy.",
+    "example_sentence_cn": "这位作家留下了丰富的文学遗产。",
+    "inflection": "复数: legacies"
+  },
+  {
+    "english": "artifact",
+    "chinese": "人工制品；文物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːrtɪfækt/",
+    "uk_phonetic": "/ˈɑːtɪfækt/",
+    "example_sentence_en": "The museum displays many ancient artifacts.",
+    "example_sentence_cn": "博物馆展出许多古代文物。",
+    "inflection": "复数: artifacts"
+  },
+  {
+    "english": "gallery",
+    "chinese": "画廊；美术馆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡæləri/",
+    "uk_phonetic": "/ˈɡæləri/",
+    "example_sentence_en": "We visited an art gallery last Sunday.",
+    "example_sentence_cn": "上周日我们参观了一家美术馆。",
+    "inflection": "复数: galleries"
+  },
+  {
+    "english": "folklore",
+    "chinese": "民间传说；民俗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfoʊklɔːr/",
+    "uk_phonetic": "/ˈfəʊklɔː(r)/",
+    "example_sentence_en": "The story is part of local folklore.",
+    "example_sentence_cn": "这个故事是当地民间传说的一部分。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "assimilate",
+    "chinese": "同化；吸收",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈsɪməleɪt/",
+    "uk_phonetic": "/əˈsɪməleɪt/",
+    "example_sentence_en": "Immigrants often assimilate into the new culture.",
+    "example_sentence_cn": "移民通常会融入新文化。",
+    "inflection": "动词变化: assimilates / assimilated / assimilating"
+  },
+  {
+    "english": "multicultural",
+    "chinese": "多元文化的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+    "uk_phonetic": "/ˌmʌltiˈkʌltʃərəl/",
+    "example_sentence_en": "London is a multicultural city.",
+    "example_sentence_cn": "伦敦是一个多元文化的城市。",
+    "inflection": "无"
+  },
+  {
+    "english": "authentic",
+    "chinese": "真实的；正宗的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɔːˈθentɪk/",
+    "uk_phonetic": "/ɔːˈθentɪk/",
+    "example_sentence_en": "We ate authentic Italian pizza at the restaurant.",
+    "example_sentence_cn": "我们在餐厅吃了正宗的意大利披萨。",
+    "inflection": "比较级: more authentic | 最高级: most authentic"
+  },
+  {
+    "english": "ritual",
+    "chinese": "仪式；惯例",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɪtʃuəl/",
+    "uk_phonetic": "/ˈrɪtʃuəl/",
+    "example_sentence_en": "The tribe performs a special ritual before hunting.",
+    "example_sentence_cn": "部落打猎前会举行特殊的仪式。",
+    "inflection": "复数: rituals"
+  },
+  {
+    "english": "ancestor",
+    "chinese": "祖先",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈænsestər/",
+    "uk_phonetic": "/ˈænsestə(r)/",
+    "example_sentence_en": "His ancestors came to this country hundreds of years ago.",
+    "example_sentence_cn": "他的祖先几百年前来到这个国家。",
+    "inflection": "复数: ancestors"
+  },
+  {
+    "english": "descendant",
+    "chinese": "后裔；后代",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈsendənt/",
+    "uk_phonetic": "/dɪˈsendənt/",
+    "example_sentence_en": "She is a direct descendant of a famous poet.",
+    "example_sentence_cn": "她是一位著名诗人的直系后代。",
+    "inflection": "复数: descendants"
+  },
+  {
+    "english": "generation",
+    "chinese": "一代人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdʒenəˈreɪʃn/",
+    "uk_phonetic": "/ˌdʒenəˈreɪʃn/",
+    "example_sentence_en": "Traditions are passed down from generation to generation.",
+    "example_sentence_cn": "传统代代相传。",
+    "inflection": "复数: generations"
+  },
+  {
+    "english": "indigenous",
+    "chinese": "本土的；土生土长的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈdɪdʒənəs/",
+    "uk_phonetic": "/ɪnˈdɪdʒənəs/",
+    "example_sentence_en": "We should respect the rights of indigenous people.",
+    "example_sentence_cn": "我们应该尊重土著人民的权利。",
+    "inflection": "无"
+  },
+  {
+    "english": "myth",
+    "chinese": "神话；虚构的故事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɪθ/",
+    "uk_phonetic": "/mɪθ/",
+    "example_sentence_en": "Ancient Greek myths are still popular today.",
+    "example_sentence_cn": "古希腊神话至今仍然很受欢迎。",
+    "inflection": "复数: myths"
+  },
+  {
+    "english": "legend",
+    "chinese": "传说；传奇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈledʒənd/",
+    "uk_phonetic": "/ˈledʒənd/",
+    "example_sentence_en": "He is a legend in the music industry.",
+    "example_sentence_cn": "他是音乐界的传奇。",
+    "inflection": "复数: legends"
+  },
+  {
+    "english": "narrative",
+    "chinese": "叙述；故事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnærətɪv/",
+    "uk_phonetic": "/ˈnærətɪv/",
+    "example_sentence_en": "The movie has a very compelling narrative.",
+    "example_sentence_cn": "这部电影的叙述非常引人入胜。",
+    "inflection": "复数: narratives"
+  },
+  {
+    "english": "craft",
+    "chinese": "手艺；工艺",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kræft/",
+    "uk_phonetic": "/krɑːft/",
+    "example_sentence_en": "Local crafts are popular among tourists.",
+    "example_sentence_cn": "当地手工艺品很受游客欢迎。",
+    "inflection": "复数: crafts"
+  },
+  {
+    "english": "embroidery",
+    "chinese": "刺绣",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪmˈbrɔɪdəri/",
+    "uk_phonetic": "/ɪmˈbrɔɪdəri/",
+    "example_sentence_en": "Chinese embroidery is famous for its detail.",
+    "example_sentence_cn": "中国刺绣以其精细闻名。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "pottery",
+    "chinese": "陶器；制陶工艺",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɑːtəri/",
+    "uk_phonetic": "/ˈpɒtəri/",
+    "example_sentence_en": "She enjoys making pottery in her free time.",
+    "example_sentence_cn": "她空闲时喜欢做陶器。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "exhibit",
+    "chinese": "展览；展出",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ɪɡˈzɪbɪt/",
+    "uk_phonetic": "/ɪɡˈzɪbɪt/",
+    "example_sentence_en": "The museum is exhibiting ancient Egyptian treasures.",
+    "example_sentence_cn": "博物馆正在展出古埃及宝藏。",
+    "inflection": "动词变化: exhibits / exhibited / exhibiting; 复数: exhibits"
+  },
+  {
+    "english": "performance",
+    "chinese": "表演；表现",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈfɔːrməns/",
+    "uk_phonetic": "/pəˈfɔːməns/",
+    "example_sentence_en": "The cultural performance was amazing.",
+    "example_sentence_cn": "这场文化表演非常精彩。",
+    "inflection": "复数: performances"
+  },
+  {
+    "english": "melody",
+    "chinese": "旋律；曲调",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmelədi/",
+    "uk_phonetic": "/ˈmelədi/",
+    "example_sentence_en": "The melody of this song is very beautiful.",
+    "example_sentence_cn": "这首歌的旋律非常优美。",
+    "inflection": "复数: melodies"
+  },
+  {
+    "english": "rhythm",
+    "chinese": "节奏；韵律",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɪðəm/",
+    "uk_phonetic": "/ˈrɪðəm/",
+    "example_sentence_en": "I love the rhythm of African drums.",
+    "example_sentence_cn": "我喜欢非洲鼓的节奏。",
+    "inflection": "复数: rhythms"
+  },
+  {
+    "english": "etiquette",
+    "chinese": "礼节；礼仪",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈetɪket/",
+    "uk_phonetic": "/ˈetɪket/",
+    "example_sentence_en": "It is good etiquette to say thank you.",
+    "example_sentence_cn": "说谢谢是良好的礼节。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "unique",
+    "chinese": "独一无二的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/juˈniːk/",
+    "uk_phonetic": "/juˈniːk/",
+    "example_sentence_en": "Every culture has its own unique traditions.",
+    "example_sentence_cn": "每种文化都有自己独一无二的传统。",
+    "inflection": "无"
+  },
+  {
+    "english": "integrate",
+    "chinese": "融入；整合",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɪntɪɡreɪt/",
+    "uk_phonetic": "/ˈɪntɪɡreɪt/",
+    "example_sentence_en": "It is important to integrate into the local community.",
+    "example_sentence_cn": "融入当地社区很重要。",
+    "inflection": "动词变化: integrates / integrated / integrating"
+  },
+  {
+    "english": "harmonious",
+    "chinese": "和谐的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/hɑːrˈmoʊniəs/",
+    "uk_phonetic": "/hɑːˈməʊniəs/",
+    "example_sentence_en": "We live in a harmonious society.",
+    "example_sentence_cn": "我们生活在一个和谐的社会中。",
+    "inflection": "比较级: more harmonious | 最高级: most harmonious"
+  },
+  {
+    "english": "tolerance",
+    "chinese": "宽容；容忍",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtɑːlərəns/",
+    "uk_phonetic": "/ˈtɒlərəns/",
+    "example_sentence_en": "We should show tolerance towards different cultures.",
+    "example_sentence_cn": "我们应该对不同的文化表现出宽容。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "appreciate",
+    "chinese": "欣赏；感激",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈpriːʃieɪt/",
+    "uk_phonetic": "/əˈpriːʃieɪt/",
+    "example_sentence_en": "We should learn to appreciate other cultures.",
+    "example_sentence_cn": "我们应该学会欣赏其他文化。",
+    "inflection": "动词变化: appreciates / appreciated / appreciating"
+  }
+]

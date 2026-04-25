@@ -1,0 +1,1162 @@
+[
+  {
+    "english": "elaborate",
+    "chinese": "详细阐述；精心制作的",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ɪˈlæbəreɪt/",
+    "uk_phonetic": "/ɪˈlæbəreɪt/",
+    "example_sentence_en": "Please elaborate on your argument with concrete examples.",
+    "example_sentence_cn": "请用具体例子详细阐述你的论点。",
+    "inflection": "动词变化: elaborates / elaborated / elaborating"
+  },
+  {
+    "english": "articulate",
+    "chinese": "清晰表达；口齿清楚的",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "uk_phonetic": "/ɑːˈtɪkjuleɪt/",
+    "example_sentence_en": "She was able to articulate her ideas clearly in the essay.",
+    "example_sentence_cn": "她能够在文章中清晰地表达自己的想法。",
+    "inflection": "动词变化: articulates / articulated / articulating"
+  },
+  {
+    "english": "substantiate",
+    "chinese": "证实；用事实支持",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səbˈstænʃieɪt/",
+    "uk_phonetic": "/səbˈstænʃieɪt/",
+    "example_sentence_en": "Every argument must be substantiated with reliable evidence.",
+    "example_sentence_cn": "每个论点都必须用可靠的证据加以证实。",
+    "inflection": "动词变化: substantiates / substantiated / substantiating"
+  },
+  {
+    "english": "infer",
+    "chinese": "推断；推论",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈfɜːr/",
+    "uk_phonetic": "/ɪnˈfɜː(r)/",
+    "example_sentence_en": "From the passage, we can infer that the author is optimistic.",
+    "example_sentence_cn": "从文章中我们可以推断作者是乐观的。",
+    "inflection": "动词变化: infers / inferred / inferring"
+  },
+  {
+    "english": "deduce",
+    "chinese": "演绎；推导",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈduːs/",
+    "uk_phonetic": "/dɪˈdjuːs/",
+    "example_sentence_en": "From the data, scientists can deduce the cause of the problem.",
+    "example_sentence_cn": "科学家可以从数据中推导出问题的原因。",
+    "inflection": "动词变化: deduces / deduced / deducing"
+  },
+  {
+    "english": "discern",
+    "chinese": "辨别；认识",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈsɜːrn/",
+    "uk_phonetic": "/dɪˈsɜːn/",
+    "example_sentence_en": "Good readers can discern the author's tone from the text.",
+    "example_sentence_cn": "优秀的读者能从文本中辨别出作者的语气。",
+    "inflection": "动词变化: discerns / discerned / discerning"
+  },
+  {
+    "english": "perceive",
+    "chinese": "感知；意识到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈsiːv/",
+    "uk_phonetic": "/pəˈsiːv/",
+    "example_sentence_en": "How we perceive a problem affects how we solve it.",
+    "example_sentence_cn": "我们如何感知一个问题影响我们如何解决它。",
+    "inflection": "动词变化: perceives / perceived / perceiving"
+  },
+  {
+    "english": "contemplate",
+    "chinese": "沉思；考虑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkɑːntəmpleɪt/",
+    "uk_phonetic": "/ˈkɒntəmpleɪt/",
+    "example_sentence_en": "She contemplated the meaning of the poem carefully.",
+    "example_sentence_cn": "她仔细地思考了这首诗的含义。",
+    "inflection": "动词变化: contemplates / contemplated / contemplating"
+  },
+  {
+    "english": "comprehend",
+    "chinese": "理解；领会",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌkɑːmprɪˈhend/",
+    "uk_phonetic": "/ˌkɒmprɪˈhend/",
+    "example_sentence_en": "Some students struggle to comprehend complex texts.",
+    "example_sentence_cn": "一些学生很难理解复杂的文本。",
+    "inflection": "动词变化: comprehends / comprehended / comprehending"
+  },
+  {
+    "english": "interpret",
+    "chinese": "解释；理解；口译",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈtɜːrprɪt/",
+    "uk_phonetic": "/ɪnˈtɜːprɪt/",
+    "example_sentence_en": "Different people interpret the same text in different ways.",
+    "example_sentence_cn": "不同的人以不同的方式理解同一文本。",
+    "inflection": "动词变化: interprets / interpreted / interpreting"
+  },
+  {
+    "english": "convey",
+    "chinese": "传达；传递",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈveɪ/",
+    "uk_phonetic": "/kənˈveɪ/",
+    "example_sentence_en": "The author conveys a sense of hopelessness through the imagery.",
+    "example_sentence_cn": "作者通过意象传达了一种绝望的感觉。",
+    "inflection": "动词变化: conveys / conveyed / conveying"
+  },
+  {
+    "english": "depict",
+    "chinese": "描绘；描述",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈpɪkt/",
+    "uk_phonetic": "/dɪˈpɪkt/",
+    "example_sentence_en": "The writer depicts the struggles of the working class.",
+    "example_sentence_cn": "这位作家描绘了工人阶级的挣扎。",
+    "inflection": "动词变化: depicts / depicted / depicting"
+  },
+  {
+    "english": "evoke",
+    "chinese": "唤起；引起",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈvoʊk/",
+    "uk_phonetic": "/ɪˈvəʊk/",
+    "example_sentence_en": "The vivid description evokes a strong emotional response.",
+    "example_sentence_cn": "生动的描述唤起了强烈的情感共鸣。",
+    "inflection": "动词变化: evokes / evoked / evoking"
+  },
+  {
+    "english": "illuminate",
+    "chinese": "阐明；照亮",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈluːmɪneɪt/",
+    "uk_phonetic": "/ɪˈluːmɪneɪt/",
+    "example_sentence_en": "The examples in the essay illuminate the main argument.",
+    "example_sentence_cn": "文章中的例子阐明了主要论点。",
+    "inflection": "动词变化: illuminates / illuminated / illuminating"
+  },
+  {
+    "english": "emphasize",
+    "chinese": "强调；重视",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈemfəsaɪz/",
+    "uk_phonetic": "/ˈemfəsaɪz/",
+    "example_sentence_en": "Teachers always emphasize the importance of reading widely.",
+    "example_sentence_cn": "老师们总是强调广泛阅读的重要性。",
+    "inflection": "动词变化: emphasizes / emphasized / emphasizing"
+  },
+  {
+    "english": "exemplify",
+    "chinese": "举例说明；体现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪɡˈzemplɪfaɪ/",
+    "uk_phonetic": "/ɪɡˈzemplɪfaɪ/",
+    "example_sentence_en": "This case exemplifies the dangers of overconfidence.",
+    "example_sentence_cn": "这个案例体现了过度自信的危险。",
+    "inflection": "动词变化: exemplifies / exemplified / exemplifying"
+  },
+  {
+    "english": "contradict",
+    "chinese": "反驳；与……相矛盾",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌkɑːntrəˈdɪkt/",
+    "uk_phonetic": "/ˌkɒntrəˈdɪkt/",
+    "example_sentence_en": "The evidence contradicts the hypothesis.",
+    "example_sentence_cn": "证据与假设相矛盾。",
+    "inflection": "动词变化: contradicts / contradicted / contradicting"
+  },
+  {
+    "english": "rebut",
+    "chinese": "反驳；驳斥",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈbʌt/",
+    "uk_phonetic": "/rɪˈbʌt/",
+    "example_sentence_en": "He skillfully rebutted each point of the opposing argument.",
+    "example_sentence_cn": "他熟练地反驳了对方论点的每一点。",
+    "inflection": "动词变化: rebuts / rebutted / rebutting"
+  },
+  {
+    "english": "validate",
+    "chinese": "验证；使有效",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈvælɪdeɪt/",
+    "uk_phonetic": "/ˈvælɪdeɪt/",
+    "example_sentence_en": "Experiments were conducted to validate the theory.",
+    "example_sentence_cn": "进行了实验来验证这一理论。",
+    "inflection": "动词变化: validates / validated / validating"
+  },
+  {
+    "english": "verify",
+    "chinese": "证实；核实",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈverɪfaɪ/",
+    "uk_phonetic": "/ˈverɪfaɪ/",
+    "example_sentence_en": "Please verify the accuracy of the data before submission.",
+    "example_sentence_cn": "提交前请核实数据的准确性。",
+    "inflection": "动词变化: verifies / verified / verifying"
+  },
+  {
+    "english": "scrutinize",
+    "chinese": "仔细审查；细察",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈskruːtənaɪz/",
+    "uk_phonetic": "/ˈskruːtɪnaɪz/",
+    "example_sentence_en": "Examiners scrutinize every detail of the written response.",
+    "example_sentence_cn": "考官仔细审查书面答案的每一个细节。",
+    "inflection": "动词变化: scrutinizes / scrutinized / scrutinizing"
+  },
+  {
+    "english": "acknowledge",
+    "chinese": "承认；认可",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əkˈnɑːlɪdʒ/",
+    "uk_phonetic": "/əkˈnɒlɪdʒ/",
+    "example_sentence_en": "High-scoring students acknowledge their weaknesses early.",
+    "example_sentence_cn": "高分学生会及早承认自己的弱点。",
+    "inflection": "动词变化: acknowledges / acknowledged / acknowledging"
+  },
+  {
+    "english": "distinguish",
+    "chinese": "区分；辨别",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "uk_phonetic": "/dɪˈstɪŋɡwɪʃ/",
+    "example_sentence_en": "It is important to distinguish between fact and opinion.",
+    "example_sentence_cn": "区分事实和观点是很重要的。",
+    "inflection": "动词变化: distinguishes / distinguished / distinguishing"
+  },
+  {
+    "english": "elaborate",
+    "chinese": "阐述；详细说明",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈlæbəreɪt/",
+    "uk_phonetic": "/ɪˈlæbəreɪt/",
+    "example_sentence_en": "Can you elaborate on what you mean by that statement?",
+    "example_sentence_cn": "你能详细说明那句话的意思吗？",
+    "inflection": "动词变化: elaborates / elaborated / elaborating"
+  },
+  {
+    "english": "reinforce",
+    "chinese": "巩固；加强",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌriːɪnˈfɔːrs/",
+    "uk_phonetic": "/ˌriːɪnˈfɔːs/",
+    "example_sentence_en": "Doing practice papers reinforces exam technique.",
+    "example_sentence_cn": "做模拟试卷能巩固应试技巧。",
+    "inflection": "动词变化: reinforces / reinforced / reinforcing"
+  },
+  {
+    "english": "underpin",
+    "chinese": "构成……的基础；支撑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌʌndərˈpɪn/",
+    "uk_phonetic": "/ˌʌndəˈpɪn/",
+    "example_sentence_en": "Evidence underpins every strong academic argument.",
+    "example_sentence_cn": "证据是每一个有力学术论点的基础。",
+    "inflection": "动词变化: underpins / underpinned / underpinning"
+  },
+  {
+    "english": "sustain",
+    "chinese": "维持；支撑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səˈsteɪn/",
+    "uk_phonetic": "/səˈsteɪn/",
+    "example_sentence_en": "It is hard to sustain concentration during long reading passages.",
+    "example_sentence_cn": "在长篇阅读段落中保持专注是很难的。",
+    "inflection": "动词变化: sustains / sustained / sustaining"
+  },
+  {
+    "english": "contend",
+    "chinese": "主张；争辩",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈtend/",
+    "uk_phonetic": "/kənˈtend/",
+    "example_sentence_en": "Some scholars contend that the policy has been ineffective.",
+    "example_sentence_cn": "一些学者主张该政策一直无效。",
+    "inflection": "动词变化: contends / contended / contending"
+  },
+  {
+    "english": "assert",
+    "chinese": "断言；坚持",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈsɜːrt/",
+    "uk_phonetic": "/əˈsɜːt/",
+    "example_sentence_en": "The author asserts that technology is transforming education.",
+    "example_sentence_cn": "作者断言技术正在改变教育。",
+    "inflection": "动词变化: asserts / asserted / asserting"
+  },
+  {
+    "english": "concede",
+    "chinese": "承认（勉强）；让步",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈsiːd/",
+    "uk_phonetic": "/kənˈsiːd/",
+    "example_sentence_en": "He conceded that the opposing argument had some merit.",
+    "example_sentence_cn": "他承认对方的论点有一定的道理。",
+    "inflection": "动词变化: concedes / conceded / conceding"
+  },
+  {
+    "english": "extrapolate",
+    "chinese": "推断；外推",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈstræpəleɪt/",
+    "uk_phonetic": "/ɪkˈstræpəleɪt/",
+    "example_sentence_en": "We can extrapolate future trends from the current data.",
+    "example_sentence_cn": "我们可以从当前数据推断未来趋势。",
+    "inflection": "动词变化: extrapolates / extrapolated / extrapolating"
+  },
+  {
+    "english": "allude",
+    "chinese": "暗指；提及",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈluːd/",
+    "uk_phonetic": "/əˈluːd/",
+    "example_sentence_en": "The author alludes to the consequences without stating them directly.",
+    "example_sentence_cn": "作者暗指后果而没有直接说明。",
+    "inflection": "动词变化: alludes / alluded / alluding"
+  },
+  {
+    "english": "imply",
+    "chinese": "暗示；意味着",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪmˈplaɪ/",
+    "uk_phonetic": "/ɪmˈplaɪ/",
+    "example_sentence_en": "The tone of the passage implies a critical attitude.",
+    "example_sentence_cn": "文章的语气暗示了一种批判性态度。",
+    "inflection": "动词变化: implies / implied / implying"
+  },
+  {
+    "english": "attribute",
+    "chinese": "归因于；把……归于",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈtrɪbjuːt/",
+    "uk_phonetic": "/əˈtrɪbjuːt/",
+    "example_sentence_en": "Her success can be attributed to years of hard work.",
+    "example_sentence_cn": "她的成功可以归因于多年的努力工作。",
+    "inflection": "动词变化: attributes / attributed / attributing"
+  },
+  {
+    "english": "constitute",
+    "chinese": "构成；组成",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkɑːnstɪtuːt/",
+    "uk_phonetic": "/ˈkɒnstɪtjuːt/",
+    "example_sentence_en": "Practice tests constitute an important part of exam preparation.",
+    "example_sentence_cn": "模拟测试构成了备考的重要组成部分。",
+    "inflection": "动词变化: constitutes / constituted / constituting"
+  },
+  {
+    "english": "encompass",
+    "chinese": "包含；涵盖",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈkʌmpəs/",
+    "uk_phonetic": "/ɪnˈkʌmpəs/",
+    "example_sentence_en": "The course encompasses a wide range of topics.",
+    "example_sentence_cn": "这门课程涵盖了广泛的主题。",
+    "inflection": "动词变化: encompasses / encompassed / encompassing"
+  },
+  {
+    "english": "yield",
+    "chinese": "产生；出产；屈服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/jiːld/",
+    "uk_phonetic": "/jiːld/",
+    "example_sentence_en": "Consistent effort yields excellent exam results.",
+    "example_sentence_cn": "持续的努力会产生优异的考试成绩。",
+    "inflection": "动词变化: yields / yielded / yielding"
+  },
+  {
+    "english": "illuminate",
+    "chinese": "阐明；启发",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈluːmɪneɪt/",
+    "uk_phonetic": "/ɪˈluːmɪneɪt/",
+    "example_sentence_en": "Reading widely illuminates ideas that exams test.",
+    "example_sentence_cn": "广泛阅读能启发考试所考查的思想。",
+    "inflection": "动词变化: illuminates / illuminated / illuminating"
+  },
+  {
+    "english": "manifest",
+    "chinese": "显现；体现",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ˈmænɪfest/",
+    "uk_phonetic": "/ˈmænɪfest/",
+    "example_sentence_en": "Stress can manifest as lack of concentration during exams.",
+    "example_sentence_cn": "压力可能在考试中表现为注意力不集中。",
+    "inflection": "动词变化: manifests / manifested / manifesting"
+  },
+  {
+    "english": "prevail",
+    "chinese": "占主导；盛行",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈveɪl/",
+    "uk_phonetic": "/prɪˈveɪl/",
+    "example_sentence_en": "A positive attitude prevails when students are well-prepared.",
+    "example_sentence_cn": "当学生准备充分时，积极的态度会占主导。",
+    "inflection": "动词变化: prevails / prevailed / prevailing"
+  },
+  {
+    "english": "emerge",
+    "chinese": "出现；浮现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈmɜːrdʒ/",
+    "uk_phonetic": "/ɪˈmɜːdʒ/",
+    "example_sentence_en": "New patterns emerge from analyzing multiple past papers.",
+    "example_sentence_cn": "通过分析多套历年试题，新的规律就会浮现。",
+    "inflection": "动词变化: emerges / emerged / emerging"
+  },
+  {
+    "english": "diminish",
+    "chinese": "减少；减弱",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈmɪnɪʃ/",
+    "uk_phonetic": "/dɪˈmɪnɪʃ/",
+    "example_sentence_en": "Anxiety diminishes when you are fully prepared.",
+    "example_sentence_cn": "当你做好充分准备时，焦虑就会减少。",
+    "inflection": "动词变化: diminishes / diminished / diminishing"
+  },
+  {
+    "english": "accelerate",
+    "chinese": "加速；促进",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əkˈseləreɪt/",
+    "uk_phonetic": "/əkˈseləreɪt/",
+    "example_sentence_en": "Targeted practice accelerates improvement in weak areas.",
+    "example_sentence_cn": "有针对性的练习可以加速薄弱领域的提升。",
+    "inflection": "动词变化: accelerates / accelerated / accelerating"
+  },
+  {
+    "english": "mitigate",
+    "chinese": "减轻；缓和",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈmɪtɪɡeɪt/",
+    "uk_phonetic": "/ˈmɪtɪɡeɪt/",
+    "example_sentence_en": "Good preparation helps mitigate exam anxiety.",
+    "example_sentence_cn": "充分的准备有助于减轻考试焦虑。",
+    "inflection": "动词变化: mitigates / mitigated / mitigating"
+  },
+  {
+    "english": "alleviate",
+    "chinese": "减轻；缓解",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈliːvieɪt/",
+    "uk_phonetic": "/əˈliːvieɪt/",
+    "example_sentence_en": "Exercise can alleviate stress during the revision period.",
+    "example_sentence_cn": "锻炼可以缓解复习阶段的压力。",
+    "inflection": "动词变化: alleviates / alleviated / alleviating"
+  },
+  {
+    "english": "exacerbate",
+    "chinese": "使恶化；加重",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪɡˈzæsərbeɪt/",
+    "uk_phonetic": "/ɪɡˈzæsəbeɪt/",
+    "example_sentence_en": "Poor time management can exacerbate exam stress.",
+    "example_sentence_cn": "时间管理不当可能会加重考试压力。",
+    "inflection": "动词变化: exacerbates / exacerbated / exacerbating"
+  },
+  {
+    "english": "complement",
+    "chinese": "补充；互补",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈkɑːmplɪment/",
+    "uk_phonetic": "/ˈkɒmplɪment/",
+    "example_sentence_en": "Note-taking complements active reading for deeper understanding.",
+    "example_sentence_cn": "做笔记与积极阅读相辅相成，有助于更深入的理解。",
+    "inflection": "动词变化: complements / complemented / complementing; 复数: complements"
+  },
+  {
+    "english": "integrate",
+    "chinese": "整合；结合",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɪntɪɡreɪt/",
+    "uk_phonetic": "/ˈɪntɪɡreɪt/",
+    "example_sentence_en": "Integrate knowledge from different subjects to answer complex questions.",
+    "example_sentence_cn": "整合不同学科的知识来回答复杂问题。",
+    "inflection": "动词变化: integrates / integrated / integrating"
+  },
+  {
+    "english": "assess",
+    "chinese": "评估；评定",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈses/",
+    "uk_phonetic": "/əˈses/",
+    "example_sentence_en": "Use practice papers to assess your exam readiness.",
+    "example_sentence_cn": "用模拟试卷来评估你的应试准备程度。",
+    "inflection": "动词变化: assesses / assessed / assessing"
+  },
+  {
+    "english": "critique",
+    "chinese": "批评；评论",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/krɪˈtiːk/",
+    "uk_phonetic": "/krɪˈtiːk/",
+    "example_sentence_en": "Write a critique of the author's argument in the passage.",
+    "example_sentence_cn": "对文章中作者的论点进行评论。",
+    "inflection": "动词变化: critiques / critiqued / critiquing; 复数: critiques"
+  },
+  {
+    "english": "paraphrase",
+    "chinese": "改述；用自己的话表达",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpærəfreɪz/",
+    "uk_phonetic": "/ˈpærəfreɪz/",
+    "example_sentence_en": "The skill of paraphrasing is tested in both reading and writing.",
+    "example_sentence_cn": "改述的技能在阅读和写作中都会被考查。",
+    "inflection": "动词变化: paraphrases / paraphrased / paraphrasing"
+  },
+  {
+    "english": "coherence",
+    "chinese": "连贯性；条理性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/koʊˈhɪrəns/",
+    "uk_phonetic": "/kəʊˈhɪərəns/",
+    "example_sentence_en": "Coherence is a key feature of high-scoring essays.",
+    "example_sentence_cn": "连贯性是高分作文的关键特征。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "conciseness",
+    "chinese": "简洁；简明",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˈsaɪsnəs/",
+    "uk_phonetic": "/kənˈsaɪsnəs/",
+    "example_sentence_en": "Conciseness in writing avoids unnecessary repetition.",
+    "example_sentence_cn": "写作中的简洁性避免了不必要的重复。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "accuracy",
+    "chinese": "准确性；精确性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈækjərəsi/",
+    "uk_phonetic": "/ˈækjərəsi/",
+    "example_sentence_en": "Accuracy in language use is rewarded in all exam sections.",
+    "example_sentence_cn": "语言使用的准确性在所有考试部分都会得到奖励。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "proficiency",
+    "chinese": "熟练；精通",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈfɪʃnsi/",
+    "uk_phonetic": "/prəˈfɪʃnsi/",
+    "example_sentence_en": "Language proficiency improves with consistent practice.",
+    "example_sentence_cn": "语言水平随着持续练习而提高。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "nuance",
+    "chinese": "细微差别；细节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnjuːɑːns/",
+    "uk_phonetic": "/ˈnjuːɑːns/",
+    "example_sentence_en": "Recognizing nuances in tone improves reading comprehension.",
+    "example_sentence_cn": "识别语气的细微差别可以提高阅读理解能力。",
+    "inflection": "复数: nuances"
+  },
+  {
+    "english": "subtext",
+    "chinese": "潜台词；深层含义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsʌbtekst/",
+    "uk_phonetic": "/ˈsʌbtekst/",
+    "example_sentence_en": "Understanding the subtext helps uncover the author's true intention.",
+    "example_sentence_cn": "理解潜台词有助于发现作者的真实意图。",
+    "inflection": "复数: subtexts"
+  },
+  {
+    "english": "inference",
+    "chinese": "推断；结论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪnfərəns/",
+    "uk_phonetic": "/ˈɪnfərəns/",
+    "example_sentence_en": "Making logical inferences is a critical reading skill.",
+    "example_sentence_cn": "做出逻辑推断是一项关键的阅读技能。",
+    "inflection": "复数: inferences"
+  },
+  {
+    "english": "hypothesis",
+    "chinese": "假设；假说",
+    "part_of_speech": "n.",
+    "us_phonetic": "/haɪˈpɑːθəsɪs/",
+    "uk_phonetic": "/haɪˈpɒθəsɪs/",
+    "example_sentence_en": "The scientists tested several hypotheses before reaching a conclusion.",
+    "example_sentence_cn": "科学家在得出结论之前测试了几个假设。",
+    "inflection": "复数: hypotheses"
+  },
+  {
+    "english": "premise",
+    "chinese": "前提；假设",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpremɪs/",
+    "uk_phonetic": "/ˈpremɪs/",
+    "example_sentence_en": "A flawed premise leads to an invalid conclusion.",
+    "example_sentence_cn": "有缺陷的前提会导致无效的结论。",
+    "inflection": "复数: premises"
+  },
+  {
+    "english": "synthesis",
+    "chinese": "综合；合成",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪnθəsɪs/",
+    "uk_phonetic": "/ˈsɪnθəsɪs/",
+    "example_sentence_en": "High-scoring essays require a synthesis of ideas from multiple sources.",
+    "example_sentence_cn": "高分作文需要综合多个来源的观点。",
+    "inflection": "复数: syntheses"
+  },
+  {
+    "english": "thesis",
+    "chinese": "论点；论文",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈθiːsɪs/",
+    "uk_phonetic": "/ˈθiːsɪs/",
+    "example_sentence_en": "A clear thesis statement sets the direction of the essay.",
+    "example_sentence_cn": "清晰的论点陈述为文章定下方向。",
+    "inflection": "复数: theses"
+  },
+  {
+    "english": "analogy",
+    "chinese": "类比；类推",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈnælədʒi/",
+    "uk_phonetic": "/əˈnælədʒi/",
+    "example_sentence_en": "Using an analogy makes complex concepts easier to grasp.",
+    "example_sentence_cn": "使用类比使复杂的概念更容易理解。",
+    "inflection": "复数: analogies"
+  },
+  {
+    "english": "irony",
+    "chinese": "讽刺；反语",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈaɪrəni/",
+    "uk_phonetic": "/ˈaɪərəni/",
+    "example_sentence_en": "The irony in the passage reveals the author's critical stance.",
+    "example_sentence_cn": "文章中的讽刺揭示了作者的批判立场。",
+    "inflection": "复数: ironies"
+  },
+  {
+    "english": "paradox",
+    "chinese": "悖论；矛盾现象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpærədɑːks/",
+    "uk_phonetic": "/ˈpærədɒks/",
+    "example_sentence_en": "The paradox in the text challenges the reader's assumptions.",
+    "example_sentence_cn": "文本中的悖论挑战了读者的假设。",
+    "inflection": "复数: paradoxes"
+  },
+  {
+    "english": "connotation",
+    "chinese": "内涵；联想意义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːnəˈteɪʃn/",
+    "uk_phonetic": "/ˌkɒnəˈteɪʃn/",
+    "example_sentence_en": "The word 'home' has positive connotations of warmth and safety.",
+    "example_sentence_cn": "\"home\"这个词有温暖和安全的正面内涵。",
+    "inflection": "复数: connotations"
+  },
+  {
+    "english": "denotation",
+    "chinese": "字面意义；外延",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdiːnoʊˈteɪʃn/",
+    "uk_phonetic": "/ˌdiːnəʊˈteɪʃn/",
+    "example_sentence_en": "The denotation of 'home' is simply a place where one lives.",
+    "example_sentence_cn": "\"home\"的字面意义是某人居住的地方。",
+    "inflection": "复数: denotations"
+  },
+  {
+    "english": "rhetoric",
+    "chinese": "修辞；口才",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈretərɪk/",
+    "uk_phonetic": "/ˈretərɪk/",
+    "example_sentence_en": "Powerful rhetoric can persuade readers effectively.",
+    "example_sentence_cn": "有力的修辞可以有效地说服读者。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "ambiguity",
+    "chinese": "模糊性；歧义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌæmbɪˈɡjuːəti/",
+    "uk_phonetic": "/ˌæmbɪˈɡjuːəti/",
+    "example_sentence_en": "Avoid ambiguity in your writing by being precise.",
+    "example_sentence_cn": "通过精确表达避免写作中的歧义。",
+    "inflection": "复数: ambiguities"
+  },
+  {
+    "english": "tone",
+    "chinese": "语气；语调",
+    "part_of_speech": "n.",
+    "us_phonetic": "/toʊn/",
+    "uk_phonetic": "/təʊn/",
+    "example_sentence_en": "Identify the tone of the passage in reading comprehension tasks.",
+    "example_sentence_cn": "在阅读理解任务中识别文章的语气。",
+    "inflection": "复数: tones"
+  },
+  {
+    "english": "bias",
+    "chinese": "偏见；偏差",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbaɪəs/",
+    "uk_phonetic": "/ˈbaɪəs/",
+    "example_sentence_en": "Identify bias in a text by analyzing the language used.",
+    "example_sentence_cn": "通过分析所用语言来识别文本中的偏见。",
+    "inflection": "复数: biases"
+  },
+  {
+    "english": "objectivity",
+    "chinese": "客观性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːbdʒekˈtɪvəti/",
+    "uk_phonetic": "/ˌɒbdʒekˈtɪvəti/",
+    "example_sentence_en": "Objectivity is essential when writing an argumentative essay.",
+    "example_sentence_cn": "写论证文章时客观性是必不可少的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "subjectivity",
+    "chinese": "主观性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsʌbdʒekˈtɪvəti/",
+    "uk_phonetic": "/ˌsʌbdʒekˈtɪvəti/",
+    "example_sentence_en": "Excessive subjectivity weakens the credibility of an argument.",
+    "example_sentence_cn": "过度主观性会削弱论点的可信度。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "credibility",
+    "chinese": "可信度；可靠性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkredəˈbɪləti/",
+    "uk_phonetic": "/ˌkredəˈbɪləti/",
+    "example_sentence_en": "Citing reliable sources enhances the credibility of your argument.",
+    "example_sentence_cn": "引用可靠来源增强了你论点的可信度。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "relevance",
+    "chinese": "相关性；关联",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈreləvəns/",
+    "uk_phonetic": "/ˈreləvəns/",
+    "example_sentence_en": "Every piece of evidence should demonstrate relevance to the argument.",
+    "example_sentence_cn": "每一条证据都应该证明与论点的相关性。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "validity",
+    "chinese": "有效性；正确性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vəˈlɪdəti/",
+    "uk_phonetic": "/vəˈlɪdəti/",
+    "example_sentence_en": "Check the validity of each argument before including it.",
+    "example_sentence_cn": "在加入之前检查每个论点的有效性。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "coherent",
+    "chinese": "连贯的；有条理的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/koʊˈhɪrənt/",
+    "uk_phonetic": "/kəʊˈhɪərənt/",
+    "example_sentence_en": "A coherent response demonstrates logical thinking.",
+    "example_sentence_cn": "一个连贯的回答展示了逻辑性思维。",
+    "inflection": "比较级: more coherent | 最高级: most coherent"
+  },
+  {
+    "english": "concise",
+    "chinese": "简洁的；言简意赅的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kənˈsaɪs/",
+    "uk_phonetic": "/kənˈsaɪs/",
+    "example_sentence_en": "Concise answers score better in short-answer questions.",
+    "example_sentence_cn": "简洁的答案在简答题中得分更高。",
+    "inflection": "比较级: more concise | 最高级: most concise"
+  },
+  {
+    "english": "rigorous",
+    "chinese": "严格的；严谨的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈrɪɡərəs/",
+    "uk_phonetic": "/ˈrɪɡərəs/",
+    "example_sentence_en": "Rigorous practice with past papers builds exam confidence.",
+    "example_sentence_cn": "严格地进行历年真题练习能建立应试信心。",
+    "inflection": "比较级: more rigorous | 最高级: most rigorous"
+  },
+  {
+    "english": "pervasive",
+    "chinese": "普遍的；弥漫的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/pərˈveɪsɪv/",
+    "uk_phonetic": "/pəˈveɪsɪv/",
+    "example_sentence_en": "The theme of hope is pervasive throughout the novel.",
+    "example_sentence_cn": "希望的主题贯穿整部小说。",
+    "inflection": "比较级: more pervasive | 最高级: most pervasive"
+  },
+  {
+    "english": "nuanced",
+    "chinese": "细致的；有细微差别的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈnjuːɑːnst/",
+    "uk_phonetic": "/ˈnjuːɑːnst/",
+    "example_sentence_en": "A nuanced argument shows deep understanding of the topic.",
+    "example_sentence_cn": "细致的论证显示了对主题的深刻理解。",
+    "inflection": "无"
+  },
+  {
+    "english": "implicit",
+    "chinese": "隐含的；暗示的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪmˈplɪsɪt/",
+    "uk_phonetic": "/ɪmˈplɪsɪt/",
+    "example_sentence_en": "The implicit message of the text is one of social criticism.",
+    "example_sentence_cn": "文本的隐含信息是社会批评。",
+    "inflection": "无"
+  },
+  {
+    "english": "explicit",
+    "chinese": "明确的；清晰的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈsplɪsɪt/",
+    "uk_phonetic": "/ɪkˈsplɪsɪt/",
+    "example_sentence_en": "Make your thesis statement explicit in the introduction.",
+    "example_sentence_cn": "在引言中明确表达你的论点。",
+    "inflection": "无"
+  },
+  {
+    "english": "prevalent",
+    "chinese": "普遍的；流行的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈprevələnt/",
+    "uk_phonetic": "/ˈprevələnt/",
+    "example_sentence_en": "The view that education reduces inequality is prevalent.",
+    "example_sentence_cn": "教育能减少不平等的观点非常普遍。",
+    "inflection": "比较级: more prevalent | 最高级: most prevalent"
+  },
+  {
+    "english": "inevitable",
+    "chinese": "不可避免的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈevɪtəbl/",
+    "uk_phonetic": "/ɪnˈevɪtəbl/",
+    "example_sentence_en": "Some mistakes are inevitable, but learning from them is essential.",
+    "example_sentence_cn": "一些错误是不可避免的，但从中学习是至关重要的。",
+    "inflection": "无"
+  },
+  {
+    "english": "comprehensive",
+    "chinese": "全面的；综合的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "uk_phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "example_sentence_en": "A comprehensive review ensures no key topic is missed.",
+    "example_sentence_cn": "全面的复习确保没有遗漏关键主题。",
+    "inflection": "比较级: more comprehensive | 最高级: most comprehensive"
+  },
+  {
+    "english": "meticulous",
+    "chinese": "细致的；一丝不苟的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/məˈtɪkjələs/",
+    "uk_phonetic": "/məˈtɪkjələs/",
+    "example_sentence_en": "Meticulous error analysis helps avoid repeated mistakes.",
+    "example_sentence_cn": "细致的错误分析有助于避免重复犯错。",
+    "inflection": "比较级: more meticulous | 最高级: most meticulous"
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的；深远的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/prəˈfaʊnd/",
+    "uk_phonetic": "/prəˈfaʊnd/",
+    "example_sentence_en": "The exam has a profound impact on students' future paths.",
+    "example_sentence_cn": "考试对学生未来的道路有深远的影响。",
+    "inflection": "比较级: more profound | 最高级: most profound"
+  },
+  {
+    "english": "intrinsic",
+    "chinese": "内在的；固有的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈtrɪnzɪk/",
+    "uk_phonetic": "/ɪnˈtrɪnzɪk/",
+    "example_sentence_en": "Intrinsic motivation is more sustainable than external rewards.",
+    "example_sentence_cn": "内在动机比外部奖励更具持续性。",
+    "inflection": "无"
+  },
+  {
+    "english": "systematic",
+    "chinese": "系统的；有条理的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌsɪstəˈmætɪk/",
+    "uk_phonetic": "/ˌsɪstəˈmætɪk/",
+    "example_sentence_en": "A systematic approach to revision yields the best results.",
+    "example_sentence_cn": "系统的复习方法会产生最好的结果。",
+    "inflection": "无"
+  },
+  {
+    "english": "strategic",
+    "chinese": "战略性的；有策略的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/strəˈtiːdʒɪk/",
+    "uk_phonetic": "/strəˈtiːdʒɪk/",
+    "example_sentence_en": "Strategic time allocation maximizes revision efficiency.",
+    "example_sentence_cn": "战略性的时间分配最大化了复习效率。",
+    "inflection": "无"
+  },
+  {
+    "english": "plausible",
+    "chinese": "合理的；貌似可信的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈplɔːzəbl/",
+    "uk_phonetic": "/ˈplɔːzəbl/",
+    "example_sentence_en": "Only plausible answer options should be selected in multiple choice.",
+    "example_sentence_cn": "在多项选择题中只应选择合理的答案选项。",
+    "inflection": "比较级: more plausible | 最高级: most plausible"
+  },
+  {
+    "english": "erroneous",
+    "chinese": "错误的；不正确的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪˈroʊniəs/",
+    "uk_phonetic": "/ɪˈrəʊniəs/",
+    "example_sentence_en": "Erroneous assumptions often lead to incorrect answers.",
+    "example_sentence_cn": "错误的假设往往导致不正确的答案。",
+    "inflection": "比较级: more erroneous | 最高级: most erroneous"
+  },
+  {
+    "english": "adequate",
+    "chinese": "足够的；适当的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈædɪkwət/",
+    "uk_phonetic": "/ˈædɪkwət/",
+    "example_sentence_en": "Make sure your answers are adequate in length and detail.",
+    "example_sentence_cn": "确保你的答案在长度和细节上都是足够的。",
+    "inflection": "比较级: more adequate | 最高级: most adequate"
+  },
+  {
+    "english": "substantial",
+    "chinese": "大量的；实质性的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səbˈstænʃl/",
+    "uk_phonetic": "/səbˈstænʃl/",
+    "example_sentence_en": "Substantial improvement comes from consistent daily study.",
+    "example_sentence_cn": "实质性的进步来自于每天持续不断的学习。",
+    "inflection": "无"
+  },
+  {
+    "english": "critical",
+    "chinese": "关键的；批评的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkrɪtɪkl/",
+    "uk_phonetic": "/ˈkrɪtɪkl/",
+    "example_sentence_en": "Critical reading involves questioning the author's assumptions.",
+    "example_sentence_cn": "批判性阅读涉及对作者假设的质疑。",
+    "inflection": "无"
+  },
+  {
+    "english": "outstanding",
+    "chinese": "杰出的；突出的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌaʊtˈstændɪŋ/",
+    "uk_phonetic": "/ˌaʊtˈstændɪŋ/",
+    "example_sentence_en": "Outstanding exam answers are specific, logical, and well-structured.",
+    "example_sentence_cn": "优秀的考试答案是具体的、有逻辑的、结构良好的。",
+    "inflection": "无"
+  },
+  {
+    "english": "motivation",
+    "chinese": "动机；积极性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmoʊtɪˈveɪʃn/",
+    "uk_phonetic": "/ˌməʊtɪˈveɪʃn/",
+    "example_sentence_en": "Maintaining motivation during the sprint stage is crucial.",
+    "example_sentence_cn": "在冲刺阶段保持积极性至关重要。",
+    "inflection": "复数: motivations"
+  },
+  {
+    "english": "resilience",
+    "chinese": "韧性；恢复力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈzɪliəns/",
+    "uk_phonetic": "/rɪˈzɪliəns/",
+    "example_sentence_en": "Resilience allows students to recover quickly from setbacks.",
+    "example_sentence_cn": "韧性使学生能够从挫折中迅速恢复。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "perseverance",
+    "chinese": "毅力；坚持不懈",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpɜːrsɪˈvɪrəns/",
+    "uk_phonetic": "/ˌpɜːsɪˈvɪərəns/",
+    "example_sentence_en": "Perseverance through the final revision stage is vital.",
+    "example_sentence_cn": "在最终复习阶段坚持不懈是至关重要的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "concentration",
+    "chinese": "专注力；集中",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːnsənˈtreɪʃn/",
+    "uk_phonetic": "/ˌkɒnsənˈtreɪʃn/",
+    "example_sentence_en": "Deep concentration during practice exams simulates real test conditions.",
+    "example_sentence_cn": "模拟考试时的深度专注模拟了真实的考试条件。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "stamina",
+    "chinese": "耐力；持久力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstæmɪnə/",
+    "uk_phonetic": "/ˈstæmɪnə/",
+    "example_sentence_en": "Mental stamina is required for long exam sessions.",
+    "example_sentence_cn": "长时间的考试需要心理耐力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "confidence",
+    "chinese": "信心；自信",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnfɪdəns/",
+    "uk_phonetic": "/ˈkɒnfɪdəns/",
+    "example_sentence_en": "Confidence comes from thorough preparation and practice.",
+    "example_sentence_cn": "信心来自于充分的准备和练习。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "composure",
+    "chinese": "镇定；沉着",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəmˈpoʊʒər/",
+    "uk_phonetic": "/kəmˈpəʊʒə(r)/",
+    "example_sentence_en": "Maintaining composure during difficult exam questions is key.",
+    "example_sentence_cn": "在遇到难题时保持镇定是关键。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "precision",
+    "chinese": "精确；精准",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prɪˈsɪʒn/",
+    "uk_phonetic": "/prɪˈsɪʒn/",
+    "example_sentence_en": "Precision in language use is rewarded in writing tasks.",
+    "example_sentence_cn": "语言使用的精确在写作任务中会得到奖励。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略；战略",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrætədʒi/",
+    "uk_phonetic": "/ˈstrætədʒi/",
+    "example_sentence_en": "Developing a test-taking strategy improves time management.",
+    "example_sentence_cn": "制定应试策略可以改善时间管理。",
+    "inflection": "复数: strategies"
+  },
+  {
+    "english": "benchmark",
+    "chinese": "基准；参照标准",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbentʃmɑːrk/",
+    "uk_phonetic": "/ˈbentʃmɑːk/",
+    "example_sentence_en": "Past papers serve as benchmarks for measuring progress.",
+    "example_sentence_cn": "历年真题作为衡量进步的基准。",
+    "inflection": "复数: benchmarks"
+  },
+  {
+    "english": "framework",
+    "chinese": "框架；结构",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfreɪmwɜːrk/",
+    "uk_phonetic": "/ˈfreɪmwɜːk/",
+    "example_sentence_en": "Use a structured framework when planning essay answers.",
+    "example_sentence_cn": "计划文章答案时使用结构化框架。",
+    "inflection": "复数: frameworks"
+  },
+  {
+    "english": "criterion",
+    "chinese": "标准；准则",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kraɪˈtɪriən/",
+    "uk_phonetic": "/kraɪˈtɪəriən/",
+    "example_sentence_en": "Understanding the marking criterion helps you meet examiner expectations.",
+    "example_sentence_cn": "了解评分标准有助于你达到考官的期望。",
+    "inflection": "复数: criteria"
+  },
+  {
+    "english": "breakthrough",
+    "chinese": "突破；重大进展",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbreɪkθruː/",
+    "uk_phonetic": "/ˈbreɪkθruː/",
+    "example_sentence_en": "A breakthrough in understanding grammar rules boosts confidence.",
+    "example_sentence_cn": "理解语法规则的突破可以增强信心。",
+    "inflection": "复数: breakthroughs"
+  },
+  {
+    "english": "momentum",
+    "chinese": "势头；动力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/moʊˈmentəm/",
+    "uk_phonetic": "/məˈmentəm/",
+    "example_sentence_en": "Keep the momentum going in the final weeks of revision.",
+    "example_sentence_cn": "在复习的最后几周保持势头。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "diligence",
+    "chinese": "勤奋；努力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪlɪdʒəns/",
+    "uk_phonetic": "/ˈdɪlɪdʒəns/",
+    "example_sentence_en": "Diligence and determination are the keys to exam success.",
+    "example_sentence_cn": "勤奋和决心是考试成功的关键。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "aspiration",
+    "chinese": "志向；渴望",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌæspəˈreɪʃn/",
+    "uk_phonetic": "/ˌæspəˈreɪʃn/",
+    "example_sentence_en": "Hold on to your aspirations during the most challenging moments.",
+    "example_sentence_cn": "在最艰难的时刻坚守你的志向。",
+    "inflection": "复数: aspirations"
+  },
+  {
+    "english": "endeavor",
+    "chinese": "努力；尽力",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ɪnˈdevər/",
+    "uk_phonetic": "/ɪnˈdevə(r)/",
+    "example_sentence_en": "Every endeavor you make now brings you closer to success.",
+    "example_sentence_cn": "你现在所做的每一份努力都使你离成功更近。",
+    "inflection": "动词变化: endeavors / endeavored / endeavoring; 复数: endeavors"
+  },
+  {
+    "english": "dedication",
+    "chinese": "奉献；全身心投入",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdedɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌdedɪˈkeɪʃn/",
+    "example_sentence_en": "Dedication to your studies will be rewarded on exam day.",
+    "example_sentence_cn": "对学习的全身心投入将在考试当天得到回报。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "fulfillment",
+    "chinese": "成就感；满足",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fʊlˈfɪlmənt/",
+    "uk_phonetic": "/fʊlˈfɪlmənt/",
+    "example_sentence_en": "The fulfillment of achieving your best score makes it all worthwhile.",
+    "example_sentence_cn": "实现最佳成绩的成就感让一切努力都是值得的。",
+    "inflection": "不可数名词"
+  }
+]

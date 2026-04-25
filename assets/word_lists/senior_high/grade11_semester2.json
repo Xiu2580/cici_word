@@ -1,0 +1,1642 @@
+[
+  {
+    "english": "ecosystem",
+    "chinese": "生态系统",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːkoʊsɪstəm/",
+    "uk_phonetic": "/ˈiːkəʊsɪstəm/",
+    "example_sentence_en": "Human activities are destroying delicate ecosystems worldwide.",
+    "example_sentence_cn": "人类活动正在破坏世界各地脆弱的生态系统。",
+    "inflection": "复数: ecosystems"
+  },
+  {
+    "english": "biodiversity",
+    "chinese": "生物多样性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+    "uk_phonetic": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+    "example_sentence_en": "Protecting biodiversity is essential for a healthy planet.",
+    "example_sentence_cn": "保护生物多样性对健康的地球至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "deforestation",
+    "chinese": "砍伐森林；森林破坏",
+    "part_of_speech": "n.",
+    "us_phonetic": "/diːˌfɔːrɪˈsteɪʃn/",
+    "uk_phonetic": "/diːˌfɒrɪˈsteɪʃn/",
+    "example_sentence_en": "Deforestation contributes significantly to climate change.",
+    "example_sentence_cn": "森林砍伐对气候变化有重大影响。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "reforestation",
+    "chinese": "重新造林",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌriːfɔːrɪˈsteɪʃn/",
+    "uk_phonetic": "/ˌriːfɒrɪˈsteɪʃn/",
+    "example_sentence_en": "Reforestation programs help restore damaged environments.",
+    "example_sentence_cn": "重新造林项目有助于恢复受损的环境。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "conservation",
+    "chinese": "保护；节约",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːnsərˈveɪʃn/",
+    "uk_phonetic": "/ˌkɒnsəˈveɪʃn/",
+    "example_sentence_en": "Wildlife conservation is crucial to prevent extinction.",
+    "example_sentence_cn": "野生动物保护对于防止灭绝至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "carbon footprint",
+    "chinese": "碳足迹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːrbən ˈfʊtprɪnt/",
+    "uk_phonetic": "/ˈkɑːbən ˈfʊtprɪnt/",
+    "example_sentence_en": "We should all try to reduce our carbon footprint.",
+    "example_sentence_cn": "我们都应该努力减少自己的碳足迹。",
+    "inflection": "复数: carbon footprints"
+  },
+  {
+    "english": "greenhouse gas",
+    "chinese": "温室气体",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡriːnhaʊs ɡæs/",
+    "uk_phonetic": "/ˈɡriːnhaʊs ɡæs/",
+    "example_sentence_en": "Greenhouse gases trap heat in the Earth's atmosphere.",
+    "example_sentence_cn": "温室气体会将热量困在地球大气层中。",
+    "inflection": "复数: greenhouse gases"
+  },
+  {
+    "english": "emission",
+    "chinese": "排放；散发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈmɪʃn/",
+    "uk_phonetic": "/ɪˈmɪʃn/",
+    "example_sentence_en": "Carbon emissions must be reduced to fight climate change.",
+    "example_sentence_cn": "必须减少碳排放以应对气候变化。",
+    "inflection": "复数: emissions"
+  },
+  {
+    "english": "fossil fuel",
+    "chinese": "化石燃料",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːsl fjuːəl/",
+    "uk_phonetic": "/ˈfɒsl fjuːəl/",
+    "example_sentence_en": "Burning fossil fuels is a major cause of air pollution.",
+    "example_sentence_cn": "燃烧化石燃料是空气污染的主要原因。",
+    "inflection": "复数: fossil fuels"
+  },
+  {
+    "english": "renewable energy",
+    "chinese": "可再生能源",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈnjuːəbl ˈenərdʒi/",
+    "uk_phonetic": "/rɪˈnjuːəbl ˈenədʒi/",
+    "example_sentence_en": "Investing in renewable energy is key to a sustainable future.",
+    "example_sentence_cn": "投资可再生能源是实现可持续未来的关键。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "solar panel",
+    "chinese": "太阳能板",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsoʊlər ˈpænl/",
+    "uk_phonetic": "/ˈsəʊlə(r) ˈpænl/",
+    "example_sentence_en": "Solar panels convert sunlight directly into electricity.",
+    "example_sentence_cn": "太阳能板将阳光直接转化为电能。",
+    "inflection": "复数: solar panels"
+  },
+  {
+    "english": "wind turbine",
+    "chinese": "风力涡轮机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/wɪnd ˈtɜːrbaɪn/",
+    "uk_phonetic": "/wɪnd ˈtɜːbaɪn/",
+    "example_sentence_en": "Wind turbines generate electricity from the wind.",
+    "example_sentence_cn": "风力涡轮机利用风能发电。",
+    "inflection": "复数: wind turbines"
+  },
+  {
+    "english": "drought",
+    "chinese": "干旱",
+    "part_of_speech": "n.",
+    "us_phonetic": "/draʊt/",
+    "uk_phonetic": "/draʊt/",
+    "example_sentence_en": "A prolonged drought devastated crops in the region.",
+    "example_sentence_cn": "持续的干旱使该地区的农作物遭受了严重破坏。",
+    "inflection": "复数: droughts"
+  },
+  {
+    "english": "flood",
+    "chinese": "洪水；泛滥",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/flʌd/",
+    "uk_phonetic": "/flʌd/",
+    "example_sentence_en": "The flood destroyed thousands of homes.",
+    "example_sentence_cn": "洪水摧毁了数千所房屋。",
+    "inflection": "动词变化: floods / flooded / flooding; 复数: floods"
+  },
+  {
+    "english": "erosion",
+    "chinese": "侵蚀；腐蚀",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈroʊʒn/",
+    "uk_phonetic": "/ɪˈrəʊʒn/",
+    "example_sentence_en": "Soil erosion is caused by wind and water.",
+    "example_sentence_cn": "土壤侵蚀是由风和水引起的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "contaminate",
+    "chinese": "污染；弄脏",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈtæmɪneɪt/",
+    "uk_phonetic": "/kənˈtæmɪneɪt/",
+    "example_sentence_en": "Industrial waste has contaminated the river.",
+    "example_sentence_cn": "工业废物污染了这条河流。",
+    "inflection": "动词变化: contaminates / contaminated / contaminating"
+  },
+  {
+    "english": "contamination",
+    "chinese": "污染；玷污",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˌtæmɪˈneɪʃn/",
+    "uk_phonetic": "/kənˌtæmɪˈneɪʃn/",
+    "example_sentence_en": "Water contamination is a serious public health issue.",
+    "example_sentence_cn": "水污染是一个严重的公共卫生问题。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "habitat destruction",
+    "chinese": "栖息地破坏",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhæbɪtæt dɪˈstrʌkʃn/",
+    "uk_phonetic": "/ˈhæbɪtæt dɪˈstrʌkʃn/",
+    "example_sentence_en": "Habitat destruction is the leading cause of species loss.",
+    "example_sentence_cn": "栖息地破坏是物种消失的主要原因。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "sustainable development",
+    "chinese": "可持续发展",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səˈsteɪnəbl dɪˈveləpmənt/",
+    "uk_phonetic": "/səˈsteɪnəbl dɪˈveləpmənt/",
+    "example_sentence_en": "Sustainable development balances economic growth with environmental protection.",
+    "example_sentence_cn": "可持续发展在经济增长与环境保护之间取得平衡。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "carbon neutral",
+    "chinese": "碳中和的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkɑːrbən ˈnjuːtrəl/",
+    "uk_phonetic": "/ˈkɑːbən ˈnjuːtrəl/",
+    "example_sentence_en": "Many countries aim to become carbon neutral by 2050.",
+    "example_sentence_cn": "许多国家的目标是在2050年前实现碳中和。",
+    "inflection": "无"
+  },
+  {
+    "english": "ecological",
+    "chinese": "生态的；生态学的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌiːkəˈlɑːdʒɪkl/",
+    "uk_phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+    "example_sentence_en": "We need to consider the ecological impact of development.",
+    "example_sentence_cn": "我们需要考虑发展对生态的影响。",
+    "inflection": "无"
+  },
+  {
+    "english": "ozone layer",
+    "chinese": "臭氧层",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈoʊzoʊn ˈleɪər/",
+    "uk_phonetic": "/ˈəʊzəʊn ˈleɪə(r)/",
+    "example_sentence_en": "The ozone layer protects Earth from harmful UV rays.",
+    "example_sentence_cn": "臭氧层保护地球免受有害紫外线的照射。",
+    "inflection": "单数"
+  },
+  {
+    "english": "desertification",
+    "chinese": "荒漠化",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˌzɜːrtɪfɪˈkeɪʃn/",
+    "uk_phonetic": "/dɪˌzɜːtɪfɪˈkeɪʃn/",
+    "example_sentence_en": "Desertification threatens millions of people with food insecurity.",
+    "example_sentence_cn": "荒漠化使数百万人面临粮食安全威胁。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "degrade",
+    "chinese": "降解；使退化",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈɡreɪd/",
+    "uk_phonetic": "/dɪˈɡreɪd/",
+    "example_sentence_en": "Plastic waste takes centuries to degrade in the environment.",
+    "example_sentence_cn": "塑料废弃物在环境中需要数百年才能降解。",
+    "inflection": "动词变化: degrades / degraded / degrading"
+  },
+  {
+    "english": "biodegradable",
+    "chinese": "可生物降解的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌbaɪoʊdɪˈɡreɪdəbl/",
+    "uk_phonetic": "/ˌbaɪəʊdɪˈɡreɪdəbl/",
+    "example_sentence_en": "Using biodegradable packaging helps reduce plastic waste.",
+    "example_sentence_cn": "使用可生物降解的包装有助于减少塑料废弃物。",
+    "inflection": "无"
+  },
+  {
+    "english": "carbon dioxide",
+    "chinese": "二氧化碳",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːrbən daɪˈɑːksaɪd/",
+    "uk_phonetic": "/ˈkɑːbən daɪˈɒksaɪd/",
+    "example_sentence_en": "Carbon dioxide is one of the main greenhouse gases.",
+    "example_sentence_cn": "二氧化碳是主要的温室气体之一。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "acid rain",
+    "chinese": "酸雨",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæsɪd reɪn/",
+    "uk_phonetic": "/ˈæsɪd reɪn/",
+    "example_sentence_en": "Acid rain is caused by sulfur dioxide and nitrogen oxides.",
+    "example_sentence_cn": "酸雨是由二氧化硫和氮氧化物引起的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "microplastic",
+    "chinese": "微塑料",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmaɪkroʊplæstɪk/",
+    "uk_phonetic": "/ˈmaɪkrəʊplæstɪk/",
+    "example_sentence_en": "Microplastics have been found in ocean water and even in rain.",
+    "example_sentence_cn": "微塑料已在海水中甚至雨水中被发现。",
+    "inflection": "复数: microplastics"
+  },
+  {
+    "english": "compost",
+    "chinese": "堆肥；使成堆肥",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈkɑːmpoʊst/",
+    "uk_phonetic": "/ˈkɒmpɒst/",
+    "example_sentence_en": "Composting food waste reduces landfill pollution.",
+    "example_sentence_cn": "对食物废弃物进行堆肥处理可以减少填埋场污染。",
+    "inflection": "动词变化: composts / composted / composting"
+  },
+  {
+    "english": "stewardship",
+    "chinese": "管理职责；管家身份",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstuːərdʃɪp/",
+    "uk_phonetic": "/ˈstjuːədʃɪp/",
+    "example_sentence_en": "Environmental stewardship is everyone's responsibility.",
+    "example_sentence_cn": "环境管理是每个人的责任。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "organism",
+    "chinese": "有机体；生物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːrɡənɪzəm/",
+    "uk_phonetic": "/ˈɔːɡənɪzəm/",
+    "example_sentence_en": "Every organism plays a role in its ecosystem.",
+    "example_sentence_cn": "每种生物都在其生态系统中扮演着一定的角色。",
+    "inflection": "复数: organisms"
+  },
+  {
+    "english": "cell",
+    "chinese": "细胞；牢房",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sel/",
+    "uk_phonetic": "/sel/",
+    "example_sentence_en": "Every living thing is made up of one or more cells.",
+    "example_sentence_cn": "每种生物都由一个或多个细胞组成。",
+    "inflection": "复数: cells"
+  },
+  {
+    "english": "nucleus",
+    "chinese": "细胞核；核心",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnjuːkliəs/",
+    "uk_phonetic": "/ˈnjuːkliəs/",
+    "example_sentence_en": "The nucleus contains the cell's genetic material.",
+    "example_sentence_cn": "细胞核包含细胞的遗传物质。",
+    "inflection": "复数: nuclei / nucleuses"
+  },
+  {
+    "english": "chromosome",
+    "chinese": "染色体",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkroʊməsoʊm/",
+    "uk_phonetic": "/ˈkrəʊməsəʊm/",
+    "example_sentence_en": "Humans have 46 chromosomes in each cell.",
+    "example_sentence_cn": "人类每个细胞中有46条染色体。",
+    "inflection": "复数: chromosomes"
+  },
+  {
+    "english": "DNA",
+    "chinese": "脱氧核糖核酸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdiː en ˈeɪ/",
+    "uk_phonetic": "/ˌdiː en ˈeɪ/",
+    "example_sentence_en": "DNA carries the genetic information of living organisms.",
+    "example_sentence_cn": "DNA携带生物体的遗传信息。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "protein",
+    "chinese": "蛋白质",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈproʊtiːn/",
+    "uk_phonetic": "/ˈprəʊtiːn/",
+    "example_sentence_en": "Proteins are essential for growth and repair of body tissues.",
+    "example_sentence_cn": "蛋白质对于身体组织的生长和修复至关重要。",
+    "inflection": "复数: proteins"
+  },
+  {
+    "english": "enzyme",
+    "chinese": "酶",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈenzaɪm/",
+    "uk_phonetic": "/ˈenzaɪm/",
+    "example_sentence_en": "Enzymes speed up chemical reactions in the body.",
+    "example_sentence_cn": "酶加速身体中的化学反应。",
+    "inflection": "复数: enzymes"
+  },
+  {
+    "english": "photosynthesis",
+    "chinese": "光合作用",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+    "uk_phonetic": "/ˌfəʊtəʊˈsɪnθəsɪs/",
+    "example_sentence_en": "Plants use photosynthesis to convert sunlight into energy.",
+    "example_sentence_cn": "植物通过光合作用将阳光转化为能量。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "respiration",
+    "chinese": "呼吸；呼吸作用",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌrespəˈreɪʃn/",
+    "uk_phonetic": "/ˌrespəˈreɪʃn/",
+    "example_sentence_en": "Cellular respiration converts glucose into usable energy.",
+    "example_sentence_cn": "细胞呼吸将葡萄糖转化为可用能量。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "metabolism",
+    "chinese": "新陈代谢",
+    "part_of_speech": "n.",
+    "us_phonetic": "/məˈtæbəlɪzəm/",
+    "uk_phonetic": "/məˈtæbəlɪzəm/",
+    "example_sentence_en": "Exercise can boost your metabolism.",
+    "example_sentence_cn": "锻炼可以促进你的新陈代谢。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "reproduction",
+    "chinese": "繁殖；复制",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌriːprəˈdʌkʃn/",
+    "uk_phonetic": "/ˌriːprəˈdʌkʃn/",
+    "example_sentence_en": "Reproduction is one of the key characteristics of life.",
+    "example_sentence_cn": "繁殖是生命的关键特征之一。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "adaptation",
+    "chinese": "适应；改编",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌædæpˈteɪʃn/",
+    "uk_phonetic": "/ˌædæpˈteɪʃn/",
+    "example_sentence_en": "Camouflage is an adaptation that helps animals survive.",
+    "example_sentence_cn": "伪装是帮助动物生存的一种适应性。",
+    "inflection": "复数: adaptations"
+  },
+  {
+    "english": "mutation",
+    "chinese": "突变；变异",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mjuːˈteɪʃn/",
+    "uk_phonetic": "/mjuːˈteɪʃn/",
+    "example_sentence_en": "A mutation in a gene can sometimes cause disease.",
+    "example_sentence_cn": "基因中的突变有时会导致疾病。",
+    "inflection": "复数: mutations"
+  },
+  {
+    "english": "natural selection",
+    "chinese": "自然选择",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnætʃrəl sɪˈlekʃn/",
+    "uk_phonetic": "/ˈnætʃrəl sɪˈlekʃn/",
+    "example_sentence_en": "Natural selection drives the process of evolution.",
+    "example_sentence_cn": "自然选择推动了进化的进程。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "extinction",
+    "chinese": "灭绝；消亡",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈstɪŋkʃn/",
+    "uk_phonetic": "/ɪkˈstɪŋkʃn/",
+    "example_sentence_en": "Human activities have accelerated the extinction of many species.",
+    "example_sentence_cn": "人类活动加速了许多物种的灭绝。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "predator",
+    "chinese": "捕食者；掠食动物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpredətər/",
+    "uk_phonetic": "/ˈpredətə(r)/",
+    "example_sentence_en": "Lions are apex predators at the top of the food chain.",
+    "example_sentence_cn": "狮子是食物链顶端的顶级捕食者。",
+    "inflection": "复数: predators"
+  },
+  {
+    "english": "prey",
+    "chinese": "猎物；捕食",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/preɪ/",
+    "uk_phonetic": "/preɪ/",
+    "example_sentence_en": "Rabbits are the prey of many predators.",
+    "example_sentence_cn": "兔子是许多捕食者的猎物。",
+    "inflection": "动词变化: preys / preyed / preying"
+  },
+  {
+    "english": "symbiosis",
+    "chinese": "共生；共生关系",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsɪmbaɪˈoʊsɪs/",
+    "uk_phonetic": "/ˌsɪmbɪˈəʊsɪs/",
+    "example_sentence_en": "The relationship between bees and flowers is a form of symbiosis.",
+    "example_sentence_cn": "蜜蜂与花朵之间的关系是一种共生形式。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "parasite",
+    "chinese": "寄生虫；寄生物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpærəsaɪt/",
+    "uk_phonetic": "/ˈpærəsaɪt/",
+    "example_sentence_en": "A parasite lives on or in another organism.",
+    "example_sentence_cn": "寄生虫生活在另一个生物体上或体内。",
+    "inflection": "复数: parasites"
+  },
+  {
+    "english": "membrane",
+    "chinese": "膜；薄膜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmembreɪn/",
+    "uk_phonetic": "/ˈmembreɪn/",
+    "example_sentence_en": "The cell membrane controls what enters and exits the cell.",
+    "example_sentence_cn": "细胞膜控制着进出细胞的物质。",
+    "inflection": "复数: membranes"
+  },
+  {
+    "english": "microorganism",
+    "chinese": "微生物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmaɪkroʊˈɔːrɡənɪzəm/",
+    "uk_phonetic": "/ˌmaɪkrəʊˈɔːɡənɪzəm/",
+    "example_sentence_en": "Microorganisms are too small to be seen with the naked eye.",
+    "example_sentence_cn": "微生物小到用肉眼看不见。",
+    "inflection": "复数: microorganisms"
+  },
+  {
+    "english": "bacteria",
+    "chinese": "细菌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bækˈtɪriə/",
+    "uk_phonetic": "/bækˈtɪəriə/",
+    "example_sentence_en": "Not all bacteria are harmful; some are beneficial to humans.",
+    "example_sentence_cn": "并非所有细菌都有害，有些对人类有益。",
+    "inflection": "单数: bacterium"
+  },
+  {
+    "english": "virus",
+    "chinese": "病毒",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvaɪrəs/",
+    "uk_phonetic": "/ˈvaɪərəs/",
+    "example_sentence_en": "Viruses can only reproduce inside a host cell.",
+    "example_sentence_cn": "病毒只能在宿主细胞内繁殖。",
+    "inflection": "复数: viruses"
+  },
+  {
+    "english": "immune system",
+    "chinese": "免疫系统",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈmjuːn ˈsɪstəm/",
+    "uk_phonetic": "/ɪˈmjuːn ˈsɪstəm/",
+    "example_sentence_en": "A strong immune system helps the body fight infections.",
+    "example_sentence_cn": "强大的免疫系统帮助身体对抗感染。",
+    "inflection": "复数: immune systems"
+  },
+  {
+    "english": "hormones",
+    "chinese": "激素",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɔːrmoʊnz/",
+    "uk_phonetic": "/ˈhɔːməʊnz/",
+    "example_sentence_en": "Hormones regulate many important processes in the body.",
+    "example_sentence_cn": "激素调节身体中许多重要的过程。",
+    "inflection": "单数: hormone"
+  },
+  {
+    "english": "nerve",
+    "chinese": "神经；勇气",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nɜːrv/",
+    "uk_phonetic": "/nɜːv/",
+    "example_sentence_en": "Nerves carry signals between the brain and the rest of the body.",
+    "example_sentence_cn": "神经在大脑与身体其他部分之间传递信号。",
+    "inflection": "复数: nerves"
+  },
+  {
+    "english": "ecosystem service",
+    "chinese": "生态系统服务",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːkoʊsɪstəm ˈsɜːrvɪs/",
+    "uk_phonetic": "/ˈiːkəʊsɪstəm ˈsɜːvɪs/",
+    "example_sentence_en": "Clean water and air are important ecosystem services.",
+    "example_sentence_cn": "清洁的水和空气是重要的生态系统服务。",
+    "inflection": "复数: ecosystem services"
+  },
+  {
+    "english": "pollination",
+    "chinese": "授粉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpɑːlɪˈneɪʃn/",
+    "uk_phonetic": "/ˌpɒlɪˈneɪʃn/",
+    "example_sentence_en": "Bees play a vital role in the pollination of plants.",
+    "example_sentence_cn": "蜜蜂在植物授粉中起着至关重要的作用。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "food chain",
+    "chinese": "食物链",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fuːd tʃeɪn/",
+    "uk_phonetic": "/fuːd tʃeɪn/",
+    "example_sentence_en": "Removing one species from a food chain can have serious effects.",
+    "example_sentence_cn": "从食物链中移除一个物种可能会产生严重影响。",
+    "inflection": "复数: food chains"
+  },
+  {
+    "english": "philosophy",
+    "chinese": "哲学；人生观",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fɪˈlɑːsəfi/",
+    "uk_phonetic": "/fɪˈlɒsəfi/",
+    "example_sentence_en": "Philosophy encourages us to question our assumptions.",
+    "example_sentence_cn": "哲学鼓励我们质疑我们的假设。",
+    "inflection": "复数: philosophies"
+  },
+  {
+    "english": "ethics",
+    "chinese": "伦理学；道德准则",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈeθɪks/",
+    "uk_phonetic": "/ˈeθɪks/",
+    "example_sentence_en": "Ethics guides us in making morally right decisions.",
+    "example_sentence_cn": "伦理学引导我们做出道德正确的决定。",
+    "inflection": "无"
+  },
+  {
+    "english": "logic",
+    "chinese": "逻辑；推理",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlɑːdʒɪk/",
+    "uk_phonetic": "/ˈlɒdʒɪk/",
+    "example_sentence_en": "Sound logic is essential for building a strong argument.",
+    "example_sentence_cn": "健全的逻辑对于建立有力的论据至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "metaphysics",
+    "chinese": "形而上学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmetəˈfɪzɪks/",
+    "uk_phonetic": "/ˌmetəˈfɪzɪks/",
+    "example_sentence_en": "Metaphysics deals with questions about reality and existence.",
+    "example_sentence_cn": "形而上学处理关于现实和存在的问题。",
+    "inflection": "无"
+  },
+  {
+    "english": "epistemology",
+    "chinese": "认识论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˌpɪstəˈmɑːlədʒi/",
+    "uk_phonetic": "/ɪˌpɪstəˈmɒlədʒi/",
+    "example_sentence_en": "Epistemology is the study of how we know what we know.",
+    "example_sentence_cn": "认识论是研究我们如何知道我们所知道的事情的学科。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "consciousness",
+    "chinese": "意识；知觉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnʃəsnəs/",
+    "uk_phonetic": "/ˈkɒnʃəsnəs/",
+    "example_sentence_en": "The nature of consciousness is one of philosophy's greatest mysteries.",
+    "example_sentence_cn": "意识的本质是哲学中最大的谜题之一。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "existence",
+    "chinese": "存在；生存",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪɡˈzɪstəns/",
+    "uk_phonetic": "/ɪɡˈzɪstəns/",
+    "example_sentence_en": "Philosophers have long debated the meaning of existence.",
+    "example_sentence_cn": "哲学家们长期以来一直在争论存在的意义。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "rational",
+    "chinese": "理性的；合理的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈræʃnəl/",
+    "uk_phonetic": "/ˈræʃnəl/",
+    "example_sentence_en": "A rational decision is based on logic and evidence.",
+    "example_sentence_cn": "理性的决定是基于逻辑和证据的。",
+    "inflection": "比较级: more rational | 最高级: most rational"
+  },
+  {
+    "english": "irrational",
+    "chinese": "不理性的；无理性的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪˈræʃnəl/",
+    "uk_phonetic": "/ɪˈræʃnəl/",
+    "example_sentence_en": "Fear can sometimes lead to irrational behavior.",
+    "example_sentence_cn": "恐惧有时会导致非理性行为。",
+    "inflection": "比较级: more irrational | 最高级: most irrational"
+  },
+  {
+    "english": "empirical",
+    "chinese": "以经验为根据的；实证的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪmˈpɪrɪkl/",
+    "uk_phonetic": "/ɪmˈpɪrɪkl/",
+    "example_sentence_en": "Scientific claims must be supported by empirical evidence.",
+    "example_sentence_cn": "科学主张必须得到实证证据的支持。",
+    "inflection": "无"
+  },
+  {
+    "english": "abstract",
+    "chinese": "抽象的；摘要",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/ˈæbstrækt/",
+    "uk_phonetic": "/ˈæbstrækt/",
+    "example_sentence_en": "Justice is an abstract concept that is difficult to define.",
+    "example_sentence_cn": "正义是一个难以定义的抽象概念。",
+    "inflection": "复数: abstracts"
+  },
+  {
+    "english": "subjective",
+    "chinese": "主观的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səbˈdʒektɪv/",
+    "uk_phonetic": "/səbˈdʒektɪv/",
+    "example_sentence_en": "Happiness is subjective and means different things to different people.",
+    "example_sentence_cn": "幸福是主观的，对不同人意味着不同的事物。",
+    "inflection": "无"
+  },
+  {
+    "english": "objective",
+    "chinese": "客观的；目的",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/əbˈdʒektɪv/",
+    "uk_phonetic": "/əbˈdʒektɪv/",
+    "example_sentence_en": "It is difficult to be completely objective in a debate.",
+    "example_sentence_cn": "在辩论中很难做到完全客观。",
+    "inflection": "复数: objectives"
+  },
+  {
+    "english": "paradox",
+    "chinese": "悖论；矛盾的人或事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpærədɑːks/",
+    "uk_phonetic": "/ˈpærədɒks/",
+    "example_sentence_en": "The statement 'This sentence is false' is a classic paradox.",
+    "example_sentence_cn": "\"这句话是假的\"是一个经典的悖论。",
+    "inflection": "复数: paradoxes"
+  },
+  {
+    "english": "assumption",
+    "chinese": "假设；设想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈsʌmpʃn/",
+    "uk_phonetic": "/əˈsʌmpʃn/",
+    "example_sentence_en": "We should question our assumptions rather than accept them blindly.",
+    "example_sentence_cn": "我们应该质疑我们的假设，而不是盲目接受。",
+    "inflection": "复数: assumptions"
+  },
+  {
+    "english": "ideology",
+    "chinese": "意识形态；思想体系",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌaɪdiˈɑːlədʒi/",
+    "uk_phonetic": "/ˌaɪdiˈɒlədʒi/",
+    "example_sentence_en": "Political ideology shapes how people view the world.",
+    "example_sentence_cn": "政治意识形态塑造了人们看待世界的方式。",
+    "inflection": "复数: ideologies"
+  },
+  {
+    "english": "utilitarianism",
+    "chinese": "功利主义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/juːˌtɪlɪˈteriənɪzəm/",
+    "uk_phonetic": "/juːˌtɪlɪˈteəriənɪzəm/",
+    "example_sentence_en": "Utilitarianism holds that actions are right if they benefit the majority.",
+    "example_sentence_cn": "功利主义认为，如果行为有利于大多数人，则是正确的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "morality",
+    "chinese": "道德；美德",
+    "part_of_speech": "n.",
+    "us_phonetic": "/məˈræləti/",
+    "uk_phonetic": "/məˈræləti/",
+    "example_sentence_en": "Morality varies across different cultures and societies.",
+    "example_sentence_cn": "道德观在不同的文化和社会中有所不同。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "virtue",
+    "chinese": "美德；优点",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɜːrtʃuː/",
+    "uk_phonetic": "/ˈvɜːtʃuː/",
+    "example_sentence_en": "Honesty and compassion are considered important virtues.",
+    "example_sentence_cn": "诚实和同情被认为是重要的美德。",
+    "inflection": "复数: virtues"
+  },
+  {
+    "english": "dilemma",
+    "chinese": "困境；两难选择",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈlemə/",
+    "uk_phonetic": "/dɪˈlemə/",
+    "example_sentence_en": "The doctor faced an ethical dilemma about the patient's treatment.",
+    "example_sentence_cn": "医生面临着关于病人治疗的伦理困境。",
+    "inflection": "复数: dilemmas"
+  },
+  {
+    "english": "perception",
+    "chinese": "感知；看法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈsepʃn/",
+    "uk_phonetic": "/pəˈsepʃn/",
+    "example_sentence_en": "Our perception of reality is shaped by our experiences.",
+    "example_sentence_cn": "我们对现实的感知是由我们的经历所塑造的。",
+    "inflection": "复数: perceptions"
+  },
+  {
+    "english": "cognition",
+    "chinese": "认知；认识",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kɑːɡˈnɪʃn/",
+    "uk_phonetic": "/kɒɡˈnɪʃn/",
+    "example_sentence_en": "Cognition includes thinking, memory, and problem-solving.",
+    "example_sentence_cn": "认知包括思维、记忆和问题解决能力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "intuition",
+    "chinese": "直觉；直觉力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪntuˈɪʃn/",
+    "uk_phonetic": "/ˌɪntjuˈɪʃn/",
+    "example_sentence_en": "Sometimes intuition can guide us when logic fails.",
+    "example_sentence_cn": "有时当逻辑失灵时，直觉可以引导我们。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "skepticism",
+    "chinese": "怀疑论；怀疑态度",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈskeptɪsɪzəm/",
+    "uk_phonetic": "/ˈskeptɪsɪzəm/",
+    "example_sentence_en": "Scientific skepticism helps us avoid false conclusions.",
+    "example_sentence_cn": "科学怀疑论帮助我们避免得出错误的结论。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "determinism",
+    "chinese": "决定论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈtɜːrmɪnɪzəm/",
+    "uk_phonetic": "/dɪˈtɜːmɪnɪzəm/",
+    "example_sentence_en": "Determinism holds that all events are caused by prior events.",
+    "example_sentence_cn": "决定论认为所有事件都是由先前的事件引起的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "free will",
+    "chinese": "自由意志",
+    "part_of_speech": "n.",
+    "us_phonetic": "/friː wɪl/",
+    "uk_phonetic": "/friː wɪl/",
+    "example_sentence_en": "The question of free will is central to philosophy.",
+    "example_sentence_cn": "自由意志的问题是哲学的核心。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "existentialism",
+    "chinese": "存在主义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌeɡzɪˈstenʃəlɪzəm/",
+    "uk_phonetic": "/ˌeɡzɪˈstenʃəlɪzəm/",
+    "example_sentence_en": "Existentialism emphasizes individual freedom and responsibility.",
+    "example_sentence_cn": "存在主义强调个人自由和责任。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "pragmatism",
+    "chinese": "实用主义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpræɡmətɪzəm/",
+    "uk_phonetic": "/ˈpræɡmətɪzəm/",
+    "example_sentence_en": "Pragmatism values ideas based on their practical outcomes.",
+    "example_sentence_cn": "实用主义根据实际结果来评价理念。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "relativism",
+    "chinese": "相对主义",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrelətɪvɪzəm/",
+    "uk_phonetic": "/ˈrelətɪvɪzəm/",
+    "example_sentence_en": "Cultural relativism suggests that no culture is superior to another.",
+    "example_sentence_cn": "文化相对主义认为没有一种文化优于另一种文化。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的；渊博的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/prəˈfaʊnd/",
+    "uk_phonetic": "/prəˈfaʊnd/",
+    "example_sentence_en": "Philosophy raises profound questions about life and death.",
+    "example_sentence_cn": "哲学提出了关于生死的深刻问题。",
+    "inflection": "比较级: more profound | 最高级: most profound"
+  },
+  {
+    "english": "contemplation",
+    "chinese": "沉思；冥想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːntəmˈpleɪʃn/",
+    "uk_phonetic": "/ˌkɒntəmˈpleɪʃn/",
+    "example_sentence_en": "She spent hours in quiet contemplation.",
+    "example_sentence_cn": "她花了数小时静静地沉思。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "inquiry",
+    "chinese": "询问；探究",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈkwaɪri/",
+    "uk_phonetic": "/ɪnˈkwaɪri/",
+    "example_sentence_en": "Philosophy begins with inquiry and the desire to understand.",
+    "example_sentence_cn": "哲学始于探究和理解的渴望。",
+    "inflection": "复数: inquiries"
+  },
+  {
+    "english": "wisdom",
+    "chinese": "智慧；聪明",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɪzdəm/",
+    "uk_phonetic": "/ˈwɪzdəm/",
+    "example_sentence_en": "True wisdom comes from both experience and reflection.",
+    "example_sentence_cn": "真正的智慧来自经验和反思。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "reasoning",
+    "chinese": "推理；论证",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈriːzənɪŋ/",
+    "uk_phonetic": "/ˈriːzənɪŋ/",
+    "example_sentence_en": "Good reasoning is the foundation of sound argument.",
+    "example_sentence_cn": "良好的推理是健全论证的基础。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "debate",
+    "chinese": "辩论；讨论",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/dɪˈbeɪt/",
+    "uk_phonetic": "/dɪˈbeɪt/",
+    "example_sentence_en": "Philosophers debate the nature of truth and knowledge.",
+    "example_sentence_cn": "哲学家们辩论真理和知识的本质。",
+    "inflection": "动词变化: debates / debated / debating; 复数: debates"
+  },
+  {
+    "english": "humanitarian",
+    "chinese": "人道主义的；慈善家",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/hjuːˌmænɪˈteriən/",
+    "uk_phonetic": "/hjuːˌmænɪˈteəriən/",
+    "example_sentence_en": "She devoted her life to humanitarian work around the world.",
+    "example_sentence_cn": "她一生都致力于世界各地的人道主义工作。",
+    "inflection": "复数: humanitarians"
+  },
+  {
+    "english": "utopia",
+    "chinese": "乌托邦；理想国",
+    "part_of_speech": "n.",
+    "us_phonetic": "/juːˈtoʊpiə/",
+    "uk_phonetic": "/juːˈtəʊpiə/",
+    "example_sentence_en": "Philosophers have long debated what a perfect utopia would look like.",
+    "example_sentence_cn": "哲学家们长期以来一直在争论完美的乌托邦是什么样子。",
+    "inflection": "复数: utopias"
+  },
+  {
+    "english": "career",
+    "chinese": "职业；事业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪr/",
+    "uk_phonetic": "/kəˈrɪə(r)/",
+    "example_sentence_en": "Planning your career early gives you a clear direction.",
+    "example_sentence_cn": "尽早规划职业生涯会给你一个明确的方向。",
+    "inflection": "复数: careers"
+  },
+  {
+    "english": "profession",
+    "chinese": "职业；行业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈfeʃn/",
+    "uk_phonetic": "/prəˈfeʃn/",
+    "example_sentence_en": "Teaching is a noble profession that shapes society.",
+    "example_sentence_cn": "教学是一种塑造社会的高尚职业。",
+    "inflection": "复数: professions"
+  },
+  {
+    "english": "vocation",
+    "chinese": "职业；使命感",
+    "part_of_speech": "n.",
+    "us_phonetic": "/voʊˈkeɪʃn/",
+    "uk_phonetic": "/vəʊˈkeɪʃn/",
+    "example_sentence_en": "She saw medicine as more than a job; it was her vocation.",
+    "example_sentence_cn": "她认为医学不仅仅是一份工作，而是她的使命。",
+    "inflection": "复数: vocations"
+  },
+  {
+    "english": "internship",
+    "chinese": "实习；实习期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪntɜːrnʃɪp/",
+    "uk_phonetic": "/ˈɪntɜːnʃɪp/",
+    "example_sentence_en": "She gained valuable experience through a summer internship.",
+    "example_sentence_cn": "她通过暑期实习获得了宝贵的经验。",
+    "inflection": "复数: internships"
+  },
+  {
+    "english": "resume",
+    "chinese": "简历；个人履历",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrezjuːmeɪ/",
+    "uk_phonetic": "/ˈrezjuːmeɪ/",
+    "example_sentence_en": "Always update your resume before applying for a job.",
+    "example_sentence_cn": "申请工作前一定要更新你的简历。",
+    "inflection": "复数: resumes"
+  },
+  {
+    "english": "interview",
+    "chinese": "面试；采访",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈɪntərvjuː/",
+    "uk_phonetic": "/ˈɪntəvjuː/",
+    "example_sentence_en": "She prepared thoroughly for the job interview.",
+    "example_sentence_cn": "她为工作面试做了充分的准备。",
+    "inflection": "动词变化: interviews / interviewed / interviewing; 复数: interviews"
+  },
+  {
+    "english": "entrepreneur",
+    "chinese": "创业者；企业家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːntrəprəˈnɜːr/",
+    "uk_phonetic": "/ˌɒntrəprəˈnɜː(r)/",
+    "example_sentence_en": "Successful entrepreneurs are often risk-takers.",
+    "example_sentence_cn": "成功的创业者通常是勇于冒险的人。",
+    "inflection": "复数: entrepreneurs"
+  },
+  {
+    "english": "entrepreneurship",
+    "chinese": "创业精神；企业家精神",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːntrəprəˈnɜːrʃɪp/",
+    "uk_phonetic": "/ˌɒntrəprəˈnɜːʃɪp/",
+    "example_sentence_en": "Entrepreneurship requires creativity, risk-taking, and resilience.",
+    "example_sentence_cn": "创业精神需要创造力、冒险精神和韧性。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "startup",
+    "chinese": "初创公司；新兴企业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstɑːrtʌp/",
+    "uk_phonetic": "/ˈstɑːtʌp/",
+    "example_sentence_en": "She founded a startup that quickly became successful.",
+    "example_sentence_cn": "她创办了一家很快就获得成功的初创公司。",
+    "inflection": "复数: startups"
+  },
+  {
+    "english": "network",
+    "chinese": "人际网络；建立联系",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈnetwɜːrk/",
+    "uk_phonetic": "/ˈnetwɜːk/",
+    "example_sentence_en": "Building a professional network is essential for career growth.",
+    "example_sentence_cn": "建立专业人脉对职业发展至关重要。",
+    "inflection": "动词变化: networks / networked / networking; 复数: networks"
+  },
+  {
+    "english": "mentor",
+    "chinese": "导师；指导者",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈmentɔːr/",
+    "uk_phonetic": "/ˈmentɔː(r)/",
+    "example_sentence_en": "Having a mentor can accelerate your career development.",
+    "example_sentence_cn": "拥有导师可以加速你的职业发展。",
+    "inflection": "动词变化: mentors / mentored / mentoring; 复数: mentors"
+  },
+  {
+    "english": "competence",
+    "chinese": "能力；胜任",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːmpɪtəns/",
+    "uk_phonetic": "/ˈkɒmpɪtəns/",
+    "example_sentence_en": "Professional competence is highly valued in the workplace.",
+    "example_sentence_cn": "专业能力在职场中备受重视。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "competency",
+    "chinese": "能力；专业技能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːmpɪtənsi/",
+    "uk_phonetic": "/ˈkɒmpɪtənsi/",
+    "example_sentence_en": "Leadership is a key competency for senior roles.",
+    "example_sentence_cn": "领导力是高级职位的关键能力。",
+    "inflection": "复数: competencies"
+  },
+  {
+    "english": "workforce",
+    "chinese": "劳动力；劳动队伍",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɜːrkfɔːrs/",
+    "uk_phonetic": "/ˈwɜːkfɔːs/",
+    "example_sentence_en": "Women make up half of the global workforce.",
+    "example_sentence_cn": "女性占全球劳动力的一半。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "unemployment",
+    "chinese": "失业；失业率",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+    "uk_phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+    "example_sentence_en": "High unemployment rates can harm the economy.",
+    "example_sentence_cn": "高失业率可能对经济造成损害。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "promotion",
+    "chinese": "晋升；提拔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈmoʊʃn/",
+    "uk_phonetic": "/prəˈməʊʃn/",
+    "example_sentence_en": "She worked hard and earned a promotion.",
+    "example_sentence_cn": "她努力工作，获得了晋升。",
+    "inflection": "复数: promotions"
+  },
+  {
+    "english": "salary",
+    "chinese": "薪水；薪酬",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsæləri/",
+    "uk_phonetic": "/ˈsæləri/",
+    "example_sentence_en": "She negotiated a higher salary before accepting the job.",
+    "example_sentence_cn": "她在接受这份工作之前协商了更高的薪水。",
+    "inflection": "复数: salaries"
+  },
+  {
+    "english": "pension",
+    "chinese": "退休金；养老金",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpenʃn/",
+    "uk_phonetic": "/ˈpenʃn/",
+    "example_sentence_en": "He has been saving for his pension since he started working.",
+    "example_sentence_cn": "他从开始工作就一直在为退休金存钱。",
+    "inflection": "复数: pensions"
+  },
+  {
+    "english": "lifelong learning",
+    "chinese": "终身学习",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlaɪflɔːŋ ˈlɜːrnɪŋ/",
+    "uk_phonetic": "/ˈlaɪflɒŋ ˈlɜːnɪŋ/",
+    "example_sentence_en": "Lifelong learning is essential in today's rapidly changing world.",
+    "example_sentence_cn": "在当今快速变化的世界中，终身学习至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "transferable skill",
+    "chinese": "可迁移技能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trænsˈfɜːrəbl skɪl/",
+    "uk_phonetic": "/trænsˈfɜːrəbl skɪl/",
+    "example_sentence_en": "Communication is a transferable skill valued in all jobs.",
+    "example_sentence_cn": "沟通能力是所有工作中都重视的可迁移技能。",
+    "inflection": "复数: transferable skills"
+  },
+  {
+    "english": "aspiration",
+    "chinese": "抱负；志向",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌæspəˈreɪʃn/",
+    "uk_phonetic": "/ˌæspəˈreɪʃn/",
+    "example_sentence_en": "Her aspiration is to become a leading surgeon.",
+    "example_sentence_cn": "她的志向是成为一名顶尖的外科医生。",
+    "inflection": "复数: aspirations"
+  },
+  {
+    "english": "goal-setting",
+    "chinese": "目标设定",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡoʊl setɪŋ/",
+    "uk_phonetic": "/ˈɡəʊl setɪŋ/",
+    "example_sentence_en": "Goal-setting is the first step to achieving success.",
+    "example_sentence_cn": "目标设定是实现成功的第一步。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "work-life balance",
+    "chinese": "工作与生活的平衡",
+    "part_of_speech": "n.",
+    "us_phonetic": "/wɜːrk laɪf ˈbæləns/",
+    "uk_phonetic": "/wɜːk laɪf ˈbæləns/",
+    "example_sentence_en": "Maintaining a good work-life balance is crucial for wellbeing.",
+    "example_sentence_cn": "保持良好的工作与生活平衡对健康至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "leadership",
+    "chinese": "领导力；领导地位",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈliːdərʃɪp/",
+    "uk_phonetic": "/ˈliːdəʃɪp/",
+    "example_sentence_en": "Strong leadership is essential in times of crisis.",
+    "example_sentence_cn": "在危机时期，强有力的领导力至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "collaboration",
+    "chinese": "合作；协作",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˌlæbəˈreɪʃn/",
+    "uk_phonetic": "/kəˌlæbəˈreɪʃn/",
+    "example_sentence_en": "Collaboration between team members leads to better results.",
+    "example_sentence_cn": "团队成员之间的合作带来了更好的结果。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "initiative",
+    "chinese": "主动性；倡议",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈnɪʃətɪv/",
+    "uk_phonetic": "/ɪˈnɪʃətɪv/",
+    "example_sentence_en": "Taking initiative shows employers that you are proactive.",
+    "example_sentence_cn": "主动出击向雇主表明你是积极主动的。",
+    "inflection": "复数: initiatives"
+  },
+  {
+    "english": "accountability",
+    "chinese": "问责制；责任感",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˌkaʊntəˈbɪləti/",
+    "uk_phonetic": "/əˌkaʊntəˈbɪləti/",
+    "example_sentence_en": "Accountability at work means owning the results of your actions.",
+    "example_sentence_cn": "职场中的问责制意味着对自己行动的结果负责。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "dedication",
+    "chinese": "奉献；献身精神",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdedɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌdedɪˈkeɪʃn/",
+    "example_sentence_en": "Her dedication to her work is truly admirable.",
+    "example_sentence_cn": "她对工作的奉献精神令人钦佩。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "perseverance",
+    "chinese": "坚持；不懈努力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpɜːrsɪˈvɪrəns/",
+    "uk_phonetic": "/ˌpɜːsɪˈvɪərəns/",
+    "example_sentence_en": "Perseverance is key to overcoming challenges in your career.",
+    "example_sentence_cn": "坚持不懈是克服职业挑战的关键。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "resilience",
+    "chinese": "韧性；适应力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈzɪliəns/",
+    "uk_phonetic": "/rɪˈzɪliəns/",
+    "example_sentence_en": "Resilience helps people recover from career setbacks.",
+    "example_sentence_cn": "韧性帮助人们从职业挫折中恢复。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "critical thinking",
+    "chinese": "批判性思维",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+    "uk_phonetic": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+    "example_sentence_en": "Critical thinking is one of the most sought-after skills in the workplace.",
+    "example_sentence_cn": "批判性思维是职场中最受追捧的技能之一。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "adaptability",
+    "chinese": "适应能力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˌdæptəˈbɪləti/",
+    "uk_phonetic": "/əˌdæptəˈbɪləti/",
+    "example_sentence_en": "Adaptability is crucial in a rapidly changing job market.",
+    "example_sentence_cn": "在快速变化的就业市场中，适应能力至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "qualification",
+    "chinese": "资格；资质",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "example_sentence_en": "You need a relevant qualification to apply for this position.",
+    "example_sentence_cn": "申请这个职位你需要相关资质。",
+    "inflection": "复数: qualifications"
+  },
+  {
+    "english": "certification",
+    "chinese": "证书；认证",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsɜːrtɪfɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌsɜːtɪfɪˈkeɪʃn/",
+    "example_sentence_en": "She earned a certification in project management.",
+    "example_sentence_cn": "她获得了项目管理证书。",
+    "inflection": "复数: certifications"
+  },
+  {
+    "english": "apprenticeship",
+    "chinese": "学徒制；学徒期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈprentɪʃɪp/",
+    "uk_phonetic": "/əˈprentɪʃɪp/",
+    "example_sentence_en": "An apprenticeship is a great way to gain hands-on experience.",
+    "example_sentence_cn": "学徒制是获得实践经验的好方法。",
+    "inflection": "复数: apprenticeships"
+  },
+  {
+    "english": "freelance",
+    "chinese": "自由职业；自由职业者",
+    "part_of_speech": "adj. / n. / v.",
+    "us_phonetic": "/ˈfriːlæns/",
+    "uk_phonetic": "/ˈfriːlɑːns/",
+    "example_sentence_en": "She works as a freelance writer for several magazines.",
+    "example_sentence_cn": "她是几家杂志的自由撰稿人。",
+    "inflection": "动词变化: freelances / freelanced / freelancing"
+  },
+  {
+    "english": "remote work",
+    "chinese": "远程工作",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈmoʊt wɜːrk/",
+    "uk_phonetic": "/rɪˈməʊt wɜːk/",
+    "example_sentence_en": "Remote work became common during and after the pandemic.",
+    "example_sentence_cn": "远程工作在疫情期间及之后变得普遍。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "automation",
+    "chinese": "自动化",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɔːtəˈmeɪʃn/",
+    "uk_phonetic": "/ˌɔːtəˈmeɪʃn/",
+    "example_sentence_en": "Automation is replacing many manual jobs in factories.",
+    "example_sentence_cn": "自动化正在取代工厂中的许多手动工作。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "job market",
+    "chinese": "就业市场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒɑːb ˈmɑːrkɪt/",
+    "uk_phonetic": "/dʒɒb ˈmɑːkɪt/",
+    "example_sentence_en": "The job market is highly competitive for recent graduates.",
+    "example_sentence_cn": "就业市场对应届毕业生来说竞争激烈。",
+    "inflection": "复数: job markets"
+  },
+  {
+    "english": "specialization",
+    "chinese": "专业化；专长",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌspeʃələˈzeɪʃn/",
+    "uk_phonetic": "/ˌspeʃəlaɪˈzeɪʃn/",
+    "example_sentence_en": "Specialization in a field can make you more competitive.",
+    "example_sentence_cn": "某一领域的专业化可以使你更具竞争力。",
+    "inflection": "复数: specializations"
+  },
+  {
+    "english": "productivity",
+    "chinese": "生产力；效率",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌproʊdʌkˈtɪvəti/",
+    "uk_phonetic": "/ˌprɒdʌkˈtɪvəti/",
+    "example_sentence_en": "Good time management increases productivity at work.",
+    "example_sentence_cn": "良好的时间管理提高了工作效率。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "innovation",
+    "chinese": "创新；革新",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪnəˈveɪʃn/",
+    "uk_phonetic": "/ˌɪnəˈveɪʃn/",
+    "example_sentence_en": "Innovation drives economic growth and creates new careers.",
+    "example_sentence_cn": "创新推动经济增长并创造新的职业机会。",
+    "inflection": "复数: innovations"
+  },
+  {
+    "english": "occupational hazard",
+    "chinese": "职业危险",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːkjuˈpeɪʃənl ˈhæzərd/",
+    "uk_phonetic": "/ˌɒkjuˈpeɪʃənl ˈhæzəd/",
+    "example_sentence_en": "Exposure to chemicals is an occupational hazard for miners.",
+    "example_sentence_cn": "暴露于化学物质是矿工的职业危险。",
+    "inflection": "复数: occupational hazards"
+  },
+  {
+    "english": "career path",
+    "chinese": "职业道路",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪr pæθ/",
+    "uk_phonetic": "/kəˈrɪə(r) pɑːθ/",
+    "example_sentence_en": "She chose a career path in environmental science.",
+    "example_sentence_cn": "她选择了环境科学方面的职业道路。",
+    "inflection": "复数: career paths"
+  },
+  {
+    "english": "soft skills",
+    "chinese": "软技能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sɒft skɪlz/",
+    "uk_phonetic": "/sɒft skɪlz/",
+    "example_sentence_en": "Soft skills like communication and teamwork are highly valued.",
+    "example_sentence_cn": "沟通和团队合作等软技能受到高度重视。",
+    "inflection": "复数形式"
+  },
+  {
+    "english": "hard skills",
+    "chinese": "硬技能；专业技能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hɑːrd skɪlz/",
+    "uk_phonetic": "/hɑːd skɪlz/",
+    "example_sentence_en": "Hard skills such as coding are specific and teachable.",
+    "example_sentence_cn": "编程等硬技能是具体的和可教授的。",
+    "inflection": "复数形式"
+  },
+  {
+    "english": "job satisfaction",
+    "chinese": "工作满意度",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒɑːb ˌsætɪsˈfækʃn/",
+    "uk_phonetic": "/dʒɒb ˌsætɪsˈfækʃn/",
+    "example_sentence_en": "Job satisfaction is more important than a high salary to some people.",
+    "example_sentence_cn": "对某些人来说，工作满意度比高薪更重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "digital literacy",
+    "chinese": "数字素养",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪdʒɪtl ˈlɪtərəsi/",
+    "uk_phonetic": "/ˈdɪdʒɪtl ˈlɪtərəsi/",
+    "example_sentence_en": "Digital literacy is now a basic requirement in most workplaces.",
+    "example_sentence_cn": "数字素养现在是大多数工作场所的基本要求。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "upskill",
+    "chinese": "提升技能",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈʌpskɪl/",
+    "uk_phonetic": "/ˈʌpskɪl/",
+    "example_sentence_en": "Workers must upskill to keep up with new technologies.",
+    "example_sentence_cn": "工人必须提升技能以跟上新技术的步伐。",
+    "inflection": "动词变化: upskills / upskilled / upskilling"
+  },
+  {
+    "english": "portfolio",
+    "chinese": "作品集；投资组合",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɔːrtˈfoʊlioʊ/",
+    "uk_phonetic": "/pɔːtˈfəʊliəʊ/",
+    "example_sentence_en": "Artists often present a portfolio to potential employers.",
+    "example_sentence_cn": "艺术家通常向潜在雇主展示他们的作品集。",
+    "inflection": "复数: portfolios"
+  },
+  {
+    "english": "retirement",
+    "chinese": "退休",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈtaɪərmənt/",
+    "uk_phonetic": "/rɪˈtaɪəmənt/",
+    "example_sentence_en": "He plans to travel the world after retirement.",
+    "example_sentence_cn": "他计划退休后环游世界。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "internship",
+    "chinese": "实习",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪntɜːrnʃɪp/",
+    "uk_phonetic": "/ˈɪntɜːnʃɪp/",
+    "example_sentence_en": "The internship gave her real insight into the field.",
+    "example_sentence_cn": "实习让她真正了解了这个领域。",
+    "inflection": "复数: internships"
+  },
+  {
+    "english": "career counseling",
+    "chinese": "职业辅导",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪr ˈkaʊnsəlɪŋ/",
+    "uk_phonetic": "/kəˈrɪə(r) ˈkaʊnsəlɪŋ/",
+    "example_sentence_en": "She sought career counseling to help choose her major.",
+    "example_sentence_cn": "她寻求职业辅导来帮助选择专业。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "overqualified",
+    "chinese": "过度资历的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌoʊvərˈkwɑːlɪfaɪd/",
+    "uk_phonetic": "/ˌəʊvəˈkwɒlɪfaɪd/",
+    "example_sentence_en": "Some employers worry that overqualified candidates may leave soon.",
+    "example_sentence_cn": "一些雇主担心过度资历的候选人可能很快就会离开。",
+    "inflection": "无"
+  },
+  {
+    "english": "job shadowing",
+    "chinese": "工作见习",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒɑːb ˈʃædoʊɪŋ/",
+    "uk_phonetic": "/dʒɒb ˈʃædəʊɪŋ/",
+    "example_sentence_en": "Job shadowing helps students experience different careers.",
+    "example_sentence_cn": "工作见习帮助学生体验不同的职业。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "occupational therapy",
+    "chinese": "职业疗法；作业治疗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːkjuˈpeɪʃənl ˈθerəpi/",
+    "uk_phonetic": "/ˌɒkjuˈpeɪʃənl ˈθerəpi/",
+    "example_sentence_en": "Occupational therapy helps patients regain daily living skills.",
+    "example_sentence_cn": "职业疗法帮助患者恢复日常生活技能。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "proactive",
+    "chinese": "积极主动的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/proʊˈæktɪv/",
+    "uk_phonetic": "/prəʊˈæktɪv/",
+    "example_sentence_en": "Being proactive at work can set you apart from others.",
+    "example_sentence_cn": "在工作中积极主动可以让你脱颖而出。",
+    "inflection": "无"
+  },
+  {
+    "english": "strategic",
+    "chinese": "战略性的；有策略的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/strəˈtiːdʒɪk/",
+    "uk_phonetic": "/strəˈtiːdʒɪk/",
+    "example_sentence_en": "Strategic career planning can help you achieve long-term goals.",
+    "example_sentence_cn": "战略性的职业规划可以帮助你实现长期目标。",
+    "inflection": "无"
+  },
+  {
+    "english": "work ethic",
+    "chinese": "工作态度；职业道德",
+    "part_of_speech": "n.",
+    "us_phonetic": "/wɜːrk ˈeθɪk/",
+    "uk_phonetic": "/wɜːk ˈeθɪk/",
+    "example_sentence_en": "Employers value candidates with a strong work ethic.",
+    "example_sentence_cn": "雇主重视有强烈工作态度的候选人。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "benchmark",
+    "chinese": "基准；标杆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbentʃmɑːrk/",
+    "uk_phonetic": "/ˈbentʃmɑːk/",
+    "example_sentence_en": "Set benchmarks to measure your progress in your career.",
+    "example_sentence_cn": "设置基准来衡量你的职业进展。",
+    "inflection": "复数: benchmarks"
+  },
+  {
+    "english": "long-term goal",
+    "chinese": "长期目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/lɔːŋ tɜːrm ɡoʊl/",
+    "uk_phonetic": "/lɒŋ tɜːm ɡəʊl/",
+    "example_sentence_en": "My long-term goal is to become a doctor.",
+    "example_sentence_cn": "我的长期目标是成为一名医生。",
+    "inflection": "复数: long-term goals"
+  },
+  {
+    "english": "short-term goal",
+    "chinese": "短期目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɔːrt tɜːrm ɡoʊl/",
+    "uk_phonetic": "/ʃɔːt tɜːm ɡəʊl/",
+    "example_sentence_en": "Setting short-term goals keeps you motivated daily.",
+    "example_sentence_cn": "设定短期目标让你每天保持积极性。",
+    "inflection": "复数: short-term goals"
+  },
+  {
+    "english": "passion-driven",
+    "chinese": "以热情为驱动的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈpæʃn drɪvn/",
+    "uk_phonetic": "/ˈpæʃn drɪvn/",
+    "example_sentence_en": "A passion-driven career often leads to greater fulfillment.",
+    "example_sentence_cn": "以热情为驱动的职业往往带来更大的满足感。",
+    "inflection": "无"
+  },
+  {
+    "english": "time management",
+    "chinese": "时间管理",
+    "part_of_speech": "n.",
+    "us_phonetic": "/taɪm ˈmænɪdʒmənt/",
+    "uk_phonetic": "/taɪm ˈmænɪdʒmənt/",
+    "example_sentence_en": "Good time management is essential for career success.",
+    "example_sentence_cn": "良好的时间管理对职业成功至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "burnout",
+    "chinese": "职业倦怠；精力耗尽",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbɜːrnaʊt/",
+    "uk_phonetic": "/ˈbɜːnaʊt/",
+    "example_sentence_en": "Overworking without rest can lead to career burnout.",
+    "example_sentence_cn": "不休息地过度工作可能导致职业倦怠。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "opportunity cost",
+    "chinese": "机会成本",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːpərˈtuːnəti kɔːst/",
+    "uk_phonetic": "/ˌɒpəˈtjuːnəti kɒst/",
+    "example_sentence_en": "Taking a lower-paying job may have a high opportunity cost.",
+    "example_sentence_cn": "接受薪酬较低的工作可能会有较高的机会成本。",
+    "inflection": "复数: opportunity costs"
+  },
+  {
+    "english": "career development",
+    "chinese": "职业发展",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪr dɪˈveləpmənt/",
+    "uk_phonetic": "/kəˈrɪə(r) dɪˈveləpmənt/",
+    "example_sentence_en": "Continuous learning is the foundation of career development.",
+    "example_sentence_cn": "持续学习是职业发展的基础。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "occupational interest",
+    "chinese": "职业兴趣",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːkjuˈpeɪʃənl ˈɪntrəst/",
+    "uk_phonetic": "/ˌɒkjuˈpeɪʃənl ˈɪntrəst/",
+    "example_sentence_en": "Identifying occupational interests helps in choosing a career.",
+    "example_sentence_cn": "识别职业兴趣有助于选择职业。",
+    "inflection": "复数: occupational interests"
+  }
+]

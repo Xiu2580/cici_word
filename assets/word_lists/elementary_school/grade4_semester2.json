@@ -1,0 +1,552 @@
+[
+  {
+    "english": "playground",
+    "chinese": "操场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpleɪɡraʊnd/",
+    "uk_phonetic": "/ˈpleɪɡraʊnd/",
+    "example_sentence_en": "We play on the playground.",
+    "example_sentence_cn": "我们在操场上玩。",
+    "inflection": "复数: playgrounds"
+  },
+  {
+    "english": "library",
+    "chinese": "图书馆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlaɪbreri/",
+    "uk_phonetic": "/ˈlaɪbrəri/",
+    "example_sentence_en": "I read books in the library.",
+    "example_sentence_cn": "我在图书馆看书。",
+    "inflection": "复数: libraries"
+  },
+  {
+    "english": "gym",
+    "chinese": "体育馆；健身房",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒɪm/",
+    "uk_phonetic": "/dʒɪm/",
+    "example_sentence_en": "We have P.E. class in the gym.",
+    "example_sentence_cn": "我们在体育馆上体育课。",
+    "inflection": "复数: gyms"
+  },
+  {
+    "english": "canteen",
+    "chinese": "食堂",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kænˈtiːn/",
+    "uk_phonetic": "/kænˈtiːn/",
+    "example_sentence_en": "We eat lunch in the canteen.",
+    "example_sentence_cn": "我们在食堂吃午饭。",
+    "inflection": "复数: canteens"
+  },
+  {
+    "english": "office",
+    "chinese": "办公室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːfɪs/",
+    "uk_phonetic": "/ˈɒfɪs/",
+    "example_sentence_en": "The teachers are in the office.",
+    "example_sentence_cn": "老师们在办公室里。",
+    "inflection": "复数: offices"
+  },
+  {
+    "english": "lesson",
+    "chinese": "课；课程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlesn/",
+    "uk_phonetic": "/ˈlesn/",
+    "example_sentence_en": "I like the English lesson.",
+    "example_sentence_cn": "我喜欢这节英语课。",
+    "inflection": "复数: lessons"
+  },
+  {
+    "english": "subject",
+    "chinese": "科目",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsʌbdʒekt/",
+    "uk_phonetic": "/ˈsʌbdʒɪkt/",
+    "example_sentence_en": "What is your favorite subject?",
+    "example_sentence_cn": "你最喜欢的科目是什么？",
+    "inflection": "复数: subjects"
+  },
+  {
+    "english": "science",
+    "chinese": "科学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsaɪəns/",
+    "uk_phonetic": "/ˈsaɪəns/",
+    "example_sentence_en": "Science is fun.",
+    "example_sentence_cn": "科学很有趣。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "music",
+    "chinese": "音乐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmjuːzɪk/",
+    "uk_phonetic": "/ˈmjuːzɪk/",
+    "example_sentence_en": "I listen to music.",
+    "example_sentence_cn": "我听音乐。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "art",
+    "chinese": "美术",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɑːrt/",
+    "uk_phonetic": "/ɑːt/",
+    "example_sentence_en": "I like drawing in art class.",
+    "example_sentence_cn": "我在美术课上喜欢画画。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "P.E.",
+    "chinese": "体育课",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpiː iː/",
+    "uk_phonetic": "/ˌpiː iː/",
+    "example_sentence_en": "We run in P.E. class.",
+    "example_sentence_cn": "我们在体育课上跑步。",
+    "inflection": "无"
+  },
+  {
+    "english": "exam",
+    "chinese": "考试",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪɡˈzæm/",
+    "uk_phonetic": "/ɪɡˈzæm/",
+    "example_sentence_en": "I have a math exam today.",
+    "example_sentence_cn": "我今天有数学考试。",
+    "inflection": "复数: exams"
+  },
+  {
+    "english": "break",
+    "chinese": "课间休息",
+    "part_of_speech": "n.",
+    "us_phonetic": "/breɪk/",
+    "uk_phonetic": "/breɪk/",
+    "example_sentence_en": "Let's play during the break.",
+    "example_sentence_cn": "我们课间休息时玩吧。",
+    "inflection": "复数: breaks"
+  },
+  {
+    "english": "rule",
+    "chinese": "规则；规章",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ruːl/",
+    "uk_phonetic": "/ruːl/",
+    "example_sentence_en": "Please follow the school rules.",
+    "example_sentence_cn": "请遵守学校规则。",
+    "inflection": "复数: rules"
+  },
+  {
+    "english": "sunny",
+    "chinese": "晴朗的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsʌni/",
+    "uk_phonetic": "/ˈsʌni/",
+    "example_sentence_en": "It is sunny today.",
+    "example_sentence_cn": "今天是晴天。",
+    "inflection": "比较级: sunnier | 最高级: sunniest"
+  },
+  {
+    "english": "cloudy",
+    "chinese": "多云的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈklaʊdi/",
+    "uk_phonetic": "/ˈklaʊdi/",
+    "example_sentence_en": "It is a cloudy day.",
+    "example_sentence_cn": "今天是个阴天。",
+    "inflection": "比较级: cloudier | 最高级: cloudiest"
+  },
+  {
+    "english": "rainy",
+    "chinese": "下雨的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈreɪni/",
+    "uk_phonetic": "/ˈreɪni/",
+    "example_sentence_en": "Take an umbrella on a rainy day.",
+    "example_sentence_cn": "雨天带把伞。",
+    "inflection": "比较级: rainier | 最高级: rainiest"
+  },
+  {
+    "english": "windy",
+    "chinese": "刮风的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈwɪndi/",
+    "uk_phonetic": "/ˈwɪndi/",
+    "example_sentence_en": "It is very windy outside.",
+    "example_sentence_cn": "外面风很大。",
+    "inflection": "比较级: windier | 最高级: windiest"
+  },
+  {
+    "english": "snowy",
+    "chinese": "下雪的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsnoʊi/",
+    "uk_phonetic": "/ˈsnəʊi/",
+    "example_sentence_en": "We play in the snowy weather.",
+    "example_sentence_cn": "我们在下雪天玩耍。",
+    "inflection": "比较级: snowier | 最高级: snowiest"
+  },
+  {
+    "english": "stormy",
+    "chinese": "暴风雨的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈstɔːrmi/",
+    "uk_phonetic": "/ˈstɔːmi/",
+    "example_sentence_en": "The sea is stormy.",
+    "example_sentence_cn": "海面上暴风雨交加。",
+    "inflection": "比较级: stormier | 最高级: stormiest"
+  },
+  {
+    "english": "foggy",
+    "chinese": "有雾的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfɑːɡi/",
+    "uk_phonetic": "/ˈfɒɡi/",
+    "example_sentence_en": "It is foggy this morning.",
+    "example_sentence_cn": "今天早上有雾。",
+    "inflection": "比较级: foggier | 最高级: foggiest"
+  },
+  {
+    "english": "temperature",
+    "chinese": "温度",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtemprətʃər/",
+    "uk_phonetic": "/ˈtemprətʃə(r)/",
+    "example_sentence_en": "The temperature is high today.",
+    "example_sentence_cn": "今天温度很高。",
+    "inflection": "复数: temperatures"
+  },
+  {
+    "english": "degree",
+    "chinese": "度；度数",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈɡriː/",
+    "uk_phonetic": "/dɪˈɡriː/",
+    "example_sentence_en": "It is 30 degrees outside.",
+    "example_sentence_cn": "外面是30度。",
+    "inflection": "复数: degrees"
+  },
+  {
+    "english": "forecast",
+    "chinese": "预报",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɔːrkæst/",
+    "uk_phonetic": "/ˈfɔːkɑːst/",
+    "example_sentence_en": "Let's check the weather forecast.",
+    "example_sentence_cn": "我们看看天气预报吧。",
+    "inflection": "复数: forecasts"
+  },
+  {
+    "english": "umbrella",
+    "chinese": "雨伞",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʌmˈbrelə/",
+    "uk_phonetic": "/ʌmˈbrelə/",
+    "example_sentence_en": "I forgot my umbrella.",
+    "example_sentence_cn": "我忘记带雨伞了。",
+    "inflection": "复数: umbrellas"
+  },
+  {
+    "english": "season",
+    "chinese": "季节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsiːzn/",
+    "uk_phonetic": "/ˈsiːzn/",
+    "example_sentence_en": "Spring is my favorite season.",
+    "example_sentence_cn": "春天是我最喜欢的季节。",
+    "inflection": "复数: seasons"
+  },
+  {
+    "english": "spring",
+    "chinese": "春天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sprɪŋ/",
+    "uk_phonetic": "/sprɪŋ/",
+    "example_sentence_en": "Flowers bloom in spring.",
+    "example_sentence_cn": "花在春天开放。",
+    "inflection": "复数: springs"
+  },
+  {
+    "english": "autumn",
+    "chinese": "秋天",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːtəm/",
+    "uk_phonetic": "/ˈɔːtəm/",
+    "example_sentence_en": "Leaves fall in autumn.",
+    "example_sentence_cn": "树叶在秋天掉落。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "store",
+    "chinese": "商店",
+    "part_of_speech": "n.",
+    "us_phonetic": "/stɔːr/",
+    "uk_phonetic": "/stɔː(r)/",
+    "example_sentence_en": "I go to the store.",
+    "example_sentence_cn": "我去商店。",
+    "inflection": "复数: stores"
+  },
+  {
+    "english": "supermarket",
+    "chinese": "超市",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsuːpərmɑːrkət/",
+    "uk_phonetic": "/ˈsuːpəmɑːkɪt/",
+    "example_sentence_en": "We buy food at the supermarket.",
+    "example_sentence_cn": "我们在超市买食物。",
+    "inflection": "复数: supermarkets"
+  },
+  {
+    "english": "shop",
+    "chinese": "商店",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɑːp/",
+    "uk_phonetic": "/ʃɒp/",
+    "example_sentence_en": "The toy shop is big.",
+    "example_sentence_cn": "那家玩具店很大。",
+    "inflection": "复数: shops; 动词变化: shops / shopping / shopped"
+  },
+  {
+    "english": "price",
+    "chinese": "价格",
+    "part_of_speech": "n.",
+    "us_phonetic": "/praɪs/",
+    "uk_phonetic": "/praɪs/",
+    "example_sentence_en": "The price is too high.",
+    "example_sentence_cn": "价格太高了。",
+    "inflection": "复数: prices"
+  },
+  {
+    "english": "money",
+    "chinese": "钱",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmʌni/",
+    "uk_phonetic": "/ˈmʌni/",
+    "example_sentence_en": "I saved some money.",
+    "example_sentence_cn": "我存了一些钱。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "dollar",
+    "chinese": "美元",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɑːlər/",
+    "uk_phonetic": "/ˈdɒlə(r)/",
+    "example_sentence_en": "The book costs one dollar.",
+    "example_sentence_cn": "这本书花了一美元。",
+    "inflection": "复数: dollars"
+  },
+  {
+    "english": "cent",
+    "chinese": "美分",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sent/",
+    "uk_phonetic": "/sent/",
+    "example_sentence_en": "I have fifty cents.",
+    "example_sentence_cn": "我有50美分。",
+    "inflection": "复数: cents"
+  },
+  {
+    "english": "cheap",
+    "chinese": "便宜的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/tʃiːp/",
+    "uk_phonetic": "/tʃiːp/",
+    "example_sentence_en": "This shirt is cheap.",
+    "example_sentence_cn": "这件衬衫很便宜。",
+    "inflection": "比较级: cheaper | 最高级: cheapest"
+  },
+  {
+    "english": "expensive",
+    "chinese": "昂贵的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈspensɪv/",
+    "uk_phonetic": "/ɪkˈspensɪv/",
+    "example_sentence_en": "The car is very expensive.",
+    "example_sentence_cn": "这辆车非常昂贵。",
+    "inflection": "比较级: more expensive | 最高级: most expensive"
+  },
+  {
+    "english": "buy",
+    "chinese": "买",
+    "part_of_speech": "v.",
+    "us_phonetic": "/baɪ/",
+    "uk_phonetic": "/baɪ/",
+    "example_sentence_en": "I want to buy a pen.",
+    "example_sentence_cn": "我想买一支钢笔。",
+    "inflection": "动词变化: buys / bought / buying"
+  },
+  {
+    "english": "sell",
+    "chinese": "卖",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sel/",
+    "uk_phonetic": "/sel/",
+    "example_sentence_en": "They sell apples.",
+    "example_sentence_cn": "他们卖苹果。",
+    "inflection": "动词变化: sells / sold / selling"
+  },
+  {
+    "english": "pay",
+    "chinese": "付款",
+    "part_of_speech": "v.",
+    "us_phonetic": "/peɪ/",
+    "uk_phonetic": "/peɪ/",
+    "example_sentence_en": "I will pay for the book.",
+    "example_sentence_cn": "我会付书钱。",
+    "inflection": "动词变化: pays / paid / paying"
+  },
+  {
+    "english": "receipt",
+    "chinese": "收据",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈsiːt/",
+    "uk_phonetic": "/rɪˈsiːt/",
+    "example_sentence_en": "Here is your receipt.",
+    "example_sentence_cn": "这是你的收据。",
+    "inflection": "复数: receipts"
+  },
+  {
+    "english": "size",
+    "chinese": "尺码；大小",
+    "part_of_speech": "n.",
+    "us_phonetic": "/saɪz/",
+    "uk_phonetic": "/saɪz/",
+    "example_sentence_en": "What size do you need?",
+    "example_sentence_cn": "你需要什么尺码？",
+    "inflection": "复数: sizes"
+  },
+  {
+    "english": "farm",
+    "chinese": "农场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fɑːrm/",
+    "uk_phonetic": "/fɑːm/",
+    "example_sentence_en": "We visited a farm.",
+    "example_sentence_cn": "我们参观了一个农场。",
+    "inflection": "复数: farms"
+  },
+  {
+    "english": "farmer",
+    "chinese": "农民；农场主",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːrmər/",
+    "uk_phonetic": "/ˈfɑːmə(r)/",
+    "example_sentence_en": "The farmer works hard.",
+    "example_sentence_cn": "农民工作很辛苦。",
+    "inflection": "复数: farmers"
+  },
+  {
+    "english": "animal",
+    "chinese": "动物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈænɪml/",
+    "uk_phonetic": "/ˈænɪml/",
+    "example_sentence_en": "I love animals.",
+    "example_sentence_cn": "我爱动物。",
+    "inflection": "复数: animals"
+  },
+  {
+    "english": "cow",
+    "chinese": "奶牛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kaʊ/",
+    "uk_phonetic": "/kaʊ/",
+    "example_sentence_en": "The cow gives milk.",
+    "example_sentence_cn": "奶牛产奶。",
+    "inflection": "复数: cows"
+  },
+  {
+    "english": "sheep",
+    "chinese": "绵羊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃiːp/",
+    "uk_phonetic": "/ʃiːp/",
+    "example_sentence_en": "The sheep is eating grass.",
+    "example_sentence_cn": "绵羊在吃草。",
+    "inflection": "复数: sheep"
+  },
+  {
+    "english": "horse",
+    "chinese": "马",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hɔːrs/",
+    "uk_phonetic": "/hɔːs/",
+    "example_sentence_en": "I can ride a horse.",
+    "example_sentence_cn": "我会骑马。",
+    "inflection": "复数: horses"
+  },
+  {
+    "english": "pig",
+    "chinese": "猪",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɪɡ/",
+    "uk_phonetic": "/pɪɡ/",
+    "example_sentence_en": "The pig is pink.",
+    "example_sentence_cn": "这头猪是粉色的。",
+    "inflection": "复数: pigs"
+  },
+  {
+    "english": "chicken",
+    "chinese": "鸡",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃɪkɪn/",
+    "uk_phonetic": "/ˈtʃɪkɪn/",
+    "example_sentence_en": "The chicken lays eggs.",
+    "example_sentence_cn": "这只鸡下蛋。",
+    "inflection": "复数: chickens"
+  },
+  {
+    "english": "duck",
+    "chinese": "鸭子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʌk/",
+    "uk_phonetic": "/dʌk/",
+    "example_sentence_en": "The duck swims in the pond.",
+    "example_sentence_cn": "鸭子在池塘里游泳。",
+    "inflection": "复数: ducks"
+  },
+  {
+    "english": "grass",
+    "chinese": "草；草地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡræs/",
+    "uk_phonetic": "/ɡrɑːs/",
+    "example_sentence_en": "The grass is green.",
+    "example_sentence_cn": "草是绿色的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "corn",
+    "chinese": "玉米",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kɔːrn/",
+    "uk_phonetic": "/kɔːn/",
+    "example_sentence_en": "We eat sweet corn.",
+    "example_sentence_cn": "我们吃甜玉米。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "carrot",
+    "chinese": "胡萝卜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkærət/",
+    "uk_phonetic": "/ˈkærət/",
+    "example_sentence_en": "Rabbits like carrots.",
+    "example_sentence_cn": "兔子喜欢胡萝卜。",
+    "inflection": "复数: carrots"
+  },
+  {
+    "english": "tractor",
+    "chinese": "拖拉机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtræktər/",
+    "uk_phonetic": "/ˈtræktə(r)/",
+    "example_sentence_en": "The farmer drives a tractor.",
+    "example_sentence_cn": "农民开拖拉机。",
+    "inflection": "复数: tractors"
+  }
+]

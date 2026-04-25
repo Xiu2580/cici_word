@@ -1,0 +1,282 @@
+[
+  {
+    "english": "eye",
+    "chinese": "眼睛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/aɪ/",
+    "uk_phonetic": "/aɪ/",
+    "example_sentence_en": "I have two eyes.",
+    "example_sentence_cn": "我有两只眼睛。",
+    "inflection": "复数: eyes"
+  },
+  {
+    "english": "ear",
+    "chinese": "耳朵",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪr/",
+    "uk_phonetic": "/ɪə(r)/",
+    "example_sentence_en": "Touch your ear.",
+    "example_sentence_cn": "摸摸你的耳朵。",
+    "inflection": "复数: ears"
+  },
+  {
+    "english": "nose",
+    "chinese": "鼻子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/noʊz/",
+    "uk_phonetic": "/nəʊz/",
+    "example_sentence_en": "This is my nose.",
+    "example_sentence_cn": "这是我的鼻子。",
+    "inflection": "复数: noses"
+  },
+  {
+    "english": "mouth",
+    "chinese": "嘴巴",
+    "part_of_speech": "n.",
+    "us_phonetic": "/maʊθ/",
+    "uk_phonetic": "/maʊθ/",
+    "example_sentence_en": "Open your mouth.",
+    "example_sentence_cn": "张开你的嘴巴。",
+    "inflection": "复数: mouths"
+  },
+  {
+    "english": "face",
+    "chinese": "脸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/feɪs/",
+    "uk_phonetic": "/feɪs/",
+    "example_sentence_en": "Wash your face.",
+    "example_sentence_cn": "洗洗你的脸。",
+    "inflection": "复数: faces"
+  },
+  {
+    "english": "hand",
+    "chinese": "手",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hænd/",
+    "uk_phonetic": "/hænd/",
+    "example_sentence_en": "Clap your hands.",
+    "example_sentence_cn": "拍拍你的手。",
+    "inflection": "复数: hands"
+  },
+  {
+    "english": "foot",
+    "chinese": "脚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fʊt/",
+    "uk_phonetic": "/fʊt/",
+    "example_sentence_en": "Stamp your foot.",
+    "example_sentence_cn": "跺跺你的脚。",
+    "inflection": "复数: feet"
+  },
+  {
+    "english": "cat",
+    "chinese": "猫",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kæt/",
+    "uk_phonetic": "/kæt/",
+    "example_sentence_en": "The cat is cute.",
+    "example_sentence_cn": "这只猫很可爱。",
+    "inflection": "复数: cats"
+  },
+  {
+    "english": "dog",
+    "chinese": "狗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɔːɡ/",
+    "uk_phonetic": "/dɒɡ/",
+    "example_sentence_en": "I have a dog.",
+    "example_sentence_cn": "我有一只狗。",
+    "inflection": "复数: dogs"
+  },
+  {
+    "english": "bird",
+    "chinese": "鸟",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɜːrd/",
+    "uk_phonetic": "/bɜːd/",
+    "example_sentence_en": "The bird can fly.",
+    "example_sentence_cn": "鸟会飞。",
+    "inflection": "复数: birds"
+  },
+  {
+    "english": "fish",
+    "chinese": "鱼",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fɪʃ/",
+    "uk_phonetic": "/fɪʃ/",
+    "example_sentence_en": "I like fish.",
+    "example_sentence_cn": "我喜欢鱼。",
+    "inflection": "复数: fish / fishes"
+  },
+  {
+    "english": "rabbit",
+    "chinese": "兔子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈræbɪt/",
+    "uk_phonetic": "/ˈræbɪt/",
+    "example_sentence_en": "The rabbit is white.",
+    "example_sentence_cn": "这只兔子是白色的。",
+    "inflection": "复数: rabbits"
+  },
+  {
+    "english": "pig",
+    "chinese": "猪",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɪɡ/",
+    "uk_phonetic": "/pɪɡ/",
+    "example_sentence_en": "The pig is pink.",
+    "example_sentence_cn": "这头猪是粉色的。",
+    "inflection": "复数: pigs"
+  },
+  {
+    "english": "duck",
+    "chinese": "鸭子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʌk/",
+    "uk_phonetic": "/dʌk/",
+    "example_sentence_en": "A yellow duck.",
+    "example_sentence_cn": "一只黄色的鸭子。",
+    "inflection": "复数: ducks"
+  },
+  {
+    "english": "bear",
+    "chinese": "熊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ber/",
+    "uk_phonetic": "/beə(r)/",
+    "example_sentence_en": "Look at the bear.",
+    "example_sentence_cn": "看那只熊。",
+    "inflection": "复数: bears"
+  },
+  {
+    "english": "apple",
+    "chinese": "苹果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæpl/",
+    "uk_phonetic": "/ˈæpl/",
+    "example_sentence_en": "I want an apple.",
+    "example_sentence_cn": "我想要一个苹果。",
+    "inflection": "复数: apples"
+  },
+  {
+    "english": "cake",
+    "chinese": "蛋糕",
+    "part_of_speech": "n.",
+    "us_phonetic": "/keɪk/",
+    "uk_phonetic": "/keɪk/",
+    "example_sentence_en": "Here is a cake.",
+    "example_sentence_cn": "这里有一个蛋糕。",
+    "inflection": "复数: cakes"
+  },
+  {
+    "english": "egg",
+    "chinese": "鸡蛋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/eɡ/",
+    "uk_phonetic": "/eɡ/",
+    "example_sentence_en": "I like eating eggs.",
+    "example_sentence_cn": "我喜欢吃鸡蛋。",
+    "inflection": "复数: eggs"
+  },
+  {
+    "english": "milk",
+    "chinese": "牛奶",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɪlk/",
+    "uk_phonetic": "/mɪlk/",
+    "example_sentence_en": "Drink some milk.",
+    "example_sentence_cn": "喝点牛奶。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "rice",
+    "chinese": "米饭",
+    "part_of_speech": "n.",
+    "us_phonetic": "/raɪs/",
+    "uk_phonetic": "/raɪs/",
+    "example_sentence_en": "I like rice.",
+    "example_sentence_cn": "我喜欢米饭。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "bread",
+    "chinese": "面包",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bred/",
+    "uk_phonetic": "/bred/",
+    "example_sentence_en": "Have some bread.",
+    "example_sentence_cn": "吃点面包。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "banana",
+    "chinese": "香蕉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bəˈnænə/",
+    "uk_phonetic": "/bəˈnɑːnə/",
+    "example_sentence_en": "Peel the banana.",
+    "example_sentence_cn": "剥开香蕉。",
+    "inflection": "复数: bananas"
+  },
+  {
+    "english": "candy",
+    "chinese": "糖果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkændi/",
+    "uk_phonetic": "/ˈkændi/",
+    "example_sentence_en": "Sweet candy.",
+    "example_sentence_cn": "甜甜的糖果。",
+    "inflection": "复数: candies"
+  },
+  {
+    "english": "six",
+    "chinese": "六",
+    "part_of_speech": "num.",
+    "us_phonetic": "/sɪks/",
+    "uk_phonetic": "/sɪks/",
+    "example_sentence_en": "I am six years old.",
+    "example_sentence_cn": "我六岁了。",
+    "inflection": "无"
+  },
+  {
+    "english": "seven",
+    "chinese": "七",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˈsevn/",
+    "uk_phonetic": "/ˈsevn/",
+    "example_sentence_en": "Seven days a week.",
+    "example_sentence_cn": "一周七天。",
+    "inflection": "无"
+  },
+  {
+    "english": "eight",
+    "chinese": "八",
+    "part_of_speech": "num.",
+    "us_phonetic": "/eɪt/",
+    "uk_phonetic": "/eɪt/",
+    "example_sentence_en": "I have eight pens.",
+    "example_sentence_cn": "我有八支钢笔。",
+    "inflection": "无"
+  },
+  {
+    "english": "nine",
+    "chinese": "九",
+    "part_of_speech": "num.",
+    "us_phonetic": "/naɪn/",
+    "uk_phonetic": "/naɪn/",
+    "example_sentence_en": "Nine little ducks.",
+    "example_sentence_cn": "九只小鸭子。",
+    "inflection": "无"
+  },
+  {
+    "english": "ten",
+    "chinese": "十",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ten/",
+    "uk_phonetic": "/ten/",
+    "example_sentence_en": "I have ten fingers.",
+    "example_sentence_cn": "我有十根手指。",
+    "inflection": "无"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "english": "hello",
+    "chinese": "你好",
+    "part_of_speech": "interj.",
+    "us_phonetic": "/həˈloʊ/",
+    "uk_phonetic": "/həˈləʊ/",
+    "example_sentence_en": "Hello, Tom!",
+    "example_sentence_cn": "你好，汤姆！",
+    "inflection": "无"
+  },
+  {
+    "english": "hi",
+    "chinese": "嗨；你好",
+    "part_of_speech": "interj.",
+    "us_phonetic": "/haɪ/",
+    "uk_phonetic": "/haɪ/",
+    "example_sentence_en": "Hi, I'm Amy.",
+    "example_sentence_cn": "嗨，我是艾米。",
+    "inflection": "无"
+  },
+  {
+    "english": "good",
+    "chinese": "好的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɡʊd/",
+    "uk_phonetic": "/ɡʊd/",
+    "example_sentence_en": "Good morning!",
+    "example_sentence_cn": "早上好！",
+    "inflection": "比较级: better | 最高级: best"
+  },
+  {
+    "english": "morning",
+    "chinese": "早晨；上午",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɔːrnɪŋ/",
+    "uk_phonetic": "/ˈmɔːnɪŋ/",
+    "example_sentence_en": "Good morning, teacher.",
+    "example_sentence_cn": "老师，早上好。",
+    "inflection": "复数: mornings"
+  },
+  {
+    "english": "goodbye",
+    "chinese": "再见",
+    "part_of_speech": "interj.",
+    "us_phonetic": "/ˌɡʊdˈbaɪ/",
+    "uk_phonetic": "/ˌɡʊdˈbaɪ/",
+    "example_sentence_en": "Goodbye, class!",
+    "example_sentence_cn": "再见，同学们！",
+    "inflection": "无"
+  },
+  {
+    "english": "pen",
+    "chinese": "钢笔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pen/",
+    "uk_phonetic": "/pen/",
+    "example_sentence_en": "I have a pen.",
+    "example_sentence_cn": "我有一支钢笔。",
+    "inflection": "复数: pens"
+  },
+  {
+    "english": "pencil",
+    "chinese": "铅笔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpensl/",
+    "uk_phonetic": "/ˈpensl/",
+    "example_sentence_en": "This is my pencil.",
+    "example_sentence_cn": "这是我的铅笔。",
+    "inflection": "复数: pencils"
+  },
+  {
+    "english": "ruler",
+    "chinese": "尺子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈruːlər/",
+    "uk_phonetic": "/ˈruːlə(r)/",
+    "example_sentence_en": "Show me your ruler.",
+    "example_sentence_cn": "给我看看你的尺子。",
+    "inflection": "复数: rulers"
+  },
+  {
+    "english": "eraser",
+    "chinese": "橡皮",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈreɪsər/",
+    "uk_phonetic": "/ɪˈreɪzə(r)/",
+    "example_sentence_en": "I need an eraser.",
+    "example_sentence_cn": "我需要一块橡皮。",
+    "inflection": "复数: erasers"
+  },
+  {
+    "english": "book",
+    "chinese": "书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bʊk/",
+    "uk_phonetic": "/bʊk/",
+    "example_sentence_en": "Open your book.",
+    "example_sentence_cn": "打开你的书。",
+    "inflection": "复数: books"
+  },
+  {
+    "english": "bag",
+    "chinese": "书包；袋子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bæɡ/",
+    "uk_phonetic": "/bæɡ/",
+    "example_sentence_en": "This is my bag.",
+    "example_sentence_cn": "这是我的书包。",
+    "inflection": "复数: bags"
+  },
+  {
+    "english": "crayon",
+    "chinese": "蜡笔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkreɪən/",
+    "uk_phonetic": "/ˈkreɪən/",
+    "example_sentence_en": "Pass me the crayon.",
+    "example_sentence_cn": "把蜡笔递给我。",
+    "inflection": "复数: crayons"
+  },
+  {
+    "english": "red",
+    "chinese": "红色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/red/",
+    "uk_phonetic": "/red/",
+    "example_sentence_en": "It is a red apple.",
+    "example_sentence_cn": "它是一个红苹果。",
+    "inflection": "比较级: redder | 最高级: reddest"
+  },
+  {
+    "english": "blue",
+    "chinese": "蓝色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/bluː/",
+    "uk_phonetic": "/bluː/",
+    "example_sentence_en": "The sky is blue.",
+    "example_sentence_cn": "天空是蓝色的。",
+    "inflection": "无"
+  },
+  {
+    "english": "green",
+    "chinese": "绿色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɡriːn/",
+    "uk_phonetic": "/ɡriːn/",
+    "example_sentence_en": "I like green.",
+    "example_sentence_cn": "我喜欢绿色。",
+    "inflection": "比较级: greener | 最高级: greenest"
+  },
+  {
+    "english": "yellow",
+    "chinese": "黄色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈjeloʊ/",
+    "uk_phonetic": "/ˈjeləʊ/",
+    "example_sentence_en": "It is a yellow duck.",
+    "example_sentence_cn": "它是一只黄色的鸭子。",
+    "inflection": "无"
+  },
+  {
+    "english": "black",
+    "chinese": "黑色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/blæk/",
+    "uk_phonetic": "/blæk/",
+    "example_sentence_en": "I have a black pen.",
+    "example_sentence_cn": "我有一支黑色的钢笔。",
+    "inflection": "无"
+  },
+  {
+    "english": "white",
+    "chinese": "白色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/waɪt/",
+    "uk_phonetic": "/waɪt/",
+    "example_sentence_en": "The cat is white.",
+    "example_sentence_cn": "这只猫是白色的。",
+    "inflection": "无"
+  },
+  {
+    "english": "one",
+    "chinese": "一",
+    "part_of_speech": "num.",
+    "us_phonetic": "/wʌn/",
+    "uk_phonetic": "/wʌn/",
+    "example_sentence_en": "I have one book.",
+    "example_sentence_cn": "我有一本书。",
+    "inflection": "无"
+  },
+  {
+    "english": "two",
+    "chinese": "二",
+    "part_of_speech": "num.",
+    "us_phonetic": "/tuː/",
+    "uk_phonetic": "/tuː/",
+    "example_sentence_en": "I see two cats.",
+    "example_sentence_cn": "我看到两只猫。",
+    "inflection": "无"
+  },
+  {
+    "english": "three",
+    "chinese": "三",
+    "part_of_speech": "num.",
+    "us_phonetic": "/θriː/",
+    "uk_phonetic": "/θriː/",
+    "example_sentence_en": "Three red apples.",
+    "example_sentence_cn": "三个红苹果。",
+    "inflection": "无"
+  },
+  {
+    "english": "four",
+    "chinese": "四",
+    "part_of_speech": "num.",
+    "us_phonetic": "/fɔːr/",
+    "uk_phonetic": "/fɔː(r)/",
+    "example_sentence_en": "I am four years old.",
+    "example_sentence_cn": "我四岁了。",
+    "inflection": "无"
+  },
+  {
+    "english": "five",
+    "chinese": "五",
+    "part_of_speech": "num.",
+    "us_phonetic": "/faɪv/",
+    "uk_phonetic": "/faɪv/",
+    "example_sentence_en": "I have five fingers.",
+    "example_sentence_cn": "我有五根手指。",
+    "inflection": "无"
+  }
+]

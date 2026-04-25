@@ -1,0 +1,1982 @@
+[
+  {
+    "english": "environment",
+    "chinese": "环境",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈvaɪrənmənt/",
+    "uk_phonetic": "/ɪnˈvaɪərənmənt/",
+    "example_sentence_en": "The environment which we live in must be protected.",
+    "example_sentence_cn": "我们居住的环境必须得到保护。",
+    "inflection": "复数: environments"
+  },
+  {
+    "english": "protect",
+    "chinese": "保护",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prəˈtekt/",
+    "uk_phonetic": "/prəˈtekt/",
+    "example_sentence_en": "Wild animals should be protected from being hunted.",
+    "example_sentence_cn": "野生动物应该受到保护，免遭捕猎。",
+    "inflection": "动词变化: protects / protected / protecting"
+  },
+  {
+    "english": "protection",
+    "chinese": "保护",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈtekʃn/",
+    "uk_phonetic": "/prəˈtekʃn/",
+    "example_sentence_en": "Environmental protection is everyone's responsibility.",
+    "example_sentence_cn": "环境保护是每个人的责任。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "pollute",
+    "chinese": "污染",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pəˈluːt/",
+    "uk_phonetic": "/pəˈluːt/",
+    "example_sentence_en": "Rivers are seriously polluted by the waste.",
+    "example_sentence_cn": "河流被废弃物严重污染了。",
+    "inflection": "动词变化: pollutes / polluted / polluting"
+  },
+  {
+    "english": "pollution",
+    "chinese": "污染",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pəˈluːʃn/",
+    "uk_phonetic": "/pəˈluːʃn/",
+    "example_sentence_en": "Air pollution is caused by factory emissions.",
+    "example_sentence_cn": "空气污染是由工厂排放引起的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "recycle",
+    "chinese": "回收利用",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌriːˈsaɪkl/",
+    "uk_phonetic": "/ˌriːˈsaɪkl/",
+    "example_sentence_en": "Paper and plastic can be recycled.",
+    "example_sentence_cn": "纸张和塑料可以被回收利用。",
+    "inflection": "动词变化: recycles / recycled / recycling"
+  },
+  {
+    "english": "reuse",
+    "chinese": "再次使用",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌriːˈjuːz/",
+    "uk_phonetic": "/ˌriːˈjuːz/",
+    "example_sentence_en": "Bottles that are reused help reduce waste.",
+    "example_sentence_cn": "被重复使用的瓶子有助于减少废弃物。",
+    "inflection": "动词变化: reuses / reused / reusing"
+  },
+  {
+    "english": "reduce",
+    "chinese": "减少",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈduːs/",
+    "uk_phonetic": "/rɪˈdjuːs/",
+    "example_sentence_en": "We must reduce the use of plastic bags.",
+    "example_sentence_cn": "我们必须减少塑料袋的使用。",
+    "inflection": "动词变化: reduces / reduced / reducing"
+  },
+  {
+    "english": "emission",
+    "chinese": "排放物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈmɪʃn/",
+    "uk_phonetic": "/ɪˈmɪʃn/",
+    "example_sentence_en": "Carbon emissions must be controlled.",
+    "example_sentence_cn": "碳排放必须得到控制。",
+    "inflection": "复数: emissions"
+  },
+  {
+    "english": "plastic",
+    "chinese": "塑料",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈplæstɪk/",
+    "uk_phonetic": "/ˈplæstɪk/",
+    "example_sentence_en": "Plastic that is thrown into the ocean kills marine life.",
+    "example_sentence_cn": "被扔进海洋的塑料会杀死海洋生物。",
+    "inflection": "复数: plastics"
+  },
+  {
+    "english": "global",
+    "chinese": "全球的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɡloʊbl/",
+    "uk_phonetic": "/ˈɡləʊbl/",
+    "example_sentence_en": "Global warming is a serious problem.",
+    "example_sentence_cn": "全球变暖是一个严重的问题。",
+    "inflection": "无"
+  },
+  {
+    "english": "warming",
+    "chinese": "变暖",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɔːrmɪŋ/",
+    "uk_phonetic": "/ˈwɔːmɪŋ/",
+    "example_sentence_en": "Global warming is caused by human activities.",
+    "example_sentence_cn": "全球变暖是由人类活动引起的。",
+    "inflection": "无"
+  },
+  {
+    "english": "climate",
+    "chinese": "气候",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklaɪmət/",
+    "uk_phonetic": "/ˈklaɪmət/",
+    "example_sentence_en": "Climate change affects everyone on Earth.",
+    "example_sentence_cn": "气候变化影响地球上的每个人。",
+    "inflection": "复数: climates"
+  },
+  {
+    "english": "energy",
+    "chinese": "能源；能量",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈenərdʒi/",
+    "uk_phonetic": "/ˈenədʒi/",
+    "example_sentence_en": "Renewable energy should be widely used.",
+    "example_sentence_cn": "可再生能源应该被广泛使用。",
+    "inflection": "复数: energies"
+  },
+  {
+    "english": "renewable",
+    "chinese": "可再生的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈnuːəbl/",
+    "uk_phonetic": "/rɪˈnjuːəbl/",
+    "example_sentence_en": "Solar power is a renewable resource.",
+    "example_sentence_cn": "太阳能是一种可再生资源。",
+    "inflection": "无"
+  },
+  {
+    "english": "sustainable",
+    "chinese": "可持续的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səˈsteɪnəbl/",
+    "uk_phonetic": "/səˈsteɪnəbl/",
+    "example_sentence_en": "We need to find sustainable ways to live.",
+    "example_sentence_cn": "我们需要寻找可持续的生存方式。",
+    "inflection": "无"
+  },
+  {
+    "english": "ecological",
+    "chinese": "生态的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌiːkəˈlɑːdʒɪkl/",
+    "uk_phonetic": "/ˌiːkəˈlɒdʒɪkl/",
+    "example_sentence_en": "The ecological balance must be maintained.",
+    "example_sentence_cn": "生态平衡必须得到维持。",
+    "inflection": "无"
+  },
+  {
+    "english": "endangered",
+    "chinese": "濒危的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪnˈdeɪndʒərd/",
+    "uk_phonetic": "/ɪnˈdeɪndʒəd/",
+    "example_sentence_en": "Pandas are endangered animals that need protection.",
+    "example_sentence_cn": "熊猫是需要保护的濒危动物。",
+    "inflection": "无"
+  },
+  {
+    "english": "species",
+    "chinese": "物种",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈspiːʃiːz/",
+    "uk_phonetic": "/ˈspiːʃiːz/",
+    "example_sentence_en": "Many species are driven to extinction by hunting.",
+    "example_sentence_cn": "许多物种因捕猎而走向灭绝。",
+    "inflection": "复数: species"
+  },
+  {
+    "english": "habitat",
+    "chinese": "栖息地",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhæbɪtæt/",
+    "uk_phonetic": "/ˈhæbɪtæt/",
+    "example_sentence_en": "The forest which is their habitat is being cut down.",
+    "example_sentence_cn": "作为它们栖息地的森林正在被砍伐。",
+    "inflection": "复数: habitats"
+  },
+  {
+    "english": "deforestation",
+    "chinese": "砍伐森林",
+    "part_of_speech": "n.",
+    "us_phonetic": "/diːˌfɔːrɪˈsteɪʃn/",
+    "uk_phonetic": "/diːˌfɒrɪˈsteɪʃn/",
+    "example_sentence_en": "Deforestation is blamed for the loss of habitats.",
+    "example_sentence_cn": "森林砍伐被认为是栖息地丧失的原因。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "carbon",
+    "chinese": "碳",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːrbən/",
+    "uk_phonetic": "/ˈkɑːbən/",
+    "example_sentence_en": "We should reduce our carbon footprint.",
+    "example_sentence_cn": "我们应该减少碳足迹。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "footprint",
+    "chinese": "足迹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfʊtprɪnt/",
+    "uk_phonetic": "/ˈfʊtprɪnt/",
+    "example_sentence_en": "A smaller carbon footprint is better for the planet.",
+    "example_sentence_cn": "较小的碳足迹对地球更好。",
+    "inflection": "复数: footprints"
+  },
+  {
+    "english": "waste",
+    "chinese": "废弃物；浪费",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/weɪst/",
+    "uk_phonetic": "/weɪst/",
+    "example_sentence_en": "Food waste should be composted.",
+    "example_sentence_cn": "食物废弃物应该被做成堆肥。",
+    "inflection": "动词变化: wastes / wasted / wasting"
+  },
+  {
+    "english": "landfill",
+    "chinese": "垃圾填埋场",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlændfɪl/",
+    "uk_phonetic": "/ˈlændfɪl/",
+    "example_sentence_en": "Waste that is sent to landfills produces harmful gases.",
+    "example_sentence_cn": "被送到填埋场的废物会产生有害气体。",
+    "inflection": "复数: landfills"
+  },
+  {
+    "english": "atmosphere",
+    "chinese": "大气层；气氛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈætməsfɪr/",
+    "uk_phonetic": "/ˈætməsfɪə(r)/",
+    "example_sentence_en": "The atmosphere is polluted by toxic gases.",
+    "example_sentence_cn": "大气层被有毒气体污染了。",
+    "inflection": "复数: atmospheres"
+  },
+  {
+    "english": "resource",
+    "chinese": "资源",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈriːsɔːrs/",
+    "uk_phonetic": "/rɪˈzɔːs/",
+    "example_sentence_en": "Natural resources that are overused will run out.",
+    "example_sentence_cn": "被过度使用的自然资源将会耗尽。",
+    "inflection": "复数: resources"
+  },
+  {
+    "english": "solar",
+    "chinese": "太阳的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsoʊlər/",
+    "uk_phonetic": "/ˈsəʊlə(r)/",
+    "example_sentence_en": "Solar energy is considered clean power.",
+    "example_sentence_cn": "太阳能被认为是清洁能源。",
+    "inflection": "无"
+  },
+  {
+    "english": "ocean",
+    "chinese": "海洋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈoʊʃn/",
+    "uk_phonetic": "/ˈəʊʃn/",
+    "example_sentence_en": "The ocean, which covers most of the Earth, needs our care.",
+    "example_sentence_cn": "覆盖地球大部分面积的海洋需要我们的关爱。",
+    "inflection": "复数: oceans"
+  },
+  {
+    "english": "ecosystem",
+    "chinese": "生态系统",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːkoʊsɪstəm/",
+    "uk_phonetic": "/ˈiːkəʊsɪstəm/",
+    "example_sentence_en": "The ecosystem is easily destroyed by pollution.",
+    "example_sentence_cn": "生态系统很容易被污染破坏。",
+    "inflection": "复数: ecosystems"
+  },
+  {
+    "english": "invent",
+    "chinese": "发明",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈvent/",
+    "uk_phonetic": "/ɪnˈvent/",
+    "example_sentence_en": "The telephone was invented by Bell.",
+    "example_sentence_cn": "电话是由贝尔发明的。",
+    "inflection": "动词变化: invents / invented / inventing"
+  },
+  {
+    "english": "invention",
+    "chinese": "发明",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈvenʃn/",
+    "uk_phonetic": "/ɪnˈvenʃn/",
+    "example_sentence_en": "The internet is an invention that changed the world.",
+    "example_sentence_cn": "互联网是一项改变了世界的发明。",
+    "inflection": "复数: inventions"
+  },
+  {
+    "english": "inventor",
+    "chinese": "发明家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈventər/",
+    "uk_phonetic": "/ɪnˈventə(r)/",
+    "example_sentence_en": "Thomas Edison was a great inventor who was respected by many.",
+    "example_sentence_cn": "托马斯·爱迪生是一位受许多人尊敬的伟大发明家。",
+    "inflection": "复数: inventors"
+  },
+  {
+    "english": "discover",
+    "chinese": "发现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈskʌvər/",
+    "uk_phonetic": "/dɪˈskʌvə(r)/",
+    "example_sentence_en": "A new planet was discovered by scientists last year.",
+    "example_sentence_cn": "去年科学家们发现了一颗新行星。",
+    "inflection": "动词变化: discovers / discovered / discovering"
+  },
+  {
+    "english": "discovery",
+    "chinese": "发现",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈskʌvəri/",
+    "uk_phonetic": "/dɪˈskʌvəri/",
+    "example_sentence_en": "The discovery which was made in the lab is significant.",
+    "example_sentence_cn": "在实验室里做出的那个发现意义重大。",
+    "inflection": "复数: discoveries"
+  },
+  {
+    "english": "innovation",
+    "chinese": "创新",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪnəˈveɪʃn/",
+    "uk_phonetic": "/ˌɪnəˈveɪʃn/",
+    "example_sentence_en": "Technological innovation is encouraged in our society.",
+    "example_sentence_cn": "技术创新在我们的社会中受到鼓励。",
+    "inflection": "复数: innovations"
+  },
+  {
+    "english": "technology",
+    "chinese": "技术",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tekˈnɑːlədʒi/",
+    "uk_phonetic": "/tekˈnɒlədʒi/",
+    "example_sentence_en": "Technology that is used properly can improve our lives.",
+    "example_sentence_cn": "被正确使用的技术能改善我们的生活。",
+    "inflection": "复数: technologies"
+  },
+  {
+    "english": "technological",
+    "chinese": "技术的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌteknəˈlɑːdʒɪkl/",
+    "uk_phonetic": "/ˌteknəˈlɒdʒɪkl/",
+    "example_sentence_en": "Technological progress is accelerating.",
+    "example_sentence_cn": "技术进步正在加速。",
+    "inflection": "无"
+  },
+  {
+    "english": "device",
+    "chinese": "设备；装置",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈvaɪs/",
+    "uk_phonetic": "/dɪˈvaɪs/",
+    "example_sentence_en": "A smart device is often connected to the internet.",
+    "example_sentence_cn": "智能设备通常连接到互联网。",
+    "inflection": "复数: devices"
+  },
+  {
+    "english": "machine",
+    "chinese": "机器",
+    "part_of_speech": "n.",
+    "us_phonetic": "/məˈʃiːn/",
+    "uk_phonetic": "/məˈʃiːn/",
+    "example_sentence_en": "The machine that is used for cleaning is broken.",
+    "example_sentence_cn": "用于清洁的那台机器坏了。",
+    "inflection": "复数: machines"
+  },
+  {
+    "english": "engine",
+    "chinese": "发动机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈendʒɪn/",
+    "uk_phonetic": "/ˈendʒɪn/",
+    "example_sentence_en": "The engine was designed by a German engineer.",
+    "example_sentence_cn": "这台发动机是由一位德国工程师设计的。",
+    "inflection": "复数: engines"
+  },
+  {
+    "english": "patent",
+    "chinese": "专利",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpætnt/",
+    "uk_phonetic": "/ˈpætnt/",
+    "example_sentence_en": "A patent was granted for his new invention.",
+    "example_sentence_cn": "他的新发明获得了专利。",
+    "inflection": "复数: patents"
+  },
+  {
+    "english": "pioneer",
+    "chinese": "先锋；拓荒者",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpaɪəˈnɪr/",
+    "uk_phonetic": "/ˌpaɪəˈnɪə(r)/",
+    "example_sentence_en": "He was a pioneer who was admired by young people.",
+    "example_sentence_cn": "他是一位受年轻人钦佩的先锋。",
+    "inflection": "复数: pioneers"
+  },
+  {
+    "english": "breakthrough",
+    "chinese": "突破",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbreɪkθruː/",
+    "uk_phonetic": "/ˈbreɪkθruː/",
+    "example_sentence_en": "A major breakthrough was achieved in medicine.",
+    "example_sentence_cn": "医学领域取得了一项重大突破。",
+    "inflection": "复数: breakthroughs"
+  },
+  {
+    "english": "advance",
+    "chinese": "进步；前进",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ədˈvæns/",
+    "uk_phonetic": "/ədˈvɑːns/",
+    "example_sentence_en": "Science has advanced rapidly in the past decade.",
+    "example_sentence_cn": "在过去十年里科学进步迅速。",
+    "inflection": "动词变化: advances / advanced / advancing; 复数: advances"
+  },
+  {
+    "english": "advanced",
+    "chinese": "先进的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ədˈvænst/",
+    "uk_phonetic": "/ədˈvɑːnst/",
+    "example_sentence_en": "Advanced technology is used in modern hospitals.",
+    "example_sentence_cn": "现代医院使用了先进的技术。",
+    "inflection": "无"
+  },
+  {
+    "english": "develop",
+    "chinese": "发展；开发",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈveləp/",
+    "uk_phonetic": "/dɪˈveləp/",
+    "example_sentence_en": "A new app is being developed for students.",
+    "example_sentence_cn": "一款为学生开发的新应用正在开发中。",
+    "inflection": "动词变化: develops / developed / developing"
+  },
+  {
+    "english": "development",
+    "chinese": "发展；开发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈveləpmənt/",
+    "uk_phonetic": "/dɪˈveləpmənt/",
+    "example_sentence_en": "The development of AI is changing our lifestyle.",
+    "example_sentence_cn": "人工智能的发展正在改变我们的生活方式。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "software",
+    "chinese": "软件",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɔːftwer/",
+    "uk_phonetic": "/ˈsɒftweə(r)/",
+    "example_sentence_en": "The software which is updated regularly runs faster.",
+    "example_sentence_cn": "定期更新的软件运行得更快。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "hardware",
+    "chinese": "硬件",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɑːrdwer/",
+    "uk_phonetic": "/ˈhɑːdweə(r)/",
+    "example_sentence_en": "Computer hardware must be maintained carefully.",
+    "example_sentence_cn": "计算机硬件必须小心维护。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "artificial",
+    "chinese": "人工的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌɑːrtɪˈfɪʃl/",
+    "uk_phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "example_sentence_en": "Artificial intelligence is widely used in our daily lives.",
+    "example_sentence_cn": "人工智能被广泛应用于我们的日常生活中。",
+    "inflection": "无"
+  },
+  {
+    "english": "intelligence",
+    "chinese": "智能；智力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈtelɪdʒəns/",
+    "uk_phonetic": "/ɪnˈtelɪdʒəns/",
+    "example_sentence_en": "Intelligence is not only measured by tests.",
+    "example_sentence_cn": "智力不仅仅通过考试来衡量。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "digital",
+    "chinese": "数字的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈdɪdʒɪtl/",
+    "uk_phonetic": "/ˈdɪdʒɪtl/",
+    "example_sentence_en": "Digital devices are loved by teenagers.",
+    "example_sentence_cn": "数字设备受到青少年的喜爱。",
+    "inflection": "无"
+  },
+  {
+    "english": "robot",
+    "chinese": "机器人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈroʊbɑːt/",
+    "uk_phonetic": "/ˈrəʊbɒt/",
+    "example_sentence_en": "Robots are used to do dangerous work.",
+    "example_sentence_cn": "机器人被用来做危险的工作。",
+    "inflection": "复数: robots"
+  },
+  {
+    "english": "electricity",
+    "chinese": "电",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˌlekˈtrɪsəti/",
+    "uk_phonetic": "/ɪˌlekˈtrɪsəti/",
+    "example_sentence_en": "Electricity is generated by wind turbines.",
+    "example_sentence_cn": "电力是由风力涡轮机产生的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "electronic",
+    "chinese": "电子的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪˌlekˈtrɑːnɪk/",
+    "uk_phonetic": "/ɪˌlekˈtrɒnɪk/",
+    "example_sentence_en": "Electronic waste should be recycled properly.",
+    "example_sentence_cn": "电子废弃物应该被妥善回收。",
+    "inflection": "无"
+  },
+  {
+    "english": "battery",
+    "chinese": "电池",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbætəri/",
+    "uk_phonetic": "/ˈbætəri/",
+    "example_sentence_en": "The battery that is used in this car is expensive.",
+    "example_sentence_cn": "这辆车使用的电池很昂贵。",
+    "inflection": "复数: batteries"
+  },
+  {
+    "english": "satellite",
+    "chinese": "卫星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsætəlaɪt/",
+    "uk_phonetic": "/ˈsætəlaɪt/",
+    "example_sentence_en": "Satellites are sent into space to collect data.",
+    "example_sentence_cn": "卫星被送入太空以收集数据。",
+    "inflection": "复数: satellites"
+  },
+  {
+    "english": "spacecraft",
+    "chinese": "宇宙飞船",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈspeɪskræft/",
+    "uk_phonetic": "/ˈspeɪskrɑːft/",
+    "example_sentence_en": "The spacecraft which was launched yesterday reached orbit.",
+    "example_sentence_cn": "昨天发射的宇宙飞船已进入轨道。",
+    "inflection": "复数: spacecraft"
+  },
+  {
+    "english": "experiment",
+    "chinese": "实验",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈsperɪmənt/",
+    "uk_phonetic": "/ɪkˈsperɪmənt/",
+    "example_sentence_en": "The experiment was conducted in a safe environment.",
+    "example_sentence_cn": "实验是在安全的环境中进行的。",
+    "inflection": "复数: experiments"
+  },
+  {
+    "english": "laboratory",
+    "chinese": "实验室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlæbrətɔːri/",
+    "uk_phonetic": "/ləˈbɒrətri/",
+    "example_sentence_en": "The laboratory where the drug was developed is top-secret.",
+    "example_sentence_cn": "研发该药物的实验室是绝密的。",
+    "inflection": "复数: laboratories"
+  },
+  {
+    "english": "theory",
+    "chinese": "理论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈθiːəri/",
+    "uk_phonetic": "/ˈθɪəri/",
+    "example_sentence_en": "The theory that was proposed by Einstein is famous.",
+    "example_sentence_cn": "爱因斯坦提出的那个理论非常著名。",
+    "inflection": "复数: theories"
+  },
+  {
+    "english": "evidence",
+    "chinese": "证据",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈevɪdəns/",
+    "uk_phonetic": "/ˈevɪdəns/",
+    "example_sentence_en": "Enough evidence was collected to prove the theory.",
+    "example_sentence_cn": "收集了足够的证据来证明这个理论。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "career",
+    "chinese": "职业；生涯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈrɪr/",
+    "uk_phonetic": "/kəˈrɪə(r)/",
+    "example_sentence_en": "Choosing a career that suits you is important.",
+    "example_sentence_cn": "选择一个适合你的职业很重要。",
+    "inflection": "复数: careers"
+  },
+  {
+    "english": "goal",
+    "chinese": "目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡoʊl/",
+    "uk_phonetic": "/ɡəʊl/",
+    "example_sentence_en": "The goal that he set for himself was achieved.",
+    "example_sentence_cn": "他为自己设定的目标实现了。",
+    "inflection": "复数: goals"
+  },
+  {
+    "english": "ambition",
+    "chinese": "抱负；雄心",
+    "part_of_speech": "n.",
+    "us_phonetic": "/æmˈbɪʃn/",
+    "uk_phonetic": "/æmˈbɪʃn/",
+    "example_sentence_en": "His ambition is to become a scientist who explores space.",
+    "example_sentence_cn": "他的抱负是成为一名探索太空的科学家。",
+    "inflection": "复数: ambitions"
+  },
+  {
+    "english": "ambitious",
+    "chinese": "有抱负的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/æmˈbɪʃəs/",
+    "uk_phonetic": "/æmˈbɪʃəs/",
+    "example_sentence_en": "She is an ambitious student who always works hard.",
+    "example_sentence_cn": "她是一个总是努力学习、有抱负的学生。",
+    "inflection": "比较级: more ambitious | 最高级: most ambitious"
+  },
+  {
+    "english": "future",
+    "chinese": "未来",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈfjuːtʃər/",
+    "uk_phonetic": "/ˈfjuːtʃə(r)/",
+    "example_sentence_en": "The future that we dream of depends on our efforts today.",
+    "example_sentence_cn": "我们梦想的未来取决于我们今天的努力。",
+    "inflection": "无"
+  },
+  {
+    "english": "succeed",
+    "chinese": "成功",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səkˈsiːd/",
+    "uk_phonetic": "/səkˈsiːd/",
+    "example_sentence_en": "He succeeded in passing the exam that was very difficult.",
+    "example_sentence_cn": "他成功通过了那场非常难的考试。",
+    "inflection": "动词变化: succeeds / succeeded / succeeding"
+  },
+  {
+    "english": "success",
+    "chinese": "成功",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səkˈses/",
+    "uk_phonetic": "/səkˈses/",
+    "example_sentence_en": "Success is achieved through hard work and persistence.",
+    "example_sentence_cn": "成功是通过努力工作和坚持取得的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "successful",
+    "chinese": "成功的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səkˈsesfl/",
+    "uk_phonetic": "/səkˈsesfl/",
+    "example_sentence_en": "A successful person is often someone who never gives up.",
+    "example_sentence_cn": "一个成功的人通常是一个从不放弃的人。",
+    "inflection": "比较级: more successful | 最高级: most successful"
+  },
+  {
+    "english": "achieve",
+    "chinese": "实现；达到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈtʃiːv/",
+    "uk_phonetic": "/əˈtʃiːv/",
+    "example_sentence_en": "Great things can be achieved if we work together.",
+    "example_sentence_cn": "如果我们一起努力，就能成就伟大的事业。",
+    "inflection": "动词变化: achieves / achieved / achieving"
+  },
+  {
+    "english": "achievement",
+    "chinese": "成就",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈtʃiːvmənt/",
+    "uk_phonetic": "/əˈtʃiːvmənt/",
+    "example_sentence_en": "The achievement that was made by the team was celebrated.",
+    "example_sentence_cn": "团队取得的成就受到了庆祝。",
+    "inflection": "复数: achievements"
+  },
+  {
+    "english": "graduate",
+    "chinese": "毕业",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɡrædʒueɪt/",
+    "uk_phonetic": "/ˈɡrædʒueɪt/",
+    "example_sentence_en": "She will graduate from the university that is famous for medicine.",
+    "example_sentence_cn": "她将从那所因医学而闻名的大学毕业。",
+    "inflection": "动词变化: graduates / graduated / graduating"
+  },
+  {
+    "english": "graduation",
+    "chinese": "毕业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɡrædʒuˈeɪʃn/",
+    "uk_phonetic": "/ˌɡrædʒuˈeɪʃn/",
+    "example_sentence_en": "After graduation, a celebration was held by the students.",
+    "example_sentence_cn": "毕业后，学生们举行了庆祝活动。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "university",
+    "chinese": "大学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "uk_phonetic": "/ˌjuːnɪˈvɜːsəti/",
+    "example_sentence_en": "A university that offers good programs is preferred.",
+    "example_sentence_cn": "提供优秀课程的大学更受青睐。",
+    "inflection": "复数: universities"
+  },
+  {
+    "english": "college",
+    "chinese": "学院；大学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːlɪdʒ/",
+    "uk_phonetic": "/ˈkɒlɪdʒ/",
+    "example_sentence_en": "He was accepted by a college which is located in New York.",
+    "example_sentence_cn": "他被一所位于纽约的学院录取了。",
+    "inflection": "复数: colleges"
+  },
+  {
+    "english": "major",
+    "chinese": "主修；专业",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈmeɪdʒər/",
+    "uk_phonetic": "/ˈmeɪdʒə(r)/",
+    "example_sentence_en": "She majors in a subject that focuses on environmental science.",
+    "example_sentence_cn": "她主修一门专注于环境科学的科目。",
+    "inflection": "动词变化: majors / majored / majoring; 复数: majors"
+  },
+  {
+    "english": "profession",
+    "chinese": "职业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈfeʃn/",
+    "uk_phonetic": "/prəˈfeʃn/",
+    "example_sentence_en": "Teaching is a profession that is highly respected.",
+    "example_sentence_cn": "教学是一门受到高度尊重的职业。",
+    "inflection": "复数: professions"
+  },
+  {
+    "english": "professional",
+    "chinese": "专业的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/prəˈfeʃənl/",
+    "uk_phonetic": "/prəˈfeʃənl/",
+    "example_sentence_en": "Professional training is required for this job.",
+    "example_sentence_cn": "这份工作需要专业的培训。",
+    "inflection": "无"
+  },
+  {
+    "english": "occupation",
+    "chinese": "职业；占领",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːkjuˈpeɪʃn/",
+    "uk_phonetic": "/ˌɒkjuˈpeɪʃn/",
+    "example_sentence_en": "Please state your name and occupation on the form.",
+    "example_sentence_cn": "请在表格上注明你的姓名和职业。",
+    "inflection": "复数: occupations"
+  },
+  {
+    "english": "dream",
+    "chinese": "梦想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/driːm/",
+    "uk_phonetic": "/driːm/",
+    "example_sentence_en": "A dream that is worth pursuing takes effort.",
+    "example_sentence_cn": "一个值得追求的梦想需要付出努力。",
+    "inflection": "复数: dreams"
+  },
+  {
+    "english": "purpose",
+    "chinese": "目的",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɜːrpəs/",
+    "uk_phonetic": "/ˈpɜːpəs/",
+    "example_sentence_en": "The purpose for which the meeting was held was not clear.",
+    "example_sentence_cn": "举行会议的目的不明确。",
+    "inflection": "复数: purposes"
+  },
+  {
+    "english": "path",
+    "chinese": "道路；途径",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pæθ/",
+    "uk_phonetic": "/pɑːθ/",
+    "example_sentence_en": "The path that leads to success is never easy.",
+    "example_sentence_cn": "通往成功的道路从来都不是容易的。",
+    "inflection": "复数: paths"
+  },
+  {
+    "english": "aspiration",
+    "chinese": "渴望；抱负",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌæspəˈreɪʃn/",
+    "uk_phonetic": "/ˌæspəˈreɪʃn/",
+    "example_sentence_en": "He has high aspirations that motivate him to study hard.",
+    "example_sentence_cn": "他有激励他努力学习的远大抱负。",
+    "inflection": "复数: aspirations"
+  },
+  {
+    "english": "intend",
+    "chinese": "打算",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈtend/",
+    "uk_phonetic": "/ɪnˈtend/",
+    "example_sentence_en": "He intends to apply for a job that challenges him.",
+    "example_sentence_cn": "他打算申请一份能挑战他的工作。",
+    "inflection": "动词变化: intends / intended / intending"
+  },
+  {
+    "english": "intention",
+    "chinese": "意图；打算",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈtenʃn/",
+    "uk_phonetic": "/ɪnˈtenʃn/",
+    "example_sentence_en": "His intention to study abroad was supported by his parents.",
+    "example_sentence_cn": "他出国留学的意图得到了父母的支持。",
+    "inflection": "复数: intentions"
+  },
+  {
+    "english": "pursue",
+    "chinese": "追求",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈsuː/",
+    "uk_phonetic": "/pəˈsjuː/",
+    "example_sentence_en": "She decided to pursue a career that she loves.",
+    "example_sentence_cn": "她决定追求她热爱的职业。",
+    "inflection": "动词变化: pursues / pursued / pursuing"
+  },
+  {
+    "english": "pursuit",
+    "chinese": "追求",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈsuːt/",
+    "uk_phonetic": "/pəˈsjuːt/",
+    "example_sentence_en": "The pursuit of happiness is a universal right.",
+    "example_sentence_cn": "追求幸福是一项普遍的权利。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "determine",
+    "chinese": "决定；确定",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈtɜːrmɪn/",
+    "uk_phonetic": "/dɪˈtɜːmɪn/",
+    "example_sentence_en": "Your attitude determines the height that you can reach.",
+    "example_sentence_cn": "你的态度决定了你能达到的高度。",
+    "inflection": "动词变化: determines / determined / determining"
+  },
+  {
+    "english": "determination",
+    "chinese": "决心",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˌtɜːrmɪˈneɪʃn/",
+    "uk_phonetic": "/dɪˌtɜːmɪˈneɪʃn/",
+    "example_sentence_en": "His determination to succeed was admired by his peers.",
+    "example_sentence_cn": "他成功的决心受到了同龄人的钦佩。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "prepare",
+    "chinese": "准备",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈper/",
+    "uk_phonetic": "/prɪˈpeə(r)/",
+    "example_sentence_en": "We must prepare for the challenges that lie ahead.",
+    "example_sentence_cn": "我们必须为未来的挑战做好准备。",
+    "inflection": "动词变化: prepares / prepared / preparing"
+  },
+  {
+    "english": "preparation",
+    "chinese": "准备",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌprepəˈreɪʃn/",
+    "uk_phonetic": "/ˌprepəˈreɪʃn/",
+    "example_sentence_en": "Good preparation is needed for the exam.",
+    "example_sentence_cn": "考试需要良好的准备。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "scholarship",
+    "chinese": "奖学金",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈskɑːlərʃɪp/",
+    "uk_phonetic": "/ˈskɒləʃɪp/",
+    "example_sentence_en": "A scholarship was awarded to the student who got the highest score.",
+    "example_sentence_cn": "奖学金被授予了得分最高的学生。",
+    "inflection": "复数: scholarships"
+  },
+  {
+    "english": "degree",
+    "chinese": "学位；度数",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈɡriː/",
+    "uk_phonetic": "/dɪˈɡriː/",
+    "example_sentence_en": "A master's degree is required for this position.",
+    "example_sentence_cn": "这个职位要求拥有硕士学位。",
+    "inflection": "复数: degrees"
+  },
+  {
+    "english": "certificate",
+    "chinese": "证书",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sərˈtɪfɪkət/",
+    "uk_phonetic": "/səˈtɪfɪkət/",
+    "example_sentence_en": "A certificate that proves your English ability is useful.",
+    "example_sentence_cn": "证明你英语能力的证书是很有用的。",
+    "inflection": "复数: certificates"
+  },
+  {
+    "english": "qualify",
+    "chinese": "取得资格",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkwɑːlɪfaɪ/",
+    "uk_phonetic": "/ˈkwɒlɪfaɪ/",
+    "example_sentence_en": "She qualified as a doctor who can perform surgeries.",
+    "example_sentence_cn": "她取得了成为一名能做手术的医生的资格。",
+    "inflection": "动词变化: qualifies / qualified / qualifying"
+  },
+  {
+    "english": "qualification",
+    "chinese": "资格；资质",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+    "example_sentence_en": "Proper qualifications are required for the job.",
+    "example_sentence_cn": "这份工作需要适当的资质。",
+    "inflection": "复数: qualifications"
+  },
+  {
+    "english": "skill",
+    "chinese": "技能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/skɪl/",
+    "uk_phonetic": "/skɪl/",
+    "example_sentence_en": "Skills that are learned in childhood often last a lifetime.",
+    "example_sentence_cn": "在童年学到的技能往往能持续一生。",
+    "inflection": "复数: skills"
+  },
+  {
+    "english": "ability",
+    "chinese": "能力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈbɪləti/",
+    "uk_phonetic": "/əˈbɪləti/",
+    "example_sentence_en": "The ability to speak a foreign language is highly valued.",
+    "example_sentence_cn": "说外语的能力受到高度重视。",
+    "inflection": "复数: abilities"
+  },
+  {
+    "english": "capable",
+    "chinese": "有能力的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkeɪpəbl/",
+    "uk_phonetic": "/ˈkeɪpəbl/",
+    "example_sentence_en": "She is a leader who is capable of solving difficult problems.",
+    "example_sentence_cn": "她是一位有能力解决难题的领导者。",
+    "inflection": "比较级: more capable | 最高级: most capable"
+  },
+  {
+    "english": "employ",
+    "chinese": "雇用",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪmˈplɔɪ/",
+    "uk_phonetic": "/ɪmˈplɔɪ/",
+    "example_sentence_en": "Hundreds of people are employed by the company every year.",
+    "example_sentence_cn": "每年有数百人被这家公司雇用。",
+    "inflection": "动词变化: employs / employed / employing"
+  },
+  {
+    "english": "employer",
+    "chinese": "雇主",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪmˈplɔɪər/",
+    "uk_phonetic": "/ɪmˈplɔɪə(r)/",
+    "example_sentence_en": "An employer who respects workers is popular.",
+    "example_sentence_cn": "尊重工人的雇主是受欢迎的。",
+    "inflection": "复数: employers"
+  },
+  {
+    "english": "employee",
+    "chinese": "雇员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪmˈplɔɪiː/",
+    "uk_phonetic": "/ɪmˈplɔɪiː/",
+    "example_sentence_en": "Employees who work hard are often promoted.",
+    "example_sentence_cn": "努力工作的雇员经常被提升。",
+    "inflection": "复数: employees"
+  },
+  {
+    "english": "interview",
+    "chinese": "面试；采访",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈɪntərvjuː/",
+    "uk_phonetic": "/ˈɪntəvjuː/",
+    "example_sentence_en": "An interview was arranged for the candidates.",
+    "example_sentence_cn": "为候选人们安排了面试。",
+    "inflection": "动词变化: interviews / interviewed / interviewing; 复数: interviews"
+  },
+  {
+    "english": "volunteer",
+    "chinese": "志愿者",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌvɑːlənˈtɪr/",
+    "uk_phonetic": "/ˌvɒlənˈtɪə(r)/",
+    "example_sentence_en": "Volunteers who help the community are appreciated.",
+    "example_sentence_cn": "帮助社区的志愿者们受到了赞赏。",
+    "inflection": "复数: volunteers"
+  },
+  {
+    "english": "contribute",
+    "chinese": "贡献",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈtrɪbjuːt/",
+    "uk_phonetic": "/kənˈtrɪbjuːt/",
+    "example_sentence_en": "Everyone can contribute to the society in which they live.",
+    "example_sentence_cn": "每个人都能为他们所生活的社会做出贡献。",
+    "inflection": "动词变化: contributes / contributed / contributing"
+  },
+  {
+    "english": "contribution",
+    "chinese": "贡献",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+    "uk_phonetic": "/ˌkɒntrɪˈbjuːʃn/",
+    "example_sentence_en": "His contribution to the project was recognized by all.",
+    "example_sentence_cn": "他对项目的贡献被大家所认可。",
+    "inflection": "复数: contributions"
+  },
+  {
+    "english": "society",
+    "chinese": "社会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səˈsaɪəti/",
+    "uk_phonetic": "/səˈsaɪəti/",
+    "example_sentence_en": "Society is made up of people who come from different backgrounds.",
+    "example_sentence_cn": "社会是由来自不同背景的人组成的。",
+    "inflection": "复数: societies"
+  },
+  {
+    "english": "citizen",
+    "chinese": "公民",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪtɪzn/",
+    "uk_phonetic": "/ˈsɪtɪzn/",
+    "example_sentence_en": "A good citizen obeys the laws that are made by the government.",
+    "example_sentence_cn": "一个好公民遵守政府制定的法律。",
+    "inflection": "复数: citizens"
+  },
+  {
+    "english": "responsible",
+    "chinese": "负责的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈspɑːnsəbl/",
+    "uk_phonetic": "/rɪˈspɒnsəbl/",
+    "example_sentence_en": "We are responsible for the planet that we live on.",
+    "example_sentence_cn": "我们对所居住的星球负责。",
+    "inflection": "比较级: more responsible | 最高级: most responsible"
+  },
+  {
+    "english": "responsibility",
+    "chinese": "责任",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˌspɑːnsəˈbɪləti/",
+    "uk_phonetic": "/rɪˌspɒnsəˈbɪləti/",
+    "example_sentence_en": "Taking responsibility is a sign of maturity.",
+    "example_sentence_cn": "承担责任是成熟的标志。",
+    "inflection": "复数: responsibilities"
+  },
+  {
+    "english": "reality",
+    "chinese": "现实",
+    "part_of_speech": "n.",
+    "us_phonetic": "/riˈæləti/",
+    "uk_phonetic": "/riˈæləti/",
+    "example_sentence_en": "We must face the reality that resources are limited.",
+    "example_sentence_cn": "我们必须面对资源有限的现实。",
+    "inflection": "复数: realities"
+  },
+  {
+    "english": "realize",
+    "chinese": "实现；意识到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈriːəlaɪz/",
+    "uk_phonetic": "/ˈriːəlaɪz/",
+    "example_sentence_en": "He realized the dream that he had since childhood.",
+    "example_sentence_cn": "他实现了他从小拥有的梦想。",
+    "inflection": "动词变化: realizes / realized / realizing"
+  },
+  {
+    "english": "vision",
+    "chinese": "愿景；远见",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɪʒn/",
+    "uk_phonetic": "/ˈvɪʒn/",
+    "example_sentence_en": "A leader who has a clear vision can guide the team well.",
+    "example_sentence_cn": "一位有清晰愿景的领导者能很好地引导团队。",
+    "inflection": "复数: visions"
+  },
+  {
+    "english": "mission",
+    "chinese": "使命；任务",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɪʃn/",
+    "uk_phonetic": "/ˈmɪʃn/",
+    "example_sentence_en": "The mission that was assigned to them was dangerous.",
+    "example_sentence_cn": "分配给他们的任务是危险的。",
+    "inflection": "复数: missions"
+  },
+  {
+    "english": "challenge",
+    "chinese": "挑战",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈtʃælɪndʒ/",
+    "uk_phonetic": "/ˈtʃælɪndʒ/",
+    "example_sentence_en": "Challenges that we face make us stronger.",
+    "example_sentence_cn": "我们面临的挑战使我们更强大。",
+    "inflection": "动词变化: challenges / challenged / challenging; 复数: challenges"
+  },
+  {
+    "english": "overcome",
+    "chinese": "克服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌoʊvərˈkʌm/",
+    "uk_phonetic": "/ˌəʊvəˈkʌm/",
+    "example_sentence_en": "The difficulty was overcome by the team eventually.",
+    "example_sentence_cn": "困难最终被团队克服了。",
+    "inflection": "动词变化: overcomes / overcame / overcoming"
+  },
+  {
+    "english": "build",
+    "chinese": "建造；建立",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪld/",
+    "uk_phonetic": "/bɪld/",
+    "example_sentence_en": "The school was built with money donated by the community.",
+    "example_sentence_cn": "这所学校是用社区捐赠的钱建造的。",
+    "inflection": "动词变化: builds / built / building"
+  },
+  {
+    "english": "construct",
+    "chinese": "构建；建造",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈstrʌkt/",
+    "uk_phonetic": "/kənˈstrʌkt/",
+    "example_sentence_en": "A new bridge is being constructed over the river.",
+    "example_sentence_cn": "河上正在建造一座新桥。",
+    "inflection": "动词变化: constructs / constructed / constructing"
+  },
+  {
+    "english": "construction",
+    "chinese": "建造；建筑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˈstrʌkʃn/",
+    "uk_phonetic": "/kənˈstrʌkʃn/",
+    "example_sentence_en": "The construction of the hospital was completed last year.",
+    "example_sentence_cn": "医院的建设于去年完成。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "produce",
+    "chinese": "生产；产生",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prəˈduːs/",
+    "uk_phonetic": "/prəˈdjuːs/",
+    "example_sentence_en": "Cars are produced in this factory.",
+    "example_sentence_cn": "汽车是在这家工厂生产的。",
+    "inflection": "动词变化: produces / produced / producing"
+  },
+  {
+    "english": "product",
+    "chinese": "产品",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɑːdʌkt/",
+    "uk_phonetic": "/ˈprɒdʌkt/",
+    "example_sentence_en": "Products that are made locally are popular.",
+    "example_sentence_cn": "本地制造的产品很受欢迎。",
+    "inflection": "复数: products"
+  },
+  {
+    "english": "manufacture",
+    "chinese": "制造",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌmænjuˈfæktʃər/",
+    "uk_phonetic": "/ˌmænjuˈfæktʃə(r)/",
+    "example_sentence_en": "These parts are manufactured in Germany.",
+    "example_sentence_cn": "这些零件是在德国制造的。",
+    "inflection": "动词变化: manufactures / manufactured / manufacturing"
+  },
+  {
+    "english": "create",
+    "chinese": "创造",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kriˈeɪt/",
+    "uk_phonetic": "/kriˈeɪt/",
+    "example_sentence_en": "A comfortable environment is created for the workers.",
+    "example_sentence_cn": "为工人们创造了一个舒适的环境。",
+    "inflection": "动词变化: creates / created / creating"
+  },
+  {
+    "english": "creative",
+    "chinese": "有创造力的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kriˈeɪtɪv/",
+    "uk_phonetic": "/kriˈeɪtɪv/",
+    "example_sentence_en": "Creative ideas are always encouraged in our company.",
+    "example_sentence_cn": "在我们公司，有创意的想法总是受到鼓励。",
+    "inflection": "比较级: more creative | 最高级: most creative"
+  },
+  {
+    "english": "design",
+    "chinese": "设计",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/dɪˈzaɪn/",
+    "uk_phonetic": "/dɪˈzaɪn/",
+    "example_sentence_en": "The building was designed by a famous architect.",
+    "example_sentence_cn": "这栋建筑是由一位著名的建筑师设计的。",
+    "inflection": "动词变化: designs / designed / designing"
+  },
+  {
+    "english": "award",
+    "chinese": "奖品；授予",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/əˈwɔːrd/",
+    "uk_phonetic": "/əˈwɔːd/",
+    "example_sentence_en": "The award was given to the student who showed great talent.",
+    "example_sentence_cn": "奖项被授予了展现出巨大天赋的学生。",
+    "inflection": "动词变化: awards / awarded / awarding; 复数: awards"
+  },
+  {
+    "english": "punish",
+    "chinese": "惩罚",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpʌnɪʃ/",
+    "uk_phonetic": "/ˈpʌnɪʃ/",
+    "example_sentence_en": "People who break the law will be punished.",
+    "example_sentence_cn": "违法的人将受到惩罚。",
+    "inflection": "动词变化: punishes / punished / punishing"
+  },
+  {
+    "english": "punishment",
+    "chinese": "惩罚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpʌnɪʃmənt/",
+    "uk_phonetic": "/ˈpʌnɪʃmənt/",
+    "example_sentence_en": "The punishment that was given was fair.",
+    "example_sentence_cn": "给出的惩罚是公平的。",
+    "inflection": "不可数名词/复数: punishments"
+  },
+  {
+    "english": "repair",
+    "chinese": "修理",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈper/",
+    "uk_phonetic": "/rɪˈpeə(r)/",
+    "example_sentence_en": "The roof that was damaged by the storm has been repaired.",
+    "example_sentence_cn": "被风暴损坏的屋顶已经修好了。",
+    "inflection": "动词变化: repairs / repaired / repairing"
+  },
+  {
+    "english": "destroy",
+    "chinese": "破坏",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈstrɔɪ/",
+    "uk_phonetic": "/dɪˈstrɔɪ/",
+    "example_sentence_en": "The forest was destroyed by a big fire.",
+    "example_sentence_cn": "森林被一场大火破坏了。",
+    "inflection": "动词变化: destroys / destroyed / destroying"
+  },
+  {
+    "english": "destruction",
+    "chinese": "破坏；毁灭",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈstrʌkʃn/",
+    "uk_phonetic": "/dɪˈstrʌkʃn/",
+    "example_sentence_en": "The destruction of the rainforest is a global concern.",
+    "example_sentence_cn": "雨林的破坏是一个全球关注的问题。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "damage",
+    "chinese": "损害",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈdæmɪdʒ/",
+    "uk_phonetic": "/ˈdæmɪdʒ/",
+    "example_sentence_en": "The crops were damaged by the flood.",
+    "example_sentence_cn": "农作物被洪水损害了。",
+    "inflection": "动词变化: damages / damaged / damaging"
+  },
+  {
+    "english": "ban",
+    "chinese": "禁止",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/bæn/",
+    "uk_phonetic": "/bæn/",
+    "example_sentence_en": "Smoking is banned in all public places.",
+    "example_sentence_cn": "所有公共场所都禁止吸烟。",
+    "inflection": "动词变化: bans / banned / banning"
+  },
+  {
+    "english": "forbid",
+    "chinese": "禁止",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fərˈbɪd/",
+    "uk_phonetic": "/fəˈbɪd/",
+    "example_sentence_en": "Students are forbidden to use phones in class.",
+    "example_sentence_cn": "学生在课上被禁止使用手机。",
+    "inflection": "动词变化: forbids / forbade / forbidden"
+  },
+  {
+    "english": "permit",
+    "chinese": "允许",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈmɪt/",
+    "uk_phonetic": "/pəˈmɪt/",
+    "example_sentence_en": "Photography is not permitted in the museum.",
+    "example_sentence_cn": "博物馆内不允许拍照。",
+    "inflection": "动词变化: permits / permitted / permitting"
+  },
+  {
+    "english": "allow",
+    "chinese": "允许",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈlaʊ/",
+    "uk_phonetic": "/əˈlaʊ/",
+    "example_sentence_en": "No one is allowed to enter the room without permission.",
+    "example_sentence_cn": "未经允许，任何人不得进入房间。",
+    "inflection": "动词变化: allows / allowed / allowing"
+  },
+  {
+    "english": "require",
+    "chinese": "要求",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈkwaɪər/",
+    "uk_phonetic": "/rɪˈkwaɪə(r)/",
+    "example_sentence_en": "A passport is required for international travel.",
+    "example_sentence_cn": "国际旅行需要护照。",
+    "inflection": "动词变化: requires / required / requiring"
+  },
+  {
+    "english": "demand",
+    "chinese": "要求；需求",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/dɪˈmænd/",
+    "uk_phonetic": "/dɪˈmɑːnd/",
+    "example_sentence_en": "Hard work is demanded by this course.",
+    "example_sentence_cn": "这门课程要求刻苦学习。",
+    "inflection": "动词变化: demands / demanded / demanding"
+  },
+  {
+    "english": "expect",
+    "chinese": "期望",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈspekt/",
+    "uk_phonetic": "/ɪkˈspekt/",
+    "example_sentence_en": "High standards are expected from the students.",
+    "example_sentence_cn": "学生们被期望达到高标准。",
+    "inflection": "动词变化: expects / expected / expecting"
+  },
+  {
+    "english": "consider",
+    "chinese": "考虑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈsɪdər/",
+    "uk_phonetic": "/kənˈsɪdə(r)/",
+    "example_sentence_en": "All factors must be considered before making a decision.",
+    "example_sentence_cn": "在做决定之前必须考虑所有因素。",
+    "inflection": "动词变化: considers / considered / considering"
+  },
+  {
+    "english": "regard",
+    "chinese": "看待；当作",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈɡɑːrd/",
+    "uk_phonetic": "/rɪˈɡɑːd/",
+    "example_sentence_en": "He is regarded as one of the best teachers in the school.",
+    "example_sentence_cn": "他被认为是学校里最好的老师之一。",
+    "inflection": "动词变化: regards / regarded / regarding"
+  },
+  {
+    "english": "influence",
+    "chinese": "影响",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈɪnfluəns/",
+    "uk_phonetic": "/ˈɪnfluəns/",
+    "example_sentence_en": "Young people are easily influenced by the media.",
+    "example_sentence_cn": "年轻人很容易受到媒体的影响。",
+    "inflection": "动词变化: influences / influenced / influencing"
+  },
+  {
+    "english": "affect",
+    "chinese": "影响",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈfekt/",
+    "uk_phonetic": "/əˈfekt/",
+    "example_sentence_en": "The crops were severely affected by the drought.",
+    "example_sentence_cn": "农作物受到了干旱的严重影响。",
+    "inflection": "动词变化: affects / affected / affecting"
+  },
+  {
+    "english": "effect",
+    "chinese": "效果；影响",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈfekt/",
+    "uk_phonetic": "/ɪˈfekt/",
+    "example_sentence_en": "The effect that the medicine had was immediate.",
+    "example_sentence_cn": "这药产生的效果是立竿见影的。",
+    "inflection": "复数: effects"
+  },
+  {
+    "english": "adopt",
+    "chinese": "采纳；收养",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈdɑːpt/",
+    "uk_phonetic": "/əˈdɒpt/",
+    "example_sentence_en": "New methods were adopted to improve efficiency.",
+    "example_sentence_cn": "采纳了新方法以提高效率。",
+    "inflection": "动词变化: adopts / adopted / adopting"
+  },
+  {
+    "english": "adapt",
+    "chinese": "适应；改编",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈdæpt/",
+    "uk_phonetic": "/əˈdæpt/",
+    "example_sentence_en": "Animals that live in the desert have adapted to the heat.",
+    "example_sentence_cn": "生活在沙漠里的动物已经适应了炎热。",
+    "inflection": "动词变化: adapts / adapted / adapting"
+  },
+  {
+    "english": "improve",
+    "chinese": "提高；改善",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪmˈpruːv/",
+    "uk_phonetic": "/ɪmˈpruːv/",
+    "example_sentence_en": "The living conditions have been improved significantly.",
+    "example_sentence_cn": "生活条件得到了显著改善。",
+    "inflection": "动词变化: improves / improved / improving"
+  },
+  {
+    "english": "improvement",
+    "chinese": "改善；提高",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪmˈpruːvmənt/",
+    "uk_phonetic": "/ɪmˈpruːvmənt/",
+    "example_sentence_en": "A slight improvement was noticed in his grades.",
+    "example_sentence_cn": "他的成绩注意到了轻微的进步。",
+    "inflection": "不可数名词/复数: improvements"
+  },
+  {
+    "english": "promote",
+    "chinese": "促进；推销",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prəˈmoʊt/",
+    "uk_phonetic": "/prəˈməʊt/",
+    "example_sentence_en": "Healthy eating habits are promoted in schools.",
+    "example_sentence_cn": "学校里推广健康的饮食习惯。",
+    "inflection": "动词变化: promotes / promoted / promoting"
+  },
+  {
+    "english": "support",
+    "chinese": "支持",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/səˈpɔːrt/",
+    "uk_phonetic": "/səˈpɔːt/",
+    "example_sentence_en": "The decision was supported by the majority of members.",
+    "example_sentence_cn": "决定得到了大多数成员的支持。",
+    "inflection": "动词变化: supports / supported / supporting"
+  },
+  {
+    "english": "provide",
+    "chinese": "提供",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prəˈvaɪd/",
+    "uk_phonetic": "/prəˈvaɪd/",
+    "example_sentence_en": "Food and water are provided for the victims.",
+    "example_sentence_cn": "为受灾群众提供了食物和水。",
+    "inflection": "动词变化: provides / provided / providing"
+  },
+  {
+    "english": "supply",
+    "chinese": "供应",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/səˈplaɪ/",
+    "uk_phonetic": "/səˈplaɪ/",
+    "example_sentence_en": "Electricity is supplied to every house in the village.",
+    "example_sentence_cn": "村里每家每户都供应了电。",
+    "inflection": "动词变化: supplies / supplied / supplying; 复数: supplies"
+  },
+  {
+    "english": "apply",
+    "chinese": "申请；应用",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈplaɪ/",
+    "uk_phonetic": "/əˈplaɪ/",
+    "example_sentence_en": "The theory is applied to real-world problems.",
+    "example_sentence_cn": "该理论被应用于现实世界的问题。",
+    "inflection": "动词变化: applies / applied / applying"
+  },
+  {
+    "english": "application",
+    "chinese": "申请；应用",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌæplɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌæplɪˈkeɪʃn/",
+    "example_sentence_en": "His application for the job was rejected.",
+    "example_sentence_cn": "他的求职申请被拒绝了。",
+    "inflection": "复数: applications"
+  },
+  {
+    "english": "operate",
+    "chinese": "操作；动手术",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɑːpəreɪt/",
+    "uk_phonetic": "/ˈɒpəreɪt/",
+    "example_sentence_en": "The machine is operated by a computer.",
+    "example_sentence_cn": "这台机器由电脑操作。",
+    "inflection": "动词变化: operates / operated / operating"
+  },
+  {
+    "english": "manage",
+    "chinese": "管理；设法",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈmænɪdʒ/",
+    "uk_phonetic": "/ˈmænɪdʒ/",
+    "example_sentence_en": "The company is managed by a team of experts.",
+    "example_sentence_cn": "公司由一组专家管理。",
+    "inflection": "动词变化: manages / managed / managing"
+  },
+  {
+    "english": "control",
+    "chinese": "控制",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/kənˈtroʊl/",
+    "uk_phonetic": "/kənˈtrəʊl/",
+    "example_sentence_en": "The spread of the disease was finally controlled.",
+    "example_sentence_cn": "疾病的传播最终得到了控制。",
+    "inflection": "动词变化: controls / controlled / controlling"
+  },
+  {
+    "english": "regulate",
+    "chinese": "调节；规范",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈreɡjuleɪt/",
+    "uk_phonetic": "/ˈreɡjuleɪt/",
+    "example_sentence_en": "The temperature is regulated by a smart thermostat.",
+    "example_sentence_cn": "温度由智能恒温器调节。",
+    "inflection": "动词变化: regulates / regulated / regulating"
+  },
+  {
+    "english": "examine",
+    "chinese": "检查",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪɡˈzæmɪn/",
+    "uk_phonetic": "/ɪɡˈzæmɪn/",
+    "example_sentence_en": "The patient was examined by the doctor carefully.",
+    "example_sentence_cn": "病人被医生仔细检查了。",
+    "inflection": "动词变化: examines / examined / examining"
+  },
+  {
+    "english": "evaluate",
+    "chinese": "评估",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈvæljueɪt/",
+    "uk_phonetic": "/ɪˈvæljueɪt/",
+    "example_sentence_en": "The project will be evaluated by an independent committee.",
+    "example_sentence_cn": "项目将由一个独立委员会进行评估。",
+    "inflection": "动词变化: evaluates / evaluated / evaluating"
+  },
+  {
+    "english": "characteristic",
+    "chinese": "特征；特点",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "uk_phonetic": "/ˌkærəktəˈrɪstɪk/",
+    "example_sentence_en": "A characteristic that is unique to this bird is its song.",
+    "example_sentence_cn": "这种鸟独有的一个特征是它的歌声。",
+    "inflection": "复数: characteristics"
+  },
+  {
+    "english": "feature",
+    "chinese": "特征；特色",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfiːtʃər/",
+    "uk_phonetic": "/ˈfiːtʃə(r)/",
+    "example_sentence_en": "The phone has a new feature that attracts many users.",
+    "example_sentence_cn": "这款手机有一个吸引许多用户的新功能。",
+    "inflection": "复数: features"
+  },
+  {
+    "english": "property",
+    "chinese": "性质；财产",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɑːpərti/",
+    "uk_phonetic": "/ˈprɒpəti/",
+    "example_sentence_en": "Chemical properties of the substance are being studied.",
+    "example_sentence_cn": "该物质的化学性质正在被研究。",
+    "inflection": "复数: properties"
+  },
+  {
+    "english": "quality",
+    "chinese": "质量；品质",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkwɑːləti/",
+    "uk_phonetic": "/ˈkwɒləti/",
+    "example_sentence_en": "The quality that customers value most is reliability.",
+    "example_sentence_cn": "客户最看重的品质是可靠性。",
+    "inflection": "复数: qualities"
+  },
+  {
+    "english": "aspect",
+    "chinese": "方面",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæspekt/",
+    "uk_phonetic": "/ˈæspekt/",
+    "example_sentence_en": "Every aspect of the plan was discussed thoroughly.",
+    "example_sentence_cn": "计划的每一个方面都被彻底讨论了。",
+    "inflection": "复数: aspects"
+  },
+  {
+    "english": "element",
+    "chinese": "元素；要素",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈelɪmənt/",
+    "uk_phonetic": "/ˈelɪmənt/",
+    "example_sentence_en": "Water is an element that is essential for life.",
+    "example_sentence_cn": "水是生命必不可少的一种元素。",
+    "inflection": "复数: elements"
+  },
+  {
+    "english": "component",
+    "chinese": "成分；组件",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəmˈpoʊnənt/",
+    "uk_phonetic": "/kəmˈpəʊnənt/",
+    "example_sentence_en": "Each component that is used in the machine is tested.",
+    "example_sentence_cn": "机器中使用的每一个组件都经过了测试。",
+    "inflection": "复数: components"
+  },
+  {
+    "english": "factor",
+    "chinese": "因素",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfæktər/",
+    "uk_phonetic": "/ˈfæktə(r)/",
+    "example_sentence_en": "Price is a factor that influences buying decisions.",
+    "example_sentence_cn": "价格是一个影响购买决定的因素。",
+    "inflection": "复数: factors"
+  },
+  {
+    "english": "detail",
+    "chinese": "细节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdiːteɪl/",
+    "uk_phonetic": "/ˈdiːteɪl/",
+    "example_sentence_en": "Details that are overlooked may cause big problems.",
+    "example_sentence_cn": "被忽略的细节可能会导致大问题。",
+    "inflection": "复数: details"
+  },
+  {
+    "english": "specific",
+    "chinese": "具体的；特定的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/spəˈsɪfɪk/",
+    "uk_phonetic": "/spəˈsɪfɪk/",
+    "example_sentence_en": "Can you give a specific example that supports your idea?",
+    "example_sentence_cn": "你能给出一个支持你想法的具体例子吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "particular",
+    "chinese": "特定的；特别的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/pərˈtɪkjələr/",
+    "uk_phonetic": "/pəˈtɪkjələ(r)/",
+    "example_sentence_en": "Is there a particular reason why you chose this book?",
+    "example_sentence_cn": "你选择这本书有什么特定的原因吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "relevant",
+    "chinese": "相关的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈreləvənt/",
+    "uk_phonetic": "/ˈreləvənt/",
+    "example_sentence_en": "Please include all the information that is relevant to the topic.",
+    "example_sentence_cn": "请包含所有与主题相关的信息。",
+    "inflection": "无"
+  },
+  {
+    "english": "attribute",
+    "chinese": "属性；特质",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈætrɪbjuːt/",
+    "uk_phonetic": "/ˈætrɪbjuːt/",
+    "example_sentence_en": "Patience is an attribute that is needed for teaching.",
+    "example_sentence_cn": "耐心是教学所需的一种特质。",
+    "inflection": "复数: attributes"
+  },
+  {
+    "english": "trait",
+    "chinese": "特征；特点",
+    "part_of_speech": "n.",
+    "us_phonetic": "/treɪt/",
+    "uk_phonetic": "/treɪt/",
+    "example_sentence_en": "Honesty is a trait that is admired in all cultures.",
+    "example_sentence_cn": "诚实是在所有文化中都受到赞赏的特征。",
+    "inflection": "复数: traits"
+  },
+  {
+    "english": "pattern",
+    "chinese": "模式；图案",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpætərn/",
+    "uk_phonetic": "/ˈpætn/",
+    "example_sentence_en": "A pattern that is often seen in nature is symmetry.",
+    "example_sentence_cn": "对称是自然界中常见的模式。",
+    "inflection": "复数: patterns"
+  },
+  {
+    "english": "structure",
+    "chinese": "结构",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrʌktʃər/",
+    "uk_phonetic": "/ˈstrʌktʃə(r)/",
+    "example_sentence_en": "The structure that was built last century still stands firm.",
+    "example_sentence_cn": "上个世纪建造的结构依然坚固。",
+    "inflection": "复数: structures"
+  },
+  {
+    "english": "function",
+    "chinese": "功能；作用",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfʌŋkʃn/",
+    "uk_phonetic": "/ˈfʌŋkʃn/",
+    "example_sentence_en": "The main function of this device is to purify water.",
+    "example_sentence_cn": "这个设备的主要功能是净化水。",
+    "inflection": "复数: functions"
+  },
+  {
+    "english": "principle",
+    "chinese": "原则；原理",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɪnsəpl/",
+    "uk_phonetic": "/ˈprɪnsəpl/",
+    "example_sentence_en": "A principle that guides us is fairness.",
+    "example_sentence_cn": "指导我们的一个原则是公平。",
+    "inflection": "复数: principles"
+  },
+  {
+    "english": "concept",
+    "chinese": "概念",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnsept/",
+    "uk_phonetic": "/ˈkɒnsept/",
+    "example_sentence_en": "The concept that was introduced in the lecture is complex.",
+    "example_sentence_cn": "讲座中介绍的那个概念很复杂。",
+    "inflection": "复数: concepts"
+  },
+  {
+    "english": "method",
+    "chinese": "方法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmeθəd/",
+    "uk_phonetic": "/ˈmeθəd/",
+    "example_sentence_en": "A new method that is used for teaching math is popular.",
+    "example_sentence_cn": "一种用于教数学的新方法很受欢迎。",
+    "inflection": "复数: methods"
+  },
+  {
+    "english": "process",
+    "chinese": "过程；流程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɑːses/",
+    "uk_phonetic": "/ˈprəʊses/",
+    "example_sentence_en": "The process by which paper is recycled is complicated.",
+    "example_sentence_cn": "纸张被回收的过程很复杂。",
+    "inflection": "复数: processes"
+  },
+  {
+    "english": "procedure",
+    "chinese": "程序；步骤",
+    "part_of_speech": "n.",
+    "us_phonetic": "/prəˈsiːdʒər/",
+    "uk_phonetic": "/prəˈsiːdʒə(r)/",
+    "example_sentence_en": "Safety procedures must be followed at all times.",
+    "example_sentence_cn": "必须始终遵守安全程序。",
+    "inflection": "复数: procedures"
+  },
+  {
+    "english": "approach",
+    "chinese": "方法；途径",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈproʊtʃ/",
+    "uk_phonetic": "/əˈprəʊtʃ/",
+    "example_sentence_en": "A different approach was taken to solve the problem.",
+    "example_sentence_cn": "采用了不同的方法来解决这个问题。",
+    "inflection": "复数: approaches"
+  },
+  {
+    "english": "technique",
+    "chinese": "技术；技巧",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tekˈniːk/",
+    "uk_phonetic": "/tekˈniːk/",
+    "example_sentence_en": "The technique that is used for painting requires patience.",
+    "example_sentence_cn": "用于绘画的技巧需要耐心。",
+    "inflection": "复数: techniques"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrætədʒi/",
+    "uk_phonetic": "/ˈstrætədʒi/",
+    "example_sentence_en": "A strategy that is well planned leads to success.",
+    "example_sentence_cn": "计划周密的策略会导向成功。",
+    "inflection": "复数: strategies"
+  },
+  {
+    "english": "system",
+    "chinese": "系统；体系",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪstəm/",
+    "uk_phonetic": "/ˈsɪstəm/",
+    "example_sentence_en": "A system that manages traffic efficiently is needed.",
+    "example_sentence_cn": "需要一个高效管理交通的系统。",
+    "inflection": "复数: systems"
+  },
+  {
+    "english": "framework",
+    "chinese": "框架；体系",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfreɪmwɜːrk/",
+    "uk_phonetic": "/ˈfreɪmwɜːk/",
+    "example_sentence_en": "A legal framework that protects workers is essential.",
+    "example_sentence_cn": "保护工人的法律框架是必不可少的。",
+    "inflection": "复数: frameworks"
+  },
+  {
+    "english": "condition",
+    "chinese": "条件；状况",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˈdɪʃn/",
+    "uk_phonetic": "/kənˈdɪʃn/",
+    "example_sentence_en": "The car is in excellent condition, which means it was well maintained.",
+    "example_sentence_cn": "这辆车状况极佳，这意味着它被保养得很好。",
+    "inflection": "复数: conditions"
+  },
+  {
+    "english": "situation",
+    "chinese": "情况；形势",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsɪtʃuˈeɪʃn/",
+    "uk_phonetic": "/ˌsɪtʃuˈeɪʃn/",
+    "example_sentence_en": "The situation that we are facing now is serious.",
+    "example_sentence_cn": "我们现在面临的情况很严峻。",
+    "inflection": "复数: situations"
+  },
+  {
+    "english": "circumstance",
+    "chinese": "环境；情况",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɜːrkəmstæns/",
+    "uk_phonetic": "/ˈsɜːkəmstɑːns/",
+    "example_sentence_en": "Under no circumstances should the rules be broken.",
+    "example_sentence_cn": "在任何情况下都不应违反规则。",
+    "inflection": "复数: circumstances"
+  },
+  {
+    "english": "background",
+    "chinese": "背景",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbækɡraʊnd/",
+    "uk_phonetic": "/ˈbækɡraʊnd/",
+    "example_sentence_en": "Applicants who have a background in science are preferred.",
+    "example_sentence_cn": "有科学背景的申请人更受青睐。",
+    "inflection": "复数: backgrounds"
+  },
+  {
+    "english": "context",
+    "chinese": "上下文；背景",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːntekst/",
+    "uk_phonetic": "/ˈkɒntekst/",
+    "example_sentence_en": "The meaning of a word depends on the context in which it is used.",
+    "example_sentence_cn": "一个词的意思取决于它被使用的上下文。",
+    "inflection": "复数: contexts"
+  },
+  {
+    "english": "phenomenon",
+    "chinese": "现象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fɪˈnɑːmɪnɑːn/",
+    "uk_phonetic": "/fɪˈnɒmɪnən/",
+    "example_sentence_en": "Global warming is a phenomenon that is studied by many scientists.",
+    "example_sentence_cn": "全球变暖是一个被许多科学家研究的现象。",
+    "inflection": "复数: phenomena"
+  },
+  {
+    "english": "trend",
+    "chinese": "趋势；潮流",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trend/",
+    "uk_phonetic": "/trend/",
+    "example_sentence_en": "The trend towards renewable energy is growing.",
+    "example_sentence_cn": "向可再生能源发展的趋势正在增长。",
+    "inflection": "复数: trends"
+  },
+  {
+    "english": "tendency",
+    "chinese": "倾向；趋势",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtendənsi/",
+    "uk_phonetic": "/ˈtendənsi/",
+    "example_sentence_en": "There is a tendency for people to shop online.",
+    "example_sentence_cn": "人们有一种在网上购物的倾向。",
+    "inflection": "复数: tendencies"
+  },
+  {
+    "english": "evolution",
+    "chinese": "演变；进化",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌiːvəˈluːʃn/",
+    "uk_phonetic": "/ˌiːvəˈluːʃn/",
+    "example_sentence_en": "The evolution of technology has changed our daily lives.",
+    "example_sentence_cn": "技术的演变改变了我们的日常生活。",
+    "inflection": "不可数名词"
+  }
+]

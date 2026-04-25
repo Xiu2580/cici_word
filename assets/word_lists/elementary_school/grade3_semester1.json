@@ -1,0 +1,452 @@
+[
+  {
+    "english": "pencil case",
+    "chinese": "铅笔盒",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpensl keɪs/",
+    "uk_phonetic": "/ˈpensl keɪs/",
+    "example_sentence_en": "I have a new pencil case.",
+    "example_sentence_cn": "我有一个新的铅笔盒。",
+    "inflection": "复数: pencil cases"
+  },
+  {
+    "english": "scissors",
+    "chinese": "剪刀",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪzərz/",
+    "uk_phonetic": "/ˈsɪzəz/",
+    "example_sentence_en": "These are my scissors.",
+    "example_sentence_cn": "这些是我的剪刀。",
+    "inflection": "复数: scissors（成对名词，通常用复数）"
+  },
+  {
+    "english": "glue",
+    "chinese": "胶水",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡluː/",
+    "uk_phonetic": "/ɡluː/",
+    "example_sentence_en": "Please pass the glue.",
+    "example_sentence_cn": "请把胶水递给我。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "marker",
+    "chinese": "记号笔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɑːrkər/",
+    "uk_phonetic": "/ˈmɑːkə(r)/",
+    "example_sentence_en": "This is a black marker.",
+    "example_sentence_cn": "这是一支黑色记号笔。",
+    "inflection": "复数: markers"
+  },
+  {
+    "english": "notebook",
+    "chinese": "笔记本",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnoʊtbʊk/",
+    "uk_phonetic": "/ˈnəʊtbʊk/",
+    "example_sentence_en": "Write in your notebook.",
+    "example_sentence_cn": "在你的笔记本上写字。",
+    "inflection": "复数: notebooks"
+  },
+  {
+    "english": "desk",
+    "chinese": "书桌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/desk/",
+    "uk_phonetic": "/desk/",
+    "example_sentence_en": "My desk is clean.",
+    "example_sentence_cn": "我的书桌很干净。",
+    "inflection": "复数: desks"
+  },
+  {
+    "english": "chalk",
+    "chinese": "粉笔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tʃɔːk/",
+    "uk_phonetic": "/tʃɔːk/",
+    "example_sentence_en": "The teacher uses chalk.",
+    "example_sentence_cn": "老师用粉笔。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "paper",
+    "chinese": "纸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpeɪpər/",
+    "uk_phonetic": "/ˈpeɪpə(r)/",
+    "example_sentence_en": "Give me a piece of paper.",
+    "example_sentence_cn": "给我一张纸。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "schoolbag",
+    "chinese": "书包",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈskuːlbæɡ/",
+    "uk_phonetic": "/ˈskuːlbæɡ/",
+    "example_sentence_en": "My schoolbag is heavy.",
+    "example_sentence_cn": "我的书包很重。",
+    "inflection": "复数: schoolbags"
+  },
+  {
+    "english": "sharpener",
+    "chinese": "卷笔刀",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʃɑːrpənər/",
+    "uk_phonetic": "/ˈʃɑːpənə(r)/",
+    "example_sentence_en": "I need a sharpener.",
+    "example_sentence_cn": "我需要一个卷笔刀。",
+    "inflection": "复数: sharpeners"
+  },
+  {
+    "english": "textbook",
+    "chinese": "课本",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtekstbʊk/",
+    "uk_phonetic": "/ˈtekstbʊk/",
+    "example_sentence_en": "Open your textbook.",
+    "example_sentence_cn": "打开你们的课本。",
+    "inflection": "复数: textbooks"
+  },
+  {
+    "english": "tape",
+    "chinese": "胶带",
+    "part_of_speech": "n.",
+    "us_phonetic": "/teɪp/",
+    "uk_phonetic": "/teɪp/",
+    "example_sentence_en": "I need some tape.",
+    "example_sentence_cn": "我需要一些胶带。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "head",
+    "chinese": "头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hed/",
+    "uk_phonetic": "/hed/",
+    "example_sentence_en": "Touch your head.",
+    "example_sentence_cn": "摸摸你的头。",
+    "inflection": "复数: heads"
+  },
+  {
+    "english": "hair",
+    "chinese": "头发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/her/",
+    "uk_phonetic": "/heə(r)/",
+    "example_sentence_en": "She has long hair.",
+    "example_sentence_cn": "她有长头发。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "arm",
+    "chinese": "胳膊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɑːrm/",
+    "uk_phonetic": "/ɑːm/",
+    "example_sentence_en": "Raise your arms.",
+    "example_sentence_cn": "举起你的胳膊。",
+    "inflection": "复数: arms"
+  },
+  {
+    "english": "leg",
+    "chinese": "腿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/leɡ/",
+    "uk_phonetic": "/leɡ/",
+    "example_sentence_en": "He has long legs.",
+    "example_sentence_cn": "他有长腿。",
+    "inflection": "复数: legs"
+  },
+  {
+    "english": "knee",
+    "chinese": "膝盖",
+    "part_of_speech": "n.",
+    "us_phonetic": "/niː/",
+    "uk_phonetic": "/niː/",
+    "example_sentence_en": "Bend your knees.",
+    "example_sentence_cn": "弯曲你的膝盖。",
+    "inflection": "复数: knees"
+  },
+  {
+    "english": "toe",
+    "chinese": "脚趾",
+    "part_of_speech": "n.",
+    "us_phonetic": "/toʊ/",
+    "uk_phonetic": "/təʊ/",
+    "example_sentence_en": "Wiggle your toes.",
+    "example_sentence_cn": "动动你的脚趾。",
+    "inflection": "复数: toes"
+  },
+  {
+    "english": "finger",
+    "chinese": "手指",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɪŋɡər/",
+    "uk_phonetic": "/ˈfɪŋɡə(r)/",
+    "example_sentence_en": "Point with your finger.",
+    "example_sentence_cn": "用你的手指指一指。",
+    "inflection": "复数: fingers"
+  },
+  {
+    "english": "neck",
+    "chinese": "脖子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nek/",
+    "uk_phonetic": "/nek/",
+    "example_sentence_en": "Giraffes have long necks.",
+    "example_sentence_cn": "长颈鹿有长脖子。",
+    "inflection": "复数: necks"
+  },
+  {
+    "english": "shoulder",
+    "chinese": "肩膀",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʃoʊldər/",
+    "uk_phonetic": "/ˈʃəʊldə(r)/",
+    "example_sentence_en": "Shrug your shoulders.",
+    "example_sentence_cn": "耸耸你的肩膀。",
+    "inflection": "复数: shoulders"
+  },
+  {
+    "english": "tooth",
+    "chinese": "牙齿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tuːθ/",
+    "uk_phonetic": "/tuːθ/",
+    "example_sentence_en": "Brush your teeth every day.",
+    "example_sentence_cn": "每天都要刷牙。",
+    "inflection": "复数: teeth"
+  },
+  {
+    "english": "back",
+    "chinese": "背部",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bæk/",
+    "uk_phonetic": "/bæk/",
+    "example_sentence_en": "My back hurts.",
+    "example_sentence_cn": "我的背疼。",
+    "inflection": "复数: backs"
+  },
+  {
+    "english": "orange",
+    "chinese": "橙色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɔːrɪndʒ/",
+    "uk_phonetic": "/ˈɒrɪndʒ/",
+    "example_sentence_en": "It is an orange cat.",
+    "example_sentence_cn": "它是一只橙色的猫。",
+    "inflection": "无"
+  },
+  {
+    "english": "purple",
+    "chinese": "紫色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈpɜːrpl/",
+    "uk_phonetic": "/ˈpɜːpl/",
+    "example_sentence_en": "I like purple grapes.",
+    "example_sentence_cn": "我喜欢紫色的葡萄。",
+    "inflection": "比较级: purpler | 最高级: purplest"
+  },
+  {
+    "english": "pink",
+    "chinese": "粉色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/pɪŋk/",
+    "uk_phonetic": "/pɪŋk/",
+    "example_sentence_en": "The flower is pink.",
+    "example_sentence_cn": "这朵花是粉色的。",
+    "inflection": "比较级: pinker | 最高级: pinkest"
+  },
+  {
+    "english": "brown",
+    "chinese": "棕色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/braʊn/",
+    "uk_phonetic": "/braʊn/",
+    "example_sentence_en": "The bear is brown.",
+    "example_sentence_cn": "这只熊是棕色的。",
+    "inflection": "比较级: browner | 最高级: brownest"
+  },
+  {
+    "english": "gold",
+    "chinese": "金色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɡoʊld/",
+    "uk_phonetic": "/ɡəʊld/",
+    "example_sentence_en": "She has gold hair.",
+    "example_sentence_cn": "她有一头金色的头发。",
+    "inflection": "无"
+  },
+  {
+    "english": "silver",
+    "chinese": "银色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsɪlvər/",
+    "uk_phonetic": "/ˈsɪlvə(r)/",
+    "example_sentence_en": "The car is silver.",
+    "example_sentence_cn": "这辆车是银色的。",
+    "inflection": "无"
+  },
+  {
+    "english": "gray",
+    "chinese": "灰色的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɡreɪ/",
+    "uk_phonetic": "/ɡreɪ/",
+    "example_sentence_en": "The sky is gray today.",
+    "example_sentence_cn": "今天天空是灰色的。",
+    "inflection": "比较级: grayer | 最高级: grayest (英式拼写: grey)"
+  },
+  {
+    "english": "color",
+    "chinese": "颜色",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʌlər/",
+    "uk_phonetic": "/ˈkʌlə(r)/",
+    "example_sentence_en": "What color is it?",
+    "example_sentence_cn": "它是什么颜色的？",
+    "inflection": "复数: colors (英式拼写: colours)"
+  },
+  {
+    "english": "colorful",
+    "chinese": "色彩丰富的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkʌlərfəl/",
+    "uk_phonetic": "/ˈkʌləfl/",
+    "example_sentence_en": "The rainbow is colorful.",
+    "example_sentence_cn": "彩虹是色彩丰富的。",
+    "inflection": "比较级: more colorful | 最高级: most colorful"
+  },
+  {
+    "english": "elephant",
+    "chinese": "大象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈelɪfənt/",
+    "uk_phonetic": "/ˈelɪfənt/",
+    "example_sentence_en": "The elephant is very big.",
+    "example_sentence_cn": "大象非常大。",
+    "inflection": "复数: elephants"
+  },
+  {
+    "english": "monkey",
+    "chinese": "猴子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmʌŋki/",
+    "uk_phonetic": "/ˈmʌŋki/",
+    "example_sentence_en": "The monkey likes bananas.",
+    "example_sentence_cn": "猴子喜欢香蕉。",
+    "inflection": "复数: monkeys"
+  },
+  {
+    "english": "tiger",
+    "chinese": "老虎",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtaɪɡər/",
+    "uk_phonetic": "/ˈtaɪɡə(r)/",
+    "example_sentence_en": "The tiger runs fast.",
+    "example_sentence_cn": "老虎跑得快。",
+    "inflection": "复数: tigers"
+  },
+  {
+    "english": "panda",
+    "chinese": "熊猫",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpændə/",
+    "uk_phonetic": "/ˈpændə/",
+    "example_sentence_en": "The panda eats bamboo.",
+    "example_sentence_cn": "熊猫吃竹子。",
+    "inflection": "复数: pandas"
+  },
+  {
+    "english": "lion",
+    "chinese": "狮子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlaɪən/",
+    "uk_phonetic": "/ˈlaɪən/",
+    "example_sentence_en": "The lion is strong.",
+    "example_sentence_cn": "狮子很强壮。",
+    "inflection": "复数: lions"
+  },
+  {
+    "english": "zebra",
+    "chinese": "斑马",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈziːbrə/",
+    "uk_phonetic": "/ˈzebrə/",
+    "example_sentence_en": "A zebra has stripes.",
+    "example_sentence_cn": "斑马有条纹。",
+    "inflection": "复数: zebras"
+  },
+  {
+    "english": "giraffe",
+    "chinese": "长颈鹿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒəˈræf/",
+    "uk_phonetic": "/dʒəˈrɑːf/",
+    "example_sentence_en": "The giraffe is very tall.",
+    "example_sentence_cn": "长颈鹿非常高。",
+    "inflection": "复数: giraffes"
+  },
+  {
+    "english": "snake",
+    "chinese": "蛇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sneɪk/",
+    "uk_phonetic": "/sneɪk/",
+    "example_sentence_en": "The snake is long.",
+    "example_sentence_cn": "这条蛇很长。",
+    "inflection": "复数: snakes"
+  },
+  {
+    "english": "horse",
+    "chinese": "马",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hɔːrs/",
+    "uk_phonetic": "/hɔːs/",
+    "example_sentence_en": "I can ride a horse.",
+    "example_sentence_cn": "我会骑马。",
+    "inflection": "复数: horses"
+  },
+  {
+    "english": "sheep",
+    "chinese": "绵羊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃiːp/",
+    "uk_phonetic": "/ʃiːp/",
+    "example_sentence_en": "The sheep is eating grass.",
+    "example_sentence_cn": "绵羊正在吃草。",
+    "inflection": "复数: sheep"
+  },
+  {
+    "english": "cow",
+    "chinese": "奶牛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kaʊ/",
+    "uk_phonetic": "/kaʊ/",
+    "example_sentence_en": "The cow gives us milk.",
+    "example_sentence_cn": "奶牛给我们牛奶。",
+    "inflection": "复数: cows"
+  },
+  {
+    "english": "frog",
+    "chinese": "青蛙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/frɑːɡ/",
+    "uk_phonetic": "/frɒɡ/",
+    "example_sentence_en": "The frog can jump high.",
+    "example_sentence_cn": "青蛙能跳得很高。",
+    "inflection": "复数: frogs"
+  },
+  {
+    "english": "mouse",
+    "chinese": "老鼠",
+    "part_of_speech": "n.",
+    "us_phonetic": "/maʊs/",
+    "uk_phonetic": "/maʊs/",
+    "example_sentence_en": "I see a small mouse.",
+    "example_sentence_cn": "我看到一只小老鼠。",
+    "inflection": "复数: mice"
+  }
+]

@@ -1,0 +1,1642 @@
+[
+  {
+    "english": "festival",
+    "chinese": "节日；节庆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfestɪvl/",
+    "uk_phonetic": "/ˈfestɪvl/",
+    "example_sentence_en": "The Spring Festival is the most important festival in China.",
+    "example_sentence_cn": "春节是中国最重要的节日。",
+    "inflection": "复数: festivals"
+  },
+  {
+    "english": "celebrate",
+    "chinese": "庆祝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈselɪbreɪt/",
+    "uk_phonetic": "/ˈselɪbreɪt/",
+    "example_sentence_en": "We celebrate Christmas with a big family dinner.",
+    "example_sentence_cn": "我们用一顿丰盛的家庭晚餐来庆祝圣诞节。",
+    "inflection": "动词变化: celebrates / celebrated / celebrating"
+  },
+  {
+    "english": "celebration",
+    "chinese": "庆祝；庆祝活动",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌselɪˈbreɪʃn/",
+    "uk_phonetic": "/ˌselɪˈbreɪʃn/",
+    "example_sentence_en": "The town held a huge celebration for the victory.",
+    "example_sentence_cn": "镇上为胜利举行了盛大的庆祝活动。",
+    "inflection": "复数: celebrations"
+  },
+  {
+    "english": "tradition",
+    "chinese": "传统；惯例",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trəˈdɪʃn/",
+    "uk_phonetic": "/trəˈdɪʃn/",
+    "example_sentence_en": "It is a tradition to eat mooncakes during the Mid-Autumn Festival.",
+    "example_sentence_cn": "中秋节吃月饼是一个传统。",
+    "inflection": "复数: traditions"
+  },
+  {
+    "english": "traditional",
+    "chinese": "传统的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/trəˈdɪʃənl/",
+    "uk_phonetic": "/trəˈdɪʃənl/",
+    "example_sentence_en": "She wore a traditional Chinese dress at the ceremony.",
+    "example_sentence_cn": "她在典礼上穿了一件中国传统服饰。",
+    "inflection": "无"
+  },
+  {
+    "english": "custom",
+    "chinese": "风俗；习俗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʌstəm/",
+    "uk_phonetic": "/ˈkʌstəm/",
+    "example_sentence_en": "Giving red envelopes is a common custom during the New Year.",
+    "example_sentence_cn": "新年期间发红包是一个常见的习俗。",
+    "inflection": "复数: customs"
+  },
+  {
+    "english": "ceremony",
+    "chinese": "典礼；仪式",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈserəmoʊni/",
+    "uk_phonetic": "/ˈserəməni/",
+    "example_sentence_en": "The opening ceremony of the Olympics was spectacular.",
+    "example_sentence_cn": "奥运会开幕式非常壮观。",
+    "inflection": "复数: ceremonies"
+  },
+  {
+    "english": "parade",
+    "chinese": "游行；检阅",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pəˈreɪd/",
+    "uk_phonetic": "/pəˈreɪd/",
+    "example_sentence_en": "The children marched in the Thanksgiving parade.",
+    "example_sentence_cn": "孩子们在感恩节游行中行进。",
+    "inflection": "复数: parades"
+  },
+  {
+    "english": "fireworks",
+    "chinese": "烟花；烟火",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfaɪərwɜːrks/",
+    "uk_phonetic": "/ˈfaɪəwɜːks/",
+    "example_sentence_en": "We watched the fireworks light up the night sky.",
+    "example_sentence_cn": "我们看着烟花照亮了夜空。",
+    "inflection": "复数: fireworks"
+  },
+  {
+    "english": "carnival",
+    "chinese": "狂欢节；嘉年华",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːrnɪvl/",
+    "uk_phonetic": "/ˈkɑːnɪvl/",
+    "example_sentence_en": "The Rio Carnival attracts millions of tourists every year.",
+    "example_sentence_cn": "里约狂欢节每年吸引数百万游客。",
+    "inflection": "复数: carnivals"
+  },
+  {
+    "english": "feast",
+    "chinese": "盛宴；宴会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fiːst/",
+    "uk_phonetic": "/fiːst/",
+    "example_sentence_en": "The family enjoyed a huge feast on Thanksgiving Day.",
+    "example_sentence_cn": "一家人在感恩节享用了一顿丰盛的盛宴。",
+    "inflection": "复数: feasts"
+  },
+  {
+    "english": "gather",
+    "chinese": "聚集；集合",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɡæðər/",
+    "uk_phonetic": "/ˈɡæðə(r)/",
+    "example_sentence_en": "Family members gather together to celebrate the holiday.",
+    "example_sentence_cn": "家庭成员聚在一起庆祝节日。",
+    "inflection": "动词变化: gathers / gathered / gathering"
+  },
+  {
+    "english": "decorate",
+    "chinese": "装饰；布置",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈdekəreɪt/",
+    "uk_phonetic": "/ˈdekəreɪt/",
+    "example_sentence_en": "We decorated the house with colorful lights for Christmas.",
+    "example_sentence_cn": "我们用彩灯装饰房子来迎接圣诞节。",
+    "inflection": "动词变化: decorates / decorated / decorating"
+  },
+  {
+    "english": "decoration",
+    "chinese": "装饰品；装饰",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdekəˈreɪʃn/",
+    "uk_phonetic": "/ˌdekəˈreɪʃn/",
+    "example_sentence_en": "The store is filled with beautiful holiday decorations.",
+    "example_sentence_cn": "商店里摆满了漂亮的节日装饰品。",
+    "inflection": "复数: decorations"
+  },
+  {
+    "english": "lantern",
+    "chinese": "灯笼；提灯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlæntərn/",
+    "uk_phonetic": "/ˈlæntən/",
+    "example_sentence_en": "Children carried lanterns during the Lantern Festival.",
+    "example_sentence_cn": "孩子们在元宵节提着灯笼。",
+    "inflection": "复数: lanterns"
+  },
+  {
+    "english": "symbolic",
+    "chinese": "象征性的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sɪmˈbɑːlɪk/",
+    "uk_phonetic": "/sɪmˈbɒlɪk/",
+    "example_sentence_en": "The color red is highly symbolic in Chinese culture.",
+    "example_sentence_cn": "红色在中国文化中具有高度的象征性。",
+    "inflection": "无"
+  },
+  {
+    "english": "origin",
+    "chinese": "起源；源头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːrɪdʒɪn/",
+    "uk_phonetic": "/ˈɒrɪdʒɪn/",
+    "example_sentence_en": "The origin of this festival dates back to ancient times.",
+    "example_sentence_cn": "这个节日的起源可以追溯到古代。",
+    "inflection": "复数: origins"
+  },
+  {
+    "english": "religious",
+    "chinese": "宗教的；虔诚的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈlɪdʒəs/",
+    "uk_phonetic": "/rɪˈlɪdʒəs/",
+    "example_sentence_en": "Christmas is a religious holiday for Christians.",
+    "example_sentence_cn": "圣诞节是基督教徒的宗教节日。",
+    "inflection": "无"
+  },
+  {
+    "english": "sacred",
+    "chinese": "神圣的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈseɪkrɪd/",
+    "uk_phonetic": "/ˈseɪkrɪd/",
+    "example_sentence_en": "This temple is considered a sacred place.",
+    "example_sentence_cn": "这座庙宇被认为是一个神圣的地方。",
+    "inflection": "无"
+  },
+  {
+    "english": "bless",
+    "chinese": "祝福；保佑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bles/",
+    "uk_phonetic": "/bles/",
+    "example_sentence_en": "May God bless you with health and happiness.",
+    "example_sentence_cn": "愿上帝保佑你健康快乐。",
+    "inflection": "动词变化: blesses / blessed / blessing"
+  },
+  {
+    "english": "blessing",
+    "chinese": "祝福；福气",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈblesɪŋ/",
+    "uk_phonetic": "/ˈblesɪŋ/",
+    "example_sentence_en": "Giving blessings to the elders is a Chinese tradition.",
+    "example_sentence_cn": "给长辈祝福是中国的传统。",
+    "inflection": "复数: blessings"
+  },
+  {
+    "english": "gratitude",
+    "chinese": "感激；感恩",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrætɪtuːd/",
+    "uk_phonetic": "/ˈɡrætɪtjuːd/",
+    "example_sentence_en": "We express our gratitude during Thanksgiving.",
+    "example_sentence_cn": "我们在感恩节表达我们的感激之情。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "joyful",
+    "chinese": "高兴的；快乐的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈdʒɔɪfl/",
+    "uk_phonetic": "/ˈdʒɔɪfl/",
+    "example_sentence_en": "The festival is a joyful occasion for everyone.",
+    "example_sentence_cn": "这个节日对每个人来说都是一个快乐的场合。",
+    "inflection": "比较级: more joyful | 最高级: most joyful"
+  },
+  {
+    "english": "merry",
+    "chinese": "欢乐的；愉快的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmeri/",
+    "uk_phonetic": "/ˈmeri/",
+    "example_sentence_en": "We wish you a Merry Christmas and a Happy New Year.",
+    "example_sentence_cn": "我们祝你圣诞快乐，新年快乐。",
+    "inflection": "比较级: merrier | 最高级: merriest"
+  },
+  {
+    "english": "costume",
+    "chinese": "服装；戏装",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːstuːm/",
+    "uk_phonetic": "/ˈkɒstjuːm/",
+    "example_sentence_en": "People wear traditional costumes during the parade.",
+    "example_sentence_cn": "人们在游行期间穿着传统服装。",
+    "inflection": "复数: costumes"
+  },
+  {
+    "english": "mask",
+    "chinese": "面具；面罩",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mæsk/",
+    "uk_phonetic": "/mɑːsk/",
+    "example_sentence_en": "Everyone wore beautiful masks at the masquerade ball.",
+    "example_sentence_cn": "每个人在化装舞会上都戴着漂亮的面具。",
+    "inflection": "复数: masks"
+  },
+  {
+    "english": "ritual",
+    "chinese": "仪式；程序",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɪtʃuəl/",
+    "uk_phonetic": "/ˈrɪtʃuəl/",
+    "example_sentence_en": "The tea ceremony is an ancient ritual in Japan.",
+    "example_sentence_cn": "茶道是日本一种古老的仪式。",
+    "inflection": "复数: rituals"
+  },
+  {
+    "english": "ancestor",
+    "chinese": "祖先；祖宗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈænsestər/",
+    "uk_phonetic": "/ˈænsestə(r)/",
+    "example_sentence_en": "People offer food to their ancestors during the festival.",
+    "example_sentence_cn": "人们在节日期间向祖先供奉食物。",
+    "inflection": "复数: ancestors"
+  },
+  {
+    "english": "memorial",
+    "chinese": "纪念物；纪念的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/məˈmɔːriəl/",
+    "uk_phonetic": "/məˈmɔːriəl/",
+    "example_sentence_en": "A memorial service was held to honor the heroes.",
+    "example_sentence_cn": "举行了一场纪念仪式来缅怀英雄。",
+    "inflection": "复数: memorials"
+  },
+  {
+    "english": "commemorate",
+    "chinese": "纪念；庆祝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kəˈmeməreɪt/",
+    "uk_phonetic": "/kəˈmeməreɪt/",
+    "example_sentence_en": "This monument commemorates those who died in the war.",
+    "example_sentence_cn": "这座纪念碑是为了纪念那些在战争中牺牲的人。",
+    "inflection": "动词变化: commemorates / commemorated / commemorating"
+  },
+  {
+    "english": "observe",
+    "chinese": "遵守；庆祝（节日）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əbˈzɜːrv/",
+    "uk_phonetic": "/əbˈzɜːv/",
+    "example_sentence_en": "Many countries observe New Year's Day as a public holiday.",
+    "example_sentence_cn": "许多国家把元旦作为公共假日来庆祝。",
+    "inflection": "动词变化: observes / observed / observing"
+  },
+  {
+    "english": "dumpling",
+    "chinese": "饺子；汤圆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʌmplɪŋ/",
+    "uk_phonetic": "/ˈdʌmplɪŋ/",
+    "example_sentence_en": "We often eat dumplings during the Spring Festival.",
+    "example_sentence_cn": "我们在春节期间经常吃饺子。",
+    "inflection": "复数: dumplings"
+  },
+  {
+    "english": "turkey",
+    "chinese": "火鸡",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtɜːrki/",
+    "uk_phonetic": "/ˈtɜːki/",
+    "example_sentence_en": "Roast turkey is the main dish on Thanksgiving.",
+    "example_sentence_cn": "烤火鸡是感恩节的主菜。",
+    "inflection": "复数: turkeys"
+  },
+  {
+    "english": "pumpkin",
+    "chinese": "南瓜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpʌmpkɪn/",
+    "uk_phonetic": "/ˈpʌmpkɪn/",
+    "example_sentence_en": "Children carve pumpkins into jack-o'-lanterns for Halloween.",
+    "example_sentence_cn": "孩子们为万圣节把南瓜雕刻成南瓜灯。",
+    "inflection": "复数: pumpkins"
+  },
+  {
+    "english": "reunion",
+    "chinese": "团聚；重聚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/riːˈjuːniən/",
+    "uk_phonetic": "/riːˈjuːniən/",
+    "example_sentence_en": "The Mid-Autumn Festival is a time for family reunion.",
+    "example_sentence_cn": "中秋节是家庭团聚的时刻。",
+    "inflection": "复数: reunions"
+  },
+  {
+    "english": "occasion",
+    "chinese": "场合；时机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈkeɪʒn/",
+    "uk_phonetic": "/əˈkeɪʒn/",
+    "example_sentence_en": "A wedding is a very special occasion.",
+    "example_sentence_cn": "婚礼是一个非常特殊的场合。",
+    "inflection": "复数: occasions"
+  },
+  {
+    "english": "festive",
+    "chinese": "节日的；喜庆的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfestɪv/",
+    "uk_phonetic": "/ˈfestɪv/",
+    "example_sentence_en": "The streets are decorated with festive lights.",
+    "example_sentence_cn": "街道上装饰着节日的灯光。",
+    "inflection": "无"
+  },
+  {
+    "english": "holy",
+    "chinese": "神圣的；圣洁的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhoʊli/",
+    "uk_phonetic": "/ˈhəʊli/",
+    "example_sentence_en": "Christmas is a holy day for Christians.",
+    "example_sentence_cn": "圣诞节对基督徒来说是神圣的一天。",
+    "inflection": "比较级: holier | 最高级: holiest"
+  },
+  {
+    "english": "envelope",
+    "chinese": "信封；封套",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈenvəloʊp/",
+    "uk_phonetic": "/ˈenvələʊp/",
+    "example_sentence_en": "Children love receiving red envelopes filled with money.",
+    "example_sentence_cn": "孩子们喜欢收到装满钱的红包。",
+    "inflection": "复数: envelopes"
+  },
+  {
+    "english": "cheer",
+    "chinese": "欢呼；喝彩",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/tʃɪr/",
+    "uk_phonetic": "/tʃɪə(r)/",
+    "example_sentence_en": "The crowd cheered as the parade passed by.",
+    "example_sentence_cn": "当游行队伍经过时，人群欢呼起来。",
+    "inflection": "动词变化: cheers / cheered / cheering"
+  },
+  {
+    "english": "universe",
+    "chinese": "宇宙；万物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈjuːnɪvɜːrs/",
+    "uk_phonetic": "/ˈjuːnɪvɜːs/",
+    "example_sentence_en": "Scientists are trying to understand how the universe began.",
+    "example_sentence_cn": "科学家们正试图了解宇宙是如何起源的。",
+    "inflection": "复数: universes"
+  },
+  {
+    "english": "cosmos",
+    "chinese": "宇宙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːzmoʊs/",
+    "uk_phonetic": "/ˈkɒzmɒs/",
+    "example_sentence_en": "The cosmos is full of mysteries waiting to be discovered.",
+    "example_sentence_cn": "宇宙充满了等待被发现的奥秘。",
+    "inflection": "单数同形"
+  },
+  {
+    "english": "galaxy",
+    "chinese": "星系；银河",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡæləksi/",
+    "uk_phonetic": "/ˈɡæləksi/",
+    "example_sentence_en": "The Milky Way is the galaxy that contains our solar system.",
+    "example_sentence_cn": "银河系是包含我们太阳系的星系。",
+    "inflection": "复数: galaxies"
+  },
+  {
+    "english": "planet",
+    "chinese": "行星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈplænɪt/",
+    "uk_phonetic": "/ˈplænɪt/",
+    "example_sentence_en": "Earth is the third planet from the sun.",
+    "example_sentence_cn": "地球是距离太阳第三近的行星。",
+    "inflection": "复数: planets"
+  },
+  {
+    "english": "orbit",
+    "chinese": "轨道；环绕",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈɔːrbɪt/",
+    "uk_phonetic": "/ˈɔːbɪt/",
+    "example_sentence_en": "The satellite orbits the Earth every 90 minutes.",
+    "example_sentence_cn": "这颗卫星每90分钟绕地球一圈。",
+    "inflection": "动词变化: orbits / orbited / orbiting"
+  },
+  {
+    "english": "astronaut",
+    "chinese": "宇航员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæstrənɔːt/",
+    "uk_phonetic": "/ˈæstrənɔːt/",
+    "example_sentence_en": "The astronaut walked in space for the first time.",
+    "example_sentence_cn": "这位宇航员第一次在太空中行走。",
+    "inflection": "复数: astronauts"
+  },
+  {
+    "english": "spacecraft",
+    "chinese": "宇宙飞船；航天器",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈspeɪskræft/",
+    "uk_phonetic": "/ˈspeɪskrɑːft/",
+    "example_sentence_en": "The spacecraft was launched successfully yesterday.",
+    "example_sentence_cn": "这艘宇宙飞船昨天成功发射了。",
+    "inflection": "复数: spacecraft"
+  },
+  {
+    "english": "rocket",
+    "chinese": "火箭",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɑːkɪt/",
+    "uk_phonetic": "/ˈrɒkɪt/",
+    "example_sentence_en": "The rocket blasted off from the launch pad.",
+    "example_sentence_cn": "火箭从发射台起飞了。",
+    "inflection": "复数: rockets"
+  },
+  {
+    "english": "satellite",
+    "chinese": "卫星；人造卫星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsætəlaɪt/",
+    "uk_phonetic": "/ˈsætəlaɪt/",
+    "example_sentence_en": "A new communication satellite was sent into space.",
+    "example_sentence_cn": "一颗新的通信卫星被送入了太空。",
+    "inflection": "复数: satellites"
+  },
+  {
+    "english": "launch",
+    "chinese": "发射；发起",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/lɔːntʃ/",
+    "uk_phonetic": "/lɔːntʃ/",
+    "example_sentence_en": "China successfully launched a new space mission.",
+    "example_sentence_cn": "中国成功发射了一项新的太空任务。",
+    "inflection": "动词变化: launches / launched / launching"
+  },
+  {
+    "english": "exploration",
+    "chinese": "探索；勘探",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌekspləˈreɪʃn/",
+    "uk_phonetic": "/ˌekspləˈreɪʃn/",
+    "example_sentence_en": "Space exploration requires advanced technology.",
+    "example_sentence_cn": "太空探索需要先进的技术。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "gravity",
+    "chinese": "重力；引力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrævəti/",
+    "uk_phonetic": "/ˈɡrævəti/",
+    "example_sentence_en": "Astronauts float in space because there is no gravity.",
+    "example_sentence_cn": "宇航员在太空中漂浮是因为没有重力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "float",
+    "chinese": "漂浮；浮动",
+    "part_of_speech": "v.",
+    "us_phonetic": "/floʊt/",
+    "uk_phonetic": "/fləʊt/",
+    "example_sentence_en": "Astronauts float around inside the spaceship.",
+    "example_sentence_cn": "宇航员在宇宙飞船内四处漂浮。",
+    "inflection": "动词变化: floats / floated / floating"
+  },
+  {
+    "english": "mission",
+    "chinese": "任务；使命",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɪʃn/",
+    "uk_phonetic": "/ˈmɪʃn/",
+    "example_sentence_en": "The crew completed their mission on the space station.",
+    "example_sentence_cn": "机组人员完成了他们在空间站的任务。",
+    "inflection": "复数: missions"
+  },
+  {
+    "english": "telescope",
+    "chinese": "望远镜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtelɪskoʊp/",
+    "uk_phonetic": "/ˈtelɪskəʊp/",
+    "example_sentence_en": "We observed the stars through a powerful telescope.",
+    "example_sentence_cn": "我们通过一台强大的望远镜观察星星。",
+    "inflection": "复数: telescopes"
+  },
+  {
+    "english": "solar",
+    "chinese": "太阳的；太阳能的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsoʊlər/",
+    "uk_phonetic": "/ˈsəʊlə(r)/",
+    "example_sentence_en": "The solar system consists of eight planets.",
+    "example_sentence_cn": "太阳系由八大行星组成。",
+    "inflection": "无"
+  },
+  {
+    "english": "lunar",
+    "chinese": "月球的；月亮的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈluːnər/",
+    "uk_phonetic": "/ˈluːnə(r)/",
+    "example_sentence_en": "The lunar surface is covered with craters.",
+    "example_sentence_cn": "月球表面布满了陨石坑。",
+    "inflection": "无"
+  },
+  {
+    "english": "probe",
+    "chinese": "探测器；探查",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/proʊb/",
+    "uk_phonetic": "/prəʊb/",
+    "example_sentence_en": "A space probe was sent to study Mars.",
+    "example_sentence_cn": "一个太空探测器被送去研究火星。",
+    "inflection": "动词变化: probes / probed / probing; 复数: probes"
+  },
+  {
+    "english": "mysterious",
+    "chinese": "神秘的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/mɪˈstɪriəs/",
+    "uk_phonetic": "/mɪˈstɪəriəs/",
+    "example_sentence_en": "The universe is full of mysterious dark matter.",
+    "example_sentence_cn": "宇宙充满了神秘的暗物质。",
+    "inflection": "比较级: more mysterious | 最高级: most mysterious"
+  },
+  {
+    "english": "infinity",
+    "chinese": "无限；无穷",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈfɪnəti/",
+    "uk_phonetic": "/ɪnˈfɪnəti/",
+    "example_sentence_en": "The infinity of space is hard to imagine.",
+    "example_sentence_cn": "太空的无限性很难想象。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "horizon",
+    "chinese": "地平线；视野",
+    "part_of_speech": "n.",
+    "us_phonetic": "/həˈraɪzn/",
+    "uk_phonetic": "/həˈraɪzn/",
+    "example_sentence_en": "The sun slowly sank below the horizon.",
+    "example_sentence_cn": "太阳慢慢沉入地平线以下。",
+    "inflection": "复数: horizons"
+  },
+  {
+    "english": "atmosphere",
+    "chinese": "大气层；气氛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈætməsfɪr/",
+    "uk_phonetic": "/ˈætməsfɪə(r)/",
+    "example_sentence_en": "The spacecraft re-entered the Earth's atmosphere safely.",
+    "example_sentence_cn": "宇宙飞船安全重返地球大气层。",
+    "inflection": "复数: atmospheres"
+  },
+  {
+    "english": "sphere",
+    "chinese": "球体；领域",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sfɪr/",
+    "uk_phonetic": "/sfɪə(r)/",
+    "example_sentence_en": "The Earth is not a perfect sphere.",
+    "example_sentence_cn": "地球不是一个完美的球体。",
+    "inflection": "复数: spheres"
+  },
+  {
+    "english": "meteor",
+    "chinese": "流星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmiːtiər/",
+    "uk_phonetic": "/ˈmiːtiə(r)/",
+    "example_sentence_en": "We saw a bright meteor streak across the sky.",
+    "example_sentence_cn": "我们看到一颗明亮的流星划过天空。",
+    "inflection": "复数: meteors"
+  },
+  {
+    "english": "comet",
+    "chinese": "彗星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːmət/",
+    "uk_phonetic": "/ˈkɒmɪt/",
+    "example_sentence_en": "Halley's Comet appears every 76 years.",
+    "example_sentence_cn": "哈雷彗星每76年出现一次。",
+    "inflection": "复数: comets"
+  },
+  {
+    "english": "constellation",
+    "chinese": "星座",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːnstəˈleɪʃn/",
+    "uk_phonetic": "/ˌkɒnstəˈleɪʃn/",
+    "example_sentence_en": "Orion is a famous constellation visible in winter.",
+    "example_sentence_cn": "猎户座是冬季可见的著名星座。",
+    "inflection": "复数: constellations"
+  },
+  {
+    "english": "shuttle",
+    "chinese": "航天飞机；穿梭班机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʃʌtl/",
+    "uk_phonetic": "/ˈʃʌtl/",
+    "example_sentence_en": "The space shuttle carried astronauts to the space station.",
+    "example_sentence_cn": "航天飞机将宇航员送到了空间站。",
+    "inflection": "复数: shuttles"
+  },
+  {
+    "english": "rover",
+    "chinese": "漫游车；探测车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈroʊvər/",
+    "uk_phonetic": "/ˈrəʊvə(r)/",
+    "example_sentence_en": "The lunar rover collected many soil samples.",
+    "example_sentence_cn": "月球车收集了许多土壤样本。",
+    "inflection": "复数: rovers"
+  },
+  {
+    "english": "surface",
+    "chinese": "表面；表层",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɜːrfɪs/",
+    "uk_phonetic": "/ˈsɜːfɪs/",
+    "example_sentence_en": "The surface of the moon is rocky and dusty.",
+    "example_sentence_cn": "月球表面布满岩石和灰尘。",
+    "inflection": "复数: surfaces"
+  },
+  {
+    "english": "alien",
+    "chinese": "外星人；外来的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈeɪliən/",
+    "uk_phonetic": "/ˈeɪliən/",
+    "example_sentence_en": "Many people wonder if alien life exists elsewhere.",
+    "example_sentence_cn": "许多人想知道其他地方是否存在外星生命。",
+    "inflection": "复数: aliens"
+  },
+  {
+    "english": "boundless",
+    "chinese": "无限的；无边无际的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbaʊndləs/",
+    "uk_phonetic": "/ˈbaʊndləs/",
+    "example_sentence_en": "The boundless universe offers endless possibilities.",
+    "example_sentence_cn": "无垠的宇宙提供了无尽的可能性。",
+    "inflection": "无"
+  },
+  {
+    "english": "starry",
+    "chinese": "布满星星的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈstɑːri/",
+    "uk_phonetic": "/ˈstɑːri/",
+    "example_sentence_en": "They camped under the starry sky.",
+    "example_sentence_cn": "他们在星空下露营。",
+    "inflection": "比较级: starrier | 最高级: starriest"
+  },
+  {
+    "english": "celestial",
+    "chinese": "天上的；天体的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səˈlestʃl/",
+    "uk_phonetic": "/səˈlestiəl/",
+    "example_sentence_en": "The telescope can observe distant celestial bodies.",
+    "example_sentence_cn": "这台望远镜可以观察遥远的天体。",
+    "inflection": "无"
+  },
+  {
+    "english": "astronomy",
+    "chinese": "天文学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈstrɑːnəmi/",
+    "uk_phonetic": "/əˈstrɒnəmi/",
+    "example_sentence_en": "She has been interested in astronomy since she was a child.",
+    "example_sentence_cn": "她从小起就对天文学感兴趣。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "distance",
+    "chinese": "距离；远方",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪstəns/",
+    "uk_phonetic": "/ˈdɪstəns/",
+    "example_sentence_en": "The distance between the Earth and the Sun is enormous.",
+    "example_sentence_cn": "地球和太阳之间的距离是巨大的。",
+    "inflection": "复数: distances"
+  },
+  {
+    "english": "voyage",
+    "chinese": "航行；旅行",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɔɪɪdʒ/",
+    "uk_phonetic": "/ˈvɔɪɪdʒ/",
+    "example_sentence_en": "The spacecraft began its long voyage to Mars.",
+    "example_sentence_cn": "宇宙飞船开始了前往火星的漫长航行。",
+    "inflection": "复数: voyages"
+  },
+  {
+    "english": "outer",
+    "chinese": "外部的；外层的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈaʊtər/",
+    "uk_phonetic": "/ˈaʊtə(r)/",
+    "example_sentence_en": "Outer space is a cold and dark place.",
+    "example_sentence_cn": "外太空是一个寒冷而黑暗的地方。",
+    "inflection": "无"
+  },
+  {
+    "english": "physical",
+    "chinese": "物理的；身体的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfɪzɪkl/",
+    "uk_phonetic": "/ˈfɪzɪkl/",
+    "example_sentence_en": "Astronauts must pass strict physical examinations.",
+    "example_sentence_cn": "宇航员必须通过严格的身体检查。",
+    "inflection": "无"
+  },
+  {
+    "english": "escape",
+    "chinese": "逃脱；逃离",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ɪˈskeɪp/",
+    "uk_phonetic": "/ɪˈskeɪp/",
+    "example_sentence_en": "The rocket must reach a high speed to escape Earth's gravity.",
+    "example_sentence_cn": "火箭必须达到很高的速度才能逃脱地球的引力。",
+    "inflection": "动词变化: escapes / escaped / escaping"
+  },
+  {
+    "english": "advance",
+    "chinese": "进步；前进",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ədˈvæns/",
+    "uk_phonetic": "/ədˈvɑːns/",
+    "example_sentence_en": "Technological advances have made space travel possible.",
+    "example_sentence_cn": "技术的进步使太空旅行成为可能。",
+    "inflection": "动词变化: advances / advanced / advancing; 复数: advances"
+  },
+  {
+    "english": "melody",
+    "chinese": "旋律；曲调",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmelədi/",
+    "uk_phonetic": "/ˈmelədi/",
+    "example_sentence_en": "The melody of this song is very beautiful and peaceful.",
+    "example_sentence_cn": "这首歌的旋律非常优美而宁静。",
+    "inflection": "复数: melodies"
+  },
+  {
+    "english": "rhythm",
+    "chinese": "节奏；韵律",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɪðəm/",
+    "uk_phonetic": "/ˈrɪðəm/",
+    "example_sentence_en": "You can't help dancing to the rhythm of the drums.",
+    "example_sentence_cn": "你会情不自禁地随着鼓声的节奏跳舞。",
+    "inflection": "复数: rhythms"
+  },
+  {
+    "english": "beat",
+    "chinese": "节拍；敲击",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/biːt/",
+    "uk_phonetic": "/biːt/",
+    "example_sentence_en": "The drummer kept a steady beat throughout the song.",
+    "example_sentence_cn": "鼓手在整个歌曲中保持着稳定的节拍。",
+    "inflection": "动词变化: beats / beat / beating"
+  },
+  {
+    "english": "harmony",
+    "chinese": "和声；和谐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɑːrməni/",
+    "uk_phonetic": "/ˈhɑːməni/",
+    "example_sentence_en": "The choir sang in perfect harmony.",
+    "example_sentence_cn": "合唱团以完美的和声演唱。",
+    "inflection": "复数: harmonies"
+  },
+  {
+    "english": "tune",
+    "chinese": "曲调；旋律",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tuːn/",
+    "uk_phonetic": "/tjuːn/",
+    "example_sentence_en": "I can't get that tune out of my head.",
+    "example_sentence_cn": "我无法把那个曲调从脑海中赶走。",
+    "inflection": "复数: tunes"
+  },
+  {
+    "english": "note",
+    "chinese": "音符；笔记",
+    "part_of_speech": "n.",
+    "us_phonetic": "/noʊt/",
+    "uk_phonetic": "/nəʊt/",
+    "example_sentence_en": "The pianist played the first note of the song.",
+    "example_sentence_cn": "钢琴家弹奏了歌曲的第一个音符。",
+    "inflection": "复数: notes"
+  },
+  {
+    "english": "chord",
+    "chinese": "和弦",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kɔːrd/",
+    "uk_phonetic": "/kɔːd/",
+    "example_sentence_en": "He learned how to play three basic chords on the guitar.",
+    "example_sentence_cn": "他学会了在吉他上弹奏三个基本和弦。",
+    "inflection": "复数: chords"
+  },
+  {
+    "english": "instrument",
+    "chinese": "乐器；工具",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪnstrəmənt/",
+    "uk_phonetic": "/ˈɪnstrəmənt/",
+    "example_sentence_en": "Which musical instrument do you play?",
+    "example_sentence_cn": "你演奏哪种乐器？",
+    "inflection": "复数: instruments"
+  },
+  {
+    "english": "orchestra",
+    "chinese": "管弦乐队",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːrkɪstrə/",
+    "uk_phonetic": "/ˈɔːkɪstrə/",
+    "example_sentence_en": "The symphony orchestra performed at the grand hall.",
+    "example_sentence_cn": "交响乐团在大厅里演奏。",
+    "inflection": "复数: orchestras"
+  },
+  {
+    "english": "concert",
+    "chinese": "音乐会；演奏会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnsərt/",
+    "uk_phonetic": "/ˈkɒnsət/",
+    "example_sentence_en": "We went to a classical music concert last night.",
+    "example_sentence_cn": "我们昨晚去听了一场古典音乐会。",
+    "inflection": "复数: concerts"
+  },
+  {
+    "english": "perform",
+    "chinese": "表演；执行",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈfɔːrm/",
+    "uk_phonetic": "/pəˈfɔːm/",
+    "example_sentence_en": "The band will perform live at the festival.",
+    "example_sentence_cn": "这支乐队将在音乐节上进行现场表演。",
+    "inflection": "动词变化: performs / performed / performing"
+  },
+  {
+    "english": "compose",
+    "chinese": "作曲；组成",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kəmˈpoʊz/",
+    "uk_phonetic": "/kəmˈpəʊz/",
+    "example_sentence_en": "Beethoven composed many famous symphonies.",
+    "example_sentence_cn": "贝多芬创作了许多著名的交响曲。",
+    "inflection": "动词变化: composes / composed / composing"
+  },
+  {
+    "english": "composer",
+    "chinese": "作曲家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəmˈpoʊzər/",
+    "uk_phonetic": "/kəmˈpəʊzə(r)/",
+    "example_sentence_en": "Mozart was a brilliant composer from Austria.",
+    "example_sentence_cn": "莫扎特是一位才华横溢的奥地利作曲家。",
+    "inflection": "复数: composers"
+  },
+  {
+    "english": "composition",
+    "chinese": "作品；作曲",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːmpəˈzɪʃn/",
+    "uk_phonetic": "/ˌkɒmpəˈzɪʃn/",
+    "example_sentence_en": "The teacher praised her musical composition.",
+    "example_sentence_cn": "老师赞扬了她的音乐作品。",
+    "inflection": "复数: compositions"
+  },
+  {
+    "english": "conduct",
+    "chinese": "指挥；引导",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈdʌkt/",
+    "uk_phonetic": "/kənˈdʌkt/",
+    "example_sentence_en": "He conducted the orchestra with great passion.",
+    "example_sentence_cn": "他充满激情地指挥管弦乐队。",
+    "inflection": "动词变化: conducts / conducted / conducting"
+  },
+  {
+    "english": "conductor",
+    "chinese": "指挥家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˈdʌktər/",
+    "uk_phonetic": "/kənˈdʌktə(r)/",
+    "example_sentence_en": "The conductor raised his baton to begin the piece.",
+    "example_sentence_cn": "指挥家举起指挥棒开始演奏。",
+    "inflection": "复数: conductors"
+  },
+  {
+    "english": "classical",
+    "chinese": "古典的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈklæsɪkl/",
+    "uk_phonetic": "/ˈklæsɪkl/",
+    "example_sentence_en": "She prefers classical music to pop music.",
+    "example_sentence_cn": "比起流行音乐，她更喜欢古典音乐。",
+    "inflection": "无"
+  },
+  {
+    "english": "jazz",
+    "chinese": "爵士乐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒæz/",
+    "uk_phonetic": "/dʒæz/",
+    "example_sentence_en": "Jazz originated in the United States.",
+    "example_sentence_cn": "爵士乐起源于美国。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "folk",
+    "chinese": "民间的；传统民谣",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/foʊk/",
+    "uk_phonetic": "/fəʊk/",
+    "example_sentence_en": "They danced to the lively folk music.",
+    "example_sentence_cn": "他们随着欢快的民间音乐跳舞。",
+    "inflection": "无"
+  },
+  {
+    "english": "symphony",
+    "chinese": "交响乐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪmfəni/",
+    "uk_phonetic": "/ˈsɪmfəni/",
+    "example_sentence_en": "The orchestra played a magnificent symphony.",
+    "example_sentence_cn": "管弦乐队演奏了一首宏伟的交响乐。",
+    "inflection": "复数: symphonies"
+  },
+  {
+    "english": "opera",
+    "chinese": "歌剧",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːprə/",
+    "uk_phonetic": "/ˈɒprə/",
+    "example_sentence_en": "We went to the opera house to see a performance.",
+    "example_sentence_cn": "我们去歌剧院看了一场演出。",
+    "inflection": "复数: operas"
+  },
+  {
+    "english": "stage",
+    "chinese": "舞台；阶段",
+    "part_of_speech": "n.",
+    "us_phonetic": "/steɪdʒ/",
+    "uk_phonetic": "/steɪdʒ/",
+    "example_sentence_en": "The singer walked onto the stage and waved to the audience.",
+    "example_sentence_cn": "歌手走上舞台，向观众挥手致意。",
+    "inflection": "复数: stages"
+  },
+  {
+    "english": "lyric",
+    "chinese": "歌词；抒情诗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlɪrɪk/",
+    "uk_phonetic": "/ˈlɪrɪk/",
+    "example_sentence_en": "The lyrics of this song are very moving.",
+    "example_sentence_cn": "这首歌的歌词非常感人。",
+    "inflection": "复数: lyrics"
+  },
+  {
+    "english": "studio",
+    "chinese": "工作室；录音室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstuːdioʊ/",
+    "uk_phonetic": "/ˈstjuːdiəʊ/",
+    "example_sentence_en": "The band spent the whole day recording in the studio.",
+    "example_sentence_cn": "乐队在录音室里录了一整天的音。",
+    "inflection": "复数: studios"
+  },
+  {
+    "english": "record",
+    "chinese": "录制；记录",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/rɪˈkɔːrd/",
+    "uk_phonetic": "/rɪˈkɔːd/",
+    "example_sentence_en": "They plan to record a new album next month.",
+    "example_sentence_cn": "他们计划下个月录制一张新专辑。",
+    "inflection": "动词变化: records / recorded / recording"
+  },
+  {
+    "english": "album",
+    "chinese": "音乐专辑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈælbəm/",
+    "uk_phonetic": "/ˈælbəm/",
+    "example_sentence_en": "Her new album quickly became a bestseller.",
+    "example_sentence_cn": "她的新专辑迅速成为畅销品。",
+    "inflection": "复数: albums"
+  },
+  {
+    "english": "tone",
+    "chinese": "音调；语气",
+    "part_of_speech": "n.",
+    "us_phonetic": "/toʊn/",
+    "uk_phonetic": "/təʊn/",
+    "example_sentence_en": "The guitar has a warm and rich tone.",
+    "example_sentence_cn": "这把吉他有着温暖而饱满的音调。",
+    "inflection": "复数: tones"
+  },
+  {
+    "english": "pitch",
+    "chinese": "音高；投掷",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɪtʃ/",
+    "uk_phonetic": "/pɪtʃ/",
+    "example_sentence_en": "She has perfect pitch and can sing any note accurately.",
+    "example_sentence_cn": "她有完美的音高感，能准确唱出任何音符。",
+    "inflection": "复数: pitches"
+  },
+  {
+    "english": "volume",
+    "chinese": "音量；体积",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɑːljuːm/",
+    "uk_phonetic": "/ˈvɒljuːm/",
+    "example_sentence_en": "Please turn down the volume of the music.",
+    "example_sentence_cn": "请把音乐的音量调小。",
+    "inflection": "复数: volumes"
+  },
+  {
+    "english": "tempo",
+    "chinese": "速度；拍子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtempoʊ/",
+    "uk_phonetic": "/ˈtempəʊ/",
+    "example_sentence_en": "The tempo of the music suddenly got faster.",
+    "example_sentence_cn": "音乐的节奏突然变快了。",
+    "inflection": "复数: tempos / tempi"
+  },
+  {
+    "english": "acoustic",
+    "chinese": "声学的；原声的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/əˈkuːstɪk/",
+    "uk_phonetic": "/əˈkuːstɪk/",
+    "example_sentence_en": "He played an acoustic guitar by the campfire.",
+    "example_sentence_cn": "他在篝火旁弹奏了一把原声吉他。",
+    "inflection": "无"
+  },
+  {
+    "english": "solo",
+    "chinese": "独奏；独唱",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈsoʊloʊ/",
+    "uk_phonetic": "/ˈsəʊləʊ/",
+    "example_sentence_en": "She performed a beautiful piano solo.",
+    "example_sentence_cn": "她表演了一段优美的钢琴独奏。",
+    "inflection": "复数: solos"
+  },
+  {
+    "english": "duet",
+    "chinese": "二重奏；二重唱",
+    "part_of_speech": "n.",
+    "us_phonetic": "/duːˈet/",
+    "uk_phonetic": "/djuːˈet/",
+    "example_sentence_en": "They sang a romantic duet together.",
+    "example_sentence_cn": "他们一起唱了一首浪漫的二重唱。",
+    "inflection": "复数: duets"
+  },
+  {
+    "english": "chorus",
+    "chinese": "合唱；副歌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɔːrəs/",
+    "uk_phonetic": "/ˈkɔːrəs/",
+    "example_sentence_en": "The audience joined in during the chorus.",
+    "example_sentence_cn": "观众在副歌部分加入了合唱。",
+    "inflection": "复数: choruses"
+  },
+  {
+    "english": "choir",
+    "chinese": "合唱团",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kwaɪər/",
+    "uk_phonetic": "/kwaɪə(r)/",
+    "example_sentence_en": "The school choir practices every Wednesday afternoon.",
+    "example_sentence_cn": "学校合唱团每周三下午排练。",
+    "inflection": "复数: choirs"
+  },
+  {
+    "english": "rehearsal",
+    "chinese": "排练；彩排",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈhɜːrsl/",
+    "uk_phonetic": "/rɪˈhɜːsl/",
+    "example_sentence_en": "The band has a dress rehearsal tonight.",
+    "example_sentence_cn": "乐队今晚有一次带妆彩排。",
+    "inflection": "复数: rehearsals"
+  },
+  {
+    "english": "genius",
+    "chinese": "天才；天赋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒiːniəs/",
+    "uk_phonetic": "/ˈdʒiːniəs/",
+    "example_sentence_en": "Mozart showed his musical genius at a very young age.",
+    "example_sentence_cn": "莫扎特在很小的时候就展现了他的音乐天赋。",
+    "inflection": "复数: geniuses"
+  },
+  {
+    "english": "inspire",
+    "chinese": "启发；鼓舞",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈspaɪər/",
+    "uk_phonetic": "/ɪnˈspaɪə(r)/",
+    "example_sentence_en": "The teacher's words inspired her to study music.",
+    "example_sentence_cn": "老师的话启发了她去学习音乐。",
+    "inflection": "动词变化: inspires / inspired / inspiring"
+  },
+  {
+    "english": "emotional",
+    "chinese": "情感的；情绪的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪˈmoʊʃənl/",
+    "uk_phonetic": "/ɪˈməʊʃənl/",
+    "example_sentence_en": "The music had a deep emotional impact on me.",
+    "example_sentence_cn": "这音乐对我产生了深刻的情感影响。",
+    "inflection": "无"
+  },
+  {
+    "english": "passionate",
+    "chinese": "热情的；激情的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈpæʃənət/",
+    "uk_phonetic": "/ˈpæʃənət/",
+    "example_sentence_en": "He is passionate about playing the violin.",
+    "example_sentence_cn": "他对拉小提琴充满了热情。",
+    "inflection": "比较级: more passionate | 最高级: most passionate"
+  },
+  {
+    "english": "talent",
+    "chinese": "才华；天赋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtælənt/",
+    "uk_phonetic": "/ˈtælənt/",
+    "example_sentence_en": "She has a remarkable talent for music.",
+    "example_sentence_cn": "她在音乐方面有非凡的才华。",
+    "inflection": "复数: talents"
+  },
+  {
+    "english": "gifted",
+    "chinese": "有天赋的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɡɪftɪd/",
+    "uk_phonetic": "/ˈɡɪftɪd/",
+    "example_sentence_en": "The gifted pianist gave an amazing performance.",
+    "example_sentence_cn": "这位有天赋的钢琴家献上了一场精彩的演出。",
+    "inflection": "无"
+  },
+  {
+    "english": "vocal",
+    "chinese": "声乐的；嗓音的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvoʊkl/",
+    "uk_phonetic": "/ˈvəʊkl/",
+    "example_sentence_en": "She took vocal lessons to improve her singing.",
+    "example_sentence_cn": "她上了声乐课来提高她的歌唱水平。",
+    "inflection": "无"
+  },
+  {
+    "english": "harmonize",
+    "chinese": "使和谐；和声",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈhɑːrmənaɪz/",
+    "uk_phonetic": "/ˈhɑːmənaɪz/",
+    "example_sentence_en": "The two singers harmonized beautifully together.",
+    "example_sentence_cn": "这两位歌手一起和声得非常美妙。",
+    "inflection": "动词变化: harmonizes / harmonized / harmonizing"
+  },
+  {
+    "english": "artwork",
+    "chinese": "艺术品；插图",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːrtwɜːrk/",
+    "uk_phonetic": "/ˈɑːtwɜːk/",
+    "example_sentence_en": "The gallery displays contemporary artwork.",
+    "example_sentence_cn": "画廊展出当代艺术品。",
+    "inflection": "复数: artworks"
+  },
+  {
+    "english": "painting",
+    "chinese": "绘画；画作",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpeɪntɪŋ/",
+    "uk_phonetic": "/ˈpeɪntɪŋ/",
+    "example_sentence_en": "The museum has a collection of famous oil paintings.",
+    "example_sentence_cn": "这家博物馆收藏了著名的油画。",
+    "inflection": "复数: paintings"
+  },
+  {
+    "english": "painter",
+    "chinese": "画家；油漆工",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpeɪntər/",
+    "uk_phonetic": "/ˈpeɪntə(r)/",
+    "example_sentence_en": "Van Gogh was a famous Dutch painter.",
+    "example_sentence_cn": "梵高是一位著名的荷兰画家。",
+    "inflection": "复数: painters"
+  },
+  {
+    "english": "sketch",
+    "chinese": "素描；草图",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/sketʃ/",
+    "uk_phonetic": "/sketʃ/",
+    "example_sentence_en": "She made a quick sketch of the landscape.",
+    "example_sentence_cn": "她画了一张风景的速写。",
+    "inflection": "动词变化: sketches / sketched / sketching; 复数: sketches"
+  },
+  {
+    "english": "brush",
+    "chinese": "画笔；刷子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/brʌʃ/",
+    "uk_phonetic": "/brʌʃ/",
+    "example_sentence_en": "The artist dipped his brush into the paint.",
+    "example_sentence_cn": "艺术家将画笔蘸入颜料中。",
+    "inflection": "复数: brushes"
+  },
+  {
+    "english": "canvas",
+    "chinese": "画布；帆布",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkænvəs/",
+    "uk_phonetic": "/ˈkænvəs/",
+    "example_sentence_en": "The painter prepared a blank canvas for his new work.",
+    "example_sentence_cn": "画家为他的新作品准备了一块空白画布。",
+    "inflection": "复数: canvases"
+  },
+  {
+    "english": "gallery",
+    "chinese": "画廊；美术馆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡæləri/",
+    "uk_phonetic": "/ˈɡæləri/",
+    "example_sentence_en": "We visited an art gallery in the city center.",
+    "example_sentence_cn": "我们参观了市中心的一家美术馆。",
+    "inflection": "复数: galleries"
+  },
+  {
+    "english": "exhibit",
+    "chinese": "展览；展出",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ɪɡˈzɪbɪt/",
+    "uk_phonetic": "/ɪɡˈzɪbɪt/",
+    "example_sentence_en": "The museum is exhibiting ancient pottery.",
+    "example_sentence_cn": "博物馆正在展出古代陶器。",
+    "inflection": "动词变化: exhibits / exhibited / exhibiting; 复数: exhibits"
+  },
+  {
+    "english": "exhibition",
+    "chinese": "展览会；展览",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌeksɪˈbɪʃn/",
+    "uk_phonetic": "/ˌeksɪˈbɪʃn/",
+    "example_sentence_en": "An exhibition of modern art is coming to town.",
+    "example_sentence_cn": "一场现代艺术展即将来到镇上。",
+    "inflection": "复数: exhibitions"
+  },
+  {
+    "english": "sculpture",
+    "chinese": "雕塑；雕刻",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈskʌlptʃər/",
+    "uk_phonetic": "/ˈskʌlptʃə(r)/",
+    "example_sentence_en": "The park is filled with beautiful marble sculptures.",
+    "example_sentence_cn": "公园里布满了美丽的大理石雕塑。",
+    "inflection": "复数: sculptures"
+  },
+  {
+    "english": "statue",
+    "chinese": "雕像；塑像",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstætʃuː/",
+    "uk_phonetic": "/ˈstætʃuː/",
+    "example_sentence_en": "A bronze statue of the hero stands in the square.",
+    "example_sentence_cn": "广场上矗立着一尊英雄的铜像。",
+    "inflection": "复数: statues"
+  },
+  {
+    "english": "carve",
+    "chinese": "雕刻；切",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kɑːrv/",
+    "uk_phonetic": "/kɑːv/",
+    "example_sentence_en": "He carved a beautiful bird out of wood.",
+    "example_sentence_cn": "他用木头雕刻了一只美丽的鸟。",
+    "inflection": "动词变化: carves / carved / carving"
+  },
+  {
+    "english": "pattern",
+    "chinese": "图案；模式",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpætərn/",
+    "uk_phonetic": "/ˈpætn/",
+    "example_sentence_en": "The fabric has a beautiful geometric pattern.",
+    "example_sentence_cn": "这种织物有美丽的几何图案。",
+    "inflection": "复数: patterns"
+  },
+  {
+    "english": "shade",
+    "chinese": "阴影；色调",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃeɪd/",
+    "uk_phonetic": "/ʃeɪd/",
+    "example_sentence_en": "The artist mixed different shades of blue.",
+    "example_sentence_cn": "艺术家混合了不同色调的蓝色。",
+    "inflection": "复数: shades"
+  },
+  {
+    "english": "portrait",
+    "chinese": "肖像；画像",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɔːrtrət/",
+    "uk_phonetic": "/ˈpɔːtreɪt/",
+    "example_sentence_en": "She painted a portrait of her mother.",
+    "example_sentence_cn": "她为她母亲画了一幅肖像。",
+    "inflection": "复数: portraits"
+  },
+  {
+    "english": "landscape",
+    "chinese": "风景画；风景",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlændskeɪp/",
+    "uk_phonetic": "/ˈlændskeɪp/",
+    "example_sentence_en": "He is famous for his stunning landscape paintings.",
+    "example_sentence_cn": "他以令人惊叹的风景画而闻名。",
+    "inflection": "复数: landscapes"
+  },
+  {
+    "english": "abstract",
+    "chinese": "抽象的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈæbstrækt/",
+    "uk_phonetic": "/ˈæbstrækt/",
+    "example_sentence_en": "I don't really understand abstract art.",
+    "example_sentence_cn": "我不太懂抽象艺术。",
+    "inflection": "无"
+  },
+  {
+    "english": "realistic",
+    "chinese": "现实的；逼真的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌriːəˈlɪstɪk/",
+    "uk_phonetic": "/ˌrɪəˈlɪstɪk/",
+    "example_sentence_en": "The painting is so realistic that it looks like a photo.",
+    "example_sentence_cn": "这幅画太逼真了，看起来就像一张照片。",
+    "inflection": "比较级: more realistic | 最高级: most realistic"
+  },
+  {
+    "english": "creativity",
+    "chinese": "创造力；创意",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkriːeɪˈtɪvəti/",
+    "uk_phonetic": "/ˌkriːeɪˈtɪvəti/",
+    "example_sentence_en": "Art classes help children develop their creativity.",
+    "example_sentence_cn": "美术课帮助孩子们发展他们的创造力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "inspiration",
+    "chinese": "灵感；启发",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪnspəˈreɪʃn/",
+    "uk_phonetic": "/ˌɪnspəˈreɪʃn/",
+    "example_sentence_en": "Nature is a great source of inspiration for artists.",
+    "example_sentence_cn": "大自然是艺术家灵感的巨大源泉。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "masterpiece",
+    "chinese": "杰作；名作",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmæstərpiːs/",
+    "uk_phonetic": "/ˈmɑːstəpiːs/",
+    "example_sentence_en": "The Mona Lisa is considered a Renaissance masterpiece.",
+    "example_sentence_cn": "《蒙娜丽莎》被认为是文艺复兴时期的杰作。",
+    "inflection": "复数: masterpieces"
+  },
+  {
+    "english": "technique",
+    "chinese": "技巧；技术",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tekˈniːk/",
+    "uk_phonetic": "/tekˈniːk/",
+    "example_sentence_en": "The artist uses a unique painting technique.",
+    "example_sentence_cn": "这位艺术家使用了独特的绘画技巧。",
+    "inflection": "复数: techniques"
+  },
+  {
+    "english": "aesthetic",
+    "chinese": "美学的；审美的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/esˈθetɪk/",
+    "uk_phonetic": "/iːsˈθetɪk/",
+    "example_sentence_en": "The building has great aesthetic appeal.",
+    "example_sentence_cn": "这座建筑具有极大的美学吸引力。",
+    "inflection": "无"
+  },
+  {
+    "english": "visual",
+    "chinese": "视觉的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvɪʒuəl/",
+    "uk_phonetic": "/ˈvɪʒuəl/",
+    "example_sentence_en": "The film is a visual feast for the eyes.",
+    "example_sentence_cn": "这部电影是一场视觉盛宴。",
+    "inflection": "无"
+  },
+  {
+    "english": "texture",
+    "chinese": "质地；纹理",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtekstʃər/",
+    "uk_phonetic": "/ˈtekstʃə(r)/",
+    "example_sentence_en": "The rough texture of the stone adds character to the sculpture.",
+    "example_sentence_cn": "石头粗糙的质地给雕塑增添了特色。",
+    "inflection": "复数: textures"
+  },
+  {
+    "english": "perspective",
+    "chinese": "视角；透视",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈspektɪv/",
+    "uk_phonetic": "/pəˈspektɪv/",
+    "example_sentence_en": "The artist used perspective to create depth in the painting.",
+    "example_sentence_cn": "艺术家运用透视法在画作中创造了深度。",
+    "inflection": "复数: perspectives"
+  },
+  {
+    "english": "contemporary",
+    "chinese": "当代的；现代的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kənˈtempəreri/",
+    "uk_phonetic": "/kənˈtempərəri/",
+    "example_sentence_en": "The gallery focuses on contemporary art.",
+    "example_sentence_cn": "这家画廊专注于当代艺术。",
+    "inflection": "无"
+  },
+  {
+    "english": "critic",
+    "chinese": "评论家；批评家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɪtɪk/",
+    "uk_phonetic": "/ˈkrɪtɪk/",
+    "example_sentence_en": "The art critic praised the exhibition highly.",
+    "example_sentence_cn": "这位艺术评论家高度赞扬了这次展览。",
+    "inflection": "复数: critics"
+  },
+  {
+    "english": "express",
+    "chinese": "表达；表现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈspres/",
+    "uk_phonetic": "/ɪkˈspres/",
+    "example_sentence_en": "Artists use colors to express their emotions.",
+    "example_sentence_cn": "艺术家用色彩来表达他们的情感。",
+    "inflection": "动词变化: expresses / expressed / expressing"
+  },
+  {
+    "english": "expression",
+    "chinese": "表达；表情",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈspreʃn/",
+    "uk_phonetic": "/ɪkˈspreʃn/",
+    "example_sentence_en": "Freedom of expression is important in art.",
+    "example_sentence_cn": "表达自由在艺术中很重要。",
+    "inflection": "复数: expressions"
+  },
+  {
+    "english": "palette",
+    "chinese": "调色板",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpælət/",
+    "uk_phonetic": "/ˈpælət/",
+    "example_sentence_en": "The painter squeezed bright colors onto his palette.",
+    "example_sentence_cn": "画家把鲜艳的颜色挤在调色板上。",
+    "inflection": "复数: palettes"
+  },
+  {
+    "english": "depict",
+    "chinese": "描绘；描述",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈpɪkt/",
+    "uk_phonetic": "/dɪˈpɪkt/",
+    "example_sentence_en": "The painting depicts a peaceful country scene.",
+    "example_sentence_cn": "这幅画描绘了一幅宁静的乡村景象。",
+    "inflection": "动词变化: depicts / depicted / depicting"
+  },
+  {
+    "english": "vibrant",
+    "chinese": "色彩鲜明的；充满生机的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvaɪbrənt/",
+    "uk_phonetic": "/ˈvaɪbrənt/",
+    "example_sentence_en": "The artist used vibrant colors in his paintings.",
+    "example_sentence_cn": "这位艺术家在他的画作中使用了鲜艳的色彩。",
+    "inflection": "无"
+  },
+  {
+    "english": "elegant",
+    "chinese": "优雅的；精美的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈelɪɡənt/",
+    "uk_phonetic": "/ˈelɪɡənt/",
+    "example_sentence_en": "The design of the vase is very elegant.",
+    "example_sentence_cn": "这个花瓶的设计非常优雅。",
+    "inflection": "比较级: more elegant | 最高级: most elegant"
+  },
+  {
+    "english": "delicate",
+    "chinese": "精致的；易碎的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈdelɪkət/",
+    "uk_phonetic": "/ˈdelɪkət/",
+    "example_sentence_en": "The delicate porcelain was handled with great care.",
+    "example_sentence_cn": "这件精致的瓷器被小心翼翼地拿放。",
+    "inflection": "比较级: more delicate | 最高级: most delicate"
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的；意义深远的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/prəˈfaʊnd/",
+    "uk_phonetic": "/prəˈfaʊnd/",
+    "example_sentence_en": "The artwork left a profound impression on me.",
+    "example_sentence_cn": "这件艺术品给我留下了深刻的印象。",
+    "inflection": "比较级: more profound | 最高级: most profound"
+  },
+  {
+    "english": "museum",
+    "chinese": "博物馆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mjuˈziːəm/",
+    "uk_phonetic": "/mjuˈziːəm/",
+    "example_sentence_en": "We learned a lot about history at the museum.",
+    "example_sentence_cn": "我们在博物馆学到了很多关于历史的知识。",
+    "inflection": "复数: museums"
+  },
+  {
+    "english": "craft",
+    "chinese": "手艺；工艺",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kræft/",
+    "uk_phonetic": "/krɑːft/",
+    "example_sentence_en": "The local people are skilled in traditional crafts.",
+    "example_sentence_cn": "当地人擅长传统手工艺。",
+    "inflection": "复数: crafts"
+  },
+  {
+    "english": "ceramic",
+    "chinese": "陶瓷的；陶瓷",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/səˈræmɪk/",
+    "uk_phonetic": "/səˈræmɪk/",
+    "example_sentence_en": "The museum has a fine collection of ceramic vases.",
+    "example_sentence_cn": "博物馆收藏了精美的陶瓷花瓶。",
+    "inflection": "复数: ceramics"
+  },
+  {
+    "english": "fine",
+    "chinese": "精美的；纤细的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/faɪn/",
+    "uk_phonetic": "/faɪn/",
+    "example_sentence_en": "She is a student of fine arts.",
+    "example_sentence_cn": "她是一名美术专业的学生。",
+    "inflection": "比较级: finer | 最高级: finest"
+  }
+]

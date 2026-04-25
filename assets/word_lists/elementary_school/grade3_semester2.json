@@ -1,0 +1,482 @@
+[
+  {
+    "english": "father",
+    "chinese": "父亲；爸爸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːðər/",
+    "uk_phonetic": "/ˈfɑːðə(r)/",
+    "example_sentence_en": "My father is a teacher.",
+    "example_sentence_cn": "我的爸爸是一名老师。",
+    "inflection": "复数: fathers"
+  },
+  {
+    "english": "mother",
+    "chinese": "母亲；妈妈",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmʌðər/",
+    "uk_phonetic": "/ˈmʌðə(r)/",
+    "example_sentence_en": "My mother is kind.",
+    "example_sentence_cn": "我的妈妈很和蔼。",
+    "inflection": "复数: mothers"
+  },
+  {
+    "english": "brother",
+    "chinese": "兄弟",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbrʌðər/",
+    "uk_phonetic": "/ˈbrʌðə(r)/",
+    "example_sentence_en": "I love my brother.",
+    "example_sentence_cn": "我爱我的兄弟。",
+    "inflection": "复数: brothers"
+  },
+  {
+    "english": "sister",
+    "chinese": "姐妹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪstər/",
+    "uk_phonetic": "/ˈsɪstə(r)/",
+    "example_sentence_en": "My sister is tall.",
+    "example_sentence_cn": "我的姐妹很高。",
+    "inflection": "复数: sisters"
+  },
+  {
+    "english": "grandfather",
+    "chinese": "祖父；外祖父",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrænfɑːðər/",
+    "uk_phonetic": "/ˈɡrænfɑːðə(r)/",
+    "example_sentence_en": "My grandfather is old.",
+    "example_sentence_cn": "我的爷爷年纪大了。",
+    "inflection": "复数: grandfathers"
+  },
+  {
+    "english": "grandmother",
+    "chinese": "祖母；外祖母",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrænmʌðər/",
+    "uk_phonetic": "/ˈɡrænmʌðə(r)/",
+    "example_sentence_en": "My grandmother is nice.",
+    "example_sentence_cn": "我的奶奶很好。",
+    "inflection": "复数: grandmothers"
+  },
+  {
+    "english": "uncle",
+    "chinese": "叔伯；舅；姨父",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʌŋkl/",
+    "uk_phonetic": "/ˈʌŋkl/",
+    "example_sentence_en": "My uncle is strong.",
+    "example_sentence_cn": "我的叔叔很强壮。",
+    "inflection": "复数: uncles"
+  },
+  {
+    "english": "aunt",
+    "chinese": "姑；姨；伯母；舅母",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ænt/",
+    "uk_phonetic": "/ɑːnt/",
+    "example_sentence_en": "My aunt is pretty.",
+    "example_sentence_cn": "我的阿姨很漂亮。",
+    "inflection": "复数: aunts"
+  },
+  {
+    "english": "cousin",
+    "chinese": "堂表兄弟姐妹",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʌzn/",
+    "uk_phonetic": "/ˈkʌzn/",
+    "example_sentence_en": "I play with my cousin.",
+    "example_sentence_cn": "我和我的表弟一起玩。",
+    "inflection": "复数: cousins"
+  },
+  {
+    "english": "parents",
+    "chinese": "父母",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈperənts/",
+    "uk_phonetic": "/ˈpeərənts/",
+    "example_sentence_en": "I love my parents.",
+    "example_sentence_cn": "我爱我的父母。",
+    "inflection": "单数: parent"
+  },
+  {
+    "english": "son",
+    "chinese": "儿子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sʌn/",
+    "uk_phonetic": "/sʌn/",
+    "example_sentence_en": "He is their son.",
+    "example_sentence_cn": "他是他们的儿子。",
+    "inflection": "复数: sons"
+  },
+  {
+    "english": "daughter",
+    "chinese": "女儿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɔːtər/",
+    "uk_phonetic": "/ˈdɔːtə(r)/",
+    "example_sentence_en": "She is their daughter.",
+    "example_sentence_cn": "她是他们的女儿。",
+    "inflection": "复数: daughters"
+  },
+  {
+    "english": "in",
+    "chinese": "在……里面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɪn/",
+    "uk_phonetic": "/ɪn/",
+    "example_sentence_en": "The cat is in the box.",
+    "example_sentence_cn": "猫在盒子里。",
+    "inflection": "无"
+  },
+  {
+    "english": "on",
+    "chinese": "在……上面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɑːn/",
+    "uk_phonetic": "/ɒn/",
+    "example_sentence_en": "The book is on the desk.",
+    "example_sentence_cn": "书在桌子上。",
+    "inflection": "无"
+  },
+  {
+    "english": "under",
+    "chinese": "在……下面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ˈʌndər/",
+    "uk_phonetic": "/ˈʌndə(r)/",
+    "example_sentence_en": "The ball is under the chair.",
+    "example_sentence_cn": "球在椅子下面。",
+    "inflection": "无"
+  },
+  {
+    "english": "behind",
+    "chinese": "在……后面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈhaɪnd/",
+    "uk_phonetic": "/bɪˈhaɪnd/",
+    "example_sentence_en": "The dog is behind the door.",
+    "example_sentence_cn": "狗在门后面。",
+    "inflection": "无"
+  },
+  {
+    "english": "next to",
+    "chinese": "在……旁边",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ˈnekst tuː/",
+    "uk_phonetic": "/ˈnekst tuː/",
+    "example_sentence_en": "The school is next to the park.",
+    "example_sentence_cn": "学校在公园旁边。",
+    "inflection": "无"
+  },
+  {
+    "english": "in front of",
+    "chinese": "在……前面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɪn frʌnt əv/",
+    "uk_phonetic": "/ɪn frʌnt əv/",
+    "example_sentence_en": "The tree is in front of the house.",
+    "example_sentence_cn": "树在房子前面。",
+    "inflection": "无"
+  },
+  {
+    "english": "near",
+    "chinese": "靠近；在……附近",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/nɪr/",
+    "uk_phonetic": "/nɪə(r)/",
+    "example_sentence_en": "The bank is near my home.",
+    "example_sentence_cn": "银行在我家附近。",
+    "inflection": "比较级: nearer | 最高级: nearest"
+  },
+  {
+    "english": "between",
+    "chinese": "在……之间",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈtwiːn/",
+    "uk_phonetic": "/bɪˈtwiːn/",
+    "example_sentence_en": "The ball is between the boxes.",
+    "example_sentence_cn": "球在盒子之间。",
+    "inflection": "无"
+  },
+  {
+    "english": "beside",
+    "chinese": "在……旁边",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈsaɪd/",
+    "uk_phonetic": "/bɪˈsaɪd/",
+    "example_sentence_en": "Come sit beside me.",
+    "example_sentence_cn": "过来坐在我旁边。",
+    "inflection": "无"
+  },
+  {
+    "english": "above",
+    "chinese": "在……上方",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/əˈbʌv/",
+    "uk_phonetic": "/əˈbʌv/",
+    "example_sentence_en": "The picture is above the sofa.",
+    "example_sentence_cn": "画在沙发上方。",
+    "inflection": "无"
+  },
+  {
+    "english": "inside",
+    "chinese": "在……里面",
+    "part_of_speech": "prep. / adv.",
+    "us_phonetic": "/ˌɪnˈsaɪd/",
+    "uk_phonetic": "/ˌɪnˈsaɪd/",
+    "example_sentence_en": "It is raining, let's go inside.",
+    "example_sentence_cn": "下雨了，我们进去吧。",
+    "inflection": "无"
+  },
+  {
+    "english": "outside",
+    "chinese": "在……外面",
+    "part_of_speech": "prep. / adv.",
+    "us_phonetic": "/ˌaʊtˈsaɪd/",
+    "uk_phonetic": "/ˌaʊtˈsaɪd/",
+    "example_sentence_en": "Let's play outside.",
+    "example_sentence_cn": "我们去外面玩吧。",
+    "inflection": "无"
+  },
+  {
+    "english": "apple",
+    "chinese": "苹果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæpl/",
+    "uk_phonetic": "/ˈæpl/",
+    "example_sentence_en": "I eat an apple every day.",
+    "example_sentence_cn": "我每天吃一个苹果。",
+    "inflection": "复数: apples"
+  },
+  {
+    "english": "banana",
+    "chinese": "香蕉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bəˈnænə/",
+    "uk_phonetic": "/bəˈnɑːnə/",
+    "example_sentence_en": "The banana is yellow.",
+    "example_sentence_cn": "香蕉是黄色的。",
+    "inflection": "复数: bananas"
+  },
+  {
+    "english": "orange",
+    "chinese": "橙子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːrɪndʒ/",
+    "uk_phonetic": "/ˈɒrɪndʒ/",
+    "example_sentence_en": "I like orange juice.",
+    "example_sentence_cn": "我喜欢橙汁。",
+    "inflection": "复数: oranges"
+  },
+  {
+    "english": "pear",
+    "chinese": "梨",
+    "part_of_speech": "n.",
+    "us_phonetic": "/per/",
+    "uk_phonetic": "/peə(r)/",
+    "example_sentence_en": "This pear is sweet.",
+    "example_sentence_cn": "这个梨很甜。",
+    "inflection": "复数: pears"
+  },
+  {
+    "english": "grape",
+    "chinese": "葡萄",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡreɪp/",
+    "uk_phonetic": "/ɡreɪp/",
+    "example_sentence_en": "The grapes are purple.",
+    "example_sentence_cn": "葡萄是紫色的。",
+    "inflection": "复数: grapes"
+  },
+  {
+    "english": "watermelon",
+    "chinese": "西瓜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɔːtərmelən/",
+    "uk_phonetic": "/ˈwɔːtəmelən/",
+    "example_sentence_en": "The watermelon is big.",
+    "example_sentence_cn": "这个西瓜很大。",
+    "inflection": "复数: watermelons"
+  },
+  {
+    "english": "strawberry",
+    "chinese": "草莓",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrɔːberi/",
+    "uk_phonetic": "/ˈstrɔːbəri/",
+    "example_sentence_en": "I like strawberries.",
+    "example_sentence_cn": "我喜欢草莓。",
+    "inflection": "复数: strawberries"
+  },
+  {
+    "english": "peach",
+    "chinese": "桃子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/piːtʃ/",
+    "uk_phonetic": "/piːtʃ/",
+    "example_sentence_en": "This peach is juicy.",
+    "example_sentence_cn": "这个桃子很多汁。",
+    "inflection": "复数: peaches"
+  },
+  {
+    "english": "mango",
+    "chinese": "芒果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmæŋɡoʊ/",
+    "uk_phonetic": "/ˈmæŋɡəʊ/",
+    "example_sentence_en": "Do you like mangoes?",
+    "example_sentence_cn": "你喜欢芒果吗？",
+    "inflection": "复数: mangoes / mangos"
+  },
+  {
+    "english": "lemon",
+    "chinese": "柠檬",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlemən/",
+    "uk_phonetic": "/ˈlemən/",
+    "example_sentence_en": "The lemon is sour.",
+    "example_sentence_cn": "柠檬是酸的。",
+    "inflection": "复数: lemons"
+  },
+  {
+    "english": "cherry",
+    "chinese": "樱桃",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃeri/",
+    "uk_phonetic": "/ˈtʃeri/",
+    "example_sentence_en": "The cherry is red.",
+    "example_sentence_cn": "樱桃是红色的。",
+    "inflection": "复数: cherries"
+  },
+  {
+    "english": "pineapple",
+    "chinese": "菠萝",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpaɪnæpl/",
+    "uk_phonetic": "/ˈpaɪnæpl/",
+    "example_sentence_en": "I like pineapple.",
+    "example_sentence_cn": "我喜欢菠萝。",
+    "inflection": "复数: pineapples"
+  },
+  {
+    "english": "fruit",
+    "chinese": "水果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fruːt/",
+    "uk_phonetic": "/fruːt/",
+    "example_sentence_en": "Eat more fruit.",
+    "example_sentence_cn": "多吃水果。",
+    "inflection": "复数: fruits (指种类时可用)"
+  },
+  {
+    "english": "juice",
+    "chinese": "果汁",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒuːs/",
+    "uk_phonetic": "/dʒuːs/",
+    "example_sentence_en": "I want some apple juice.",
+    "example_sentence_cn": "我想要一些苹果汁。",
+    "inflection": "复数: juices"
+  },
+  {
+    "english": "eleven",
+    "chinese": "十一",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ɪˈlevn/",
+    "uk_phonetic": "/ɪˈlevn/",
+    "example_sentence_en": "I am eleven years old.",
+    "example_sentence_cn": "我十一岁了。",
+    "inflection": "无"
+  },
+  {
+    "english": "twelve",
+    "chinese": "十二",
+    "part_of_speech": "num.",
+    "us_phonetic": "/twelv/",
+    "uk_phonetic": "/twelv/",
+    "example_sentence_en": "There are twelve months in a year.",
+    "example_sentence_cn": "一年有十二个月。",
+    "inflection": "无"
+  },
+  {
+    "english": "thirteen",
+    "chinese": "十三",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌθɜːrˈtiːn/",
+    "uk_phonetic": "/ˌθɜːˈtiːn/",
+    "example_sentence_en": "I have thirteen pencils.",
+    "example_sentence_cn": "我有十三支铅笔。",
+    "inflection": "无"
+  },
+  {
+    "english": "fourteen",
+    "chinese": "十四",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌfɔːrˈtiːn/",
+    "uk_phonetic": "/ˌfɔːˈtiːn/",
+    "example_sentence_en": "She is fourteen years old.",
+    "example_sentence_cn": "她十四岁了。",
+    "inflection": "无"
+  },
+  {
+    "english": "fifteen",
+    "chinese": "十五",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌfɪfˈtiːn/",
+    "uk_phonetic": "/ˌfɪfˈtiːn/",
+    "example_sentence_en": "There are fifteen students.",
+    "example_sentence_cn": "有十五名学生。",
+    "inflection": "无"
+  },
+  {
+    "english": "sixteen",
+    "chinese": "十六",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌsɪkˈstiːn/",
+    "uk_phonetic": "/ˌsɪkˈstiːn/",
+    "example_sentence_en": "I see sixteen birds.",
+    "example_sentence_cn": "我看到十六只鸟。",
+    "inflection": "无"
+  },
+  {
+    "english": "seventeen",
+    "chinese": "十七",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌsevnˈtiːn/",
+    "uk_phonetic": "/ˌsevnˈtiːn/",
+    "example_sentence_en": "He has seventeen books.",
+    "example_sentence_cn": "他有十七本书。",
+    "inflection": "无"
+  },
+  {
+    "english": "eighteen",
+    "chinese": "十八",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌeɪˈtiːn/",
+    "uk_phonetic": "/ˌeɪˈtiːn/",
+    "example_sentence_en": "Eighteen is a number.",
+    "example_sentence_cn": "十八是一个数字。",
+    "inflection": "无"
+  },
+  {
+    "english": "nineteen",
+    "chinese": "十九",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˌnaɪnˈtiːn/",
+    "uk_phonetic": "/ˌnaɪnˈtiːn/",
+    "example_sentence_en": "There are nineteen apples.",
+    "example_sentence_cn": "有十九个苹果。",
+    "inflection": "无"
+  },
+  {
+    "english": "twenty",
+    "chinese": "二十",
+    "part_of_speech": "num.",
+    "us_phonetic": "/ˈtwenti/",
+    "uk_phonetic": "/ˈtwenti/",
+    "example_sentence_en": "I have twenty fingers and toes.",
+    "example_sentence_cn": "我有二十根手指和脚趾。",
+    "inflection": "无"
+  }
+]

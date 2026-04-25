@@ -1,0 +1,452 @@
+[
+  {
+    "english": "taller",
+    "chinese": "更高的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtɔːlər/",
+    "uk_phonetic": "/ˈtɔːlə(r)/",
+    "example_sentence_en": "I am taller than you.",
+    "example_sentence_cn": "我比你更高。",
+    "inflection": "原级: tall | 最高级: tallest"
+  },
+  {
+    "english": "shorter",
+    "chinese": "更矮的；更短的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈʃɔːrtər/",
+    "uk_phonetic": "/ˈʃɔːtə(r)/",
+    "example_sentence_en": "My pencil is shorter than yours.",
+    "example_sentence_cn": "我的铅笔比你的更短。",
+    "inflection": "原级: short | 最高级: shortest"
+  },
+  {
+    "english": "longer",
+    "chinese": "更长的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈlɔːŋɡər/",
+    "uk_phonetic": "/ˈlɒŋɡə(r)/",
+    "example_sentence_en": "My hair is longer now.",
+    "example_sentence_cn": "我的头发现在更长了。",
+    "inflection": "原级: long | 最高级: longest"
+  },
+  {
+    "english": "bigger",
+    "chinese": "更大的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbɪɡər/",
+    "uk_phonetic": "/ˈbɪɡə(r)/",
+    "example_sentence_en": "The elephant is bigger than the lion.",
+    "example_sentence_cn": "大象比狮子更大。",
+    "inflection": "原级: big | 最高级: biggest"
+  },
+  {
+    "english": "smaller",
+    "chinese": "更小的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsmɔːlər/",
+    "uk_phonetic": "/ˈsmɔːlə(r)/",
+    "example_sentence_en": "My shoes are smaller.",
+    "example_sentence_cn": "我的鞋子更小了。",
+    "inflection": "原级: small | 最高级: smallest"
+  },
+  {
+    "english": "heavier",
+    "chinese": "更重的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈheviər/",
+    "uk_phonetic": "/ˈheviə(r)/",
+    "example_sentence_en": "The box is heavier than that one.",
+    "example_sentence_cn": "这个箱子比那个更重。",
+    "inflection": "原级: heavy | 最高级: heaviest"
+  },
+  {
+    "english": "faster",
+    "chinese": "更快的",
+    "part_of_speech": "adj. / adv.",
+    "us_phonetic": "/ˈfæstər/",
+    "uk_phonetic": "/ˈfɑːstə(r)/",
+    "example_sentence_en": "He runs faster than me.",
+    "example_sentence_cn": "他跑得比我更快。",
+    "inflection": "原级: fast | 最高级: fastest"
+  },
+  {
+    "english": "stronger",
+    "chinese": "更强壮的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈstrɔːŋɡər/",
+    "uk_phonetic": "/ˈstrɒŋɡə(r)/",
+    "example_sentence_en": "I am stronger than before.",
+    "example_sentence_cn": "我比以前更强壮了。",
+    "inflection": "原级: strong | 最高级: strongest"
+  },
+  {
+    "english": "better",
+    "chinese": "更好的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈbetər/",
+    "uk_phonetic": "/ˈbetə(r)/",
+    "example_sentence_en": "Your handwriting is better now.",
+    "example_sentence_cn": "你的书写现在更好了。",
+    "inflection": "原级: good | 最高级: best"
+  },
+  {
+    "english": "worse",
+    "chinese": "更差的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/wɜːrs/",
+    "uk_phonetic": "/wɜːs/",
+    "example_sentence_en": "The weather is worse today.",
+    "example_sentence_cn": "今天天气更差了。",
+    "inflection": "原级: bad | 最高级: worst"
+  },
+  {
+    "english": "was",
+    "chinese": "是（is/am的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wʌz/",
+    "uk_phonetic": "/wɒz/",
+    "example_sentence_en": "I was happy yesterday.",
+    "example_sentence_cn": "我昨天很开心。",
+    "inflection": "原形: is/am | 否定: was not"
+  },
+  {
+    "english": "were",
+    "chinese": "是（are的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɜːr/",
+    "uk_phonetic": "/wɜː(r)/",
+    "example_sentence_en": "We were in the park last Sunday.",
+    "example_sentence_cn": "我们上周日在公园里。",
+    "inflection": "原形: are | 否定: were not"
+  },
+  {
+    "english": "went",
+    "chinese": "去（go的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/went/",
+    "uk_phonetic": "/went/",
+    "example_sentence_en": "I went to school early this morning.",
+    "example_sentence_cn": "我今天早上很早去了学校。",
+    "inflection": "原形: go | 现在分词: going"
+  },
+  {
+    "english": "ate",
+    "chinese": "吃（eat的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/eɪt/",
+    "uk_phonetic": "/et/",
+    "example_sentence_en": "I ate an apple yesterday.",
+    "example_sentence_cn": "我昨天吃了一个苹果。",
+    "inflection": "原形: eat | 现在分词: eating"
+  },
+  {
+    "english": "drank",
+    "chinese": "喝（drink的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dræŋk/",
+    "uk_phonetic": "/dræŋk/",
+    "example_sentence_en": "She drank some milk just now.",
+    "example_sentence_cn": "她刚才喝了一些牛奶。",
+    "inflection": "原形: drink | 现在分词: drinking"
+  },
+  {
+    "english": "saw",
+    "chinese": "看见（see的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sɔː/",
+    "uk_phonetic": "/sɔː/",
+    "example_sentence_en": "I saw a beautiful bird yesterday.",
+    "example_sentence_cn": "我昨天看见了一只美丽的鸟。",
+    "inflection": "原形: see | 现在分词: seeing"
+  },
+  {
+    "english": "took",
+    "chinese": "拿；乘坐（take的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tʊk/",
+    "uk_phonetic": "/tʊk/",
+    "example_sentence_en": "He took a bus to the zoo.",
+    "example_sentence_cn": "他乘公交车去了动物园。",
+    "inflection": "原形: take | 现在分词: taking"
+  },
+  {
+    "english": "bought",
+    "chinese": "买（buy的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɔːt/",
+    "uk_phonetic": "/bɔːt/",
+    "example_sentence_en": "I bought a gift for my friend.",
+    "example_sentence_cn": "我给朋友买了一份礼物。",
+    "inflection": "原形: buy | 现在分词: buying"
+  },
+  {
+    "english": "came",
+    "chinese": "来（come的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/keɪm/",
+    "uk_phonetic": "/keɪm/",
+    "example_sentence_en": "She came to my house last night.",
+    "example_sentence_cn": "她昨晚来到了我家。",
+    "inflection": "原形: come | 现在分词: coming"
+  },
+  {
+    "english": "did",
+    "chinese": "做（do的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪd/",
+    "uk_phonetic": "/dɪd/",
+    "example_sentence_en": "I did my homework after dinner.",
+    "example_sentence_cn": "我在晚饭后做了作业。",
+    "inflection": "原形: do | 否定: did not"
+  },
+  {
+    "english": "had",
+    "chinese": "有；吃（have的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hæd/",
+    "uk_phonetic": "/hæd/",
+    "example_sentence_en": "We had a good time last weekend.",
+    "example_sentence_cn": "我们上周末玩得很开心。",
+    "inflection": "原形: have | 现在分词: having"
+  },
+  {
+    "english": "made",
+    "chinese": "制作（make的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/meɪd/",
+    "uk_phonetic": "/meɪd/",
+    "example_sentence_en": "He made a cake for the party.",
+    "example_sentence_cn": "他为聚会做了一个蛋糕。",
+    "inflection": "原形: make | 现在分词: making"
+  },
+  {
+    "english": "got",
+    "chinese": "得到（get的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡɑːt/",
+    "uk_phonetic": "/ɡɒt/",
+    "example_sentence_en": "I got a present this morning.",
+    "example_sentence_cn": "我今天早上得到了一个礼物。",
+    "inflection": "原形: get | 现在分词: getting"
+  },
+  {
+    "english": "said",
+    "chinese": "说（say的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sed/",
+    "uk_phonetic": "/sed/",
+    "example_sentence_en": "She said goodbye to me.",
+    "example_sentence_cn": "她对我说了再见。",
+    "inflection": "原形: say | 现在分词: saying"
+  },
+  {
+    "english": "ran",
+    "chinese": "跑（run的过去式）",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ræn/",
+    "uk_phonetic": "/ræn/",
+    "example_sentence_en": "The dog ran fast yesterday.",
+    "example_sentence_cn": "那只狗昨天跑得很快。",
+    "inflection": "原形: run | 现在分词: running"
+  },
+  {
+    "english": "yesterday",
+    "chinese": "昨天",
+    "part_of_speech": "n. / adv.",
+    "us_phonetic": "/ˈjestərdeɪ/",
+    "uk_phonetic": "/ˈjestədeɪ/",
+    "example_sentence_en": "I played football yesterday.",
+    "example_sentence_cn": "我昨天踢了足球。",
+    "inflection": "复数: yesterdays"
+  },
+  {
+    "english": "last",
+    "chinese": "上一个的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/læst/",
+    "uk_phonetic": "/lɑːst/",
+    "example_sentence_en": "We had a picnic last weekend.",
+    "example_sentence_cn": "我们上周末去野餐了。",
+    "inflection": "无"
+  },
+  {
+    "english": "ago",
+    "chinese": "以前",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/əˈɡoʊ/",
+    "uk_phonetic": "/əˈɡəʊ/",
+    "example_sentence_en": "I saw him two days ago.",
+    "example_sentence_cn": "我两天前看见他了。",
+    "inflection": "无"
+  },
+  {
+    "english": "graduate",
+    "chinese": "毕业",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɡrædʒueɪt/",
+    "uk_phonetic": "/ˈɡrædʒueɪt/",
+    "example_sentence_en": "We will graduate soon.",
+    "example_sentence_cn": "我们很快就要毕业了。",
+    "inflection": "动词变化: graduates / graduated / graduating"
+  },
+  {
+    "english": "graduation",
+    "chinese": "毕业",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɡrædʒuˈeɪʃn/",
+    "uk_phonetic": "/ˌɡrædʒuˈeɪʃn/",
+    "example_sentence_en": "Our graduation is in June.",
+    "example_sentence_cn": "我们的毕业典礼在六月。",
+    "inflection": "复数: graduations"
+  },
+  {
+    "english": "memory",
+    "chinese": "记忆；回忆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmeməri/",
+    "uk_phonetic": "/ˈmeməri/",
+    "example_sentence_en": "We have many good memories.",
+    "example_sentence_cn": "我们有很多美好的回忆。",
+    "inflection": "复数: memories"
+  },
+  {
+    "english": "remember",
+    "chinese": "记住；回想起",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈmembər/",
+    "uk_phonetic": "/rɪˈmembə(r)/",
+    "example_sentence_en": "I will remember you forever.",
+    "example_sentence_cn": "我会永远记住你们。",
+    "inflection": "动词变化: remembers / remembered / remembering"
+  },
+  {
+    "english": "miss",
+    "chinese": "想念",
+    "part_of_speech": "v.",
+    "us_phonetic": "/mɪs/",
+    "uk_phonetic": "/mɪs/",
+    "example_sentence_en": "I will miss my teachers.",
+    "example_sentence_cn": "我会想念我的老师们的。",
+    "inflection": "动词变化: misses / missed / missing"
+  },
+  {
+    "english": "farewell",
+    "chinese": "告别；欢送会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌferˈwel/",
+    "uk_phonetic": "/ˌfeəˈwel/",
+    "example_sentence_en": "Let's say farewell to each other.",
+    "example_sentence_cn": "让我们互相告别吧。",
+    "inflection": "复数: farewells"
+  },
+  {
+    "english": "future",
+    "chinese": "未来",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfjuːtʃər/",
+    "uk_phonetic": "/ˈfjuːtʃə(r)/",
+    "example_sentence_en": "Wish you a bright future.",
+    "example_sentence_cn": "祝你有一个光明的未来。",
+    "inflection": "复数: futures"
+  },
+  {
+    "english": "wish",
+    "chinese": "祝愿",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/wɪʃ/",
+    "uk_phonetic": "/wɪʃ/",
+    "example_sentence_en": "I wish you happiness.",
+    "example_sentence_cn": "我祝愿你快乐。",
+    "inflection": "动词变化: wishes / wished / wishing; 复数: wishes"
+  },
+  {
+    "english": "hope",
+    "chinese": "希望",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/hoʊp/",
+    "uk_phonetic": "/həʊp/",
+    "example_sentence_en": "I hope to see you again.",
+    "example_sentence_cn": "我希望能再次见到你。",
+    "inflection": "动词变化: hopes / hoped / hoping; 复数: hopes"
+  },
+  {
+    "english": "dream",
+    "chinese": "梦想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/driːm/",
+    "uk_phonetic": "/driːm/",
+    "example_sentence_en": "Follow your dream.",
+    "example_sentence_cn": "追随你的梦想。",
+    "inflection": "复数: dreams; 动词变化: dreams / dreamed / dreaming"
+  },
+  {
+    "english": "primary",
+    "chinese": "初等的；小学的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈpraɪmeri/",
+    "uk_phonetic": "/ˈpraɪməri/",
+    "example_sentence_en": "I am in primary school.",
+    "example_sentence_cn": "我在上小学。",
+    "inflection": "无"
+  },
+  {
+    "english": "middle school",
+    "chinese": "中学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɪdl skuːl/",
+    "uk_phonetic": "/ˈmɪdl skuːl/",
+    "example_sentence_en": "I will go to middle school next year.",
+    "example_sentence_cn": "我明年要去上中学了。",
+    "inflection": "复数: middle schools"
+  },
+  {
+    "english": "change",
+    "chinese": "改变",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/tʃeɪndʒ/",
+    "uk_phonetic": "/tʃeɪndʒ/",
+    "example_sentence_en": "You have changed a lot.",
+    "example_sentence_cn": "你变了很多。",
+    "inflection": "动词变化: changes / changed / changing; 复数: changes"
+  },
+  {
+    "english": "grow",
+    "chinese": "成长；生长",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡroʊ/",
+    "uk_phonetic": "/ɡrəʊ/",
+    "example_sentence_en": "We grow together every day.",
+    "example_sentence_cn": "我们每天都在一起成长。",
+    "inflection": "动词变化: grows / grew / growing"
+  },
+  {
+    "english": "leave",
+    "chinese": "离开",
+    "part_of_speech": "v.",
+    "us_phonetic": "/liːv/",
+    "uk_phonetic": "/liːv/",
+    "example_sentence_en": "We will leave our school soon.",
+    "example_sentence_cn": "我们很快就要离开学校了。",
+    "inflection": "动词变化: leaves / left / leaving"
+  },
+  {
+    "english": "proud",
+    "chinese": "自豪的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/praʊd/",
+    "uk_phonetic": "/praʊd/",
+    "example_sentence_en": "I am proud of our class.",
+    "example_sentence_cn": "我为我们的班级感到自豪。",
+    "inflection": "比较级: prouder | 最高级: proudest"
+  },
+  {
+    "english": "thankful",
+    "chinese": "感恩的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈθæŋkfl/",
+    "uk_phonetic": "/ˈθæŋkfl/",
+    "example_sentence_en": "I am thankful for your help.",
+    "example_sentence_cn": "我感谢你的帮助。",
+    "inflection": "比较级: more thankful | 最高级: most thankful"
+  }
+]

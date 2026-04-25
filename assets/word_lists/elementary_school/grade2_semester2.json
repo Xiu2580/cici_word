@@ -1,0 +1,372 @@
+[
+  {
+    "english": "shirt",
+    "chinese": "衬衫",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɜːrt/",
+    "uk_phonetic": "/ʃɜːt/",
+    "example_sentence_en": "I like this white shirt.",
+    "example_sentence_cn": "我喜欢这件白衬衫。",
+    "inflection": "复数: shirts"
+  },
+  {
+    "english": "T-shirt",
+    "chinese": "T恤衫",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːʃɜːrt/",
+    "uk_phonetic": "/ˈtiːʃɜːt/",
+    "example_sentence_en": "He is wearing a red T-shirt.",
+    "example_sentence_cn": "他穿着一件红色的T恤。",
+    "inflection": "复数: T-shirts"
+  },
+  {
+    "english": "skirt",
+    "chinese": "短裙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/skɜːrt/",
+    "uk_phonetic": "/skɜːt/",
+    "example_sentence_en": "She has a pink skirt.",
+    "example_sentence_cn": "她有一条粉色的短裙。",
+    "inflection": "复数: skirts"
+  },
+  {
+    "english": "dress",
+    "chinese": "连衣裙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dres/",
+    "uk_phonetic": "/dres/",
+    "example_sentence_en": "This is a beautiful dress.",
+    "example_sentence_cn": "这是一条漂亮的连衣裙。",
+    "inflection": "复数: dresses"
+  },
+  {
+    "english": "pants",
+    "chinese": "长裤",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pænts/",
+    "uk_phonetic": "/pænts/",
+    "example_sentence_en": "I need new pants.",
+    "example_sentence_cn": "我需要新长裤。",
+    "inflection": "复数: pants（成对名词，通常用复数）"
+  },
+  {
+    "english": "shorts",
+    "chinese": "短裤",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɔːrts/",
+    "uk_phonetic": "/ʃɔːts/",
+    "example_sentence_en": "Put on your shorts.",
+    "example_sentence_cn": "穿上你的短裤。",
+    "inflection": "复数: shorts（成对名词，通常用复数）"
+  },
+  {
+    "english": "coat",
+    "chinese": "外套",
+    "part_of_speech": "n.",
+    "us_phonetic": "/koʊt/",
+    "uk_phonetic": "/kəʊt/",
+    "example_sentence_en": "It is a warm coat.",
+    "example_sentence_cn": "这是一件暖和的外套。",
+    "inflection": "复数: coats"
+  },
+  {
+    "english": "jacket",
+    "chinese": "夹克衫",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒækɪt/",
+    "uk_phonetic": "/ˈdʒækɪt/",
+    "example_sentence_en": "Where is my jacket?",
+    "example_sentence_cn": "我的夹克衫在哪里？",
+    "inflection": "复数: jackets"
+  },
+  {
+    "english": "sweater",
+    "chinese": "毛衣",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈswetər/",
+    "uk_phonetic": "/ˈswetə(r)/",
+    "example_sentence_en": "I like my blue sweater.",
+    "example_sentence_cn": "我喜欢我的蓝毛衣。",
+    "inflection": "复数: sweaters"
+  },
+  {
+    "english": "hat",
+    "chinese": "帽子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hæt/",
+    "uk_phonetic": "/hæt/",
+    "example_sentence_en": "The hat is on the bed.",
+    "example_sentence_cn": "帽子在床上。",
+    "inflection": "复数: hats"
+  },
+  {
+    "english": "cap",
+    "chinese": "鸭舌帽",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kæp/",
+    "uk_phonetic": "/kæp/",
+    "example_sentence_en": "He wears a black cap.",
+    "example_sentence_cn": "他戴着一顶黑色的鸭舌帽。",
+    "inflection": "复数: caps"
+  },
+  {
+    "english": "shoe",
+    "chinese": "鞋子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃuː/",
+    "uk_phonetic": "/ʃuː/",
+    "example_sentence_en": "My shoe is dirty.",
+    "example_sentence_cn": "我的鞋子脏了。",
+    "inflection": "复数: shoes"
+  },
+  {
+    "english": "sock",
+    "chinese": "袜子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sɑːk/",
+    "uk_phonetic": "/sɒk/",
+    "example_sentence_en": "I can't find my sock.",
+    "example_sentence_cn": "我找不到我的袜子了。",
+    "inflection": "复数: socks"
+  },
+  {
+    "english": "weather",
+    "chinese": "天气",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈweðər/",
+    "uk_phonetic": "/ˈweðə(r)/",
+    "example_sentence_en": "How is the weather today?",
+    "example_sentence_cn": "今天天气怎么样？",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "sunny",
+    "chinese": "晴朗的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsʌni/",
+    "uk_phonetic": "/ˈsʌni/",
+    "example_sentence_en": "It is sunny today.",
+    "example_sentence_cn": "今天是晴天。",
+    "inflection": "比较级: sunnier | 最高级: sunniest"
+  },
+  {
+    "english": "cloudy",
+    "chinese": "多云的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈklaʊdi/",
+    "uk_phonetic": "/ˈklaʊdi/",
+    "example_sentence_en": "It is a cloudy day.",
+    "example_sentence_cn": "今天是个阴天。",
+    "inflection": "比较级: cloudier | 最高级: cloudiest"
+  },
+  {
+    "english": "rainy",
+    "chinese": "下雨的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈreɪni/",
+    "uk_phonetic": "/ˈreɪni/",
+    "example_sentence_en": "Take an umbrella on a rainy day.",
+    "example_sentence_cn": "下雨天带把伞。",
+    "inflection": "比较级: rainier | 最高级: rainiest"
+  },
+  {
+    "english": "windy",
+    "chinese": "刮风的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈwɪndi/",
+    "uk_phonetic": "/ˈwɪndi/",
+    "example_sentence_en": "It is very windy outside.",
+    "example_sentence_cn": "外面风很大。",
+    "inflection": "比较级: windier | 最高级: windiest"
+  },
+  {
+    "english": "snowy",
+    "chinese": "下雪的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsnoʊi/",
+    "uk_phonetic": "/ˈsnəʊi/",
+    "example_sentence_en": "It is a snowy day.",
+    "example_sentence_cn": "今天下雪了。",
+    "inflection": "比较级: snowier | 最高级: snowiest"
+  },
+  {
+    "english": "warm",
+    "chinese": "温暖的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/wɔːrm/",
+    "uk_phonetic": "/wɔːm/",
+    "example_sentence_en": "Spring is warm.",
+    "example_sentence_cn": "春天是温暖的。",
+    "inflection": "比较级: warmer | 最高级: warmest"
+  },
+  {
+    "english": "hot",
+    "chinese": "热的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/hɑːt/",
+    "uk_phonetic": "/hɒt/",
+    "example_sentence_en": "Summer is very hot.",
+    "example_sentence_cn": "夏天非常热。",
+    "inflection": "比较级: hotter | 最高级: hottest"
+  },
+  {
+    "english": "cold",
+    "chinese": "寒冷的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/koʊld/",
+    "uk_phonetic": "/kəʊld/",
+    "example_sentence_en": "Winter is cold.",
+    "example_sentence_cn": "冬天是寒冷的。",
+    "inflection": "比较级: colder | 最高级: coldest"
+  },
+  {
+    "english": "cool",
+    "chinese": "凉爽的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kuːl/",
+    "uk_phonetic": "/kuːl/",
+    "example_sentence_en": "Autumn is cool.",
+    "example_sentence_cn": "秋天是凉爽的。",
+    "inflection": "比较级: cooler | 最高级: coolest"
+  },
+  {
+    "english": "rain",
+    "chinese": "雨；下雨",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/reɪn/",
+    "uk_phonetic": "/reɪn/",
+    "example_sentence_en": "The rain is heavy.",
+    "example_sentence_cn": "雨很大。",
+    "inflection": "动词变化: rains / rained / raining; 名词: 不可数"
+  },
+  {
+    "english": "snow",
+    "chinese": "雪；下雪",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/snoʊ/",
+    "uk_phonetic": "/snəʊ/",
+    "example_sentence_en": "The snow is white.",
+    "example_sentence_cn": "雪是白色的。",
+    "inflection": "动词变化: snows / snowed / snowing; 名词: 不可数"
+  },
+  {
+    "english": "in",
+    "chinese": "在……里面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɪn/",
+    "uk_phonetic": "/ɪn/",
+    "example_sentence_en": "The cat is in the box.",
+    "example_sentence_cn": "猫在盒子里。",
+    "inflection": "无"
+  },
+  {
+    "english": "on",
+    "chinese": "在……上面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɑːn/",
+    "uk_phonetic": "/ɒn/",
+    "example_sentence_en": "The book is on the desk.",
+    "example_sentence_cn": "书在桌子上。",
+    "inflection": "无"
+  },
+  {
+    "english": "under",
+    "chinese": "在……下面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ˈʌndər/",
+    "uk_phonetic": "/ˈʌndə(r)/",
+    "example_sentence_en": "The ball is under the chair.",
+    "example_sentence_cn": "球在椅子下面。",
+    "inflection": "无"
+  },
+  {
+    "english": "behind",
+    "chinese": "在……后面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈhaɪnd/",
+    "uk_phonetic": "/bɪˈhaɪnd/",
+    "example_sentence_en": "He is behind the tree.",
+    "example_sentence_cn": "他在树后面。",
+    "inflection": "无"
+  },
+  {
+    "english": "next to",
+    "chinese": "在……旁边",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ˈnekst tuː/",
+    "uk_phonetic": "/ˈnekst tuː/",
+    "example_sentence_en": "She is next to me.",
+    "example_sentence_cn": "她在我旁边。",
+    "inflection": "无"
+  },
+  {
+    "english": "in front of",
+    "chinese": "在……前面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ɪn frʌnt əv/",
+    "uk_phonetic": "/ɪn frʌnt əv/",
+    "example_sentence_en": "The car is in front of the house.",
+    "example_sentence_cn": "汽车在房子前面。",
+    "inflection": "无"
+  },
+  {
+    "english": "up",
+    "chinese": "向上",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ʌp/",
+    "uk_phonetic": "/ʌp/",
+    "example_sentence_en": "Look up at the sky.",
+    "example_sentence_cn": "抬头看天空。",
+    "inflection": "无"
+  },
+  {
+    "english": "down",
+    "chinese": "向下",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/daʊn/",
+    "uk_phonetic": "/daʊn/",
+    "example_sentence_en": "Sit down, please.",
+    "example_sentence_cn": "请坐下。",
+    "inflection": "无"
+  },
+  {
+    "english": "left",
+    "chinese": "左边",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/left/",
+    "uk_phonetic": "/left/",
+    "example_sentence_en": "Turn left, please.",
+    "example_sentence_cn": "请向左转。",
+    "inflection": "无"
+  },
+  {
+    "english": "right",
+    "chinese": "右边",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/raɪt/",
+    "uk_phonetic": "/raɪt/",
+    "example_sentence_en": "Turn right, please.",
+    "example_sentence_cn": "请向右转。",
+    "inflection": "无"
+  },
+  {
+    "english": "here",
+    "chinese": "这里",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/hɪr/",
+    "uk_phonetic": "/hɪə(r)/",
+    "example_sentence_en": "Come here, please.",
+    "example_sentence_cn": "请过来这里。",
+    "inflection": "无"
+  },
+  {
+    "english": "there",
+    "chinese": "那里",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ðer/",
+    "uk_phonetic": "/ðeə(r)/",
+    "example_sentence_en": "Put the book there.",
+    "example_sentence_cn": "把书放在那里。",
+    "inflection": "无"
+  }
+]

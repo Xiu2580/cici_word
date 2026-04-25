@@ -1,0 +1,1892 @@
+[
+  {
+    "english": "society",
+    "chinese": "社会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səˈsaɪəti/",
+    "uk_phonetic": "/səˈsaɪəti/",
+    "example_sentence_en": "We all have a responsibility to contribute to society.",
+    "example_sentence_cn": "我们都有责任为社会做出贡献。",
+    "inflection": "复数: societies"
+  },
+  {
+    "english": "social",
+    "chinese": "社会的；社交的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsoʊʃl/",
+    "uk_phonetic": "/ˈsəʊʃl/",
+    "example_sentence_en": "Social media has a huge impact on young people.",
+    "example_sentence_cn": "社交媒体对年轻人有巨大的影响。",
+    "inflection": "无"
+  },
+  {
+    "english": "inequality",
+    "chinese": "不平等；不均等",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪnɪˈkwɑːləti/",
+    "uk_phonetic": "/ˌɪnɪˈkwɒləti/",
+    "example_sentence_en": "Economic inequality remains a major challenge worldwide.",
+    "example_sentence_cn": "经济不平等仍然是全球面临的重大挑战。",
+    "inflection": "复数: inequalities"
+  },
+  {
+    "english": "poverty",
+    "chinese": "贫困；贫穷",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɑːvərti/",
+    "uk_phonetic": "/ˈpɒvəti/",
+    "example_sentence_en": "Many organizations work to reduce poverty around the world.",
+    "example_sentence_cn": "许多组织致力于减少世界各地的贫困。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "welfare",
+    "chinese": "福利；幸福",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwelfer/",
+    "uk_phonetic": "/ˈwelfeə(r)/",
+    "example_sentence_en": "The government is responsible for the welfare of its citizens.",
+    "example_sentence_cn": "政府对公民的福利负有责任。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "justice",
+    "chinese": "正义；公正",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒʌstɪs/",
+    "uk_phonetic": "/ˈdʒʌstɪs/",
+    "example_sentence_en": "They fought for justice and equality.",
+    "example_sentence_cn": "他们为正义和平等而战。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "equality",
+    "chinese": "平等；均等",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈkwɑːləti/",
+    "uk_phonetic": "/ɪˈkwɒləti/",
+    "example_sentence_en": "Gender equality is an important issue in modern society.",
+    "example_sentence_cn": "性别平等是现代社会的重要议题。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "discrimination",
+    "chinese": "歧视；区分",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+    "uk_phonetic": "/dɪˌskrɪmɪˈneɪʃn/",
+    "example_sentence_en": "Racial discrimination should never be tolerated.",
+    "example_sentence_cn": "种族歧视绝对不能被容忍。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "prejudice",
+    "chinese": "偏见；歧视",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpredʒudɪs/",
+    "uk_phonetic": "/ˈpredʒudɪs/",
+    "example_sentence_en": "We must overcome prejudice to build a fairer society.",
+    "example_sentence_cn": "我们必须克服偏见，建立一个更公平的社会。",
+    "inflection": "复数: prejudices"
+  },
+  {
+    "english": "community",
+    "chinese": "社区；团体",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈmjuːnəti/",
+    "uk_phonetic": "/kəˈmjuːnəti/",
+    "example_sentence_en": "Volunteering is a great way to give back to the community.",
+    "example_sentence_cn": "做志愿者是回报社区的好方法。",
+    "inflection": "复数: communities"
+  },
+  {
+    "english": "urban",
+    "chinese": "城市的；都市的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɜːrbən/",
+    "uk_phonetic": "/ˈɜːbən/",
+    "example_sentence_en": "Urban areas tend to have more job opportunities.",
+    "example_sentence_cn": "城市地区往往有更多的就业机会。",
+    "inflection": "无"
+  },
+  {
+    "english": "rural",
+    "chinese": "农村的；乡村的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈrʊrəl/",
+    "uk_phonetic": "/ˈrʊərəl/",
+    "example_sentence_en": "Children in rural areas sometimes lack access to good education.",
+    "example_sentence_cn": "农村地区的孩子有时缺乏接受良好教育的机会。",
+    "inflection": "无"
+  },
+  {
+    "english": "population",
+    "chinese": "人口；居民",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpɑːpjuˈleɪʃn/",
+    "uk_phonetic": "/ˌpɒpjuˈleɪʃn/",
+    "example_sentence_en": "China has the largest population in the world.",
+    "example_sentence_cn": "中国拥有世界上最多的人口。",
+    "inflection": "复数: populations"
+  },
+  {
+    "english": "government",
+    "chinese": "政府；政治",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡʌvərnmənt/",
+    "uk_phonetic": "/ˈɡʌvənmənt/",
+    "example_sentence_en": "The government introduced new policies to reduce pollution.",
+    "example_sentence_cn": "政府出台了新政策以减少污染。",
+    "inflection": "复数: governments"
+  },
+  {
+    "english": "democracy",
+    "chinese": "民主；民主政治",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈmɑːkrəsi/",
+    "uk_phonetic": "/dɪˈmɒkrəsi/",
+    "example_sentence_en": "Democracy gives citizens the right to vote.",
+    "example_sentence_cn": "民主赋予公民投票权。",
+    "inflection": "复数: democracies"
+  },
+  {
+    "english": "policy",
+    "chinese": "政策；方针",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɑːləsi/",
+    "uk_phonetic": "/ˈpɒləsi/",
+    "example_sentence_en": "The school has a strict policy against bullying.",
+    "example_sentence_cn": "学校有严格的反欺凌政策。",
+    "inflection": "复数: policies"
+  },
+  {
+    "english": "reform",
+    "chinese": "改革；改良",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/rɪˈfɔːrm/",
+    "uk_phonetic": "/rɪˈfɔːm/",
+    "example_sentence_en": "The country underwent major economic reforms.",
+    "example_sentence_cn": "该国经历了重大的经济改革。",
+    "inflection": "动词变化: reforms / reformed / reforming; 复数: reforms"
+  },
+  {
+    "english": "revolution",
+    "chinese": "革命；巨变",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌrevəˈluːʃn/",
+    "uk_phonetic": "/ˌrevəˈluːʃn/",
+    "example_sentence_en": "The Industrial Revolution changed the world forever.",
+    "example_sentence_cn": "工业革命永远改变了世界。",
+    "inflection": "复数: revolutions"
+  },
+  {
+    "english": "conflict",
+    "chinese": "冲突；矛盾",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈkɑːnflɪkt/",
+    "uk_phonetic": "/ˈkɒnflɪkt/",
+    "example_sentence_en": "The conflict between the two countries lasted for years.",
+    "example_sentence_cn": "两国之间的冲突持续了多年。",
+    "inflection": "动词变化: conflicts / conflicted / conflicting; 复数: conflicts"
+  },
+  {
+    "english": "resolution",
+    "chinese": "决心；解决；决议",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌrezəˈluːʃn/",
+    "uk_phonetic": "/ˌrezəˈluːʃn/",
+    "example_sentence_en": "Peaceful resolution of conflicts is always preferable.",
+    "example_sentence_cn": "和平解决冲突总是更可取的。",
+    "inflection": "复数: resolutions"
+  },
+  {
+    "english": "poverty",
+    "chinese": "贫困；匮乏",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɑːvərti/",
+    "uk_phonetic": "/ˈpɒvəti/",
+    "example_sentence_en": "Education is the key to escaping poverty.",
+    "example_sentence_cn": "教育是摆脱贫困的关键。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "opportunity",
+    "chinese": "机会；时机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːpərˈtuːnəti/",
+    "uk_phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example_sentence_en": "Everyone deserves an equal opportunity to succeed.",
+    "example_sentence_cn": "每个人都应该有平等的成功机会。",
+    "inflection": "复数: opportunities"
+  },
+  {
+    "english": "issue",
+    "chinese": "问题；议题",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪʃuː/",
+    "uk_phonetic": "/ˈɪʃuː/",
+    "example_sentence_en": "Climate change is one of the most pressing issues of our time.",
+    "example_sentence_cn": "气候变化是我们这个时代最紧迫的问题之一。",
+    "inflection": "复数: issues"
+  },
+  {
+    "english": "crisis",
+    "chinese": "危机；紧要关头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkraɪsɪs/",
+    "uk_phonetic": "/ˈkraɪsɪs/",
+    "example_sentence_en": "The world is facing a climate crisis.",
+    "example_sentence_cn": "世界正面临气候危机。",
+    "inflection": "复数: crises"
+  },
+  {
+    "english": "awareness",
+    "chinese": "意识；知晓",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈwernəs/",
+    "uk_phonetic": "/əˈweənəs/",
+    "example_sentence_en": "We need to raise public awareness about environmental issues.",
+    "example_sentence_cn": "我们需要提高公众对环境问题的意识。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "attitude",
+    "chinese": "态度；看法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈætɪtuːd/",
+    "uk_phonetic": "/ˈætɪtjuːd/",
+    "example_sentence_en": "Your attitude determines your altitude.",
+    "example_sentence_cn": "你的态度决定你的高度。",
+    "inflection": "复数: attitudes"
+  },
+  {
+    "english": "perspective",
+    "chinese": "观点；视角",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈspektɪv/",
+    "uk_phonetic": "/pəˈspektɪv/",
+    "example_sentence_en": "Try to look at the problem from a different perspective.",
+    "example_sentence_cn": "试着从不同角度看这个问题。",
+    "inflection": "复数: perspectives"
+  },
+  {
+    "english": "globalization",
+    "chinese": "全球化",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɡloʊbələˈzeɪʃn/",
+    "uk_phonetic": "/ˌɡləʊbəlaɪˈzeɪʃn/",
+    "example_sentence_en": "Globalization has connected people across the world.",
+    "example_sentence_cn": "全球化将世界各地的人们联系在一起。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "migration",
+    "chinese": "移民；迁徙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/maɪˈɡreɪʃn/",
+    "uk_phonetic": "/maɪˈɡreɪʃn/",
+    "example_sentence_en": "Migration has always been part of human history.",
+    "example_sentence_cn": "迁徙一直是人类历史的一部分。",
+    "inflection": "复数: migrations"
+  },
+  {
+    "english": "integration",
+    "chinese": "融合；整合",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪntɪˈɡreɪʃn/",
+    "uk_phonetic": "/ˌɪntɪˈɡreɪʃn/",
+    "example_sentence_en": "Social integration requires effort from all members.",
+    "example_sentence_cn": "社会融合需要所有成员的努力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "impact",
+    "chinese": "影响；冲击",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈɪmpækt/",
+    "uk_phonetic": "/ˈɪmpækt/",
+    "example_sentence_en": "Technology has had a huge impact on daily life.",
+    "example_sentence_cn": "技术对日常生活产生了巨大影响。",
+    "inflection": "动词变化: impacts / impacted / impacting; 复数: impacts"
+  },
+  {
+    "english": "consequence",
+    "chinese": "后果；结果",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnsɪkwəns/",
+    "uk_phonetic": "/ˈkɒnsɪkwəns/",
+    "example_sentence_en": "We must think about the consequences of our actions.",
+    "example_sentence_cn": "我们必须思考我们行动的后果。",
+    "inflection": "复数: consequences"
+  },
+  {
+    "english": "contribution",
+    "chinese": "贡献；捐献",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːntrɪˈbjuːʃn/",
+    "uk_phonetic": "/ˌkɒntrɪˈbjuːʃn/",
+    "example_sentence_en": "Her contribution to the research was invaluable.",
+    "example_sentence_cn": "她对这项研究的贡献是无价的。",
+    "inflection": "复数: contributions"
+  },
+  {
+    "english": "volunteer",
+    "chinese": "志愿者；自愿",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˌvɑːlənˈtɪr/",
+    "uk_phonetic": "/ˌvɒlənˈtɪə(r)/",
+    "example_sentence_en": "Thousands of volunteers helped during the flood.",
+    "example_sentence_cn": "洪灾期间有数千名志愿者提供了帮助。",
+    "inflection": "动词变化: volunteers / volunteered / volunteering; 复数: volunteers"
+  },
+  {
+    "english": "charity",
+    "chinese": "慈善；慈善机构",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃærəti/",
+    "uk_phonetic": "/ˈtʃærəti/",
+    "example_sentence_en": "She donates regularly to several charities.",
+    "example_sentence_cn": "她定期向几个慈善机构捐款。",
+    "inflection": "复数: charities"
+  },
+  {
+    "english": "advocate",
+    "chinese": "倡导；拥护者",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈædvəkeɪt/",
+    "uk_phonetic": "/ˈædvəkeɪt/",
+    "example_sentence_en": "She advocates for the rights of women and children.",
+    "example_sentence_cn": "她倡导妇女和儿童的权利。",
+    "inflection": "动词变化: advocates / advocated / advocating; 复数: advocates"
+  },
+  {
+    "english": "media",
+    "chinese": "媒体；媒介",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmiːdiə/",
+    "uk_phonetic": "/ˈmiːdiə/",
+    "example_sentence_en": "The media plays a powerful role in shaping public opinion.",
+    "example_sentence_cn": "媒体在塑造公众舆论方面发挥着强大的作用。",
+    "inflection": "复数形式 (单数: medium)"
+  },
+  {
+    "english": "broadcast",
+    "chinese": "广播；播出",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈbrɔːdkæst/",
+    "uk_phonetic": "/ˈbrɔːdkɑːst/",
+    "example_sentence_en": "The game was broadcast live to millions of viewers.",
+    "example_sentence_cn": "这场比赛被直播给数百万观众。",
+    "inflection": "动词变化: broadcasts / broadcast / broadcasting; 复数: broadcasts"
+  },
+  {
+    "english": "propaganda",
+    "chinese": "宣传；宣传材料",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌprɑːpəˈɡændə/",
+    "uk_phonetic": "/ˌprɒpəˈɡændə/",
+    "example_sentence_en": "We should be able to identify propaganda and think critically.",
+    "example_sentence_cn": "我们应该能够识别宣传并进行批判性思考。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "stereotype",
+    "chinese": "刻板印象；老套",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsteriətaɪp/",
+    "uk_phonetic": "/ˈsteriəˌtaɪp/",
+    "example_sentence_en": "We should avoid making judgments based on stereotypes.",
+    "example_sentence_cn": "我们应该避免基于刻板印象作判断。",
+    "inflection": "复数: stereotypes"
+  },
+  {
+    "english": "norm",
+    "chinese": "规范；标准",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nɔːrm/",
+    "uk_phonetic": "/nɔːm/",
+    "example_sentence_en": "Social norms vary greatly between different cultures.",
+    "example_sentence_cn": "社会规范在不同文化之间差异很大。",
+    "inflection": "复数: norms"
+  },
+  {
+    "english": "taboo",
+    "chinese": "禁忌；忌讳",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/təˈbuː/",
+    "uk_phonetic": "/təˈbuː/",
+    "example_sentence_en": "This topic is considered taboo in some cultures.",
+    "example_sentence_cn": "这个话题在某些文化中被认为是禁忌。",
+    "inflection": "复数: taboos"
+  },
+  {
+    "english": "ethics",
+    "chinese": "伦理；道德准则",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈeθɪks/",
+    "uk_phonetic": "/ˈeθɪks/",
+    "example_sentence_en": "Medical ethics require doctors to put patients first.",
+    "example_sentence_cn": "医学伦理要求医生把病人放在首位。",
+    "inflection": "无"
+  },
+  {
+    "english": "moral",
+    "chinese": "道德的；道义的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmɔːrəl/",
+    "uk_phonetic": "/ˈmɒrəl/",
+    "example_sentence_en": "Telling the truth is a moral obligation.",
+    "example_sentence_cn": "说实话是一种道德义务。",
+    "inflection": "比较级: more moral | 最高级: most moral"
+  },
+  {
+    "english": "empathy",
+    "chinese": "同理心；共情",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈempəθi/",
+    "uk_phonetic": "/ˈempəθi/",
+    "example_sentence_en": "Empathy is the ability to understand others' feelings.",
+    "example_sentence_cn": "同理心是理解他人感受的能力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "compassion",
+    "chinese": "同情；怜悯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəmˈpæʃn/",
+    "uk_phonetic": "/kəmˈpæʃn/",
+    "example_sentence_en": "She showed great compassion for the homeless.",
+    "example_sentence_cn": "她对无家可归者表现出极大的同情。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "solidarity",
+    "chinese": "团结；连带关系",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌsɑːlɪˈdærəti/",
+    "uk_phonetic": "/ˌsɒlɪˈdærəti/",
+    "example_sentence_en": "International solidarity is needed to fight climate change.",
+    "example_sentence_cn": "需要国际团结来应对气候变化。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "dignity",
+    "chinese": "尊严；高贵",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪɡnəti/",
+    "uk_phonetic": "/ˈdɪɡnəti/",
+    "example_sentence_en": "Every human being deserves to be treated with dignity.",
+    "example_sentence_cn": "每个人都应该被有尊严地对待。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "privilege",
+    "chinese": "特权；荣幸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɪvəlɪdʒ/",
+    "uk_phonetic": "/ˈprɪvəlɪdʒ/",
+    "example_sentence_en": "Education is a privilege that not everyone has access to.",
+    "example_sentence_cn": "教育是并非每个人都能获得的特权。",
+    "inflection": "复数: privileges"
+  },
+  {
+    "english": "vulnerable",
+    "chinese": "脆弱的；易受伤害的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvʌlnərəbl/",
+    "uk_phonetic": "/ˈvʌlnərəbl/",
+    "example_sentence_en": "Children and the elderly are particularly vulnerable.",
+    "example_sentence_cn": "儿童和老年人特别容易受到伤害。",
+    "inflection": "无"
+  },
+  {
+    "english": "marginalize",
+    "chinese": "使边缘化",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈmɑːrdʒɪnəlaɪz/",
+    "uk_phonetic": "/ˈmɑːdʒɪnəlaɪz/",
+    "example_sentence_en": "Minority groups are often marginalized in society.",
+    "example_sentence_cn": "少数群体在社会中往往被边缘化。",
+    "inflection": "动词变化: marginalizes / marginalized / marginalizing"
+  },
+  {
+    "english": "mainstream",
+    "chinese": "主流；主流的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈmeɪnstriːm/",
+    "uk_phonetic": "/ˈmeɪnstriːm/",
+    "example_sentence_en": "She eventually became part of the mainstream art scene.",
+    "example_sentence_cn": "她最终成为了主流艺术界的一部分。",
+    "inflection": "无"
+  },
+  {
+    "english": "phenomenon",
+    "chinese": "现象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fɪˈnɑːmɪnɑːn/",
+    "uk_phonetic": "/fɪˈnɒmɪnən/",
+    "example_sentence_en": "Online shopping is a global phenomenon.",
+    "example_sentence_cn": "网上购物是一个全球现象。",
+    "inflection": "复数: phenomena"
+  },
+  {
+    "english": "hypothesis",
+    "chinese": "假说；假设",
+    "part_of_speech": "n.",
+    "us_phonetic": "/haɪˈpɑːθəsɪs/",
+    "uk_phonetic": "/haɪˈpɒθəsɪs/",
+    "example_sentence_en": "The scientist formed a hypothesis and tested it.",
+    "example_sentence_cn": "科学家提出了一个假说并进行了验证。",
+    "inflection": "复数: hypotheses"
+  },
+  {
+    "english": "experiment",
+    "chinese": "实验；试验",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ɪkˈsperɪmənt/",
+    "uk_phonetic": "/ɪkˈsperɪmənt/",
+    "example_sentence_en": "The experiment proved that the hypothesis was correct.",
+    "example_sentence_cn": "这个实验证明了假说是正确的。",
+    "inflection": "动词变化: experiments / experimented / experimenting; 复数: experiments"
+  },
+  {
+    "english": "observation",
+    "chinese": "观察；观测",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːbzərˈveɪʃn/",
+    "uk_phonetic": "/ˌɒbzəˈveɪʃn/",
+    "example_sentence_en": "Careful observation is the first step of scientific research.",
+    "example_sentence_cn": "仔细观察是科学研究的第一步。",
+    "inflection": "复数: observations"
+  },
+  {
+    "english": "data",
+    "chinese": "数据；资料",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdeɪtə/",
+    "uk_phonetic": "/ˈdeɪtə/",
+    "example_sentence_en": "The data collected supports our theory.",
+    "example_sentence_cn": "收集到的数据支持了我们的理论。",
+    "inflection": "复数形式 (单数: datum)"
+  },
+  {
+    "english": "analysis",
+    "chinese": "分析",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈnæləsɪs/",
+    "uk_phonetic": "/əˈnæləsɪs/",
+    "example_sentence_en": "The analysis of the results took several weeks.",
+    "example_sentence_cn": "对结果的分析花了几周时间。",
+    "inflection": "复数: analyses"
+  },
+  {
+    "english": "analyze",
+    "chinese": "分析；分解",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈænəlaɪz/",
+    "uk_phonetic": "/ˈænəlaɪz/",
+    "example_sentence_en": "We need to analyze the data carefully.",
+    "example_sentence_cn": "我们需要仔细分析数据。",
+    "inflection": "动词变化: analyzes / analyzed / analyzing"
+  },
+  {
+    "english": "conclusion",
+    "chinese": "结论；结尾",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kənˈkluːʒn/",
+    "uk_phonetic": "/kənˈkluːʒn/",
+    "example_sentence_en": "After the experiment, they drew a clear conclusion.",
+    "example_sentence_cn": "实验结束后，他们得出了一个清晰的结论。",
+    "inflection": "复数: conclusions"
+  },
+  {
+    "english": "research",
+    "chinese": "研究；调查",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈriːsɜːrtʃ/",
+    "uk_phonetic": "/rɪˈsɜːtʃ/",
+    "example_sentence_en": "Scientists are conducting research on cancer treatments.",
+    "example_sentence_cn": "科学家正在对癌症治疗方法进行研究。",
+    "inflection": "动词变化: researches / researched / researching"
+  },
+  {
+    "english": "laboratory",
+    "chinese": "实验室",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlæbrətɔːri/",
+    "uk_phonetic": "/ləˈbɒrətri/",
+    "example_sentence_en": "The scientists worked in the laboratory every day.",
+    "example_sentence_cn": "科学家们每天在实验室工作。",
+    "inflection": "复数: laboratories"
+  },
+  {
+    "english": "discover",
+    "chinese": "发现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈskʌvər/",
+    "uk_phonetic": "/dɪˈskʌvə(r)/",
+    "example_sentence_en": "Marie Curie discovered two new elements.",
+    "example_sentence_cn": "玛丽·居里发现了两种新元素。",
+    "inflection": "动词变化: discovers / discovered / discovering"
+  },
+  {
+    "english": "discovery",
+    "chinese": "发现；被发现的事物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈskʌvəri/",
+    "uk_phonetic": "/dɪˈskʌvəri/",
+    "example_sentence_en": "The discovery changed our understanding of biology.",
+    "example_sentence_cn": "这一发现改变了我们对生物学的理解。",
+    "inflection": "复数: discoveries"
+  },
+  {
+    "english": "genetics",
+    "chinese": "遗传学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒɪˈnetɪks/",
+    "uk_phonetic": "/dʒɪˈnetɪks/",
+    "example_sentence_en": "Advances in genetics have revolutionized medicine.",
+    "example_sentence_cn": "遗传学的进步彻底改变了医学。",
+    "inflection": "无"
+  },
+  {
+    "english": "gene",
+    "chinese": "基因",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dʒiːn/",
+    "uk_phonetic": "/dʒiːn/",
+    "example_sentence_en": "Some diseases are caused by a defective gene.",
+    "example_sentence_cn": "某些疾病是由基因缺陷引起的。",
+    "inflection": "复数: genes"
+  },
+  {
+    "english": "evolution",
+    "chinese": "进化；演变",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌiːvəˈluːʃn/",
+    "uk_phonetic": "/ˌiːvəˈluːʃn/",
+    "example_sentence_en": "Darwin's theory of evolution changed biology forever.",
+    "example_sentence_cn": "达尔文的进化论永远改变了生物学。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "species",
+    "chinese": "物种",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈspiːʃiːz/",
+    "uk_phonetic": "/ˈspiːʃiːz/",
+    "example_sentence_en": "Millions of species are at risk of extinction.",
+    "example_sentence_cn": "数百万种物种面临灭绝的危险。",
+    "inflection": "复数: species"
+  },
+  {
+    "english": "atom",
+    "chinese": "原子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈætəm/",
+    "uk_phonetic": "/ˈætəm/",
+    "example_sentence_en": "Everything is made of atoms.",
+    "example_sentence_cn": "万物都由原子组成。",
+    "inflection": "复数: atoms"
+  },
+  {
+    "english": "molecule",
+    "chinese": "分子",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɑːlɪkjuːl/",
+    "uk_phonetic": "/ˈmɒlɪkjuːl/",
+    "example_sentence_en": "Water consists of two hydrogen atoms and one oxygen molecule.",
+    "example_sentence_cn": "水由两个氢原子和一个氧分子组成。",
+    "inflection": "复数: molecules"
+  },
+  {
+    "english": "reaction",
+    "chinese": "反应；回应",
+    "part_of_speech": "n.",
+    "us_phonetic": "/riˈækʃn/",
+    "uk_phonetic": "/riˈækʃn/",
+    "example_sentence_en": "The chemical reaction produced a lot of heat.",
+    "example_sentence_cn": "化学反应产生了大量热量。",
+    "inflection": "复数: reactions"
+  },
+  {
+    "english": "formula",
+    "chinese": "公式；配方",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɔːrmjələ/",
+    "uk_phonetic": "/ˈfɔːmjələ/",
+    "example_sentence_en": "The scientist discovered a new mathematical formula.",
+    "example_sentence_cn": "科学家发现了一个新的数学公式。",
+    "inflection": "复数: formulas / formulae"
+  },
+  {
+    "english": "gravity",
+    "chinese": "重力；严重性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡrævəti/",
+    "uk_phonetic": "/ˈɡrævəti/",
+    "example_sentence_en": "Newton discovered the law of gravity.",
+    "example_sentence_cn": "牛顿发现了万有引力定律。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "radiation",
+    "chinese": "辐射；放射",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌreɪdiˈeɪʃn/",
+    "uk_phonetic": "/ˌreɪdiˈeɪʃn/",
+    "example_sentence_en": "Exposure to too much radiation is harmful.",
+    "example_sentence_cn": "暴露于过多辐射是有害的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "quantum",
+    "chinese": "量子的；量",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/ˈkwɑːntəm/",
+    "uk_phonetic": "/ˈkwɒntəm/",
+    "example_sentence_en": "Quantum physics is one of the most complex fields of science.",
+    "example_sentence_cn": "量子物理学是最复杂的科学领域之一。",
+    "inflection": "复数: quanta"
+  },
+  {
+    "english": "theory",
+    "chinese": "理论；学说",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈθiːəri/",
+    "uk_phonetic": "/ˈθɪəri/",
+    "example_sentence_en": "Einstein's theory of relativity changed physics.",
+    "example_sentence_cn": "爱因斯坦的相对论改变了物理学。",
+    "inflection": "复数: theories"
+  },
+  {
+    "english": "scientific",
+    "chinese": "科学的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "uk_phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "example_sentence_en": "Scientific thinking requires evidence and logic.",
+    "example_sentence_cn": "科学思维需要证据和逻辑。",
+    "inflection": "无"
+  },
+  {
+    "english": "significant",
+    "chinese": "重大的；显著的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sɪɡˈnɪfɪkənt/",
+    "uk_phonetic": "/sɪɡˈnɪfɪkənt/",
+    "example_sentence_en": "The discovery was significant for medical research.",
+    "example_sentence_cn": "这一发现对医学研究意义重大。",
+    "inflection": "比较级: more significant | 最高级: most significant"
+  },
+  {
+    "english": "innovative",
+    "chinese": "创新的；革新的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɪnəveɪtɪv/",
+    "uk_phonetic": "/ˈɪnəvətɪv/",
+    "example_sentence_en": "We need innovative solutions to tackle climate change.",
+    "example_sentence_cn": "我们需要创新的解决方案来应对气候变化。",
+    "inflection": "无"
+  },
+  {
+    "english": "breakthrough",
+    "chinese": "突破；重大进展",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbreɪkθruː/",
+    "uk_phonetic": "/ˈbreɪkθruː/",
+    "example_sentence_en": "The new vaccine is a major breakthrough in medicine.",
+    "example_sentence_cn": "这种新疫苗是医学上的重大突破。",
+    "inflection": "复数: breakthroughs"
+  },
+  {
+    "english": "patent",
+    "chinese": "专利；专利的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈpætnt/",
+    "uk_phonetic": "/ˈpætnt/",
+    "example_sentence_en": "He filed a patent for his new invention.",
+    "example_sentence_cn": "他为他的新发明申请了专利。",
+    "inflection": "复数: patents"
+  },
+  {
+    "english": "diagnosis",
+    "chinese": "诊断",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌdaɪəɡˈnoʊsɪs/",
+    "uk_phonetic": "/ˌdaɪəɡˈnəʊsɪs/",
+    "example_sentence_en": "An early diagnosis is important for successful treatment.",
+    "example_sentence_cn": "早期诊断对于成功治疗很重要。",
+    "inflection": "复数: diagnoses"
+  },
+  {
+    "english": "treatment",
+    "chinese": "治疗；处理",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtriːtmənt/",
+    "uk_phonetic": "/ˈtriːtmənt/",
+    "example_sentence_en": "The new treatment was more effective than the old one.",
+    "example_sentence_cn": "新疗法比旧疗法更有效。",
+    "inflection": "复数: treatments"
+  },
+  {
+    "english": "vaccine",
+    "chinese": "疫苗",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vækˈsiːn/",
+    "uk_phonetic": "/ˈvæksiːn/",
+    "example_sentence_en": "The vaccine was developed in record time.",
+    "example_sentence_cn": "这种疫苗是在创纪录的时间内开发出来的。",
+    "inflection": "复数: vaccines"
+  },
+  {
+    "english": "neuroscience",
+    "chinese": "神经科学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnʊroʊsaɪəns/",
+    "uk_phonetic": "/ˈnjʊərəʊsaɪəns/",
+    "example_sentence_en": "Neuroscience helps us understand how the brain works.",
+    "example_sentence_cn": "神经科学帮助我们了解大脑是如何运作的。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "biology",
+    "chinese": "生物学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/baɪˈɑːlədʒi/",
+    "uk_phonetic": "/baɪˈɒlədʒi/",
+    "example_sentence_en": "She decided to study biology at university.",
+    "example_sentence_cn": "她决定在大学学习生物学。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "chemistry",
+    "chinese": "化学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkemɪstri/",
+    "uk_phonetic": "/ˈkemɪstri/",
+    "example_sentence_en": "Chemistry is often called the central science.",
+    "example_sentence_cn": "化学通常被称为中心科学。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "physics",
+    "chinese": "物理学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɪzɪks/",
+    "uk_phonetic": "/ˈfɪzɪks/",
+    "example_sentence_en": "He has always been fascinated by physics.",
+    "example_sentence_cn": "他一直对物理学着迷。",
+    "inflection": "无"
+  },
+  {
+    "english": "mathematics",
+    "chinese": "数学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmæθəˈmætɪks/",
+    "uk_phonetic": "/ˌmæθəˈmætɪks/",
+    "example_sentence_en": "Mathematics is the language of science.",
+    "example_sentence_cn": "数学是科学的语言。",
+    "inflection": "无"
+  },
+  {
+    "english": "algorithm",
+    "chinese": "算法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈælɡərɪðəm/",
+    "uk_phonetic": "/ˈælɡərɪðəm/",
+    "example_sentence_en": "Social media platforms use algorithms to recommend content.",
+    "example_sentence_cn": "社交媒体平台使用算法来推荐内容。",
+    "inflection": "复数: algorithms"
+  },
+  {
+    "english": "artificial intelligence",
+    "chinese": "人工智能",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+    "uk_phonetic": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+    "example_sentence_en": "Artificial intelligence is transforming every industry.",
+    "example_sentence_cn": "人工智能正在改变每个行业。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "biography",
+    "chinese": "传记",
+    "part_of_speech": "n.",
+    "us_phonetic": "/baɪˈɑːɡrəfi/",
+    "uk_phonetic": "/baɪˈɒɡrəfi/",
+    "example_sentence_en": "She wrote a biography of Marie Curie.",
+    "example_sentence_cn": "她写了一部关于玛丽·居里的传记。",
+    "inflection": "复数: biographies"
+  },
+  {
+    "english": "autobiography",
+    "chinese": "自传",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɔːtəbaɪˈɑːɡrəfi/",
+    "uk_phonetic": "/ˌɔːtəbaɪˈɒɡrəfi/",
+    "example_sentence_en": "He published his autobiography at the age of 70.",
+    "example_sentence_cn": "他在70岁时出版了他的自传。",
+    "inflection": "复数: autobiographies"
+  },
+  {
+    "english": "profile",
+    "chinese": "个人简介；侧面",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈproʊfaɪl/",
+    "uk_phonetic": "/ˈprəʊfaɪl/",
+    "example_sentence_en": "The magazine published a profile of the famous scientist.",
+    "example_sentence_cn": "杂志刊登了这位著名科学家的个人简介。",
+    "inflection": "复数: profiles"
+  },
+  {
+    "english": "portray",
+    "chinese": "描绘；描述",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pɔːrˈtreɪ/",
+    "uk_phonetic": "/pɔːˈtreɪ/",
+    "example_sentence_en": "The book portrays her as a determined and brave woman.",
+    "example_sentence_cn": "这本书将她描绘成一个坚定而勇敢的女人。",
+    "inflection": "动词变化: portrays / portrayed / portraying"
+  },
+  {
+    "english": "legacy",
+    "chinese": "遗产；影响",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈleɡəsi/",
+    "uk_phonetic": "/ˈleɡəsi/",
+    "example_sentence_en": "Einstein left a lasting legacy in science.",
+    "example_sentence_cn": "爱因斯坦在科学上留下了持久的遗产。",
+    "inflection": "复数: legacies"
+  },
+  {
+    "english": "dedicate",
+    "chinese": "致力于；奉献",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈdedɪkeɪt/",
+    "uk_phonetic": "/ˈdedɪkeɪt/",
+    "example_sentence_en": "She dedicated her life to helping the poor.",
+    "example_sentence_cn": "她将自己的生命奉献给了帮助穷人。",
+    "inflection": "动词变化: dedicates / dedicated / dedicating"
+  },
+  {
+    "english": "devoted",
+    "chinese": "专心的；忠实的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/dɪˈvoʊtɪd/",
+    "uk_phonetic": "/dɪˈvəʊtɪd/",
+    "example_sentence_en": "He was devoted to his research all his life.",
+    "example_sentence_cn": "他一生都致力于他的研究。",
+    "inflection": "无"
+  },
+  {
+    "english": "admire",
+    "chinese": "钦佩；欣赏",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ədˈmaɪər/",
+    "uk_phonetic": "/ədˈmaɪə(r)/",
+    "example_sentence_en": "I admire her courage and determination.",
+    "example_sentence_cn": "我钦佩她的勇气和决心。",
+    "inflection": "动词变化: admires / admired / admiring"
+  },
+  {
+    "english": "admiration",
+    "chinese": "钦佩；赞美",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌædməˈreɪʃn/",
+    "uk_phonetic": "/ˌædməˈreɪʃn/",
+    "example_sentence_en": "She received great admiration for her achievements.",
+    "example_sentence_cn": "她的成就赢得了极大的钦佩。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "perseverance",
+    "chinese": "毅力；坚持不懈",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌpɜːrsɪˈvɪrəns/",
+    "uk_phonetic": "/ˌpɜːsɪˈvɪərəns/",
+    "example_sentence_en": "Success requires hard work and perseverance.",
+    "example_sentence_cn": "成功需要努力和坚持不懈。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "persistence",
+    "chinese": "坚持；固执",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈsɪstəns/",
+    "uk_phonetic": "/pəˈsɪstəns/",
+    "example_sentence_en": "His persistence finally paid off.",
+    "example_sentence_cn": "他的坚持终于得到了回报。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "influential",
+    "chinese": "有影响力的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌɪnfluˈenʃl/",
+    "uk_phonetic": "/ˌɪnfluˈenʃl/",
+    "example_sentence_en": "She was one of the most influential scientists of her time.",
+    "example_sentence_cn": "她是她那个时代最有影响力的科学家之一。",
+    "inflection": "无"
+  },
+  {
+    "english": "renowned",
+    "chinese": "著名的；有名望的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɪˈnaʊnd/",
+    "uk_phonetic": "/rɪˈnaʊnd/",
+    "example_sentence_en": "The hospital is renowned for its excellent care.",
+    "example_sentence_cn": "这家医院以其出色的护理而闻名。",
+    "inflection": "无"
+  },
+  {
+    "english": "pioneer",
+    "chinese": "先驱；拓荒者",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˌpaɪəˈnɪr/",
+    "uk_phonetic": "/ˌpaɪəˈnɪə(r)/",
+    "example_sentence_en": "Marie Curie was a pioneer in the field of radioactivity.",
+    "example_sentence_cn": "玛丽·居里是放射性领域的先驱。",
+    "inflection": "动词变化: pioneers / pioneered / pioneering; 复数: pioneers"
+  },
+  {
+    "english": "milestone",
+    "chinese": "里程碑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmaɪlstoʊn/",
+    "uk_phonetic": "/ˈmaɪlstəʊn/",
+    "example_sentence_en": "Winning the Nobel Prize was a milestone in his career.",
+    "example_sentence_cn": "获得诺贝尔奖是他职业生涯的里程碑。",
+    "inflection": "复数: milestones"
+  },
+  {
+    "english": "obstacle",
+    "chinese": "障碍；阻碍",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːbstəkl/",
+    "uk_phonetic": "/ˈɒbstəkl/",
+    "example_sentence_en": "She overcame many obstacles to reach her goal.",
+    "example_sentence_cn": "她克服了许多障碍才达成目标。",
+    "inflection": "复数: obstacles"
+  },
+  {
+    "english": "setback",
+    "chinese": "挫折；障碍",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsetbæk/",
+    "uk_phonetic": "/ˈsetbæk/",
+    "example_sentence_en": "Every setback was a lesson that made her stronger.",
+    "example_sentence_cn": "每一次挫折都是让她变得更强大的课程。",
+    "inflection": "复数: setbacks"
+  },
+  {
+    "english": "triumph",
+    "chinese": "胜利；成功",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈtraɪəmf/",
+    "uk_phonetic": "/ˈtraɪəmf/",
+    "example_sentence_en": "The scientist's triumph was celebrated worldwide.",
+    "example_sentence_cn": "这位科学家的胜利在全世界都受到庆祝。",
+    "inflection": "动词变化: triumphs / triumphed / triumphing; 复数: triumphs"
+  },
+  {
+    "english": "sacrifice",
+    "chinese": "牺牲；奉献",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈsækrɪfaɪs/",
+    "uk_phonetic": "/ˈsækrɪfaɪs/",
+    "example_sentence_en": "She made great sacrifices for her family.",
+    "example_sentence_cn": "她为家人做出了巨大的牺牲。",
+    "inflection": "动词变化: sacrifices / sacrificed / sacrificing; 复数: sacrifices"
+  },
+  {
+    "english": "passion",
+    "chinese": "热情；激情",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpæʃn/",
+    "uk_phonetic": "/ˈpæʃn/",
+    "example_sentence_en": "Her passion for science drove her to success.",
+    "example_sentence_cn": "她对科学的热情推动她走向成功。",
+    "inflection": "复数: passions"
+  },
+  {
+    "english": "aspire",
+    "chinese": "渴望；立志",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈspaɪər/",
+    "uk_phonetic": "/əˈspaɪə(r)/",
+    "example_sentence_en": "She aspired to become the first female president.",
+    "example_sentence_cn": "她渴望成为第一位女总统。",
+    "inflection": "动词变化: aspires / aspired / aspiring"
+  },
+  {
+    "english": "humility",
+    "chinese": "谦逊；谦卑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/hjuːˈmɪləti/",
+    "uk_phonetic": "/hjuːˈmɪləti/",
+    "example_sentence_en": "Despite his fame, he was known for his humility.",
+    "example_sentence_cn": "尽管出名，他以谦逊而闻名。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "integrity",
+    "chinese": "诚实；正直",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪnˈteɡrəti/",
+    "uk_phonetic": "/ɪnˈteɡrəti/",
+    "example_sentence_en": "He was known for his honesty and integrity.",
+    "example_sentence_cn": "他以诚实和正直而著称。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "character",
+    "chinese": "性格；人物；字",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkærəktər/",
+    "uk_phonetic": "/ˈkærəktə(r)/",
+    "example_sentence_en": "The protagonist is a complex character with many flaws.",
+    "example_sentence_cn": "主人公是一个有许多缺点的复杂人物。",
+    "inflection": "复数: characters"
+  },
+  {
+    "english": "novel",
+    "chinese": "小说；新颖的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈnɑːvl/",
+    "uk_phonetic": "/ˈnɒvl/",
+    "example_sentence_en": "The novel tells the story of a young woman's journey.",
+    "example_sentence_cn": "这部小说讲述了一位年轻女性的旅程。",
+    "inflection": "复数: novels"
+  },
+  {
+    "english": "plot",
+    "chinese": "情节；阴谋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/plɑːt/",
+    "uk_phonetic": "/plɒt/",
+    "example_sentence_en": "The plot of the novel is full of surprising twists.",
+    "example_sentence_cn": "小说的情节充满了出人意料的转折。",
+    "inflection": "复数: plots"
+  },
+  {
+    "english": "theme",
+    "chinese": "主题；题目",
+    "part_of_speech": "n.",
+    "us_phonetic": "/θiːm/",
+    "uk_phonetic": "/θiːm/",
+    "example_sentence_en": "The main theme of the novel is love and sacrifice.",
+    "example_sentence_cn": "这部小说的主题是爱与牺牲。",
+    "inflection": "复数: themes"
+  },
+  {
+    "english": "metaphor",
+    "chinese": "隐喻；比喻",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmetəfɔːr/",
+    "uk_phonetic": "/ˈmetəfɔː(r)/",
+    "example_sentence_en": "The writer uses a beautiful metaphor to describe the sea.",
+    "example_sentence_cn": "作者用了一个美丽的比喻来描述大海。",
+    "inflection": "复数: metaphors"
+  },
+  {
+    "english": "imagery",
+    "chinese": "意象；形象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪmɪdʒri/",
+    "uk_phonetic": "/ˈɪmɪdʒri/",
+    "example_sentence_en": "The poem is full of vivid imagery.",
+    "example_sentence_cn": "这首诗充满了生动的意象。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "symbolism",
+    "chinese": "象征主义；象征性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪmbəlɪzəm/",
+    "uk_phonetic": "/ˈsɪmbəlɪzəm/",
+    "example_sentence_en": "The author uses symbolism to convey deeper meanings.",
+    "example_sentence_cn": "作者用象征手法传达更深层的含义。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "fiction",
+    "chinese": "小说；虚构",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɪkʃn/",
+    "uk_phonetic": "/ˈfɪkʃn/",
+    "example_sentence_en": "She prefers reading science fiction to fantasy.",
+    "example_sentence_cn": "比起奇幻小说，她更喜欢读科幻小说。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "nonfiction",
+    "chinese": "非虚构类文学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌnɑːnˈfɪkʃn/",
+    "uk_phonetic": "/ˌnɒnˈfɪkʃn/",
+    "example_sentence_en": "He enjoys reading nonfiction books about history.",
+    "example_sentence_cn": "他喜欢读关于历史的非虚构类书籍。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "prose",
+    "chinese": "散文；散文的",
+    "part_of_speech": "n.",
+    "us_phonetic": "/proʊz/",
+    "uk_phonetic": "/prəʊz/",
+    "example_sentence_en": "His prose is clear and easy to understand.",
+    "example_sentence_cn": "他的散文清晰易懂。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "poetry",
+    "chinese": "诗歌；诗集",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpoʊɪtri/",
+    "uk_phonetic": "/ˈpoʊɪtri/",
+    "example_sentence_en": "She found comfort in reading poetry during difficult times.",
+    "example_sentence_cn": "她在困难时期通过读诗找到了慰藉。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "poem",
+    "chinese": "诗；诗歌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpoʊɪm/",
+    "uk_phonetic": "/ˈpəʊɪm/",
+    "example_sentence_en": "She wrote a beautiful poem about her hometown.",
+    "example_sentence_cn": "她写了一首关于她家乡的美丽诗歌。",
+    "inflection": "复数: poems"
+  },
+  {
+    "english": "stanza",
+    "chinese": "诗节；段落",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstænzə/",
+    "uk_phonetic": "/ˈstænzə/",
+    "example_sentence_en": "The poem has four stanzas.",
+    "example_sentence_cn": "这首诗有四个诗节。",
+    "inflection": "复数: stanzas"
+  },
+  {
+    "english": "rhyme",
+    "chinese": "押韵；韵文",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/raɪm/",
+    "uk_phonetic": "/raɪm/",
+    "example_sentence_en": "Cat and hat rhyme with each other.",
+    "example_sentence_cn": "cat和hat互相押韵。",
+    "inflection": "动词变化: rhymes / rhymed / rhyming; 复数: rhymes"
+  },
+  {
+    "english": "narrative",
+    "chinese": "叙述；故事",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈnærətɪv/",
+    "uk_phonetic": "/ˈnærətɪv/",
+    "example_sentence_en": "The narrative structure of this novel is very complex.",
+    "example_sentence_cn": "这部小说的叙事结构非常复杂。",
+    "inflection": "复数: narratives"
+  },
+  {
+    "english": "narrator",
+    "chinese": "叙述者；旁白",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnærətər/",
+    "uk_phonetic": "/nəˈreɪtə(r)/",
+    "example_sentence_en": "The narrator tells the story from a first-person perspective.",
+    "example_sentence_cn": "叙述者从第一人称视角讲述故事。",
+    "inflection": "复数: narrators"
+  },
+  {
+    "english": "protagonist",
+    "chinese": "主人公；主角",
+    "part_of_speech": "n.",
+    "us_phonetic": "/proʊˈtæɡənɪst/",
+    "uk_phonetic": "/prəˈtæɡənɪst/",
+    "example_sentence_en": "The protagonist faces many challenges throughout the story.",
+    "example_sentence_cn": "主人公在整个故事中面临许多挑战。",
+    "inflection": "复数: protagonists"
+  },
+  {
+    "english": "antagonist",
+    "chinese": "对手；反派",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ænˈtæɡənɪst/",
+    "uk_phonetic": "/ænˈtæɡənɪst/",
+    "example_sentence_en": "The antagonist tries to stop the hero at every turn.",
+    "example_sentence_cn": "反派试图在每一步阻止主人公。",
+    "inflection": "复数: antagonists"
+  },
+  {
+    "english": "setting",
+    "chinese": "背景；环境",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsetɪŋ/",
+    "uk_phonetic": "/ˈsetɪŋ/",
+    "example_sentence_en": "The setting of the novel is a small English village.",
+    "example_sentence_cn": "小说的背景是一个英国小村庄。",
+    "inflection": "复数: settings"
+  },
+  {
+    "english": "allegory",
+    "chinese": "寓言；讽喻",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæləɡɔːri/",
+    "uk_phonetic": "/ˈæləɡəri/",
+    "example_sentence_en": "The book is an allegory of political corruption.",
+    "example_sentence_cn": "这本书是对政治腐败的一种寓言。",
+    "inflection": "复数: allegories"
+  },
+  {
+    "english": "satire",
+    "chinese": "讽刺；讽刺文学",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈseɪtaɪər/",
+    "uk_phonetic": "/ˈsætaɪə(r)/",
+    "example_sentence_en": "The play is a satire of modern political life.",
+    "example_sentence_cn": "这部戏剧是对现代政治生活的一种讽刺。",
+    "inflection": "复数: satires"
+  },
+  {
+    "english": "tragedy",
+    "chinese": "悲剧",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtrædʒədi/",
+    "uk_phonetic": "/ˈtrædʒədi/",
+    "example_sentence_en": "Romeo and Juliet is one of Shakespeare's greatest tragedies.",
+    "example_sentence_cn": "《罗密欧与朱丽叶》是莎士比亚最伟大的悲剧之一。",
+    "inflection": "复数: tragedies"
+  },
+  {
+    "english": "comedy",
+    "chinese": "喜剧；喜剧性",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːmədi/",
+    "uk_phonetic": "/ˈkɒmədi/",
+    "example_sentence_en": "His plays are known for their clever comedy.",
+    "example_sentence_cn": "他的戏剧以巧妙的喜剧性而著称。",
+    "inflection": "复数: comedies"
+  },
+  {
+    "english": "drama",
+    "chinese": "戏剧；剧本",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdrɑːmə/",
+    "uk_phonetic": "/ˈdrɑːmə/",
+    "example_sentence_en": "She starred in a TV drama about a detective.",
+    "example_sentence_cn": "她主演了一部关于侦探的电视剧。",
+    "inflection": "复数: dramas"
+  },
+  {
+    "english": "genre",
+    "chinese": "体裁；流派",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈʒɑːnrə/",
+    "uk_phonetic": "/ˈʒɒnrə/",
+    "example_sentence_en": "Mystery is her favorite genre of fiction.",
+    "example_sentence_cn": "推理是她最喜欢的小说体裁。",
+    "inflection": "复数: genres"
+  },
+  {
+    "english": "author",
+    "chinese": "作者；作家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːθər/",
+    "uk_phonetic": "/ˈɔːθə(r)/",
+    "example_sentence_en": "She is the author of more than twenty novels.",
+    "example_sentence_cn": "她是二十多部小说的作者。",
+    "inflection": "复数: authors"
+  },
+  {
+    "english": "poet",
+    "chinese": "诗人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpoʊɪt/",
+    "uk_phonetic": "/ˈpəʊɪt/",
+    "example_sentence_en": "Li Bai was one of China's greatest poets.",
+    "example_sentence_cn": "李白是中国最伟大的诗人之一。",
+    "inflection": "复数: poets"
+  },
+  {
+    "english": "playwright",
+    "chinese": "剧作家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpleɪraɪt/",
+    "uk_phonetic": "/ˈpleɪraɪt/",
+    "example_sentence_en": "Shakespeare is the world's most famous playwright.",
+    "example_sentence_cn": "莎士比亚是世界上最著名的剧作家。",
+    "inflection": "复数: playwrights"
+  },
+  {
+    "english": "manuscript",
+    "chinese": "手稿；原稿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmænjuskrɪpt/",
+    "uk_phonetic": "/ˈmænjuskrɪpt/",
+    "example_sentence_en": "The museum contains an ancient manuscript.",
+    "example_sentence_cn": "博物馆里藏有一份古代手稿。",
+    "inflection": "复数: manuscripts"
+  },
+  {
+    "english": "publish",
+    "chinese": "出版；发表",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpʌblɪʃ/",
+    "uk_phonetic": "/ˈpʌblɪʃ/",
+    "example_sentence_en": "Her first novel was published when she was twenty-five.",
+    "example_sentence_cn": "她的第一部小说在她二十五岁时出版了。",
+    "inflection": "动词变化: publishes / published / publishing"
+  },
+  {
+    "english": "excerpt",
+    "chinese": "摘录；节选",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈeksɜːrpt/",
+    "uk_phonetic": "/ˈeksɜːpt/",
+    "example_sentence_en": "She read an excerpt from her new book at the event.",
+    "example_sentence_cn": "她在活动上朗读了新书的一段摘录。",
+    "inflection": "复数: excerpts"
+  },
+  {
+    "english": "interpret",
+    "chinese": "解释；理解；口译",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈtɜːrprɪt/",
+    "uk_phonetic": "/ɪnˈtɜːprɪt/",
+    "example_sentence_en": "Readers often interpret poems in different ways.",
+    "example_sentence_cn": "读者往往会对诗歌进行不同的解读。",
+    "inflection": "动词变化: interprets / interpreted / interpreting"
+  },
+  {
+    "english": "critique",
+    "chinese": "评论；批评",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/krɪˈtiːk/",
+    "uk_phonetic": "/krɪˈtiːk/",
+    "example_sentence_en": "She wrote a critique of the author's latest work.",
+    "example_sentence_cn": "她写了一篇对这位作者最新作品的评论。",
+    "inflection": "动词变化: critiques / critiqued / critiquing; 复数: critiques"
+  },
+  {
+    "english": "censorship",
+    "chinese": "审查制度；审查",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsensərʃɪp/",
+    "uk_phonetic": "/ˈsensəʃɪp/",
+    "example_sentence_en": "Some books are banned due to government censorship.",
+    "example_sentence_cn": "一些书籍因政府审查而遭到禁止。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "quote",
+    "chinese": "引用；引语",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/kwoʊt/",
+    "uk_phonetic": "/kwəʊt/",
+    "example_sentence_en": "He quoted a famous line from Shakespeare's Hamlet.",
+    "example_sentence_cn": "他引用了莎士比亚《哈姆雷特》中的一句名言。",
+    "inflection": "动词变化: quotes / quoted / quoting; 复数: quotes"
+  },
+  {
+    "english": "allusion",
+    "chinese": "典故；暗示",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈluːʒn/",
+    "uk_phonetic": "/əˈluːʒn/",
+    "example_sentence_en": "The poem contains an allusion to Greek mythology.",
+    "example_sentence_cn": "这首诗中包含了对希腊神话的典故。",
+    "inflection": "复数: allusions"
+  },
+  {
+    "english": "irony",
+    "chinese": "讽刺；反语",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈaɪrəni/",
+    "uk_phonetic": "/ˈaɪərəni/",
+    "example_sentence_en": "The irony of the situation was not lost on him.",
+    "example_sentence_cn": "他没有忽略这种情况的讽刺意味。",
+    "inflection": "复数: ironies"
+  },
+  {
+    "english": "exaggerate",
+    "chinese": "夸张；过分强调",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪɡˈzædʒəreɪt/",
+    "uk_phonetic": "/ɪɡˈzædʒəreɪt/",
+    "example_sentence_en": "He tends to exaggerate when telling stories.",
+    "example_sentence_cn": "他讲故事时倾向于夸张。",
+    "inflection": "动词变化: exaggerates / exaggerated / exaggerating"
+  },
+  {
+    "english": "foreshadow",
+    "chinese": "预示；预兆",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fɔːrˈʃædoʊ/",
+    "uk_phonetic": "/fɔːˈʃædəʊ/",
+    "example_sentence_en": "The dark clouds at the beginning foreshadow the disaster.",
+    "example_sentence_cn": "开篇的乌云预示了灾难的到来。",
+    "inflection": "动词变化: foreshadows / foreshadowed / foreshadowing"
+  },
+  {
+    "english": "climax",
+    "chinese": "高潮；顶点",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklaɪmæks/",
+    "uk_phonetic": "/ˈklaɪmæks/",
+    "example_sentence_en": "The climax of the story is very exciting.",
+    "example_sentence_cn": "故事的高潮部分非常精彩。",
+    "inflection": "复数: climaxes"
+  },
+  {
+    "english": "resolution",
+    "chinese": "结局；解决",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌrezəˈluːʃn/",
+    "uk_phonetic": "/ˌrezəˈluːʃn/",
+    "example_sentence_en": "The resolution of the conflict brings the story to an end.",
+    "example_sentence_cn": "冲突的解决使故事走向终结。",
+    "inflection": "复数: resolutions"
+  },
+  {
+    "english": "parable",
+    "chinese": "寓言故事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpærəbl/",
+    "uk_phonetic": "/ˈpærəbl/",
+    "example_sentence_en": "The book is written as a parable about greed.",
+    "example_sentence_cn": "这本书写成了一个关于贪婪的寓言故事。",
+    "inflection": "复数: parables"
+  },
+  {
+    "english": "manuscript",
+    "chinese": "原稿；手稿",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmænjuskrɪpt/",
+    "uk_phonetic": "/ˈmænjuskrɪpt/",
+    "example_sentence_en": "The author spent years writing the manuscript.",
+    "example_sentence_cn": "作者花了数年时间撰写原稿。",
+    "inflection": "复数: manuscripts"
+  },
+  {
+    "english": "revise",
+    "chinese": "修改；复习",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈvaɪz/",
+    "uk_phonetic": "/rɪˈvaɪz/",
+    "example_sentence_en": "She revised her essay three times before submitting it.",
+    "example_sentence_cn": "她在提交之前修改了三遍论文。",
+    "inflection": "动词变化: revises / revised / revising"
+  },
+  {
+    "english": "edition",
+    "chinese": "版本；版次",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈdɪʃn/",
+    "uk_phonetic": "/ɪˈdɪʃn/",
+    "example_sentence_en": "The new edition of the textbook has been updated.",
+    "example_sentence_cn": "教科书的新版本已经更新了。",
+    "inflection": "复数: editions"
+  },
+  {
+    "english": "critic",
+    "chinese": "评论家；批评家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɪtɪk/",
+    "uk_phonetic": "/ˈkrɪtɪk/",
+    "example_sentence_en": "The book received excellent reviews from critics.",
+    "example_sentence_cn": "这本书获得了评论家的好评。",
+    "inflection": "复数: critics"
+  },
+  {
+    "english": "critical",
+    "chinese": "批判的；关键的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkrɪtɪkl/",
+    "uk_phonetic": "/ˈkrɪtɪkl/",
+    "example_sentence_en": "Critical thinking is an important skill for students.",
+    "example_sentence_cn": "批判性思维是学生的重要技能。",
+    "inflection": "比较级: more critical | 最高级: most critical"
+  },
+  {
+    "english": "stimulate",
+    "chinese": "刺激；激励",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈstɪmjuleɪt/",
+    "uk_phonetic": "/ˈstɪmjuleɪt/",
+    "example_sentence_en": "Good books stimulate the imagination.",
+    "example_sentence_cn": "好书能激发想象力。",
+    "inflection": "动词变化: stimulates / stimulated / stimulating"
+  },
+  {
+    "english": "enlighten",
+    "chinese": "启迪；教育",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈlaɪtn/",
+    "uk_phonetic": "/ɪnˈlaɪtn/",
+    "example_sentence_en": "Great literature enlightens readers and broadens their minds.",
+    "example_sentence_cn": "伟大的文学启迪读者并开阔他们的思维。",
+    "inflection": "动词变化: enlightens / enlightened / enlightening"
+  },
+  {
+    "english": "engage",
+    "chinese": "吸引；使参与",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈɡeɪdʒ/",
+    "uk_phonetic": "/ɪnˈɡeɪdʒ/",
+    "example_sentence_en": "A good teacher knows how to engage students.",
+    "example_sentence_cn": "好老师知道如何吸引学生的注意力。",
+    "inflection": "动词变化: engages / engaged / engaging"
+  },
+  {
+    "english": "evoke",
+    "chinese": "唤起；引起",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈvoʊk/",
+    "uk_phonetic": "/ɪˈvəʊk/",
+    "example_sentence_en": "The music evokes memories of childhood.",
+    "example_sentence_cn": "这音乐唤起了童年的回忆。",
+    "inflection": "动词变化: evokes / evoked / evoking"
+  },
+  {
+    "english": "comprehensive",
+    "chinese": "全面的；综合的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌkɑːmprɪˈhensɪv/",
+    "uk_phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "example_sentence_en": "The book provides a comprehensive overview of history.",
+    "example_sentence_cn": "这本书提供了对历史的全面概述。",
+    "inflection": "比较级: more comprehensive | 最高级: most comprehensive"
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的；渊博的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/prəˈfaʊnd/",
+    "uk_phonetic": "/prəˈfaʊnd/",
+    "example_sentence_en": "The novel has a profound effect on its readers.",
+    "example_sentence_cn": "这部小说对读者有深刻的影响。",
+    "inflection": "比较级: more profound | 最高级: most profound"
+  },
+  {
+    "english": "eloquent",
+    "chinese": "雄辩的；有说服力的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈeləkwənt/",
+    "uk_phonetic": "/ˈeləkwənt/",
+    "example_sentence_en": "She delivered an eloquent speech at the graduation.",
+    "example_sentence_cn": "她在毕业典礼上发表了一篇动人的演讲。",
+    "inflection": "比较级: more eloquent | 最高级: most eloquent"
+  },
+  {
+    "english": "vivid",
+    "chinese": "生动的；鲜明的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvɪvɪd/",
+    "uk_phonetic": "/ˈvɪvɪd/",
+    "example_sentence_en": "Her vivid description made the scene come alive.",
+    "example_sentence_cn": "她生动的描述使场景栩栩如生。",
+    "inflection": "比较级: more vivid | 最高级: most vivid"
+  },
+  {
+    "english": "ambiguous",
+    "chinese": "模棱两可的；歧义的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/æmˈbɪɡjuəs/",
+    "uk_phonetic": "/æmˈbɪɡjuəs/",
+    "example_sentence_en": "The ending of the story is deliberately ambiguous.",
+    "example_sentence_cn": "故事的结尾是故意模棱两可的。",
+    "inflection": "比较级: more ambiguous | 最高级: most ambiguous"
+  },
+  {
+    "english": "objective",
+    "chinese": "客观的；目的",
+    "part_of_speech": "adj. / n.",
+    "us_phonetic": "/əbˈdʒektɪv/",
+    "uk_phonetic": "/əbˈdʒektɪv/",
+    "example_sentence_en": "A good journalist should be objective when reporting.",
+    "example_sentence_cn": "好的记者在报道时应该保持客观。",
+    "inflection": "复数: objectives"
+  },
+  {
+    "english": "subjective",
+    "chinese": "主观的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səbˈdʒektɪv/",
+    "uk_phonetic": "/səbˈdʒektɪv/",
+    "example_sentence_en": "Art appreciation is often subjective.",
+    "example_sentence_cn": "艺术欣赏往往是主观的。",
+    "inflection": "无"
+  },
+  {
+    "english": "implicit",
+    "chinese": "隐含的；含蓄的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪmˈplɪsɪt/",
+    "uk_phonetic": "/ɪmˈplɪsɪt/",
+    "example_sentence_en": "There is an implicit meaning behind the words.",
+    "example_sentence_cn": "这些话语背后有着隐含的意思。",
+    "inflection": "无"
+  },
+  {
+    "english": "explicit",
+    "chinese": "明确的；直接的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈsplɪsɪt/",
+    "uk_phonetic": "/ɪkˈsplɪsɪt/",
+    "example_sentence_en": "The instructions were very explicit and easy to follow.",
+    "example_sentence_cn": "这些说明非常明确，易于遵循。",
+    "inflection": "无"
+  },
+  {
+    "english": "elaborate",
+    "chinese": "详细说明；精心制作的",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ɪˈlæbəreɪt/",
+    "uk_phonetic": "/ɪˈlæbəreɪt/",
+    "example_sentence_en": "Could you elaborate on your main argument?",
+    "example_sentence_cn": "你能详细说明你的主要论点吗？",
+    "inflection": "动词变化: elaborates / elaborated / elaborating"
+  },
+  {
+    "english": "abstract",
+    "chinese": "摘要；抽象的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈæbstrækt/",
+    "uk_phonetic": "/ˈæbstrækt/",
+    "example_sentence_en": "Please write an abstract for your research paper.",
+    "example_sentence_cn": "请为你的研究论文写一个摘要。",
+    "inflection": "复数: abstracts"
+  },
+  {
+    "english": "bibliography",
+    "chinese": "参考书目；文献目录",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌbɪbliˈɑːɡrəfi/",
+    "uk_phonetic": "/ˌbɪbliˈɒɡrəfi/",
+    "example_sentence_en": "Always include a bibliography in your academic paper.",
+    "example_sentence_cn": "学术论文中一定要包含参考书目。",
+    "inflection": "复数: bibliographies"
+  },
+  {
+    "english": "reference",
+    "chinese": "参考；参考书目",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrefərəns/",
+    "uk_phonetic": "/ˈrefrəns/",
+    "example_sentence_en": "Please list all references at the end of your essay.",
+    "example_sentence_cn": "请在文章末尾列出所有参考文献。",
+    "inflection": "复数: references"
+  },
+  {
+    "english": "evidence",
+    "chinese": "证据；迹象",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈevɪdəns/",
+    "uk_phonetic": "/ˈevɪdəns/",
+    "example_sentence_en": "Scientists need evidence to support their claims.",
+    "example_sentence_cn": "科学家需要证据来支持他们的说法。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "argument",
+    "chinese": "论据；争论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːrɡjumənt/",
+    "uk_phonetic": "/ˈɑːɡjumənt/",
+    "example_sentence_en": "The essay presents a strong argument for change.",
+    "example_sentence_cn": "这篇文章提出了一个强有力的变革论据。",
+    "inflection": "复数: arguments"
+  },
+  {
+    "english": "counterargument",
+    "chinese": "反驳；反论",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkaʊntərˌɑːrɡjumənt/",
+    "uk_phonetic": "/ˈkaʊntəˌɑːɡjumənt/",
+    "example_sentence_en": "A strong essay acknowledges the counterargument.",
+    "example_sentence_cn": "一篇强有力的文章承认反驳意见。",
+    "inflection": "复数: counterarguments"
+  },
+  {
+    "english": "paraphrase",
+    "chinese": "意译；改述",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈpærəfreɪz/",
+    "uk_phonetic": "/ˈpærəfreɪz/",
+    "example_sentence_en": "Please paraphrase this paragraph in your own words.",
+    "example_sentence_cn": "请用你自己的话改写这段文字。",
+    "inflection": "动词变化: paraphrases / paraphrased / paraphrasing"
+  },
+  {
+    "english": "summarize",
+    "chinese": "概括；总结",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈsʌməraɪz/",
+    "uk_phonetic": "/ˈsʌməraɪz/",
+    "example_sentence_en": "Please summarize the main points of the article.",
+    "example_sentence_cn": "请概括这篇文章的要点。",
+    "inflection": "动词变化: summarizes / summarized / summarizing"
+  },
+  {
+    "english": "critical thinking",
+    "chinese": "批判性思维",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+    "uk_phonetic": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+    "example_sentence_en": "Critical thinking is essential in academic study.",
+    "example_sentence_cn": "批判性思维在学术研究中至关重要。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "infer",
+    "chinese": "推断；推论",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈfɜːr/",
+    "uk_phonetic": "/ɪnˈfɜː(r)/",
+    "example_sentence_en": "From the clues in the text, we can infer that he is guilty.",
+    "example_sentence_cn": "从文中的线索可以推断他是有罪的。",
+    "inflection": "动词变化: infers / inferred / inferring"
+  },
+  {
+    "english": "implication",
+    "chinese": "含义；暗示",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɪmplɪˈkeɪʃn/",
+    "uk_phonetic": "/ˌɪmplɪˈkeɪʃn/",
+    "example_sentence_en": "The implications of this discovery are enormous.",
+    "example_sentence_cn": "这一发现的含义是巨大的。",
+    "inflection": "复数: implications"
+  },
+  {
+    "english": "perspective",
+    "chinese": "视角；角度",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈspektɪv/",
+    "uk_phonetic": "/pəˈspektɪv/",
+    "example_sentence_en": "A novelist can tell a story from different perspectives.",
+    "example_sentence_cn": "小说家可以从不同视角讲述故事。",
+    "inflection": "复数: perspectives"
+  },
+  {
+    "english": "coherent",
+    "chinese": "条理清晰的；连贯的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/koʊˈhɪrənt/",
+    "uk_phonetic": "/kəʊˈhɪərənt/",
+    "example_sentence_en": "The essay needs to be more coherent and organized.",
+    "example_sentence_cn": "这篇文章需要更加连贯有条理。",
+    "inflection": "无"
+  },
+  {
+    "english": "articulate",
+    "chinese": "清晰表达；口齿清楚的",
+    "part_of_speech": "v. / adj.",
+    "us_phonetic": "/ɑːrˈtɪkjuleɪt/",
+    "uk_phonetic": "/ɑːˈtɪkjuleɪt/",
+    "example_sentence_en": "She is very articulate and expresses herself well.",
+    "example_sentence_cn": "她表达能力很强，能清晰地表达自己的想法。",
+    "inflection": "动词变化: articulates / articulated / articulating"
+  }
+]

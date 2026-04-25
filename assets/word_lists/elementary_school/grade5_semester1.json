@@ -1,0 +1,652 @@
+[
+  {
+    "english": "morning",
+    "chinese": "早晨；上午",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɔːrnɪŋ/",
+    "uk_phonetic": "/ˈmɔːnɪŋ/",
+    "example_sentence_en": "I do exercise in the morning.",
+    "example_sentence_cn": "我在早上做锻炼。",
+    "inflection": "复数: mornings"
+  },
+  {
+    "english": "evening",
+    "chinese": "晚上；傍晚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈiːvnɪŋ/",
+    "uk_phonetic": "/ˈiːvnɪŋ/",
+    "example_sentence_en": "I watch TV in the evening.",
+    "example_sentence_cn": "我在晚上看电视。",
+    "inflection": "复数: evenings"
+  },
+  {
+    "english": "night",
+    "chinese": "夜晚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/naɪt/",
+    "uk_phonetic": "/naɪt/",
+    "example_sentence_en": "Good night, Mom.",
+    "example_sentence_cn": "晚安，妈妈。",
+    "inflection": "复数: nights"
+  },
+  {
+    "english": "wake",
+    "chinese": "醒来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/weɪk/",
+    "uk_phonetic": "/weɪk/",
+    "example_sentence_en": "I wake up at seven.",
+    "example_sentence_cn": "我七点醒来。",
+    "inflection": "动词变化: wakes / woke / waking"
+  },
+  {
+    "english": "wash",
+    "chinese": "洗",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɑːʃ/",
+    "uk_phonetic": "/wɒʃ/",
+    "example_sentence_en": "I wash my face every day.",
+    "example_sentence_cn": "我每天洗脸。",
+    "inflection": "动词变化: washes / washed / washing"
+  },
+  {
+    "english": "brush",
+    "chinese": "刷",
+    "part_of_speech": "v.",
+    "us_phonetic": "/brʌʃ/",
+    "uk_phonetic": "/brʌʃ/",
+    "example_sentence_en": "Brush your teeth twice a day.",
+    "example_sentence_cn": "每天刷两次牙。",
+    "inflection": "动词变化: brushes / brushed / brushing"
+  },
+  {
+    "english": "breakfast",
+    "chinese": "早餐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbrekfəst/",
+    "uk_phonetic": "/ˈbrekfəst/",
+    "example_sentence_en": "I have breakfast at home.",
+    "example_sentence_cn": "我在家吃早餐。",
+    "inflection": "复数: breakfasts"
+  },
+  {
+    "english": "lunch",
+    "chinese": "午餐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/lʌntʃ/",
+    "uk_phonetic": "/lʌntʃ/",
+    "example_sentence_en": "Let's have lunch together.",
+    "example_sentence_cn": "我们一起吃午餐吧。",
+    "inflection": "复数: lunches"
+  },
+  {
+    "english": "dinner",
+    "chinese": "晚餐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɪnər/",
+    "uk_phonetic": "/ˈdɪnə(r)/",
+    "example_sentence_en": "Dinner is ready.",
+    "example_sentence_cn": "晚餐准备好了。",
+    "inflection": "复数: dinners"
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡觉",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/sliːp/",
+    "uk_phonetic": "/sliːp/",
+    "example_sentence_en": "I sleep at nine o'clock.",
+    "example_sentence_cn": "我九点钟睡觉。",
+    "inflection": "动词变化: sleeps / slept / sleeping; 复数: sleeps"
+  },
+  {
+    "english": "usually",
+    "chinese": "通常",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈjuːʒuəli/",
+    "uk_phonetic": "/ˈjuːʒuəli/",
+    "example_sentence_en": "I usually walk to school.",
+    "example_sentence_cn": "我通常走路上学。",
+    "inflection": "无"
+  },
+  {
+    "english": "often",
+    "chinese": "经常",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈɔːfn/",
+    "uk_phonetic": "/ˈɒfn/",
+    "example_sentence_en": "I often read books.",
+    "example_sentence_cn": "我经常看书。",
+    "inflection": "无"
+  },
+  {
+    "english": "sometimes",
+    "chinese": "有时",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈsʌmtaɪmz/",
+    "uk_phonetic": "/ˈsʌmtaɪmz/",
+    "example_sentence_en": "Sometimes I ride my bike.",
+    "example_sentence_cn": "有时我骑自行车。",
+    "inflection": "无"
+  },
+  {
+    "english": "habit",
+    "chinese": "习惯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhæbɪt/",
+    "uk_phonetic": "/ˈhæbɪt/",
+    "example_sentence_en": "Good habits are important.",
+    "example_sentence_cn": "好习惯很重要。",
+    "inflection": "复数: habits"
+  },
+  {
+    "english": "tired",
+    "chinese": "疲倦的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtaɪərd/",
+    "uk_phonetic": "/ˈtaɪəd/",
+    "example_sentence_en": "I am tired after running.",
+    "example_sentence_cn": "跑步后我很累。",
+    "inflection": "比较级: more tired | 最高级: most tired"
+  },
+  {
+    "english": "schedule",
+    "chinese": "日程表",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈskedʒuːl/",
+    "uk_phonetic": "/ˈʃedjuːl/",
+    "example_sentence_en": "This is my daily schedule.",
+    "example_sentence_cn": "这是我的日常作息表。",
+    "inflection": "复数: schedules"
+  },
+  {
+    "english": "teacher",
+    "chinese": "老师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtiːtʃər/",
+    "uk_phonetic": "/ˈtiːtʃə(r)/",
+    "example_sentence_en": "My teacher is very nice.",
+    "example_sentence_cn": "我的老师很好。",
+    "inflection": "复数: teachers"
+  },
+  {
+    "english": "teach",
+    "chinese": "教",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tiːtʃ/",
+    "uk_phonetic": "/tiːtʃ/",
+    "example_sentence_en": "She teaches us English.",
+    "example_sentence_cn": "她教我们英语。",
+    "inflection": "动词变化: teaches / taught / teaching"
+  },
+  {
+    "english": "student",
+    "chinese": "学生",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstuːdnt/",
+    "uk_phonetic": "/ˈstjuːdnt/",
+    "example_sentence_en": "I am a good student.",
+    "example_sentence_cn": "我是一名好学生。",
+    "inflection": "复数: students"
+  },
+  {
+    "english": "class",
+    "chinese": "班级；课",
+    "part_of_speech": "n.",
+    "us_phonetic": "/klæs/",
+    "uk_phonetic": "/klɑːs/",
+    "example_sentence_en": "We have English class today.",
+    "example_sentence_cn": "我们今天有英语课。",
+    "inflection": "复数: classes"
+  },
+  {
+    "english": "lesson",
+    "chinese": "课程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlesn/",
+    "uk_phonetic": "/ˈlesn/",
+    "example_sentence_en": "The lesson is very interesting.",
+    "example_sentence_cn": "这节课很有趣。",
+    "inflection": "复数: lessons"
+  },
+  {
+    "english": "strict",
+    "chinese": "严格的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/strɪkt/",
+    "uk_phonetic": "/strɪkt/",
+    "example_sentence_en": "Our math teacher is strict.",
+    "example_sentence_cn": "我们的数学老师很严格。",
+    "inflection": "比较级: stricter | 最高级: strictest"
+  },
+  {
+    "english": "smart",
+    "chinese": "聪明的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/smɑːrt/",
+    "uk_phonetic": "/smɑːt/",
+    "example_sentence_en": "The teacher is very smart.",
+    "example_sentence_cn": "这位老师非常聪明。",
+    "inflection": "比较级: smarter | 最高级: smartest"
+  },
+  {
+    "english": "question",
+    "chinese": "问题",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkwestʃən/",
+    "uk_phonetic": "/ˈkwestʃən/",
+    "example_sentence_en": "Can I ask a question?",
+    "example_sentence_cn": "我能问一个问题吗？",
+    "inflection": "复数: questions"
+  },
+  {
+    "english": "answer",
+    "chinese": "回答",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈænsər/",
+    "uk_phonetic": "/ˈɑːnsə(r)/",
+    "example_sentence_en": "I know the answer.",
+    "example_sentence_cn": "我知道答案。",
+    "inflection": "复数: answers; 动词变化: answers / answered / answering"
+  },
+  {
+    "english": "explain",
+    "chinese": "解释",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈspleɪn/",
+    "uk_phonetic": "/ɪkˈspleɪn/",
+    "example_sentence_en": "The teacher explains the rule.",
+    "example_sentence_cn": "老师解释这个规则。",
+    "inflection": "动词变化: explains / explained / explaining"
+  },
+  {
+    "english": "patient",
+    "chinese": "耐心的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈpeɪʃnt/",
+    "uk_phonetic": "/ˈpeɪʃnt/",
+    "example_sentence_en": "He is a patient teacher.",
+    "example_sentence_cn": "他是一位耐心的老师。",
+    "inflection": "比较级: more patient | 最高级: most patient"
+  },
+  {
+    "english": "praise",
+    "chinese": "表扬",
+    "part_of_speech": "v.",
+    "us_phonetic": "/preɪz/",
+    "uk_phonetic": "/preɪz/",
+    "example_sentence_en": "The teacher praises me.",
+    "example_sentence_cn": "老师表扬我。",
+    "inflection": "动词变化: praises / praised / praising"
+  },
+  {
+    "english": "mistake",
+    "chinese": "错误",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɪˈsteɪk/",
+    "uk_phonetic": "/mɪˈsteɪk/",
+    "example_sentence_en": "Don't be afraid to make mistakes.",
+    "example_sentence_cn": "不要害怕犯错。",
+    "inflection": "复数: mistakes"
+  },
+  {
+    "english": "grade",
+    "chinese": "成绩；年级",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡreɪd/",
+    "uk_phonetic": "/ɡreɪd/",
+    "example_sentence_en": "I get good grades.",
+    "example_sentence_cn": "我取得了好成绩。",
+    "inflection": "复数: grades"
+  },
+  {
+    "english": "principal",
+    "chinese": "校长",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɪnsəpl/",
+    "uk_phonetic": "/ˈprɪnsəpl/",
+    "example_sentence_en": "The principal is talking.",
+    "example_sentence_cn": "校长正在讲话。",
+    "inflection": "复数: principals"
+  },
+  {
+    "english": "tutor",
+    "chinese": "导师；家庭教师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtuːtər/",
+    "uk_phonetic": "/ˈtjuːtə(r)/",
+    "example_sentence_en": "My tutor helps me a lot.",
+    "example_sentence_cn": "我的家庭教师帮了我很多。",
+    "inflection": "复数: tutors"
+  },
+  {
+    "english": "noodle",
+    "chinese": "面条",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈnuːdl/",
+    "uk_phonetic": "/ˈnuːdl/",
+    "example_sentence_en": "I like eating noodles.",
+    "example_sentence_cn": "我喜欢吃面条。",
+    "inflection": "复数: noodles"
+  },
+  {
+    "english": "beef",
+    "chinese": "牛肉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/biːf/",
+    "uk_phonetic": "/biːf/",
+    "example_sentence_en": "The beef is delicious.",
+    "example_sentence_cn": "牛肉很好吃。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "pork",
+    "chinese": "猪肉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pɔːrk/",
+    "uk_phonetic": "/pɔːk/",
+    "example_sentence_en": "I don't eat pork.",
+    "example_sentence_cn": "我不吃猪肉。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "vegetable",
+    "chinese": "蔬菜",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvedʒtəbl/",
+    "uk_phonetic": "/ˈvedʒtəbl/",
+    "example_sentence_en": "Eat more vegetables.",
+    "example_sentence_cn": "多吃蔬菜。",
+    "inflection": "复数: vegetables"
+  },
+  {
+    "english": "salad",
+    "chinese": "沙拉",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsæləd/",
+    "uk_phonetic": "/ˈsæləd/",
+    "example_sentence_en": "I like fruit salad.",
+    "example_sentence_cn": "我喜欢水果沙拉。",
+    "inflection": "复数: salads"
+  },
+  {
+    "english": "soup",
+    "chinese": "汤",
+    "part_of_speech": "n.",
+    "us_phonetic": "/suːp/",
+    "uk_phonetic": "/suːp/",
+    "example_sentence_en": "The soup is hot.",
+    "example_sentence_cn": "汤很热。",
+    "inflection": "复数: soups"
+  },
+  {
+    "english": "sweet",
+    "chinese": "甜的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/swiːt/",
+    "uk_phonetic": "/swiːt/",
+    "example_sentence_en": "The cake is very sweet.",
+    "example_sentence_cn": "蛋糕很甜。",
+    "inflection": "比较级: sweeter | 最高级: sweetest"
+  },
+  {
+    "english": "sour",
+    "chinese": "酸的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/saʊr/",
+    "uk_phonetic": "/saʊə(r)/",
+    "example_sentence_en": "The lemon is sour.",
+    "example_sentence_cn": "柠檬是酸的。",
+    "inflection": "比较级: sourer | 最高级: sourest"
+  },
+  {
+    "english": "fresh",
+    "chinese": "新鲜的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/freʃ/",
+    "uk_phonetic": "/freʃ/",
+    "example_sentence_en": "The fish is very fresh.",
+    "example_sentence_cn": "这鱼很新鲜。",
+    "inflection": "比较级: fresher | 最高级: freshest"
+  },
+  {
+    "english": "healthy",
+    "chinese": "健康的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhelθi/",
+    "uk_phonetic": "/ˈhelθi/",
+    "example_sentence_en": "Fruit is healthy food.",
+    "example_sentence_cn": "水果是健康食品。",
+    "inflection": "比较级: healthier | 最高级: healthiest"
+  },
+  {
+    "english": "delicious",
+    "chinese": "美味的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/dɪˈlɪʃəs/",
+    "uk_phonetic": "/dɪˈlɪʃəs/",
+    "example_sentence_en": "The food is delicious.",
+    "example_sentence_cn": "食物很美味。",
+    "inflection": "比较级: more delicious | 最高级: most delicious"
+  },
+  {
+    "english": "hungry",
+    "chinese": "饥饿的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhʌŋɡri/",
+    "uk_phonetic": "/ˈhʌŋɡri/",
+    "example_sentence_en": "I am very hungry now.",
+    "example_sentence_cn": "我现在非常饿。",
+    "inflection": "比较级: hungrier | 最高级: hungriest"
+  },
+  {
+    "english": "thirsty",
+    "chinese": "口渴的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈθɜːrsti/",
+    "uk_phonetic": "/ˈθɜːsti/",
+    "example_sentence_en": "I am thirsty after running.",
+    "example_sentence_cn": "跑步后我很渴。",
+    "inflection": "比较级: thirstier | 最高级: thirstiest"
+  },
+  {
+    "english": "snack",
+    "chinese": "零食",
+    "part_of_speech": "n.",
+    "us_phonetic": "/snæk/",
+    "uk_phonetic": "/snæk/",
+    "example_sentence_en": "I eat a snack after school.",
+    "example_sentence_cn": "放学后我吃零食。",
+    "inflection": "复数: snacks"
+  },
+  {
+    "english": "diet",
+    "chinese": "日常饮食",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdaɪət/",
+    "uk_phonetic": "/ˈdaɪət/",
+    "example_sentence_en": "A healthy diet is important.",
+    "example_sentence_cn": "健康的饮食很重要。",
+    "inflection": "复数: diets"
+  },
+  {
+    "english": "meal",
+    "chinese": "一餐",
+    "part_of_speech": "n.",
+    "us_phonetic": "/miːl/",
+    "uk_phonetic": "/miːl/",
+    "example_sentence_en": "We have three meals a day.",
+    "example_sentence_cn": "我们一天吃三餐。",
+    "inflection": "复数: meals"
+  },
+  {
+    "english": "taste",
+    "chinese": "尝起来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/teɪst/",
+    "uk_phonetic": "/teɪst/",
+    "example_sentence_en": "It tastes good.",
+    "example_sentence_cn": "它尝起来很好。",
+    "inflection": "动词变化: tastes / tasted / tasting"
+  },
+  {
+    "english": "mountain",
+    "chinese": "高山",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmaʊntən/",
+    "uk_phonetic": "/ˈmaʊntən/",
+    "example_sentence_en": "The mountain is very high.",
+    "example_sentence_cn": "这座山很高。",
+    "inflection": "复数: mountains"
+  },
+  {
+    "english": "river",
+    "chinese": "河流",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrɪvər/",
+    "uk_phonetic": "/ˈrɪvə(r)/",
+    "example_sentence_en": "The river is long.",
+    "example_sentence_cn": "这条河很长。",
+    "inflection": "复数: rivers"
+  },
+  {
+    "english": "lake",
+    "chinese": "湖泊",
+    "part_of_speech": "n.",
+    "us_phonetic": "/leɪk/",
+    "uk_phonetic": "/leɪk/",
+    "example_sentence_en": "We swim in the lake.",
+    "example_sentence_cn": "我们在湖里游泳。",
+    "inflection": "复数: lakes"
+  },
+  {
+    "english": "ocean",
+    "chinese": "海洋",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈoʊʃn/",
+    "uk_phonetic": "/ˈəʊʃn/",
+    "example_sentence_en": "The ocean is blue.",
+    "example_sentence_cn": "海洋是蓝色的。",
+    "inflection": "复数: oceans"
+  },
+  {
+    "english": "forest",
+    "chinese": "森林",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɔːrɪst/",
+    "uk_phonetic": "/ˈfɒrɪst/",
+    "example_sentence_en": "Bears live in the forest.",
+    "example_sentence_cn": "熊住在森林里。",
+    "inflection": "复数: forests"
+  },
+  {
+    "english": "tree",
+    "chinese": "树",
+    "part_of_speech": "n.",
+    "us_phonetic": "/triː/",
+    "uk_phonetic": "/triː/",
+    "example_sentence_en": "The tree is very tall.",
+    "example_sentence_cn": "这棵树很高。",
+    "inflection": "复数: trees"
+  },
+  {
+    "english": "flower",
+    "chinese": "花",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈflaʊər/",
+    "uk_phonetic": "/ˈflaʊə(r)/",
+    "example_sentence_en": "The flower is beautiful.",
+    "example_sentence_cn": "这朵花很漂亮。",
+    "inflection": "复数: flowers"
+  },
+  {
+    "english": "sky",
+    "chinese": "天空",
+    "part_of_speech": "n.",
+    "us_phonetic": "/skaɪ/",
+    "uk_phonetic": "/skaɪ/",
+    "example_sentence_en": "Birds fly in the sky.",
+    "example_sentence_cn": "鸟儿在天空飞翔。",
+    "inflection": "复数: skies"
+  },
+  {
+    "english": "cloud",
+    "chinese": "云",
+    "part_of_speech": "n.",
+    "us_phonetic": "/klaʊd/",
+    "uk_phonetic": "/klaʊd/",
+    "example_sentence_en": "There is a white cloud.",
+    "example_sentence_cn": "有一朵白云。",
+    "inflection": "复数: clouds"
+  },
+  {
+    "english": "rain",
+    "chinese": "雨；下雨",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/reɪn/",
+    "uk_phonetic": "/reɪn/",
+    "example_sentence_en": "The rain stops.",
+    "example_sentence_cn": "雨停了。",
+    "inflection": "动词变化: rains / rained / raining; 名词: 不可数"
+  },
+  {
+    "english": "snow",
+    "chinese": "雪；下雪",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/snoʊ/",
+    "uk_phonetic": "/snəʊ/",
+    "example_sentence_en": "The snow is white.",
+    "example_sentence_cn": "雪是白色的。",
+    "inflection": "动词变化: snows / snowed / snowing; 名词: 不可数"
+  },
+  {
+    "english": "sun",
+    "chinese": "太阳",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sʌn/",
+    "uk_phonetic": "/sʌn/",
+    "example_sentence_en": "The sun is bright.",
+    "example_sentence_cn": "太阳很明亮。",
+    "inflection": "复数: suns"
+  },
+  {
+    "english": "moon",
+    "chinese": "月亮",
+    "part_of_speech": "n.",
+    "us_phonetic": "/muːn/",
+    "uk_phonetic": "/muːn/",
+    "example_sentence_en": "The moon is round tonight.",
+    "example_sentence_cn": "今晚月亮很圆。",
+    "inflection": "复数: moons"
+  },
+  {
+    "english": "star",
+    "chinese": "星星",
+    "part_of_speech": "n.",
+    "us_phonetic": "/stɑːr/",
+    "uk_phonetic": "/stɑː(r)/",
+    "example_sentence_en": "I see a bright star.",
+    "example_sentence_cn": "我看到一颗明亮的星星。",
+    "inflection": "复数: stars"
+  },
+  {
+    "english": "wind",
+    "chinese": "风",
+    "part_of_speech": "n.",
+    "us_phonetic": "/wɪnd/",
+    "uk_phonetic": "/wɪnd/",
+    "example_sentence_en": "The wind is blowing.",
+    "example_sentence_cn": "风在吹。",
+    "inflection": "复数: winds"
+  },
+  {
+    "english": "stone",
+    "chinese": "石头",
+    "part_of_speech": "n.",
+    "us_phonetic": "/stoʊn/",
+    "uk_phonetic": "/stəʊn/",
+    "example_sentence_en": "The stone is very hard.",
+    "example_sentence_cn": "石头很硬。",
+    "inflection": "复数: stones"
+  }
+]

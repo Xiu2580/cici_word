@@ -1,0 +1,2022 @@
+[
+  {
+    "english": "already",
+    "chinese": "已经",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ɔːlˈredi/",
+    "uk_phonetic": "/ɔːlˈredi/",
+    "example_sentence_en": "I have already finished my homework.",
+    "example_sentence_cn": "我已经完成了我的作业。",
+    "inflection": "无"
+  },
+  {
+    "english": "yet",
+    "chinese": "还（用于否定句/疑问句）",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/jet/",
+    "uk_phonetic": "/jet/",
+    "example_sentence_en": "Have you seen the movie yet?",
+    "example_sentence_cn": "你看过这部电影了吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "ever",
+    "chinese": "曾经",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈevər/",
+    "uk_phonetic": "/ˈevə(r)/",
+    "example_sentence_en": "Have you ever been to London?",
+    "example_sentence_cn": "你曾经去过伦敦吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "never",
+    "chinese": "从不",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈnevər/",
+    "uk_phonetic": "/ˈnevə(r)/",
+    "example_sentence_en": "I have never seen such a tall building.",
+    "example_sentence_cn": "我从未见过这么高的建筑。",
+    "inflection": "无"
+  },
+  {
+    "english": "just",
+    "chinese": "刚刚；刚才",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/dʒʌst/",
+    "uk_phonetic": "/dʒʌst/",
+    "example_sentence_en": "She has just left the room.",
+    "example_sentence_cn": "她刚刚离开了房间。",
+    "inflection": "无"
+  },
+  {
+    "english": "before",
+    "chinese": "以前",
+    "part_of_speech": "adv. / prep.",
+    "us_phonetic": "/bɪˈfɔːr/",
+    "uk_phonetic": "/bɪˈfɔː(r)/",
+    "example_sentence_en": "I have read this book before.",
+    "example_sentence_cn": "我以前读过这本书。",
+    "inflection": "无"
+  },
+  {
+    "english": "recently",
+    "chinese": "最近",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/ˈriːsntli/",
+    "uk_phonetic": "/ˈriːsntli/",
+    "example_sentence_en": "He has recently learned to swim.",
+    "example_sentence_cn": "他最近学会了游泳。",
+    "inflection": "无"
+  },
+  {
+    "english": "since",
+    "chinese": "自从",
+    "part_of_speech": "prep. / conj.",
+    "us_phonetic": "/sɪns/",
+    "uk_phonetic": "/sɪns/",
+    "example_sentence_en": "I have lived here since 2010.",
+    "example_sentence_cn": "自2010年以来我就住在这里。",
+    "inflection": "无"
+  },
+  {
+    "english": "for",
+    "chinese": "长达（一段时间）",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/fɔːr/",
+    "uk_phonetic": "/fɔː(r)/",
+    "example_sentence_en": "We have studied English for five years.",
+    "example_sentence_cn": "我们已经学英语五年了。",
+    "inflection": "无"
+  },
+  {
+    "english": "experience",
+    "chinese": "经历；经验",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ɪkˈspɪriəns/",
+    "uk_phonetic": "/ɪkˈspɪəriəns/",
+    "example_sentence_en": "I have experienced many things this year.",
+    "example_sentence_cn": "今年我经历了很多事情。",
+    "inflection": "动词变化: experiences / experienced / experiencing; 复数: experiences"
+  },
+  {
+    "english": "happen",
+    "chinese": "发生",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈhæpən/",
+    "uk_phonetic": "/ˈhæpən/",
+    "example_sentence_en": "What has happened to him?",
+    "example_sentence_cn": "他发生什么事了？",
+    "inflection": "动词变化: happens / happened / happening"
+  },
+  {
+    "english": "see",
+    "chinese": "看见",
+    "part_of_speech": "v.",
+    "us_phonetic": "/siː/",
+    "uk_phonetic": "/siː/",
+    "example_sentence_en": "I have seen that movie twice.",
+    "example_sentence_cn": "那部电影我已经看过两遍了。",
+    "inflection": "动词变化: sees / saw / seen"
+  },
+  {
+    "english": "do",
+    "chinese": "做",
+    "part_of_speech": "v.",
+    "us_phonetic": "/duː/",
+    "uk_phonetic": "/duː/",
+    "example_sentence_en": "He has done his chores.",
+    "example_sentence_cn": "他已经做了家务。",
+    "inflection": "动词变化: does / did / done"
+  },
+  {
+    "english": "go",
+    "chinese": "去",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡoʊ/",
+    "uk_phonetic": "/ɡəʊ/",
+    "example_sentence_en": "She has gone to the library.",
+    "example_sentence_cn": "她去图书馆了。",
+    "inflection": "动词变化: goes / went / gone"
+  },
+  {
+    "english": "be",
+    "chinese": "是；存在",
+    "part_of_speech": "v.",
+    "us_phonetic": "/biː/",
+    "uk_phonetic": "/biː/",
+    "example_sentence_en": "I have been to Beijing twice.",
+    "example_sentence_cn": "我去过北京两次。",
+    "inflection": "动词变化: am/is/are / was/were / been"
+  },
+  {
+    "english": "eat",
+    "chinese": "吃",
+    "part_of_speech": "v.",
+    "us_phonetic": "/iːt/",
+    "uk_phonetic": "/iːt/",
+    "example_sentence_en": "We have eaten lunch already.",
+    "example_sentence_cn": "我们已经吃过午饭了。",
+    "inflection": "动词变化: eats / ate / eaten"
+  },
+  {
+    "english": "drink",
+    "chinese": "喝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/drɪŋk/",
+    "uk_phonetic": "/drɪŋk/",
+    "example_sentence_en": "He has drunk all the milk.",
+    "example_sentence_cn": "他把牛奶全喝光了。",
+    "inflection": "动词变化: drinks / drank / drunk"
+  },
+  {
+    "english": "take",
+    "chinese": "拿；带",
+    "part_of_speech": "v.",
+    "us_phonetic": "/teɪk/",
+    "uk_phonetic": "/teɪk/",
+    "example_sentence_en": "She has taken the book home.",
+    "example_sentence_cn": "她已经把书带回家了。",
+    "inflection": "动词变化: takes / took / taken"
+  },
+  {
+    "english": "write",
+    "chinese": "写",
+    "part_of_speech": "v.",
+    "us_phonetic": "/raɪt/",
+    "uk_phonetic": "/raɪt/",
+    "example_sentence_en": "I have written a letter to my friend.",
+    "example_sentence_cn": "我已经给朋友写了一封信。",
+    "inflection": "动词变化: writes / wrote / written"
+  },
+  {
+    "english": "read",
+    "chinese": "读",
+    "part_of_speech": "v.",
+    "us_phonetic": "/riːd/",
+    "uk_phonetic": "/riːd/",
+    "example_sentence_en": "He has read many books this month.",
+    "example_sentence_cn": "他这个月读了许多书。",
+    "inflection": "动词变化: reads / read / reading"
+  },
+  {
+    "english": "make",
+    "chinese": "制作；使",
+    "part_of_speech": "v.",
+    "us_phonetic": "/meɪk/",
+    "uk_phonetic": "/meɪk/",
+    "example_sentence_en": "We have made a big cake.",
+    "example_sentence_cn": "我们已经做了一个大蛋糕。",
+    "inflection": "动词变化: makes / made / making"
+  },
+  {
+    "english": "keep",
+    "chinese": "保持；保留",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kiːp/",
+    "uk_phonetic": "/kiːp/",
+    "example_sentence_en": "She has kept the secret for years.",
+    "example_sentence_cn": "她保守这个秘密多年了。",
+    "inflection": "动词变化: keeps / kept / keeping"
+  },
+  {
+    "english": "leave",
+    "chinese": "离开",
+    "part_of_speech": "v.",
+    "us_phonetic": "/liːv/",
+    "uk_phonetic": "/liːv/",
+    "example_sentence_en": "The train has left the station.",
+    "example_sentence_cn": "火车已经离开车站了。",
+    "inflection": "动词变化: leaves / left / leaving"
+  },
+  {
+    "english": "meet",
+    "chinese": "遇见；会见",
+    "part_of_speech": "v.",
+    "us_phonetic": "/miːt/",
+    "uk_phonetic": "/miːt/",
+    "example_sentence_en": "I have met him somewhere before.",
+    "example_sentence_cn": "我以前在哪儿见过他。",
+    "inflection": "动词变化: meets / met / meeting"
+  },
+  {
+    "english": "buy",
+    "chinese": "买",
+    "part_of_speech": "v.",
+    "us_phonetic": "/baɪ/",
+    "uk_phonetic": "/baɪ/",
+    "example_sentence_en": "She has bought a new dress.",
+    "example_sentence_cn": "她买了一条新裙子。",
+    "inflection": "动词变化: buys / bought / buying"
+  },
+  {
+    "english": "bring",
+    "chinese": "带来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/brɪŋ/",
+    "uk_phonetic": "/brɪŋ/",
+    "example_sentence_en": "He has brought his laptop.",
+    "example_sentence_cn": "他已经把笔记本电脑带来了。",
+    "inflection": "动词变化: brings / brought / bringing"
+  },
+  {
+    "english": "catch",
+    "chinese": "抓住；赶上",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kætʃ/",
+    "uk_phonetic": "/kætʃ/",
+    "example_sentence_en": "I have caught a cold.",
+    "example_sentence_cn": "我感冒了。",
+    "inflection": "动词变化: catches / caught / catching"
+  },
+  {
+    "english": "teach",
+    "chinese": "教",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tiːtʃ/",
+    "uk_phonetic": "/tiːtʃ/",
+    "example_sentence_en": "She has taught us for two years.",
+    "example_sentence_cn": "她教我们两年了。",
+    "inflection": "动词变化: teaches / taught / teaching"
+  },
+  {
+    "english": "think",
+    "chinese": "想；认为",
+    "part_of_speech": "v.",
+    "us_phonetic": "/θɪŋk/",
+    "uk_phonetic": "/θɪŋk/",
+    "example_sentence_en": "I have thought about it carefully.",
+    "example_sentence_cn": "我已经仔细考虑过这件事了。",
+    "inflection": "动词变化: thinks / thought / thinking"
+  },
+  {
+    "english": "spend",
+    "chinese": "花费；度过",
+    "part_of_speech": "v.",
+    "us_phonetic": "/spend/",
+    "uk_phonetic": "/spend/",
+    "example_sentence_en": "He has spent all his money.",
+    "example_sentence_cn": "他把钱都花光了。",
+    "inflection": "动词变化: spends / spent / spending"
+  },
+  {
+    "english": "wake",
+    "chinese": "醒来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/weɪk/",
+    "uk_phonetic": "/weɪk/",
+    "example_sentence_en": "She has just woken up.",
+    "example_sentence_cn": "她刚刚醒来。",
+    "inflection": "动词变化: wakes / woke / woken"
+  },
+  {
+    "english": "grow",
+    "chinese": "成长；种植",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡroʊ/",
+    "uk_phonetic": "/ɡrəʊ/",
+    "example_sentence_en": "He has grown a lot this year.",
+    "example_sentence_cn": "他今年长高了很多。",
+    "inflection": "动词变化: grows / grew / grown"
+  },
+  {
+    "english": "know",
+    "chinese": "知道",
+    "part_of_speech": "v.",
+    "us_phonetic": "/noʊ/",
+    "uk_phonetic": "/nəʊ/",
+    "example_sentence_en": "I have known him since childhood.",
+    "example_sentence_cn": "我从童年起就认识他了。",
+    "inflection": "动词变化: knows / knew / known"
+  },
+  {
+    "english": "begin",
+    "chinese": "开始",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪˈɡɪn/",
+    "uk_phonetic": "/bɪˈɡɪn/",
+    "example_sentence_en": "The class has already begun.",
+    "example_sentence_cn": "课已经开始了。",
+    "inflection": "动词变化: begins / began / begun"
+  },
+  {
+    "english": "break",
+    "chinese": "打破；弄坏",
+    "part_of_speech": "v.",
+    "us_phonetic": "/breɪk/",
+    "uk_phonetic": "/breɪk/",
+    "example_sentence_en": "He has broken the window.",
+    "example_sentence_cn": "他打破了窗户。",
+    "inflection": "动词变化: breaks / broke / broken"
+  },
+  {
+    "english": "choose",
+    "chinese": "选择",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tʃuːz/",
+    "uk_phonetic": "/tʃuːz/",
+    "example_sentence_en": "She has chosen a nice gift.",
+    "example_sentence_cn": "她挑选了一份好礼物。",
+    "inflection": "动词变化: chooses / chose / chosen"
+  },
+  {
+    "english": "draw",
+    "chinese": "画",
+    "part_of_speech": "v.",
+    "us_phonetic": "/drɔː/",
+    "uk_phonetic": "/drɔː/",
+    "example_sentence_en": "I have drawn a picture of the park.",
+    "example_sentence_cn": "我画了一张公园的画。",
+    "inflection": "动词变化: draws / drew / drawn"
+  },
+  {
+    "english": "drive",
+    "chinese": "开车",
+    "part_of_speech": "v.",
+    "us_phonetic": "/draɪv/",
+    "uk_phonetic": "/draɪv/",
+    "example_sentence_en": "He has driven to work today.",
+    "example_sentence_cn": "他今天开车去上班了。",
+    "inflection": "动词变化: drives / drove / driven"
+  },
+  {
+    "english": "fall",
+    "chinese": "落下；跌倒",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fɔːl/",
+    "uk_phonetic": "/fɔːl/",
+    "example_sentence_en": "The tree has fallen down.",
+    "example_sentence_cn": "树倒下了。",
+    "inflection": "动词变化: falls / fell / fallen"
+  },
+  {
+    "english": "fly",
+    "chinese": "飞",
+    "part_of_speech": "v.",
+    "us_phonetic": "/flaɪ/",
+    "uk_phonetic": "/flaɪ/",
+    "example_sentence_en": "They have flown to Paris.",
+    "example_sentence_cn": "他们已经飞往巴黎了。",
+    "inflection": "动词变化: flies / flew / flown"
+  },
+  {
+    "english": "forget",
+    "chinese": "忘记",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fərˈɡet/",
+    "uk_phonetic": "/fəˈɡet/",
+    "example_sentence_en": "I have forgotten his name.",
+    "example_sentence_cn": "我忘记了他的名字。",
+    "inflection": "动词变化: forgets / forgot / forgotten"
+  },
+  {
+    "english": "hide",
+    "chinese": "隐藏",
+    "part_of_speech": "v.",
+    "us_phonetic": "/haɪd/",
+    "uk_phonetic": "/haɪd/",
+    "example_sentence_en": "The cat has hidden under the bed.",
+    "example_sentence_cn": "猫藏到了床底下。",
+    "inflection": "动词变化: hides / hid / hidden"
+  },
+  {
+    "english": "ride",
+    "chinese": "骑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/raɪd/",
+    "uk_phonetic": "/raɪd/",
+    "example_sentence_en": "She has ridden the horse before.",
+    "example_sentence_cn": "她以前骑过这匹马。",
+    "inflection": "动词变化: rides / rode / ridden"
+  },
+  {
+    "english": "rise",
+    "chinese": "升起；上升",
+    "part_of_speech": "v.",
+    "us_phonetic": "/raɪz/",
+    "uk_phonetic": "/raɪz/",
+    "example_sentence_en": "The sun has risen.",
+    "example_sentence_cn": "太阳已经升起来了。",
+    "inflection": "动词变化: rises / rose / risen"
+  },
+  {
+    "english": "run",
+    "chinese": "跑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rʌn/",
+    "uk_phonetic": "/rʌn/",
+    "example_sentence_en": "He has run five miles.",
+    "example_sentence_cn": "他已经跑了五英里。",
+    "inflection": "动词变化: runs / ran / running"
+  },
+  {
+    "english": "say",
+    "chinese": "说",
+    "part_of_speech": "v.",
+    "us_phonetic": "/seɪ/",
+    "uk_phonetic": "/seɪ/",
+    "example_sentence_en": "She has said sorry to me.",
+    "example_sentence_cn": "她已经对我说对不起了。",
+    "inflection": "动词变化: says / said / saying"
+  },
+  {
+    "english": "sell",
+    "chinese": "卖",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sel/",
+    "uk_phonetic": "/sel/",
+    "example_sentence_en": "They have sold their house.",
+    "example_sentence_cn": "他们已经把房子卖了。",
+    "inflection": "动词变化: sells / sold / selling"
+  },
+  {
+    "english": "send",
+    "chinese": "发送；寄",
+    "part_of_speech": "v.",
+    "us_phonetic": "/send/",
+    "uk_phonetic": "/send/",
+    "example_sentence_en": "I have sent an email to him.",
+    "example_sentence_cn": "我已经给他发了一封电子邮件。",
+    "inflection": "动词变化: sends / sent / sending"
+  },
+  {
+    "english": "show",
+    "chinese": "展示；给……看",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ʃoʊ/",
+    "uk_phonetic": "/ʃəʊ/",
+    "example_sentence_en": "He has shown me his photos.",
+    "example_sentence_cn": "他给我看了他的照片。",
+    "inflection": "动词变化: shows / showed / shown"
+  },
+  {
+    "english": "sing",
+    "chinese": "唱歌",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sɪŋ/",
+    "uk_phonetic": "/sɪŋ/",
+    "example_sentence_en": "She has sung a beautiful song.",
+    "example_sentence_cn": "她唱了一首动听的歌。",
+    "inflection": "动词变化: sings / sang / sung"
+  },
+  {
+    "english": "speak",
+    "chinese": "说（某种语言）；讲话",
+    "part_of_speech": "v.",
+    "us_phonetic": "/spiːk/",
+    "uk_phonetic": "/spiːk/",
+    "example_sentence_en": "He has spoken to the manager.",
+    "example_sentence_cn": "他已经和经理谈过了。",
+    "inflection": "动词变化: speaks / spoke / spoken"
+  },
+  {
+    "english": "steal",
+    "chinese": "偷",
+    "part_of_speech": "v.",
+    "us_phonetic": "/stiːl/",
+    "uk_phonetic": "/stiːl/",
+    "example_sentence_en": "Someone has stolen my wallet.",
+    "example_sentence_cn": "有人偷了我的钱包。",
+    "inflection": "动词变化: steals / stole / stolen"
+  },
+  {
+    "english": "swim",
+    "chinese": "游泳",
+    "part_of_speech": "v.",
+    "us_phonetic": "/swɪm/",
+    "uk_phonetic": "/swɪm/",
+    "example_sentence_en": "I have never swum in the sea.",
+    "example_sentence_cn": "我从没在海里游过泳。",
+    "inflection": "动词变化: swims / swam / swum"
+  },
+  {
+    "english": "sweep",
+    "chinese": "打扫；扫",
+    "part_of_speech": "v.",
+    "us_phonetic": "/swiːp/",
+    "uk_phonetic": "/swiːp/",
+    "example_sentence_en": "She has swept the floor.",
+    "example_sentence_cn": "她已经扫过地了。",
+    "inflection": "动词变化: sweeps / swept / sweeping"
+  },
+  {
+    "english": "tell",
+    "chinese": "告诉",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tel/",
+    "uk_phonetic": "/tel/",
+    "example_sentence_en": "I have told him the truth.",
+    "example_sentence_cn": "我已经告诉他真相了。",
+    "inflection": "动词变化: tells / told / telling"
+  },
+  {
+    "english": "win",
+    "chinese": "赢",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɪn/",
+    "uk_phonetic": "/wɪn/",
+    "example_sentence_en": "Our team has won the game.",
+    "example_sentence_cn": "我们队赢得了比赛。",
+    "inflection": "动词变化: wins / won / winning"
+  },
+  {
+    "english": "wear",
+    "chinese": "穿；戴",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wer/",
+    "uk_phonetic": "/weə(r)/",
+    "example_sentence_en": "She has worn this dress before.",
+    "example_sentence_cn": "她以前穿过这条裙子。",
+    "inflection": "动词变化: wears / wore / worn"
+  },
+  {
+    "english": "lose",
+    "chinese": "丢失；输",
+    "part_of_speech": "v.",
+    "us_phonetic": "/luːz/",
+    "uk_phonetic": "/luːz/",
+    "example_sentence_en": "I have lost my keys.",
+    "example_sentence_cn": "我把钥匙丢了。",
+    "inflection": "动词变化: loses / lost / losing"
+  },
+  {
+    "english": "find",
+    "chinese": "找到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/faɪnd/",
+    "uk_phonetic": "/faɪnd/",
+    "example_sentence_en": "He has found his missing dog.",
+    "example_sentence_cn": "他找到了他走失的狗。",
+    "inflection": "动词变化: finds / found / finding"
+  },
+  {
+    "english": "build",
+    "chinese": "建造",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪld/",
+    "uk_phonetic": "/bɪld/",
+    "example_sentence_en": "They have built a new bridge.",
+    "example_sentence_cn": "他们建了一座新桥。",
+    "inflection": "动词变化: builds / built / building"
+  },
+  {
+    "english": "understand",
+    "chinese": "理解",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌʌndərˈstænd/",
+    "uk_phonetic": "/ˌʌndəˈstænd/",
+    "example_sentence_en": "I have understood the lesson.",
+    "example_sentence_cn": "我已经理解了这一课。",
+    "inflection": "动词变化: understands / understood / understanding"
+  },
+  {
+    "english": "have",
+    "chinese": "有；吃",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hæv/",
+    "uk_phonetic": "/hæv/",
+    "example_sentence_en": "We have had a great time.",
+    "example_sentence_cn": "我们玩得很开心。",
+    "inflection": "动词变化: has / had / having"
+  },
+  {
+    "english": "come",
+    "chinese": "来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kʌm/",
+    "uk_phonetic": "/kʌm/",
+    "example_sentence_en": "He has come back from school.",
+    "example_sentence_cn": "他已经从学校回来了。",
+    "inflection": "动词变化: comes / came / coming"
+  },
+  {
+    "english": "give",
+    "chinese": "给",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡɪv/",
+    "uk_phonetic": "/ɡɪv/",
+    "example_sentence_en": "She has given me a lot of help.",
+    "example_sentence_cn": "她给了我很多帮助。",
+    "inflection": "动词变化: gives / gave / given"
+  },
+  {
+    "english": "hear",
+    "chinese": "听到",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hɪr/",
+    "uk_phonetic": "/hɪə(r)/",
+    "example_sentence_en": "I have heard the news.",
+    "example_sentence_cn": "我已经听到这个消息了。",
+    "inflection": "动词变化: hears / heard / hearing"
+  },
+  {
+    "english": "learn",
+    "chinese": "学习",
+    "part_of_speech": "v.",
+    "us_phonetic": "/lɜːrn/",
+    "uk_phonetic": "/lɜːn/",
+    "example_sentence_en": "She has learned a lot from the story.",
+    "example_sentence_cn": "她从这个故事中学到了很多。",
+    "inflection": "动词变化: learns / learned / learning"
+  },
+  {
+    "english": "mean",
+    "chinese": "意味着",
+    "part_of_speech": "v.",
+    "us_phonetic": "/miːn/",
+    "uk_phonetic": "/miːn/",
+    "example_sentence_en": "What has he meant by that?",
+    "example_sentence_cn": "他那样说是什么意思？",
+    "inflection": "动词变化: means / meant / meaning"
+  },
+  {
+    "english": "pay",
+    "chinese": "付款",
+    "part_of_speech": "v.",
+    "us_phonetic": "/peɪ/",
+    "uk_phonetic": "/peɪ/",
+    "example_sentence_en": "I have paid for the ticket.",
+    "example_sentence_cn": "我已经付了票钱。",
+    "inflection": "动词变化: pays / paid / paying"
+  },
+  {
+    "english": "stand",
+    "chinese": "站立",
+    "part_of_speech": "v.",
+    "us_phonetic": "/stænd/",
+    "uk_phonetic": "/stænd/",
+    "example_sentence_en": "He has stood there for an hour.",
+    "example_sentence_cn": "他在那里站了一个小时了。",
+    "inflection": "动词变化: stands / stood / standing"
+  },
+  {
+    "english": "throw",
+    "chinese": "扔",
+    "part_of_speech": "v.",
+    "us_phonetic": "/θroʊ/",
+    "uk_phonetic": "/θrəʊ/",
+    "example_sentence_en": "She has thrown away the rubbish.",
+    "example_sentence_cn": "她已经把垃圾扔掉了。",
+    "inflection": "动词变化: throws / threw / thrown"
+  },
+  {
+    "english": "sleep",
+    "chinese": "睡觉",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sliːp/",
+    "uk_phonetic": "/sliːp/",
+    "example_sentence_en": "The baby has slept for two hours.",
+    "example_sentence_cn": "宝宝已经睡了两个小时了。",
+    "inflection": "动词变化: sleeps / slept / sleeping"
+  },
+  {
+    "english": "feel",
+    "chinese": "感觉",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fiːl/",
+    "uk_phonetic": "/fiːl/",
+    "example_sentence_en": "I have felt much better recently.",
+    "example_sentence_cn": "我最近感觉好多了。",
+    "inflection": "动词变化: feels / felt / feeling"
+  },
+  {
+    "english": "get",
+    "chinese": "得到；变得",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɡet/",
+    "uk_phonetic": "/ɡet/",
+    "example_sentence_en": "He has gotten a new job.",
+    "example_sentence_cn": "他得到了一份新工作。",
+    "inflection": "动词变化: gets / got / gotten (英got)"
+  },
+  {
+    "english": "hold",
+    "chinese": "拿着；举行",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hoʊld/",
+    "uk_phonetic": "/həʊld/",
+    "example_sentence_en": "They have held a meeting.",
+    "example_sentence_cn": "他们已经举行了一次会议。",
+    "inflection": "动词变化: holds / held / holding"
+  },
+  {
+    "english": "lay",
+    "chinese": "放置；下蛋",
+    "part_of_speech": "v.",
+    "us_phonetic": "/leɪ/",
+    "uk_phonetic": "/leɪ/",
+    "example_sentence_en": "The hen has laid an egg.",
+    "example_sentence_cn": "母鸡下了一个蛋。",
+    "inflection": "动词变化: lays / laid / laying"
+  },
+  {
+    "english": "lead",
+    "chinese": "引导；通向",
+    "part_of_speech": "v.",
+    "us_phonetic": "/liːd/",
+    "uk_phonetic": "/liːd/",
+    "example_sentence_en": "She has led us to the room.",
+    "example_sentence_cn": "她把我们领到了房间。",
+    "inflection": "动词变化: leads / led / leading"
+  },
+  {
+    "english": "lend",
+    "chinese": "借出",
+    "part_of_speech": "v.",
+    "us_phonetic": "/lend/",
+    "uk_phonetic": "/lend/",
+    "example_sentence_en": "I have lent him my pen.",
+    "example_sentence_cn": "我把笔借给他了。",
+    "inflection": "动词变化: lends / lent / lending"
+  },
+  {
+    "english": "light",
+    "chinese": "点燃；照亮",
+    "part_of_speech": "v.",
+    "us_phonetic": "/laɪt/",
+    "uk_phonetic": "/laɪt/",
+    "example_sentence_en": "He has lit the candle.",
+    "example_sentence_cn": "他点燃了蜡烛。",
+    "inflection": "动词变化: lights / lit / lighting"
+  },
+  {
+    "english": "can",
+    "chinese": "能；会",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/kæn/",
+    "uk_phonetic": "/kæn/",
+    "example_sentence_en": "She can speak French fluently.",
+    "example_sentence_cn": "她能流利地说法语。",
+    "inflection": "过去式: could"
+  },
+  {
+    "english": "could",
+    "chinese": "能；可能",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/kʊd/",
+    "uk_phonetic": "/kʊd/",
+    "example_sentence_en": "Could you please help me?",
+    "example_sentence_cn": "你能帮帮我吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "may",
+    "chinese": "可以；可能",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/meɪ/",
+    "uk_phonetic": "/meɪ/",
+    "example_sentence_en": "You may use my computer.",
+    "example_sentence_cn": "你可以用我的电脑。",
+    "inflection": "过去式: might"
+  },
+  {
+    "english": "might",
+    "chinese": "可能；也许",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/maɪt/",
+    "uk_phonetic": "/maɪt/",
+    "example_sentence_en": "He might come tomorrow.",
+    "example_sentence_cn": "他明天可能会来。",
+    "inflection": "无"
+  },
+  {
+    "english": "must",
+    "chinese": "必须；一定",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/mʌst/",
+    "uk_phonetic": "/mʌst/",
+    "example_sentence_en": "You must finish your homework on time.",
+    "example_sentence_cn": "你必须按时完成作业。",
+    "inflection": "无"
+  },
+  {
+    "english": "shall",
+    "chinese": "将要；好吗",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/ʃæl/",
+    "uk_phonetic": "/ʃæl/",
+    "example_sentence_en": "Shall we go for a walk?",
+    "example_sentence_cn": "我们去散步好吗？",
+    "inflection": "过去式: should"
+  },
+  {
+    "english": "should",
+    "chinese": "应该",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/ʃʊd/",
+    "uk_phonetic": "/ʃʊd/",
+    "example_sentence_en": "You should listen to your teacher.",
+    "example_sentence_cn": "你应该听老师的话。",
+    "inflection": "无"
+  },
+  {
+    "english": "will",
+    "chinese": "将；会",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/wɪl/",
+    "uk_phonetic": "/wɪl/",
+    "example_sentence_en": "I will help you with your English.",
+    "example_sentence_cn": "我会帮你学英语。",
+    "inflection": "过去式: would"
+  },
+  {
+    "english": "would",
+    "chinese": "会；愿意",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/wʊd/",
+    "uk_phonetic": "/wʊd/",
+    "example_sentence_en": "Would you like a cup of tea?",
+    "example_sentence_cn": "你想喝杯茶吗？",
+    "inflection": "无"
+  },
+  {
+    "english": "need",
+    "chinese": "需要",
+    "part_of_speech": "modal v. / v.",
+    "us_phonetic": "/niːd/",
+    "uk_phonetic": "/niːd/",
+    "example_sentence_en": "You needn't worry about it.",
+    "example_sentence_cn": "你不必为此担心。",
+    "inflection": "动词变化: needs / needed / needing"
+  },
+  {
+    "english": "dare",
+    "chinese": "敢",
+    "part_of_speech": "modal v. / v.",
+    "us_phonetic": "/der/",
+    "uk_phonetic": "/deə(r)/",
+    "example_sentence_en": "He dare not tell the truth.",
+    "example_sentence_cn": "他不敢说出真相。",
+    "inflection": "动词变化: dares / dared / daring"
+  },
+  {
+    "english": "able",
+    "chinese": "能够的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈeɪbl/",
+    "uk_phonetic": "/ˈeɪbl/",
+    "example_sentence_en": "She is able to solve the problem.",
+    "example_sentence_cn": "她能够解决这个问题。",
+    "inflection": "比较级: abler | 最高级: ablest"
+  },
+  {
+    "english": "unable",
+    "chinese": "不能的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʌnˈeɪbl/",
+    "uk_phonetic": "/ʌnˈeɪbl/",
+    "example_sentence_en": "He was unable to attend the party.",
+    "example_sentence_cn": "他未能参加聚会。",
+    "inflection": "无"
+  },
+  {
+    "english": "ability",
+    "chinese": "能力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈbɪləti/",
+    "uk_phonetic": "/əˈbɪləti/",
+    "example_sentence_en": "She has the ability to sing well.",
+    "example_sentence_cn": "她有唱好歌的能力。",
+    "inflection": "复数: abilities"
+  },
+  {
+    "english": "allow",
+    "chinese": "允许",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈlaʊ/",
+    "uk_phonetic": "/əˈlaʊ/",
+    "example_sentence_en": "My parents allow me to play outside.",
+    "example_sentence_cn": "我父母允许我在外面玩。",
+    "inflection": "动词变化: allows / allowed / allowing"
+  },
+  {
+    "english": "allowed",
+    "chinese": "被允许的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/əˈlaʊd/",
+    "uk_phonetic": "/əˈlaʊd/",
+    "example_sentence_en": "Smoking is not allowed here.",
+    "example_sentence_cn": "这里不允许吸烟。",
+    "inflection": "无"
+  },
+  {
+    "english": "permit",
+    "chinese": "允许",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈmɪt/",
+    "uk_phonetic": "/pəˈmɪt/",
+    "example_sentence_en": "Weather permitting, we will go out.",
+    "example_sentence_cn": "天气允许的话，我们会出去。",
+    "inflection": "动词变化: permits / permitted / permitting"
+  },
+  {
+    "english": "permission",
+    "chinese": "许可",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pərˈmɪʃn/",
+    "uk_phonetic": "/pəˈmɪʃn/",
+    "example_sentence_en": "You must ask for permission first.",
+    "example_sentence_cn": "你必须先征得许可。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "forbid",
+    "chinese": "禁止",
+    "part_of_speech": "v.",
+    "us_phonetic": "/fərˈbɪd/",
+    "uk_phonetic": "/fəˈbɪd/",
+    "example_sentence_en": "The doctor has forbidden him to smoke.",
+    "example_sentence_cn": "医生已经禁止他吸烟了。",
+    "inflection": "动词变化: forbids / forbade / forbidden"
+  },
+  {
+    "english": "suppose",
+    "chinese": "假设；认为",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səˈpoʊz/",
+    "uk_phonetic": "/səˈpəʊz/",
+    "example_sentence_en": "You are supposed to arrive early.",
+    "example_sentence_cn": "你应该早点到。",
+    "inflection": "动词变化: supposes / supposed / supposing"
+  },
+  {
+    "english": "require",
+    "chinese": "要求",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈkwaɪər/",
+    "uk_phonetic": "/rɪˈkwaɪə(r)/",
+    "example_sentence_en": "The teacher requires us to read more.",
+    "example_sentence_cn": "老师要求我们多阅读。",
+    "inflection": "动词变化: requires / required / requiring"
+  },
+  {
+    "english": "request",
+    "chinese": "请求",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/rɪˈkwest/",
+    "uk_phonetic": "/rɪˈkwest/",
+    "example_sentence_en": "I requested him to help me.",
+    "example_sentence_cn": "我请求他帮助我。",
+    "inflection": "动词变化: requests / requested / requesting"
+  },
+  {
+    "english": "suggest",
+    "chinese": "建议",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səˈdʒest/",
+    "uk_phonetic": "/səˈdʒest/",
+    "example_sentence_en": "I suggest that we should go now.",
+    "example_sentence_cn": "我建议我们现在就走。",
+    "inflection": "动词变化: suggests / suggested / suggesting"
+  },
+  {
+    "english": "advise",
+    "chinese": "劝告；建议",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ədˈvaɪz/",
+    "uk_phonetic": "/ədˈvaɪz/",
+    "example_sentence_en": "The doctor advised him to rest.",
+    "example_sentence_cn": "医生建议他休息。",
+    "inflection": "动词变化: advises / advised / advising"
+  },
+  {
+    "english": "obligation",
+    "chinese": "义务；责任",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːblɪˈɡeɪʃn/",
+    "uk_phonetic": "/ˌɒblɪˈɡeɪʃn/",
+    "example_sentence_en": "We have an obligation to protect the earth.",
+    "example_sentence_cn": "我们有保护地球的义务。",
+    "inflection": "复数: obligations"
+  },
+  {
+    "english": "duty",
+    "chinese": "责任；义务",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈduːti/",
+    "uk_phonetic": "/ˈdjuːti/",
+    "example_sentence_en": "It is our duty to study hard.",
+    "example_sentence_cn": "努力学习是我们的责任。",
+    "inflection": "复数: duties"
+  },
+  {
+    "english": "necessary",
+    "chinese": "必要的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈnesəseri/",
+    "uk_phonetic": "/ˈnesəsəri/",
+    "example_sentence_en": "Sleep is necessary for health.",
+    "example_sentence_cn": "睡眠对健康是必要的。",
+    "inflection": "比较级: more necessary | 最高级: most necessary"
+  },
+  {
+    "english": "compulsory",
+    "chinese": "强制的；必修的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kəmˈpʌlsəri/",
+    "uk_phonetic": "/kəmˈpʌlsəri/",
+    "example_sentence_en": "Education is compulsory for children.",
+    "example_sentence_cn": "对儿童来说，教育是强制性的。",
+    "inflection": "无"
+  },
+  {
+    "english": "story",
+    "chinese": "故事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstɔːri/",
+    "uk_phonetic": "/ˈstɔːri/",
+    "example_sentence_en": "He has told me an interesting story.",
+    "example_sentence_cn": "他给我讲了一个有趣的故事。",
+    "inflection": "复数: stories"
+  },
+  {
+    "english": "tale",
+    "chinese": "传说；童话",
+    "part_of_speech": "n.",
+    "us_phonetic": "/teɪl/",
+    "uk_phonetic": "/teɪl/",
+    "example_sentence_en": "I have read this fairy tale before.",
+    "example_sentence_cn": "我以前读过这个童话。",
+    "inflection": "复数: tales"
+  },
+  {
+    "english": "fable",
+    "chinese": "寓言",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfeɪbl/",
+    "uk_phonetic": "/ˈfeɪbl/",
+    "example_sentence_en": "Aesop's fables are very educational.",
+    "example_sentence_cn": "伊索寓言很有教育意义。",
+    "inflection": "复数: fables"
+  },
+  {
+    "english": "myth",
+    "chinese": "神话",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mɪθ/",
+    "uk_phonetic": "/mɪθ/",
+    "example_sentence_en": "He has studied Greek myths.",
+    "example_sentence_cn": "他研究了希腊神话。",
+    "inflection": "复数: myths"
+  },
+  {
+    "english": "legend",
+    "chinese": "传说；传奇",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈledʒənd/",
+    "uk_phonetic": "/ˈledʒənd/",
+    "example_sentence_en": "This is an old local legend.",
+    "example_sentence_cn": "这是一个古老的当地传说。",
+    "inflection": "复数: legends"
+  },
+  {
+    "english": "character",
+    "chinese": "人物；性格",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkærəktər/",
+    "uk_phonetic": "/ˈkærəktə(r)/",
+    "example_sentence_en": "My favorite character is the hero.",
+    "example_sentence_cn": "我最喜欢的角色是男主角。",
+    "inflection": "复数: characters"
+  },
+  {
+    "english": "hero",
+    "chinese": "英雄；男主角",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɪroʊ/",
+    "uk_phonetic": "/ˈhɪərəʊ/",
+    "example_sentence_en": "He has become a hero in the story.",
+    "example_sentence_cn": "他在故事中成了一名英雄。",
+    "inflection": "复数: heroes"
+  },
+  {
+    "english": "heroine",
+    "chinese": "女英雄；女主角",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈheroʊɪn/",
+    "uk_phonetic": "/ˈherəʊɪn/",
+    "example_sentence_en": "She is the heroine of the novel.",
+    "example_sentence_cn": "她是这部小说的女主角。",
+    "inflection": "复数: heroines"
+  },
+  {
+    "english": "villain",
+    "chinese": "反派；坏人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɪlən/",
+    "uk_phonetic": "/ˈvɪlən/",
+    "example_sentence_en": "The villain was finally caught.",
+    "example_sentence_cn": "反派最终被抓住了。",
+    "inflection": "复数: villains"
+  },
+  {
+    "english": "plot",
+    "chinese": "情节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/plɑːt/",
+    "uk_phonetic": "/plɒt/",
+    "example_sentence_en": "The plot of the movie is exciting.",
+    "example_sentence_cn": "这部电影的情节很激动人心。",
+    "inflection": "复数: plots"
+  },
+  {
+    "english": "setting",
+    "chinese": "背景；环境",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsetɪŋ/",
+    "uk_phonetic": "/ˈsetɪŋ/",
+    "example_sentence_en": "The story has a beautiful setting.",
+    "example_sentence_cn": "这个故事有一个美丽的背景。",
+    "inflection": "复数: settings"
+  },
+  {
+    "english": "ending",
+    "chinese": "结局；结尾",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈendɪŋ/",
+    "uk_phonetic": "/ˈendɪŋ/",
+    "example_sentence_en": "I have guessed the ending of the story.",
+    "example_sentence_cn": "我已经猜到了故事的结局。",
+    "inflection": "复数: endings"
+  },
+  {
+    "english": "chapter",
+    "chinese": "章节",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃæptər/",
+    "uk_phonetic": "/ˈtʃæptə(r)/",
+    "example_sentence_en": "I have read three chapters today.",
+    "example_sentence_cn": "我今天已经读了三章。",
+    "inflection": "复数: chapters"
+  },
+  {
+    "english": "scene",
+    "chinese": "场景；场面",
+    "part_of_speech": "n.",
+    "us_phonetic": "/siːn/",
+    "uk_phonetic": "/siːn/",
+    "example_sentence_en": "The opening scene is wonderful.",
+    "example_sentence_cn": "开场的场景非常精彩。",
+    "inflection": "复数: scenes"
+  },
+  {
+    "english": "adventure",
+    "chinese": "冒险",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ədˈventʃər/",
+    "uk_phonetic": "/ədˈventʃə(r)/",
+    "example_sentence_en": "He has had many adventures in the forest.",
+    "example_sentence_cn": "他在森林里经历过许多冒险。",
+    "inflection": "复数: adventures"
+  },
+  {
+    "english": "journey",
+    "chinese": "旅程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒɜːrni/",
+    "uk_phonetic": "/ˈdʒɜːni/",
+    "example_sentence_en": "They have finished their journey.",
+    "example_sentence_cn": "他们已经完成了旅程。",
+    "inflection": "复数: journeys"
+  },
+  {
+    "english": "voyage",
+    "chinese": "航海；航行",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvɔɪɪdʒ/",
+    "uk_phonetic": "/ˈvɔɪɪdʒ/",
+    "example_sentence_en": "He has written a book about his voyage.",
+    "example_sentence_cn": "他写了一本关于他航行的书。",
+    "inflection": "复数: voyages"
+  },
+  {
+    "english": "expedition",
+    "chinese": "探险；远征",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌekspəˈdɪʃn/",
+    "uk_phonetic": "/ˌekspəˈdɪʃn/",
+    "example_sentence_en": "They have gone on an expedition.",
+    "example_sentence_cn": "他们去探险了。",
+    "inflection": "复数: expeditions"
+  },
+  {
+    "english": "travel",
+    "chinese": "旅行",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈtrævl/",
+    "uk_phonetic": "/ˈtrævl/",
+    "example_sentence_en": "She has traveled all over the world.",
+    "example_sentence_cn": "她已经环游了世界。",
+    "inflection": "动词变化: travels / traveled / traveling"
+  },
+  {
+    "english": "explore",
+    "chinese": "探索",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈsplɔːr/",
+    "uk_phonetic": "/ɪkˈsplɔː(r)/",
+    "example_sentence_en": "We have explored the ancient city.",
+    "example_sentence_cn": "我们已经探索了那座古城。",
+    "inflection": "动词变化: explores / explored / exploring"
+  },
+  {
+    "english": "explorer",
+    "chinese": "探险家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈsplɔːrər/",
+    "uk_phonetic": "/ɪkˈsplɔːrə(r)/",
+    "example_sentence_en": "He has become a famous explorer.",
+    "example_sentence_cn": "他成了一名著名的探险家。",
+    "inflection": "复数: explorers"
+  },
+  {
+    "english": "discovery",
+    "chinese": "发现",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈskʌvəri/",
+    "uk_phonetic": "/dɪˈskʌvəri/",
+    "example_sentence_en": "He has made a great discovery.",
+    "example_sentence_cn": "他做出了一项伟大的发现。",
+    "inflection": "复数: discoveries"
+  },
+  {
+    "english": "discover",
+    "chinese": "发现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈskʌvər/",
+    "uk_phonetic": "/dɪˈskʌvə(r)/",
+    "example_sentence_en": "She has discovered a new species.",
+    "example_sentence_cn": "她发现了一个新物种。",
+    "inflection": "动词变化: discovers / discovered / discovering"
+  },
+  {
+    "english": "uncover",
+    "chinese": "揭露；发现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ʌnˈkʌvər/",
+    "uk_phonetic": "/ʌnˈkʌvə(r)/",
+    "example_sentence_en": "They have uncovered the truth.",
+    "example_sentence_cn": "他们揭露了真相。",
+    "inflection": "动词变化: uncovers / uncovered / uncovering"
+  },
+  {
+    "english": "treasure",
+    "chinese": "财宝；珍宝",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtreʒər/",
+    "uk_phonetic": "/ˈtreʒə(r)/",
+    "example_sentence_en": "They have found the hidden treasure.",
+    "example_sentence_cn": "他们找到了隐藏的宝藏。",
+    "inflection": "复数: treasures"
+  },
+  {
+    "english": "mystery",
+    "chinese": "谜；神秘事物",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmɪstəri/",
+    "uk_phonetic": "/ˈmɪstəri/",
+    "example_sentence_en": "The police have solved the mystery.",
+    "example_sentence_cn": "警方已经解开了这个谜。",
+    "inflection": "复数: mysteries"
+  },
+  {
+    "english": "mysterious",
+    "chinese": "神秘的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/mɪˈstɪriəs/",
+    "uk_phonetic": "/mɪˈstɪəriəs/",
+    "example_sentence_en": "He has disappeared in a mysterious way.",
+    "example_sentence_cn": "他以一种神秘的方式消失了。",
+    "inflection": "比较级: more mysterious | 最高级: most mysterious"
+  },
+  {
+    "english": "secret",
+    "chinese": "秘密",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/ˈsiːkrɪt/",
+    "uk_phonetic": "/ˈsiːkrɪt/",
+    "example_sentence_en": "I have kept the secret for a long time.",
+    "example_sentence_cn": "我保守这个秘密很久了。",
+    "inflection": "复数: secrets"
+  },
+  {
+    "english": "magical",
+    "chinese": "魔法的；神奇的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmædʒɪkl/",
+    "uk_phonetic": "/ˈmædʒɪkl/",
+    "example_sentence_en": "We have seen a magical show.",
+    "example_sentence_cn": "我们看了一场神奇的表演。",
+    "inflection": "无"
+  },
+  {
+    "english": "magic",
+    "chinese": "魔法；魔术",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmædʒɪk/",
+    "uk_phonetic": "/ˈmædʒɪk/",
+    "example_sentence_en": "The story is full of magic.",
+    "example_sentence_cn": "这个故事充满了魔法。",
+    "inflection": "形容词: magical"
+  },
+  {
+    "english": "wonder",
+    "chinese": "奇迹；想知道",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈwʌndər/",
+    "uk_phonetic": "/ˈwʌndə(r)/",
+    "example_sentence_en": "We have visited the Seven Wonders.",
+    "example_sentence_cn": "我们已经参观了七大奇迹。",
+    "inflection": "动词变化: wonders / wondered / wondering; 复数: wonders"
+  },
+  {
+    "english": "wonderful",
+    "chinese": "极好的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈwʌndərfl/",
+    "uk_phonetic": "/ˈwʌndəfl/",
+    "example_sentence_en": "She has had a wonderful experience.",
+    "example_sentence_cn": "她有一段极好的经历。",
+    "inflection": "比较级: more wonderful | 最高级: most wonderful"
+  },
+  {
+    "english": "amazing",
+    "chinese": "令人惊奇的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/əˈmeɪzɪŋ/",
+    "uk_phonetic": "/əˈmeɪzɪŋ/",
+    "example_sentence_en": "He has told me an amazing fact.",
+    "example_sentence_cn": "他告诉我一个令人惊奇的事实。",
+    "inflection": "比较级: more amazing | 最高级: most amazing"
+  },
+  {
+    "english": "amazed",
+    "chinese": "感到惊奇的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/əˈmeɪzd/",
+    "uk_phonetic": "/əˈmeɪzd/",
+    "example_sentence_en": "I was amazed by his story.",
+    "example_sentence_cn": "我对他的故事感到惊奇。",
+    "inflection": "无"
+  },
+  {
+    "english": "surprising",
+    "chinese": "令人惊讶的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sərˈpraɪzɪŋ/",
+    "uk_phonetic": "/səˈpraɪzɪŋ/",
+    "example_sentence_en": "He has made a surprising decision.",
+    "example_sentence_cn": "他做出了一个令人惊讶的决定。",
+    "inflection": "比较级: more surprising | 最高级: most surprising"
+  },
+  {
+    "english": "surprised",
+    "chinese": "感到惊讶的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sərˈpraɪzd/",
+    "uk_phonetic": "/səˈpraɪzd/",
+    "example_sentence_en": "We were surprised at the ending.",
+    "example_sentence_cn": "我们对结局感到惊讶。",
+    "inflection": "无"
+  },
+  {
+    "english": "shocking",
+    "chinese": "令人震惊的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈʃɑːkɪŋ/",
+    "uk_phonetic": "/ˈʃɒkɪŋ/",
+    "example_sentence_en": "The news has been shocking to everyone.",
+    "example_sentence_cn": "这个消息对所有人来说都是震惊的。",
+    "inflection": "比较级: more shocking | 最高级: most shocking"
+  },
+  {
+    "english": "shocked",
+    "chinese": "感到震惊的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʃɑːkt/",
+    "uk_phonetic": "/ʃɒkt/",
+    "example_sentence_en": "I was shocked by what he said.",
+    "example_sentence_cn": "我对他说的话感到震惊。",
+    "inflection": "无"
+  },
+  {
+    "english": "exciting",
+    "chinese": "令人兴奋的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈsaɪtɪŋ/",
+    "uk_phonetic": "/ɪkˈsaɪtɪŋ/",
+    "example_sentence_en": "It has been an exciting day.",
+    "example_sentence_cn": "这是令人兴奋的一天。",
+    "inflection": "比较级: more exciting | 最高级: most exciting"
+  },
+  {
+    "english": "excited",
+    "chinese": "感到兴奋的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈsaɪtɪd/",
+    "uk_phonetic": "/ɪkˈsaɪtɪd/",
+    "example_sentence_en": "The children have been very excited.",
+    "example_sentence_cn": "孩子们一直非常兴奋。",
+    "inflection": "无"
+  },
+  {
+    "english": "scary",
+    "chinese": "可怕的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈskeri/",
+    "uk_phonetic": "/ˈskeəri/",
+    "example_sentence_en": "He has told a scary story.",
+    "example_sentence_cn": "他讲了一个可怕的故事。",
+    "inflection": "比较级: scarier | 最高级: scariest"
+  },
+  {
+    "english": "scared",
+    "chinese": "感到害怕的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/skerd/",
+    "uk_phonetic": "/skeəd/",
+    "example_sentence_en": "She has never been scared of dogs.",
+    "example_sentence_cn": "她从没怕过狗。",
+    "inflection": "无"
+  },
+  {
+    "english": "terrifying",
+    "chinese": "极其可怕的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈterɪfaɪɪŋ/",
+    "uk_phonetic": "/ˈterɪfaɪɪŋ/",
+    "example_sentence_en": "He has experienced a terrifying moment.",
+    "example_sentence_cn": "他经历了一个极其可怕的时刻。",
+    "inflection": "比较级: more terrifying | 最高级: most terrifying"
+  },
+  {
+    "english": "terrified",
+    "chinese": "非常害怕的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈterɪfaɪd/",
+    "uk_phonetic": "/ˈterɪfaɪd/",
+    "example_sentence_en": "I was terrified by the noise.",
+    "example_sentence_cn": "我被那个声音吓坏了。",
+    "inflection": "无"
+  },
+  {
+    "english": "unforgettable",
+    "chinese": "难忘的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˌʌnfərˈɡetəbl/",
+    "uk_phonetic": "/ˌʌnfəˈɡetəbl/",
+    "example_sentence_en": "I have had an unforgettable experience.",
+    "example_sentence_cn": "我有过一次难忘的经历。",
+    "inflection": "无"
+  },
+  {
+    "english": "memorable",
+    "chinese": "值得纪念的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmemərəbl/",
+    "uk_phonetic": "/ˈmemərəbl/",
+    "example_sentence_en": "It has been a memorable trip.",
+    "example_sentence_cn": "这是一次值得纪念的旅行。",
+    "inflection": "比较级: more memorable | 最高级: most memorable"
+  },
+  {
+    "english": "memory",
+    "chinese": "记忆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmeməri/",
+    "uk_phonetic": "/ˈmeməri/",
+    "example_sentence_en": "She has a good memory.",
+    "example_sentence_cn": "她有很好的记忆力。",
+    "inflection": "复数: memories"
+  },
+  {
+    "english": "remember",
+    "chinese": "记住",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈmembər/",
+    "uk_phonetic": "/rɪˈmembə(r)/",
+    "example_sentence_en": "I have remembered all the words.",
+    "example_sentence_cn": "我已经记住了所有的单词。",
+    "inflection": "动词变化: remembers / remembered / remembering"
+  },
+  {
+    "english": "recall",
+    "chinese": "回忆起",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈkɔːl/",
+    "uk_phonetic": "/rɪˈkɔːl/",
+    "example_sentence_en": "He has recalled his childhood.",
+    "example_sentence_cn": "他回忆起了他的童年。",
+    "inflection": "动词变化: recalls / recalled / recalling"
+  },
+  {
+    "english": "remind",
+    "chinese": "提醒",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈmaɪnd/",
+    "uk_phonetic": "/rɪˈmaɪnd/",
+    "example_sentence_en": "She has reminded me of the meeting.",
+    "example_sentence_cn": "她提醒了我开会的事。",
+    "inflection": "动词变化: reminds / reminded / reminding"
+  },
+  {
+    "english": "event",
+    "chinese": "事件；大事",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈvent/",
+    "uk_phonetic": "/ɪˈvent/",
+    "example_sentence_en": "It has been the biggest event of the year.",
+    "example_sentence_cn": "这是今年最大的事件。",
+    "inflection": "复数: events"
+  },
+  {
+    "english": "challenge",
+    "chinese": "挑战",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈtʃælɪndʒ/",
+    "uk_phonetic": "/ˈtʃælɪndʒ/",
+    "example_sentence_en": "He has faced many challenges.",
+    "example_sentence_cn": "他已经面临了许多挑战。",
+    "inflection": "动词变化: challenges / challenged / challenging; 复数: challenges"
+  },
+  {
+    "english": "challenging",
+    "chinese": "具有挑战性的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtʃælɪndʒɪŋ/",
+    "uk_phonetic": "/ˈtʃælɪndʒɪŋ/",
+    "example_sentence_en": "The task has been very challenging.",
+    "example_sentence_cn": "这项任务一直很有挑战性。",
+    "inflection": "比较级: more challenging | 最高级: most challenging"
+  },
+  {
+    "english": "overcome",
+    "chinese": "克服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌoʊvərˈkʌm/",
+    "uk_phonetic": "/ˌəʊvəˈkʌm/",
+    "example_sentence_en": "She has overcome her fear.",
+    "example_sentence_cn": "她已经克服了她的恐惧。",
+    "inflection": "动词变化: overcomes / overcame / overcoming"
+  },
+  {
+    "english": "face",
+    "chinese": "面对",
+    "part_of_speech": "v.",
+    "us_phonetic": "/feɪs/",
+    "uk_phonetic": "/feɪs/",
+    "example_sentence_en": "He has faced the difficulty bravely.",
+    "example_sentence_cn": "他勇敢地面对了困难。",
+    "inflection": "动词变化: faces / faced / facing"
+  },
+  {
+    "english": "success",
+    "chinese": "成功",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səkˈses/",
+    "uk_phonetic": "/səkˈses/",
+    "example_sentence_en": "He has achieved great success.",
+    "example_sentence_cn": "他取得了巨大的成功。",
+    "inflection": "不可数名词/复数: successes"
+  },
+  {
+    "english": "succeed",
+    "chinese": "成功",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səkˈsiːd/",
+    "uk_phonetic": "/səkˈsiːd/",
+    "example_sentence_en": "She has succeeded in the exam.",
+    "example_sentence_cn": "她考试成功了。",
+    "inflection": "动词变化: succeeds / succeeded / succeeding"
+  },
+  {
+    "english": "successful",
+    "chinese": "成功的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/səkˈsesfl/",
+    "uk_phonetic": "/səkˈsesfl/",
+    "example_sentence_en": "He has been a successful writer.",
+    "example_sentence_cn": "他成为了一名成功的作家。",
+    "inflection": "比较级: more successful | 最高级: most successful"
+  },
+  {
+    "english": "fail",
+    "chinese": "失败",
+    "part_of_speech": "v.",
+    "us_phonetic": "/feɪl/",
+    "uk_phonetic": "/feɪl/",
+    "example_sentence_en": "He has failed many times, but he never gives up.",
+    "example_sentence_cn": "他失败了很多次，但他从不放弃。",
+    "inflection": "动词变化: fails / failed / failing"
+  },
+  {
+    "english": "failure",
+    "chinese": "失败",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfeɪljər/",
+    "uk_phonetic": "/ˈfeɪljə(r)/",
+    "example_sentence_en": "Failure is the mother of success.",
+    "example_sentence_cn": "失败是成功之母。",
+    "inflection": "复数: failures"
+  },
+  {
+    "english": "achieve",
+    "chinese": "实现；取得",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈtʃiːv/",
+    "uk_phonetic": "/əˈtʃiːv/",
+    "example_sentence_en": "She has achieved her dream.",
+    "example_sentence_cn": "她已经实现了她的梦想。",
+    "inflection": "动词变化: achieves / achieved / achieving"
+  },
+  {
+    "english": "achievement",
+    "chinese": "成就",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈtʃiːvmənt/",
+    "uk_phonetic": "/əˈtʃiːvmənt/",
+    "example_sentence_en": "He has made great achievements.",
+    "example_sentence_cn": "他取得了巨大的成就。",
+    "inflection": "复数: achievements"
+  },
+  {
+    "english": "goal",
+    "chinese": "目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡoʊl/",
+    "uk_phonetic": "/ɡəʊl/",
+    "example_sentence_en": "He has reached his goal.",
+    "example_sentence_cn": "他已经达到了他的目标。",
+    "inflection": "复数: goals"
+  },
+  {
+    "english": "dream",
+    "chinese": "梦想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/driːm/",
+    "uk_phonetic": "/driːm/",
+    "example_sentence_en": "Her dream has come true.",
+    "example_sentence_cn": "她的梦想实现了。",
+    "inflection": "复数: dreams"
+  },
+  {
+    "english": "ambition",
+    "chinese": "抱负；雄心",
+    "part_of_speech": "n.",
+    "us_phonetic": "/æmˈbɪʃn/",
+    "uk_phonetic": "/æmˈbɪʃn/",
+    "example_sentence_en": "He has realized his ambition.",
+    "example_sentence_cn": "他实现了他的抱负。",
+    "inflection": "复数: ambitions"
+  },
+  {
+    "english": "chance",
+    "chinese": "机会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tʃæns/",
+    "uk_phonetic": "/tʃɑːns/",
+    "example_sentence_en": "She has missed a good chance.",
+    "example_sentence_cn": "她错过了一个好机会。",
+    "inflection": "复数: chances"
+  },
+  {
+    "english": "opportunity",
+    "chinese": "机会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːpərˈtuːnəti/",
+    "uk_phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example_sentence_en": "I have got a new opportunity.",
+    "example_sentence_cn": "我得到了一个新的机会。",
+    "inflection": "复数: opportunities"
+  },
+  {
+    "english": "lucky",
+    "chinese": "幸运的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈlʌki/",
+    "uk_phonetic": "/ˈlʌki/",
+    "example_sentence_en": "I have been lucky all these years.",
+    "example_sentence_cn": "这些年来我一直很幸运。",
+    "inflection": "比较级: luckier | 最高级: luckiest"
+  },
+  {
+    "english": "unlucky",
+    "chinese": "不幸的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʌnˈlʌki/",
+    "uk_phonetic": "/ʌnˈlʌki/",
+    "example_sentence_en": "He has been unlucky recently.",
+    "example_sentence_cn": "他最近一直很不走运。",
+    "inflection": "比较级: unluckier | 最高级: unluckiest"
+  },
+  {
+    "english": "fortune",
+    "chinese": "运气；财富",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɔːrtʃən/",
+    "uk_phonetic": "/ˈfɔːtʃən/",
+    "example_sentence_en": "He has made a fortune.",
+    "example_sentence_cn": "他发了一笔财。",
+    "inflection": "复数: fortunes"
+  },
+  {
+    "english": "misfortune",
+    "chinese": "不幸",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌmɪsˈfɔːrtʃən/",
+    "uk_phonetic": "/ˌmɪsˈfɔːtʃən/",
+    "example_sentence_en": "He has suffered a lot of misfortune.",
+    "example_sentence_cn": "他遭受了许多不幸。",
+    "inflection": "复数: misfortunes"
+  },
+  {
+    "english": "brave",
+    "chinese": "勇敢的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/breɪv/",
+    "uk_phonetic": "/breɪv/",
+    "example_sentence_en": "She has been very brave.",
+    "example_sentence_cn": "她一直非常勇敢。",
+    "inflection": "比较级: braver | 最高级: bravest"
+  },
+  {
+    "english": "courage",
+    "chinese": "勇气",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɜːrɪdʒ/",
+    "uk_phonetic": "/ˈkʌrɪdʒ/",
+    "example_sentence_en": "He has shown great courage.",
+    "example_sentence_cn": "他展现了巨大的勇气。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "encourage",
+    "chinese": "鼓励",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈkɜːrɪdʒ/",
+    "uk_phonetic": "/ɪnˈkʌrɪdʒ/",
+    "example_sentence_en": "My teacher has encouraged me a lot.",
+    "example_sentence_cn": "我的老师鼓励了我很多。",
+    "inflection": "动词变化: encourages / encouraged / encouraging"
+  },
+  {
+    "english": "fear",
+    "chinese": "害怕；恐惧",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/fɪr/",
+    "uk_phonetic": "/fɪə(r)/",
+    "example_sentence_en": "She has overcome her fear.",
+    "example_sentence_cn": "她已经克服了恐惧。",
+    "inflection": "动词变化: fears / feared / fearing"
+  },
+  {
+    "english": "frighten",
+    "chinese": "使惊吓",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈfraɪtn/",
+    "uk_phonetic": "/ˈfraɪtn/",
+    "example_sentence_en": "The noise has frightened the baby.",
+    "example_sentence_cn": "噪音吓到了婴儿。",
+    "inflection": "动词变化: frightens / frightened / frightening"
+  },
+  {
+    "english": "believe",
+    "chinese": "相信",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪˈliːv/",
+    "uk_phonetic": "/bɪˈliːv/",
+    "example_sentence_en": "I have believed in him all along.",
+    "example_sentence_cn": "我一直都相信他。",
+    "inflection": "动词变化: believes / believed / believing"
+  },
+  {
+    "english": "belief",
+    "chinese": "信念；信仰",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bɪˈliːf/",
+    "uk_phonetic": "/bɪˈliːf/",
+    "example_sentence_en": "He has strong belief in justice.",
+    "example_sentence_cn": "他对正义有强烈的信念。",
+    "inflection": "复数: beliefs"
+  },
+  {
+    "english": "trust",
+    "chinese": "信任",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/trʌst/",
+    "uk_phonetic": "/trʌst/",
+    "example_sentence_en": "She has trusted him for years.",
+    "example_sentence_cn": "她信任他很多年了。",
+    "inflection": "动词变化: trusts / trusted / trusting"
+  },
+  {
+    "english": "doubt",
+    "chinese": "怀疑",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/daʊt/",
+    "uk_phonetic": "/daʊt/",
+    "example_sentence_en": "I have never doubted his ability.",
+    "example_sentence_cn": "我从未怀疑过他的能力。",
+    "inflection": "动词变化: doubts / doubted / doubting"
+  },
+  {
+    "english": "truth",
+    "chinese": "真相；事实",
+    "part_of_speech": "n.",
+    "us_phonetic": "/truːθ/",
+    "uk_phonetic": "/truːθ/",
+    "example_sentence_en": "He has finally told the truth.",
+    "example_sentence_cn": "他终于说出了真相。",
+    "inflection": "复数: truths"
+  },
+  {
+    "english": "lie",
+    "chinese": "谎言；说谎",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/laɪ/",
+    "uk_phonetic": "/laɪ/",
+    "example_sentence_en": "He has lied to me before.",
+    "example_sentence_cn": "他以前对我撒过谎。",
+    "inflection": "动词变化: lies / lied / lying"
+  },
+  {
+    "english": "honest",
+    "chinese": "诚实的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈɑːnɪst/",
+    "uk_phonetic": "/ˈɒnɪst/",
+    "example_sentence_en": "He has been an honest man.",
+    "example_sentence_cn": "他一直是个诚实的人。",
+    "inflection": "比较级: more honest | 最高级: most honest"
+  },
+  {
+    "english": "honesty",
+    "chinese": "诚实",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːnəsti/",
+    "uk_phonetic": "/ˈɒnəsti/",
+    "example_sentence_en": "Honesty is the best policy.",
+    "example_sentence_cn": "诚实为上策。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "promise",
+    "chinese": "承诺",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈprɑːmɪs/",
+    "uk_phonetic": "/ˈprɒmɪs/",
+    "example_sentence_en": "She has kept her promise.",
+    "example_sentence_cn": "她遵守了她的承诺。",
+    "inflection": "动词变化: promises / promised / promising; 复数: promises"
+  },
+  {
+    "english": "rescue",
+    "chinese": "营救",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈreskjuː/",
+    "uk_phonetic": "/ˈreskjuː/",
+    "example_sentence_en": "They have rescued the trapped miners.",
+    "example_sentence_cn": "他们已经营救了被困的矿工。",
+    "inflection": "动词变化: rescues / rescued / rescuing"
+  },
+  {
+    "english": "survive",
+    "chinese": "幸存；活下来",
+    "part_of_speech": "v.",
+    "us_phonetic": "/sərˈvaɪv/",
+    "uk_phonetic": "/səˈvaɪv/",
+    "example_sentence_en": "He has survived the earthquake.",
+    "example_sentence_cn": "他在地震中幸存下来了。",
+    "inflection": "动词变化: survives / survived / surviving"
+  },
+  {
+    "english": "survival",
+    "chinese": "幸存；生存",
+    "part_of_speech": "n.",
+    "us_phonetic": "/sərˈvaɪvl/",
+    "uk_phonetic": "/səˈvaɪvl/",
+    "example_sentence_en": "His survival is a miracle.",
+    "example_sentence_cn": "他的幸存是个奇迹。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "struggle",
+    "chinese": "斗争；奋斗",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈstrʌɡl/",
+    "uk_phonetic": "/ˈstrʌɡl/",
+    "example_sentence_en": "She has struggled for success.",
+    "example_sentence_cn": "她为成功而奋斗过。",
+    "inflection": "动词变化: struggles / struggled / struggling"
+  },
+  {
+    "english": "effort",
+    "chinese": "努力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈefərt/",
+    "uk_phonetic": "/ˈefət/",
+    "example_sentence_en": "He has made a lot of effort.",
+    "example_sentence_cn": "他付出了很多努力。",
+    "inflection": "复数: efforts"
+  },
+  {
+    "english": "reward",
+    "chinese": "奖赏；报酬",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/rɪˈwɔːrd/",
+    "uk_phonetic": "/rɪˈwɔːd/",
+    "example_sentence_en": "His hard work has been rewarded.",
+    "example_sentence_cn": "他的努力得到了回报。",
+    "inflection": "动词变化: rewards / rewarded / rewarding; 复数: rewards"
+  },
+  {
+    "english": "punish",
+    "chinese": "惩罚",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈpʌnɪʃ/",
+    "uk_phonetic": "/ˈpʌnɪʃ/",
+    "example_sentence_en": "He has been punished for his mistake.",
+    "example_sentence_cn": "他因为犯错受到了惩罚。",
+    "inflection": "动词变化: punishes / punished / punishing"
+  },
+  {
+    "english": "punishment",
+    "chinese": "惩罚",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpʌnɪʃmənt/",
+    "uk_phonetic": "/ˈpʌnɪʃmənt/",
+    "example_sentence_en": "He has accepted his punishment.",
+    "example_sentence_cn": "他接受了他的惩罚。",
+    "inflection": "复数: punishments"
+  },
+  {
+    "english": "lesson",
+    "chinese": "课；教训",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlesn/",
+    "uk_phonetic": "/ˈlesn/",
+    "example_sentence_en": "He has learned a valuable lesson.",
+    "example_sentence_cn": "他学到了一个宝贵的教训。",
+    "inflection": "复数: lessons"
+  },
+  {
+    "english": "wisdom",
+    "chinese": "智慧",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈwɪzdəm/",
+    "uk_phonetic": "/ˈwɪzdəm/",
+    "example_sentence_en": "He has gained wisdom from experience.",
+    "example_sentence_cn": "他从经验中获得了智慧。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "inspire",
+    "chinese": "鼓舞；启发",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈspaɪər/",
+    "uk_phonetic": "/ɪnˈspaɪə(r)/",
+    "example_sentence_en": "The story has inspired many people.",
+    "example_sentence_cn": "这个故事启发了许多人。",
+    "inflection": "动词变化: inspires / inspired / inspiring"
+  }
+]

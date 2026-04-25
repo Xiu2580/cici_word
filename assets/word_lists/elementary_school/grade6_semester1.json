@@ -1,0 +1,792 @@
+[
+  {
+    "english": "north",
+    "chinese": "北方；北方的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/nɔːrθ/",
+    "uk_phonetic": "/nɔːθ/",
+    "example_sentence_en": "The school is to the north of the park.",
+    "example_sentence_cn": "学校在公园的北边。",
+    "inflection": "无"
+  },
+  {
+    "english": "south",
+    "chinese": "南方；南方的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/saʊθ/",
+    "uk_phonetic": "/saʊθ/",
+    "example_sentence_en": "Birds fly south in winter.",
+    "example_sentence_cn": "鸟儿在冬天飞向南方。",
+    "inflection": "无"
+  },
+  {
+    "english": "east",
+    "chinese": "东方；东方的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/iːst/",
+    "uk_phonetic": "/iːst/",
+    "example_sentence_en": "The sun rises in the east.",
+    "example_sentence_cn": "太阳从东方升起。",
+    "inflection": "无"
+  },
+  {
+    "english": "west",
+    "chinese": "西方；西方的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/west/",
+    "uk_phonetic": "/west/",
+    "example_sentence_en": "The sun sets in the west.",
+    "example_sentence_cn": "太阳从西方落下。",
+    "inflection": "无"
+  },
+  {
+    "english": "left",
+    "chinese": "左边",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/left/",
+    "uk_phonetic": "/left/",
+    "example_sentence_en": "Turn left at the corner.",
+    "example_sentence_cn": "在拐角处向左转。",
+    "inflection": "无"
+  },
+  {
+    "english": "right",
+    "chinese": "右边",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/raɪt/",
+    "uk_phonetic": "/raɪt/",
+    "example_sentence_en": "The library is on your right.",
+    "example_sentence_cn": "图书馆在你的右边。",
+    "inflection": "无"
+  },
+  {
+    "english": "straight",
+    "chinese": "笔直地",
+    "part_of_speech": "adv.",
+    "us_phonetic": "/streɪt/",
+    "uk_phonetic": "/streɪt/",
+    "example_sentence_en": "Go straight along this road.",
+    "example_sentence_cn": "沿着这条路直走。",
+    "inflection": "无"
+  },
+  {
+    "english": "turn",
+    "chinese": "转弯；转向",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tɜːrn/",
+    "uk_phonetic": "/tɜːn/",
+    "example_sentence_en": "Turn right at the traffic light.",
+    "example_sentence_cn": "在红绿灯处右转。",
+    "inflection": "动词变化: turns / turned / turning"
+  },
+  {
+    "english": "crossing",
+    "chinese": "十字路口",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkrɔːsɪŋ/",
+    "uk_phonetic": "/ˈkrɒsɪŋ/",
+    "example_sentence_en": "Wait at the crossing.",
+    "example_sentence_cn": "在十字路口等一等。",
+    "inflection": "复数: crossings"
+  },
+  {
+    "english": "corner",
+    "chinese": "拐角；角落",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɔːrnər/",
+    "uk_phonetic": "/ˈkɔːnə(r)/",
+    "example_sentence_en": "The store is on the corner.",
+    "example_sentence_cn": "商店在拐角处。",
+    "inflection": "复数: corners"
+  },
+  {
+    "english": "direction",
+    "chinese": "方向",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dəˈrekʃn/",
+    "uk_phonetic": "/daɪˈrekʃn/",
+    "example_sentence_en": "Can you tell me the direction?",
+    "example_sentence_cn": "你能告诉我方向吗？",
+    "inflection": "复数: directions"
+  },
+  {
+    "english": "map",
+    "chinese": "地图",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mæp/",
+    "uk_phonetic": "/mæp/",
+    "example_sentence_en": "Let's check the map.",
+    "example_sentence_cn": "我们查一下地图吧。",
+    "inflection": "复数: maps"
+  },
+  {
+    "english": "opposite",
+    "chinese": "在……对面",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/ˈɑːpəzət/",
+    "uk_phonetic": "/ˈɒpəzɪt/",
+    "example_sentence_en": "The bank is opposite the school.",
+    "example_sentence_cn": "银行在学校对面。",
+    "inflection": "无"
+  },
+  {
+    "english": "beside",
+    "chinese": "在……旁边",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈsaɪd/",
+    "uk_phonetic": "/bɪˈsaɪd/",
+    "example_sentence_en": "Sit beside me.",
+    "example_sentence_cn": "坐在我旁边。",
+    "inflection": "无"
+  },
+  {
+    "english": "between",
+    "chinese": "在……之间",
+    "part_of_speech": "prep.",
+    "us_phonetic": "/bɪˈtwiːn/",
+    "uk_phonetic": "/bɪˈtwiːn/",
+    "example_sentence_en": "The park is between the library and the zoo.",
+    "example_sentence_cn": "公园在图书馆和动物园之间。",
+    "inflection": "无"
+  },
+  {
+    "english": "bus",
+    "chinese": "公共汽车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/bʌs/",
+    "uk_phonetic": "/bʌs/",
+    "example_sentence_en": "I take the bus to school.",
+    "example_sentence_cn": "我乘公共汽车去上学。",
+    "inflection": "复数: buses"
+  },
+  {
+    "english": "train",
+    "chinese": "火车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/treɪn/",
+    "uk_phonetic": "/treɪn/",
+    "example_sentence_en": "The train is very fast.",
+    "example_sentence_cn": "火车非常快。",
+    "inflection": "复数: trains"
+  },
+  {
+    "english": "plane",
+    "chinese": "飞机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pleɪn/",
+    "uk_phonetic": "/pleɪn/",
+    "example_sentence_en": "We go to Beijing by plane.",
+    "example_sentence_cn": "我们乘飞机去北京。",
+    "inflection": "复数: planes"
+  },
+  {
+    "english": "subway",
+    "chinese": "地铁",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsʌbweɪ/",
+    "uk_phonetic": "/ˈsʌbweɪ/",
+    "example_sentence_en": "I often take the subway.",
+    "example_sentence_cn": "我经常乘地铁。",
+    "inflection": "复数: subways (英式常用: underground)"
+  },
+  {
+    "english": "taxi",
+    "chinese": "出租车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtæksi/",
+    "uk_phonetic": "/ˈtæksi/",
+    "example_sentence_en": "Let's take a taxi.",
+    "example_sentence_cn": "我们打个出租车吧。",
+    "inflection": "复数: taxis / taxies"
+  },
+  {
+    "english": "bike",
+    "chinese": "自行车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/baɪk/",
+    "uk_phonetic": "/baɪk/",
+    "example_sentence_en": "I ride a bike to the park.",
+    "example_sentence_cn": "我骑自行车去公园。",
+    "inflection": "复数: bikes"
+  },
+  {
+    "english": "ship",
+    "chinese": "轮船",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ʃɪp/",
+    "uk_phonetic": "/ʃɪp/",
+    "example_sentence_en": "The ship sails on the sea.",
+    "example_sentence_cn": "轮船在海上航行。",
+    "inflection": "复数: ships"
+  },
+  {
+    "english": "boat",
+    "chinese": "小船",
+    "part_of_speech": "n.",
+    "us_phonetic": "/boʊt/",
+    "uk_phonetic": "/bəʊt/",
+    "example_sentence_en": "We row a boat on the lake.",
+    "example_sentence_cn": "我们在湖上划船。",
+    "inflection": "复数: boats"
+  },
+  {
+    "english": "car",
+    "chinese": "小汽车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kɑːr/",
+    "uk_phonetic": "/kɑː(r)/",
+    "example_sentence_en": "My dad has a new car.",
+    "example_sentence_cn": "我爸爸有一辆新汽车。",
+    "inflection": "复数: cars"
+  },
+  {
+    "english": "walk",
+    "chinese": "步行",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɔːk/",
+    "uk_phonetic": "/wɔːk/",
+    "example_sentence_en": "I walk to school every day.",
+    "example_sentence_cn": "我每天步行去上学。",
+    "inflection": "动词变化: walks / walked / walking"
+  },
+  {
+    "english": "station",
+    "chinese": "车站",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsteɪʃn/",
+    "uk_phonetic": "/ˈsteɪʃn/",
+    "example_sentence_en": "Where is the bus station?",
+    "example_sentence_cn": "公共汽车站在哪里？",
+    "inflection": "复数: stations"
+  },
+  {
+    "english": "traffic",
+    "chinese": "交通",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtræfɪk/",
+    "uk_phonetic": "/ˈtræfɪk/",
+    "example_sentence_en": "The traffic is heavy today.",
+    "example_sentence_cn": "今天交通很拥挤。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "road",
+    "chinese": "道路",
+    "part_of_speech": "n.",
+    "us_phonetic": "/roʊd/",
+    "uk_phonetic": "/rəʊd/",
+    "example_sentence_en": "Be careful on the road.",
+    "example_sentence_cn": "在路上要小心。",
+    "inflection": "复数: roads"
+  },
+  {
+    "english": "ticket",
+    "chinese": "票",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtɪkɪt/",
+    "uk_phonetic": "/ˈtɪkɪt/",
+    "example_sentence_en": "I need two tickets, please.",
+    "example_sentence_cn": "我需要两张票。",
+    "inflection": "复数: tickets"
+  },
+  {
+    "english": "helmet",
+    "chinese": "头盔",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhelmɪt/",
+    "uk_phonetic": "/ˈhelmɪt/",
+    "example_sentence_en": "Wear a helmet when you ride a bike.",
+    "example_sentence_cn": "骑自行车时戴上头盔。",
+    "inflection": "复数: helmets"
+  },
+  {
+    "english": "doctor",
+    "chinese": "医生",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɑːktər/",
+    "uk_phonetic": "/ˈdɒktə(r)/",
+    "example_sentence_en": "I want to be a doctor.",
+    "example_sentence_cn": "我想成为一名医生。",
+    "inflection": "复数: doctors"
+  },
+  {
+    "english": "nurse",
+    "chinese": "护士",
+    "part_of_speech": "n.",
+    "us_phonetic": "/nɜːrs/",
+    "uk_phonetic": "/nɜːs/",
+    "example_sentence_en": "The nurse is very kind.",
+    "example_sentence_cn": "这位护士很和蔼。",
+    "inflection": "复数: nurses"
+  },
+  {
+    "english": "pilot",
+    "chinese": "飞行员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpaɪlət/",
+    "uk_phonetic": "/ˈpaɪlət/",
+    "example_sentence_en": "A pilot flies a plane.",
+    "example_sentence_cn": "飞行员驾驶飞机。",
+    "inflection": "复数: pilots"
+  },
+  {
+    "english": "police officer",
+    "chinese": "警察",
+    "part_of_speech": "n.",
+    "us_phonetic": "/pəˈliːs ˈɑːfɪsər/",
+    "uk_phonetic": "/pəˈliːs ˈɒfɪsə(r)/",
+    "example_sentence_en": "The police officer helps people.",
+    "example_sentence_cn": "警察帮助人们。",
+    "inflection": "复数: police officers"
+  },
+  {
+    "english": "firefighter",
+    "chinese": "消防员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfaɪərfaɪtər/",
+    "uk_phonetic": "/ˈfaɪəfaɪtə(r)/",
+    "example_sentence_en": "The firefighter is brave.",
+    "example_sentence_cn": "这位消防员很勇敢。",
+    "inflection": "复数: firefighters"
+  },
+  {
+    "english": "writer",
+    "chinese": "作家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈraɪtər/",
+    "uk_phonetic": "/ˈraɪtə(r)/",
+    "example_sentence_en": "She is a famous writer.",
+    "example_sentence_cn": "她是一位著名的作家。",
+    "inflection": "复数: writers"
+  },
+  {
+    "english": "singer",
+    "chinese": "歌手",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪŋər/",
+    "uk_phonetic": "/ˈsɪŋə(r)/",
+    "example_sentence_en": "The singer sings beautifully.",
+    "example_sentence_cn": "这位歌手唱得很动听。",
+    "inflection": "复数: singers"
+  },
+  {
+    "english": "dancer",
+    "chinese": "舞者",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdænsər/",
+    "uk_phonetic": "/ˈdɑːnsə(r)/",
+    "example_sentence_en": "The dancer practices every day.",
+    "example_sentence_cn": "这位舞者每天练习。",
+    "inflection": "复数: dancers"
+  },
+  {
+    "english": "scientist",
+    "chinese": "科学家",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsaɪəntɪst/",
+    "uk_phonetic": "/ˈsaɪəntɪst/",
+    "example_sentence_en": "He is a great scientist.",
+    "example_sentence_cn": "他是一位伟大的科学家。",
+    "inflection": "复数: scientists"
+  },
+  {
+    "english": "coach",
+    "chinese": "教练",
+    "part_of_speech": "n.",
+    "us_phonetic": "/koʊtʃ/",
+    "uk_phonetic": "/kəʊtʃ/",
+    "example_sentence_en": "Our coach is very strict.",
+    "example_sentence_cn": "我们的教练很严格。",
+    "inflection": "复数: coaches"
+  },
+  {
+    "english": "farmer",
+    "chinese": "农民",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːrmər/",
+    "uk_phonetic": "/ˈfɑːmə(r)/",
+    "example_sentence_en": "The farmer works on the farm.",
+    "example_sentence_cn": "农民在农场工作。",
+    "inflection": "复数: farmers"
+  },
+  {
+    "english": "driver",
+    "chinese": "司机",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdraɪvər/",
+    "uk_phonetic": "/ˈdraɪvə(r)/",
+    "example_sentence_en": "My uncle is a bus driver.",
+    "example_sentence_cn": "我叔叔是一名公交车司机。",
+    "inflection": "复数: drivers"
+  },
+  {
+    "english": "cook",
+    "chinese": "厨师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kʊk/",
+    "uk_phonetic": "/kʊk/",
+    "example_sentence_en": "The cook makes delicious food.",
+    "example_sentence_cn": "这位厨师做的食物很美味。",
+    "inflection": "复数: cooks; 动词变化: cooks / cooked / cooking"
+  },
+  {
+    "english": "dentist",
+    "chinese": "牙医",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdentɪst/",
+    "uk_phonetic": "/ˈdentɪst/",
+    "example_sentence_en": "I go to see the dentist.",
+    "example_sentence_cn": "我去看牙医。",
+    "inflection": "复数: dentists"
+  },
+  {
+    "english": "reporter",
+    "chinese": "记者",
+    "part_of_speech": "n.",
+    "us_phonetic": "/rɪˈpɔːrtər/",
+    "uk_phonetic": "/rɪˈpɔːtə(r)/",
+    "example_sentence_en": "The reporter asks questions.",
+    "example_sentence_cn": "记者在提问。",
+    "inflection": "复数: reporters"
+  },
+  {
+    "english": "engineer",
+    "chinese": "工程师",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌendʒɪˈnɪr/",
+    "uk_phonetic": "/ˌendʒɪˈnɪə(r)/",
+    "example_sentence_en": "My father is an engineer.",
+    "example_sentence_cn": "我爸爸是一名工程师。",
+    "inflection": "复数: engineers"
+  },
+  {
+    "english": "actor",
+    "chinese": "男演员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæktər/",
+    "uk_phonetic": "/ˈæktə(r)/",
+    "example_sentence_en": "He is a famous actor.",
+    "example_sentence_cn": "他是一位著名的男演员。",
+    "inflection": "复数: actors"
+  },
+  {
+    "english": "actress",
+    "chinese": "女演员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæktrəs/",
+    "uk_phonetic": "/ˈæktrəs/",
+    "example_sentence_en": "She is a great actress.",
+    "example_sentence_cn": "她是一位伟大的女演员。",
+    "inflection": "复数: actresses"
+  },
+  {
+    "english": "astronaut",
+    "chinese": "宇航员",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæstrənɔːt/",
+    "uk_phonetic": "/ˈæstrənɔːt/",
+    "example_sentence_en": "The astronaut flies into space.",
+    "example_sentence_cn": "宇航员飞向太空。",
+    "inflection": "复数: astronauts"
+  },
+  {
+    "english": "reading",
+    "chinese": "阅读",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈriːdɪŋ/",
+    "uk_phonetic": "/ˈriːdɪŋ/",
+    "example_sentence_en": "I like reading books.",
+    "example_sentence_cn": "我喜欢阅读书籍。",
+    "inflection": "动词原形: read"
+  },
+  {
+    "english": "singing",
+    "chinese": "唱歌",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪŋɪŋ/",
+    "uk_phonetic": "/ˈsɪŋɪŋ/",
+    "example_sentence_en": "Singing makes me happy.",
+    "example_sentence_cn": "唱歌让我快乐。",
+    "inflection": "动词原形: sing"
+  },
+  {
+    "english": "dancing",
+    "chinese": "跳舞",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdænsɪŋ/",
+    "uk_phonetic": "/ˈdɑːnsɪŋ/",
+    "example_sentence_en": "She likes dancing very much.",
+    "example_sentence_cn": "她非常喜欢跳舞。",
+    "inflection": "动词原形: dance"
+  },
+  {
+    "english": "drawing",
+    "chinese": "画画",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdrɔːɪŋ/",
+    "uk_phonetic": "/ˈdrɔːɪŋ/",
+    "example_sentence_en": "Drawing is my hobby.",
+    "example_sentence_cn": "画画是我的爱好。",
+    "inflection": "动词原形: draw"
+  },
+  {
+    "english": "painting",
+    "chinese": "绘画（水彩/油画）",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpeɪntɪŋ/",
+    "uk_phonetic": "/ˈpeɪntɪŋ/",
+    "example_sentence_en": "He is good at painting.",
+    "example_sentence_cn": "他擅长绘画。",
+    "inflection": "动词原形: paint"
+  },
+  {
+    "english": "swimming",
+    "chinese": "游泳",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈswɪmɪŋ/",
+    "uk_phonetic": "/ˈswɪmɪŋ/",
+    "example_sentence_en": "Swimming is good exercise.",
+    "example_sentence_cn": "游泳是很好的锻炼。",
+    "inflection": "动词原形: swim"
+  },
+  {
+    "english": "running",
+    "chinese": "跑步",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrʌnɪŋ/",
+    "uk_phonetic": "/ˈrʌnɪŋ/",
+    "example_sentence_en": "Running makes me strong.",
+    "example_sentence_cn": "跑步让我强壮。",
+    "inflection": "动词原形: run"
+  },
+  {
+    "english": "hiking",
+    "chinese": "远足",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhaɪkɪŋ/",
+    "uk_phonetic": "/ˈhaɪkɪŋ/",
+    "example_sentence_en": "We enjoy hiking in the mountains.",
+    "example_sentence_cn": "我们喜欢在山里远足。",
+    "inflection": "动词原形: hike"
+  },
+  {
+    "english": "cooking",
+    "chinese": "烹饪",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkʊkɪŋ/",
+    "uk_phonetic": "/ˈkʊkɪŋ/",
+    "example_sentence_en": "My mother loves cooking.",
+    "example_sentence_cn": "我妈妈热爱烹饪。",
+    "inflection": "动词原形: cook"
+  },
+  {
+    "english": "fishing",
+    "chinese": "钓鱼",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɪʃɪŋ/",
+    "uk_phonetic": "/ˈfɪʃɪŋ/",
+    "example_sentence_en": "They go fishing on weekends.",
+    "example_sentence_cn": "他们周末去钓鱼。",
+    "inflection": "动词原形: fish"
+  },
+  {
+    "english": "collecting",
+    "chinese": "收集",
+    "part_of_speech": "n.",
+    "us_phonetic": "/kəˈlektɪŋ/",
+    "uk_phonetic": "/kəˈlektɪŋ/",
+    "example_sentence_en": "Collecting stamps is fun.",
+    "example_sentence_cn": "集邮很有趣。",
+    "inflection": "动词原形: collect"
+  },
+  {
+    "english": "playing",
+    "chinese": "玩耍；演奏",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpleɪɪŋ/",
+    "uk_phonetic": "/ˈpleɪɪŋ/",
+    "example_sentence_en": "Playing chess is interesting.",
+    "example_sentence_cn": "下棋很有趣。",
+    "inflection": "动词原形: play"
+  },
+  {
+    "english": "gardening",
+    "chinese": "园艺",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɡɑːrdnɪŋ/",
+    "uk_phonetic": "/ˈɡɑːdnɪŋ/",
+    "example_sentence_en": "My grandpa enjoys gardening.",
+    "example_sentence_cn": "我爷爷喜欢做园艺。",
+    "inflection": "动词原形: garden"
+  },
+  {
+    "english": "cycling",
+    "chinese": "骑自行车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsaɪklɪŋ/",
+    "uk_phonetic": "/ˈsaɪklɪŋ/",
+    "example_sentence_en": "Cycling is a green way to travel.",
+    "example_sentence_cn": "骑自行车是一种环保的出行方式。",
+    "inflection": "动词原形: cycle"
+  },
+  {
+    "english": "jumping",
+    "chinese": "跳跃",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒʌmpɪŋ/",
+    "uk_phonetic": "/ˈdʒʌmpɪŋ/",
+    "example_sentence_en": "Jumping rope is good for you.",
+    "example_sentence_cn": "跳绳对你有好处。",
+    "inflection": "动词原形: jump"
+  },
+  {
+    "english": "happy",
+    "chinese": "高兴的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhæpi/",
+    "uk_phonetic": "/ˈhæpi/",
+    "example_sentence_en": "I feel very happy today.",
+    "example_sentence_cn": "我今天觉得很高兴。",
+    "inflection": "比较级: happier | 最高级: happiest | 副词: happily"
+  },
+  {
+    "english": "sad",
+    "chinese": "悲伤的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sæd/",
+    "uk_phonetic": "/sæd/",
+    "example_sentence_en": "She looks sad.",
+    "example_sentence_cn": "她看起来很悲伤。",
+    "inflection": "比较级: sadder | 最高级: saddest | 副词: sadly"
+  },
+  {
+    "english": "angry",
+    "chinese": "生气的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈæŋɡri/",
+    "uk_phonetic": "/ˈæŋɡri/",
+    "example_sentence_en": "Don't be angry with me.",
+    "example_sentence_cn": "别对我生气。",
+    "inflection": "比较级: angrier | 最高级: angriest | 副词: angrily"
+  },
+  {
+    "english": "excited",
+    "chinese": "兴奋的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪkˈsaɪtɪd/",
+    "uk_phonetic": "/ɪkˈsaɪtɪd/",
+    "example_sentence_en": "I am excited about the trip.",
+    "example_sentence_cn": "我对这次旅行感到兴奋。",
+    "inflection": "比较级: more excited | 最高级: most excited"
+  },
+  {
+    "english": "worried",
+    "chinese": "担心的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈwɜːrid/",
+    "uk_phonetic": "/ˈwʌrid/",
+    "example_sentence_en": "My mom looks worried.",
+    "example_sentence_cn": "我妈妈看起来很担心。",
+    "inflection": "比较级: more worried | 最高级: most worried"
+  },
+  {
+    "english": "afraid",
+    "chinese": "害怕的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/əˈfreɪd/",
+    "uk_phonetic": "/əˈfreɪd/",
+    "example_sentence_en": "I am afraid of the dark.",
+    "example_sentence_cn": "我害怕黑暗。",
+    "inflection": "无"
+  },
+  {
+    "english": "proud",
+    "chinese": "自豪的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/praʊd/",
+    "uk_phonetic": "/praʊd/",
+    "example_sentence_en": "I am proud of my school.",
+    "example_sentence_cn": "我为我的学校感到自豪。",
+    "inflection": "比较级: prouder | 最高级: proudest | 副词: proudly"
+  },
+  {
+    "english": "tired",
+    "chinese": "疲倦的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtaɪərd/",
+    "uk_phonetic": "/ˈtaɪəd/",
+    "example_sentence_en": "He is tired after work.",
+    "example_sentence_cn": "他下班后很疲倦。",
+    "inflection": "比较级: more tired | 最高级: most tired"
+  },
+  {
+    "english": "bored",
+    "chinese": "无聊的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/bɔːrd/",
+    "uk_phonetic": "/bɔːd/",
+    "example_sentence_en": "I feel bored at home.",
+    "example_sentence_cn": "我在家觉得无聊。",
+    "inflection": "比较级: more bored | 最高级: most bored"
+  },
+  {
+    "english": "surprised",
+    "chinese": "惊讶的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sərˈpraɪzd/",
+    "uk_phonetic": "/səˈpraɪzd/",
+    "example_sentence_en": "I am surprised to see you.",
+    "example_sentence_cn": "看到你我感到很惊讶。",
+    "inflection": "比较级: more surprised | 最高级: most surprised"
+  },
+  {
+    "english": "lonely",
+    "chinese": "孤独的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈloʊnli/",
+    "uk_phonetic": "/ˈləʊnli/",
+    "example_sentence_en": "He feels lonely without friends.",
+    "example_sentence_cn": "没有朋友他感到孤独。",
+    "inflection": "比较级: lonelier | 最高级: loneliest"
+  },
+  {
+    "english": "nervous",
+    "chinese": "紧张的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈnɜːrvəs/",
+    "uk_phonetic": "/ˈnɜːvəs/",
+    "example_sentence_en": "I am nervous about the exam.",
+    "example_sentence_cn": "我对考试感到紧张。",
+    "inflection": "比较级: more nervous | 最高级: most nervous"
+  },
+  {
+    "english": "glad",
+    "chinese": "高兴的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɡlæd/",
+    "uk_phonetic": "/ɡlæd/",
+    "example_sentence_en": "I am glad to meet you.",
+    "example_sentence_cn": "我很高兴见到你。",
+    "inflection": "比较级: gladder | 最高级: gladdest"
+  },
+  {
+    "english": "upset",
+    "chinese": "心烦的；难过的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʌpˈset/",
+    "uk_phonetic": "/ʌpˈset/",
+    "example_sentence_en": "She is upset about the news.",
+    "example_sentence_cn": "她对这消息感到心烦。",
+    "inflection": "无"
+  },
+  {
+    "english": "scared",
+    "chinese": "恐惧的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/skerd/",
+    "uk_phonetic": "/skeəd/",
+    "example_sentence_en": "The dog is scared of fireworks.",
+    "example_sentence_cn": "这只狗害怕烟花。",
+    "inflection": "比较级: more scared | 最高级: most scared"
+  }
+]

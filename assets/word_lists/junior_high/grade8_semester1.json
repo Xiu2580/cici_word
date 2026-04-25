@@ -1,0 +1,1792 @@
+[
+  {
+    "english": "health",
+    "chinese": "健康",
+    "part_of_speech": "n.",
+    "us_phonetic": "/helθ/",
+    "uk_phonetic": "/helθ/",
+    "example_sentence_en": "He was in good health last year.",
+    "example_sentence_cn": "他去年身体很健康。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "healthy",
+    "chinese": "健康的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhelθi/",
+    "uk_phonetic": "/ˈhelθi/",
+    "example_sentence_en": "She is healthier than before.",
+    "example_sentence_cn": "她比以前更健康了。",
+    "inflection": "比较级: healthier | 最高级: healthiest"
+  },
+  {
+    "english": "unhealthy",
+    "chinese": "不健康的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʌnˈhelθi/",
+    "uk_phonetic": "/ʌnˈhelθi/",
+    "example_sentence_en": "Eating too much junk food is unhealthy.",
+    "example_sentence_cn": "吃太多垃圾食品是不健康的。",
+    "inflection": "比较级: unhealthier | 最高级: unhealthiest"
+  },
+  {
+    "english": "stomachache",
+    "chinese": "胃痛；肚子痛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstʌməkeɪk/",
+    "uk_phonetic": "/ˈstʌməkeɪk/",
+    "example_sentence_en": "I had a stomachache yesterday.",
+    "example_sentence_cn": "我昨天胃痛。",
+    "inflection": "复数: stomachaches"
+  },
+  {
+    "english": "headache",
+    "chinese": "头痛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhedeɪk/",
+    "uk_phonetic": "/ˈhedeɪk/",
+    "example_sentence_en": "She had a bad headache last night.",
+    "example_sentence_cn": "她昨晚头痛得厉害。",
+    "inflection": "复数: headaches"
+  },
+  {
+    "english": "toothache",
+    "chinese": "牙痛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtuːθeɪk/",
+    "uk_phonetic": "/ˈtuːθeɪk/",
+    "example_sentence_en": "He got a toothache after eating candy.",
+    "example_sentence_cn": "他吃完糖果后牙痛了。",
+    "inflection": "复数: toothaches"
+  },
+  {
+    "english": "fever",
+    "chinese": "发烧",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfiːvər/",
+    "uk_phonetic": "/ˈfiːvə(r)/",
+    "example_sentence_en": "The child had a high fever two days ago.",
+    "example_sentence_cn": "这孩子两天前发高烧了。",
+    "inflection": "复数: fevers"
+  },
+  {
+    "english": "cough",
+    "chinese": "咳嗽",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/kɔːf/",
+    "uk_phonetic": "/kɒf/",
+    "example_sentence_en": "He coughed a lot last night.",
+    "example_sentence_cn": "他昨晚咳得很厉害。",
+    "inflection": "动词变化: coughs / coughed / coughing; 复数: coughs"
+  },
+  {
+    "english": "sore",
+    "chinese": "疼痛的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sɔːr/",
+    "uk_phonetic": "/sɔː(r)/",
+    "example_sentence_en": "My throat is sorer today than yesterday.",
+    "example_sentence_cn": "我的喉咙今天比昨天更痛了。",
+    "inflection": "比较级: sorer | 最高级: sorest"
+  },
+  {
+    "english": "throat",
+    "chinese": "喉咙",
+    "part_of_speech": "n.",
+    "us_phonetic": "/θroʊt/",
+    "uk_phonetic": "/θrəʊt/",
+    "example_sentence_en": "I had a sore throat last week.",
+    "example_sentence_cn": "我上周喉咙痛。",
+    "inflection": "复数: throats"
+  },
+  {
+    "english": "medicine",
+    "chinese": "药",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmedɪsn/",
+    "uk_phonetic": "/ˈmedsn/",
+    "example_sentence_en": "She took some medicine this morning.",
+    "example_sentence_cn": "她今天早上吃了一些药。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "doctor",
+    "chinese": "医生",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdɑːktər/",
+    "uk_phonetic": "/ˈdɒktə(r)/",
+    "example_sentence_cn": "We went to see the doctor yesterday.",
+    "example_sentence_en": "我们昨天去看医生了。",
+    "inflection": "复数: doctors"
+  },
+  {
+    "english": "hospital",
+    "chinese": "医院",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɑːspɪtl/",
+    "uk_phonetic": "/ˈhɒspɪtl/",
+    "example_sentence_en": "He was taken to the hospital yesterday.",
+    "example_sentence_cn": "他昨天被送去了医院。",
+    "inflection": "复数: hospitals"
+  },
+  {
+    "english": "patient",
+    "chinese": "病人",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpeɪʃnt/",
+    "uk_phonetic": "/ˈpeɪʃnt/",
+    "example_sentence_en": "The doctor treated many patients last month.",
+    "example_sentence_cn": "这位医生上个月治疗了许多病人。",
+    "inflection": "复数: patients"
+  },
+  {
+    "english": "symptom",
+    "chinese": "症状",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈsɪmptəm/",
+    "uk_phonetic": "/ˈsɪmptəm/",
+    "example_sentence_en": "What are the symptoms of your illness?",
+    "example_sentence_cn": "你的症状是什么？",
+    "inflection": "复数: symptoms"
+  },
+  {
+    "english": "rest",
+    "chinese": "休息",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/rest/",
+    "uk_phonetic": "/rest/",
+    "example_sentence_en": "I rested at home all day yesterday.",
+    "example_sentence_cn": "我昨天在家休息了一整天。",
+    "inflection": "动词变化: rests / rested / resting"
+  },
+  {
+    "english": "exercise",
+    "chinese": "锻炼",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈeksərsaɪz/",
+    "uk_phonetic": "/ˈeksəsaɪz/",
+    "example_sentence_en": "He exercised more last year than this year.",
+    "example_sentence_cn": "他去年锻炼得比今年多。",
+    "inflection": "动词变化: exercises / exercised / exercising"
+  },
+  {
+    "english": "diet",
+    "chinese": "日常饮食",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdaɪət/",
+    "uk_phonetic": "/ˈdaɪət/",
+    "example_sentence_en": "A balanced diet is the best for your health.",
+    "example_sentence_cn": "均衡的饮食对你的健康是最好的。",
+    "inflection": "复数: diets"
+  },
+  {
+    "english": "habit",
+    "chinese": "习惯",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhæbɪt/",
+    "uk_phonetic": "/ˈhæbɪt/",
+    "example_sentence_en": "He formed a good eating habit last year.",
+    "example_sentence_cn": "他去年养成了一些良好的饮食习惯。",
+    "inflection": "复数: habits"
+  },
+  {
+    "english": "ill",
+    "chinese": "生病的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪl/",
+    "uk_phonetic": "/ɪl/",
+    "example_sentence_en": "She was ill last week.",
+    "example_sentence_cn": "她上周生病了。",
+    "inflection": "比较级: worse | 最高级: worst"
+  },
+  {
+    "english": "sick",
+    "chinese": "生病的；恶心的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/sɪk/",
+    "uk_phonetic": "/sɪk/",
+    "example_sentence_en": "He felt sick after the roller coaster ride.",
+    "example_sentence_cn": "坐完过山车后他觉得恶心。",
+    "inflection": "比较级: sicker | 最高级: sickest"
+  },
+  {
+    "english": "hurt",
+    "chinese": "受伤；疼痛",
+    "part_of_speech": "v.",
+    "us_phonetic": "/hɜːrt/",
+    "uk_phonetic": "/hɜːt/",
+    "example_sentence_en": "My leg hurt badly yesterday.",
+    "example_sentence_cn": "我的腿昨天疼得很厉害。",
+    "inflection": "动词变化: hurts / hurt / hurting"
+  },
+  {
+    "english": "cure",
+    "chinese": "治愈",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kjʊr/",
+    "uk_phonetic": "/kjʊə(r)/",
+    "example_sentence_en": "The doctor cured his illness last month.",
+    "example_sentence_cn": "医生上个月治好了他的病。",
+    "inflection": "动词变化: cures / cured / curing"
+  },
+  {
+    "english": "recover",
+    "chinese": "恢复",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈkʌvər/",
+    "uk_phonetic": "/rɪˈkʌvə(r)/",
+    "example_sentence_en": "She recovered quickly last time.",
+    "example_sentence_cn": "她上次恢复得很快。",
+    "inflection": "动词变化: recovers / recovered / recovering"
+  },
+  {
+    "english": "energy",
+    "chinese": "精力；能量",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈenərdʒi/",
+    "uk_phonetic": "/ˈenədʒi/",
+    "example_sentence_en": "He has the most energy in our class.",
+    "example_sentence_cn": "他是我们班精力最充沛的。",
+    "inflection": "复数: energies"
+  },
+  {
+    "english": "fresh",
+    "chinese": "新鲜的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/freʃ/",
+    "uk_phonetic": "/freʃ/",
+    "example_sentence_en": "This is the freshest fruit I've ever eaten.",
+    "example_sentence_cn": "这是我吃过的最新鲜的水果。",
+    "inflection": "比较级: fresher | 最高级: freshest"
+  },
+  {
+    "english": "fitness",
+    "chinese": "健身；健康",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɪtnəs/",
+    "uk_phonetic": "/ˈfɪtnəs/",
+    "example_sentence_en": "He joined a fitness club last week.",
+    "example_sentence_cn": "他上周加入了一个健身俱乐部。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "relax",
+    "chinese": "放松",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈlæks/",
+    "uk_phonetic": "/rɪˈlæks/",
+    "example_sentence_en": "I relaxed at home last weekend.",
+    "example_sentence_cn": "我上周末在家放松了。",
+    "inflection": "动词变化: relaxes / relaxed / relaxing"
+  },
+  {
+    "english": "stress",
+    "chinese": "压力",
+    "part_of_speech": "n.",
+    "us_phonetic": "/stres/",
+    "uk_phonetic": "/stres/",
+    "example_sentence_en": "He suffered from stress last month.",
+    "example_sentence_cn": "他上个月承受了压力。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "tired",
+    "chinese": "疲倦的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈtaɪərd/",
+    "uk_phonetic": "/ˈtaɪəd/",
+    "example_sentence_en": "I was the most tired person yesterday.",
+    "example_sentence_cn": "我昨天是最累的人。",
+    "inflection": "比较级: more tired | 最高级: most tired"
+  },
+  {
+    "english": "lifestyle",
+    "chinese": "生活方式",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈlaɪfstaɪl/",
+    "uk_phonetic": "/ˈlaɪfstaɪl/",
+    "example_sentence_en": "She changed her lifestyle last year.",
+    "example_sentence_cn": "她去年改变了生活方式。",
+    "inflection": "复数: lifestyles"
+  },
+  {
+    "english": "balance",
+    "chinese": "平衡",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈbæləns/",
+    "uk_phonetic": "/ˈbæləns/",
+    "example_sentence_en": "He lost his balance and fell yesterday.",
+    "example_sentence_cn": "他昨天失去了平衡摔倒了。",
+    "inflection": "动词变化: balances / balanced / balancing"
+  },
+  {
+    "english": "vitamin",
+    "chinese": "维生素",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈvaɪtəmɪn/",
+    "uk_phonetic": "/ˈvɪtəmɪn/",
+    "example_sentence_en": "Oranges are the best source of vitamin C.",
+    "example_sentence_cn": "橙子是维C最好的来源。",
+    "inflection": "复数: vitamins"
+  },
+  {
+    "english": "weight",
+    "chinese": "体重；重量",
+    "part_of_speech": "n.",
+    "us_phonetic": "/weɪt/",
+    "uk_phonetic": "/weɪt/",
+    "example_sentence_en": "He lost a lot of weight last month.",
+    "example_sentence_cn": "他上个月瘦了很多。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "physical",
+    "chinese": "身体的；物理的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈfɪzɪkl/",
+    "uk_phonetic": "/ˈfɪzɪkl/",
+    "example_sentence_en": "He had a physical exam last week.",
+    "example_sentence_cn": "他上周做了一次体检。",
+    "inflection": "无"
+  },
+  {
+    "english": "mental",
+    "chinese": "精神的；心理的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈmentl/",
+    "uk_phonetic": "/ˈmentl/",
+    "example_sentence_en": "Mental health is as important as physical health.",
+    "example_sentence_cn": "心理健康和身体健康一样重要。",
+    "inflection": "无"
+  },
+  {
+    "english": "bandage",
+    "chinese": "绷带",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈbændɪdʒ/",
+    "uk_phonetic": "/ˈbændɪdʒ/",
+    "example_sentence_en": "The nurse put a bandage on his arm yesterday.",
+    "example_sentence_cn": "护士昨天在他手臂上缠了绷带。",
+    "inflection": "复数: bandages"
+  },
+  {
+    "english": "pain",
+    "chinese": "疼痛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/peɪn/",
+    "uk_phonetic": "/peɪn/",
+    "example_sentence_en": "He felt a sharp pain in his chest.",
+    "example_sentence_cn": "他感到胸口一阵剧痛。",
+    "inflection": "不可数名词/复数: pains"
+  },
+  {
+    "english": "examine",
+    "chinese": "检查",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪɡˈzæmɪn/",
+    "uk_phonetic": "/ɪɡˈzæmɪn/",
+    "example_sentence_en": "The doctor examined the patient carefully yesterday.",
+    "example_sentence_cn": "医生昨天仔细检查了病人。",
+    "inflection": "动词变化: examines / examined / examining"
+  },
+  {
+    "english": "prescribe",
+    "chinese": "开处方",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈskraɪb/",
+    "uk_phonetic": "/prɪˈskraɪb/",
+    "example_sentence_en": "The doctor prescribed some pills for me last week.",
+    "example_sentence_cn": "医生上周给我开了一些药丸。",
+    "inflection": "动词变化: prescribes / prescribed / prescribing"
+  },
+  {
+    "english": "flu",
+    "chinese": "流感",
+    "part_of_speech": "n.",
+    "us_phonetic": "/fluː/",
+    "uk_phonetic": "/fluː/",
+    "example_sentence_en": "She caught the flu last winter.",
+    "example_sentence_cn": "她去年冬天得了流感。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "cold",
+    "chinese": "感冒；冷的",
+    "part_of_speech": "n. / adj.",
+    "us_phonetic": "/koʊld/",
+    "uk_phonetic": "/kəʊld/",
+    "example_sentence_en": "I had a bad cold last week.",
+    "example_sentence_cn": "我上周得了重感冒。",
+    "inflection": "比较级: colder | 最高级: coldest"
+  },
+  {
+    "english": "injury",
+    "chinese": "伤害；受伤处",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪndʒəri/",
+    "uk_phonetic": "/ˈɪndʒəri/",
+    "example_sentence_en": "He suffered a serious injury last month.",
+    "example_sentence_cn": "他上个月受了重伤。",
+    "inflection": "复数: injuries"
+  },
+  {
+    "english": "ambulance",
+    "chinese": "救护车",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæmbjələns/",
+    "uk_phonetic": "/ˈæmbjələns/",
+    "example_sentence_en": "They called an ambulance yesterday.",
+    "example_sentence_cn": "他们昨天叫了救护车。",
+    "inflection": "复数: ambulances"
+  },
+  {
+    "english": "clinic",
+    "chinese": "诊所",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈklɪnɪk/",
+    "uk_phonetic": "/ˈklɪnɪk/",
+    "example_sentence_en": "I went to the dental clinic yesterday.",
+    "example_sentence_cn": "我昨天去了牙科诊所。",
+    "inflection": "复数: clinics"
+  },
+  {
+    "english": "pharmacy",
+    "chinese": "药房",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfɑːrməsi/",
+    "uk_phonetic": "/ˈfɑːməsi/",
+    "example_sentence_en": "She bought medicine at the pharmacy.",
+    "example_sentence_cn": "她在药房买了药。",
+    "inflection": "复数: pharmacies"
+  },
+  {
+    "english": "operation",
+    "chinese": "手术",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːpəˈreɪʃn/",
+    "uk_phonetic": "/ˌɒpəˈreɪʃn/",
+    "example_sentence_en": "He had an operation on his knee last year.",
+    "example_sentence_cn": "他去年做了一次膝盖手术。",
+    "inflection": "复数: operations"
+  },
+  {
+    "english": "treat",
+    "chinese": "治疗；对待",
+    "part_of_speech": "v.",
+    "us_phonetic": "/triːt/",
+    "uk_phonetic": "/triːt/",
+    "example_sentence_en": "The doctor treated him successfully yesterday.",
+    "example_sentence_cn": "医生昨天成功治疗了他。",
+    "inflection": "动词变化: treats / treated / treating"
+  },
+  {
+    "english": "event",
+    "chinese": "事件；比赛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈvent/",
+    "uk_phonetic": "/ɪˈvent/",
+    "example_sentence_en": "It was the most exciting event of the year.",
+    "example_sentence_cn": "那是今年最激动人心的事件。",
+    "inflection": "复数: events"
+  },
+  {
+    "english": "happen",
+    "chinese": "发生",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈhæpən/",
+    "uk_phonetic": "/ˈhæpən/",
+    "example_sentence_en": "What happened to you yesterday?",
+    "example_sentence_cn": "你昨天发生什么事了？",
+    "inflection": "动词变化: happens / happened / happening"
+  },
+  {
+    "english": "accident",
+    "chinese": "事故；意外",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈæksɪdənt/",
+    "uk_phonetic": "/ˈæksɪdənt/",
+    "example_sentence_en": "There was a car accident near our school yesterday.",
+    "example_sentence_cn": "昨天我们学校附近发生了一起车祸。",
+    "inflection": "复数: accidents"
+  },
+  {
+    "english": "incident",
+    "chinese": "事件",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɪnsɪdənt/",
+    "uk_phonetic": "/ˈɪnsɪdənt/",
+    "example_sentence_en": "He forgot the incident completely.",
+    "example_sentence_cn": "他完全忘记了那个事件。",
+    "inflection": "复数: incidents"
+  },
+  {
+    "english": "experience",
+    "chinese": "经历；经验",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪkˈspɪriəns/",
+    "uk_phonetic": "/ɪkˈspɪəriəns/",
+    "example_sentence_en": "It was the best experience of my life.",
+    "example_sentence_cn": "那是我一生中最棒的经历。",
+    "inflection": "动词变化: experiences / experienced / experiencing; 复数: experiences"
+  },
+  {
+    "english": "party",
+    "chinese": "聚会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɑːrti/",
+    "uk_phonetic": "/ˈpɑːti/",
+    "example_sentence_en": "We held a big party last night.",
+    "example_sentence_cn": "我们昨晚举办了一场大型聚会。",
+    "inflection": "复数: parties"
+  },
+  {
+    "english": "concert",
+    "chinese": "音乐会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɑːnsərt/",
+    "uk_phonetic": "/ˈkɒnsət/",
+    "example_sentence_en": "I went to the best concert last week.",
+    "example_sentence_cn": "我上周去了最棒的一场音乐会。",
+    "inflection": "复数: concerts"
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfestɪvl/",
+    "uk_phonetic": "/ˈfestɪvl/",
+    "example_sentence_en": "We celebrated the festival together last year.",
+    "example_sentence_cn": "我们去年一起庆祝了这个节日。",
+    "inflection": "复数: festivals"
+  },
+  {
+    "english": "competition",
+    "chinese": "竞赛",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌkɑːmpəˈtɪʃn/",
+    "uk_phonetic": "/ˌkɒmpəˈtɪʃn/",
+    "example_sentence_en": "He won first prize in the competition last month.",
+    "example_sentence_cn": "他上个月在竞赛中获得了一等奖。",
+    "inflection": "复数: competitions"
+  },
+  {
+    "english": "match",
+    "chinese": "比赛；火柴",
+    "part_of_speech": "n.",
+    "us_phonetic": "/mætʃ/",
+    "uk_phonetic": "/mætʃ/",
+    "example_sentence_en": "We watched an exciting match yesterday.",
+    "example_sentence_cn": "我们昨天看了一场激动人心的比赛。",
+    "inflection": "复数: matches"
+  },
+  {
+    "english": "trip",
+    "chinese": "旅行",
+    "part_of_speech": "n.",
+    "us_phonetic": "/trɪp/",
+    "uk_phonetic": "/trɪp/",
+    "example_sentence_en": "That was the worst trip I ever had.",
+    "example_sentence_cn": "那是我经历过的最糟糕的旅行。",
+    "inflection": "复数: trips"
+  },
+  {
+    "english": "journey",
+    "chinese": "旅程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈdʒɜːrni/",
+    "uk_phonetic": "/ˈdʒɜːni/",
+    "example_sentence_en": "They had a long journey last week.",
+    "example_sentence_cn": "他们上周进行了一次长途旅行。",
+    "inflection": "复数: journeys"
+  },
+  {
+    "english": "vacation",
+    "chinese": "假期",
+    "part_of_speech": "n.",
+    "us_phonetic": "/veɪˈkeɪʃn/",
+    "uk_phonetic": "/vəˈkeɪʃn/",
+    "example_sentence_en": "We had the most wonderful vacation last summer.",
+    "example_sentence_cn": "去年夏天我们度过了最美好的假期。",
+    "inflection": "复数: vacations"
+  },
+  {
+    "english": "celebration",
+    "chinese": "庆祝",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌselɪˈbreɪʃn/",
+    "uk_phonetic": "/ˌselɪˈbreɪʃn/",
+    "example_sentence_en": "The celebration was the biggest in history.",
+    "example_sentence_cn": "那是历史上最大的一场庆祝活动。",
+    "inflection": "复数: celebrations"
+  },
+  {
+    "english": "surprise",
+    "chinese": "惊喜；使惊讶",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/sərˈpraɪz/",
+    "uk_phonetic": "/səˈpraɪz/",
+    "example_sentence_en": "He gave me a big surprise yesterday.",
+    "example_sentence_cn": "他昨天给了我一个大惊喜。",
+    "inflection": "动词变化: surprises / surprised / surprising; 复数: surprises"
+  },
+  {
+    "english": "emergency",
+    "chinese": "突发事件；紧急情况",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɪˈmɜːrdʒənsi/",
+    "uk_phonetic": "/ɪˈmɜːdʒənsi/",
+    "example_sentence_en": "We had an emergency yesterday.",
+    "example_sentence_cn": "我们昨天遇到了紧急情况。",
+    "inflection": "复数: emergencies"
+  },
+  {
+    "english": "success",
+    "chinese": "成功",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səkˈses/",
+    "uk_phonetic": "/səkˈses/",
+    "example_sentence_en": "The event was a great success last year.",
+    "example_sentence_cn": "去年的活动取得了巨大的成功。",
+    "inflection": "不可数名词/复数: successes"
+  },
+  {
+    "english": "succeed",
+    "chinese": "成功",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səkˈsiːd/",
+    "uk_phonetic": "/səkˈsiːd/",
+    "example_sentence_en": "He succeeded in passing the exam last time.",
+    "example_sentence_cn": "他上次成功通过了考试。",
+    "inflection": "动词变化: succeeds / succeeded / succeeding"
+  },
+  {
+    "english": "fail",
+    "chinese": "失败",
+    "part_of_speech": "v.",
+    "us_phonetic": "/feɪl/",
+    "uk_phonetic": "/feɪl/",
+    "example_sentence_en": "He failed the exam last week.",
+    "example_sentence_cn": "他上周考试不及格。",
+    "inflection": "动词变化: fails / failed / failing"
+  },
+  {
+    "english": "win",
+    "chinese": "赢得",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɪn/",
+    "uk_phonetic": "/wɪn/",
+    "example_sentence_en": "Our team won the game yesterday.",
+    "example_sentence_cn": "我们队昨天赢了比赛。",
+    "inflection": "动词变化: wins / won / winning"
+  },
+  {
+    "english": "lose",
+    "chinese": "输；丢失",
+    "part_of_speech": "v.",
+    "us_phonetic": "/luːz/",
+    "uk_phonetic": "/luːz/",
+    "example_sentence_en": "I lost my keys yesterday.",
+    "example_sentence_cn": "我昨天丢了钥匙。",
+    "inflection": "动词变化: loses / lost / losing"
+  },
+  {
+    "english": "champion",
+    "chinese": "冠军",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtʃæmpiən/",
+    "uk_phonetic": "/ˈtʃæmpiən/",
+    "example_sentence_en": "He became the champion last year.",
+    "example_sentence_cn": "他去年成为了冠军。",
+    "inflection": "复数: champions"
+  },
+  {
+    "english": "record",
+    "chinese": "纪录；记录",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈrekərd/",
+    "uk_phonetic": "/ˈrekɔːd/",
+    "example_sentence_en": "He broke the world record last month.",
+    "example_sentence_cn": "他上个月打破了世界纪录。",
+    "inflection": "复数: records"
+  },
+  {
+    "english": "memory",
+    "chinese": "记忆",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmeməri/",
+    "uk_phonetic": "/ˈmeməri/",
+    "example_sentence_en": "It is my happiest memory.",
+    "example_sentence_cn": "这是我最快乐的记忆。",
+    "inflection": "复数: memories"
+  },
+  {
+    "english": "moment",
+    "chinese": "时刻",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmoʊmənt/",
+    "uk_phonetic": "/ˈməʊmənt/",
+    "example_sentence_en": "That was the proudest moment of my life.",
+    "example_sentence_cn": "那是我一生中最骄傲的时刻。",
+    "inflection": "复数: moments"
+  },
+  {
+    "english": "chance",
+    "chinese": "机会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tʃæns/",
+    "uk_phonetic": "/tʃɑːns/",
+    "example_sentence_en": "I got a good chance last week.",
+    "example_sentence_cn": "我上周得到了一个好机会。",
+    "inflection": "复数: chances"
+  },
+  {
+    "english": "opportunity",
+    "chinese": "机会",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌɑːpərˈtuːnəti/",
+    "uk_phonetic": "/ˌɒpəˈtjuːnəti/",
+    "example_sentence_en": "It was the best opportunity I ever had.",
+    "example_sentence_cn": "那是我有过的最好的机会。",
+    "inflection": "复数: opportunities"
+  },
+  {
+    "english": "lucky",
+    "chinese": "幸运的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈlʌki/",
+    "uk_phonetic": "/ˈlʌki/",
+    "example_sentence_en": "He was the luckiest boy yesterday.",
+    "example_sentence_cn": "他是昨天最幸运的男孩。",
+    "inflection": "比较级: luckier | 最高级: luckiest"
+  },
+  {
+    "english": "unlucky",
+    "chinese": "不幸的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ʌnˈlʌki/",
+    "uk_phonetic": "/ʌnˈlʌki/",
+    "example_sentence_en": "I was unlucky yesterday.",
+    "example_sentence_cn": "我昨天很不走运。",
+    "inflection": "比较级: unluckier | 最高级: unluckiest"
+  },
+  {
+    "english": "sudden",
+    "chinese": "突然的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsʌdn/",
+    "uk_phonetic": "/ˈsʌdn/",
+    "example_sentence_en": "There was a sudden storm yesterday.",
+    "example_sentence_cn": "昨天有一场突如其来的暴风雨。",
+    "inflection": "副词: suddenly"
+  },
+  {
+    "english": "occur",
+    "chinese": "发生",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈkɜːr/",
+    "uk_phonetic": "/əˈkɜː(r)/",
+    "example_sentence_en": "The accident occurred at 8 pm last night.",
+    "example_sentence_cn": "事故是昨晚8点发生的。",
+    "inflection": "动词变化: occurs / occurred / occurring"
+  },
+  {
+    "english": "disaster",
+    "chinese": "灾难",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈzæstər/",
+    "uk_phonetic": "/dɪˈzɑːstə(r)/",
+    "example_sentence_en": "It was the worst disaster in history.",
+    "example_sentence_cn": "那是历史上最严重的灾难。",
+    "inflection": "复数: disasters"
+  },
+  {
+    "english": "rescue",
+    "chinese": "营救",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈreskjuː/",
+    "uk_phonetic": "/ˈreskjuː/",
+    "example_sentence_en": "They rescued the boy successfully yesterday.",
+    "example_sentence_cn": "他们昨天成功营救了那个男孩。",
+    "inflection": "动词变化: rescues / rescued / rescuing"
+  },
+  {
+    "english": "brave",
+    "chinese": "勇敢的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/breɪv/",
+    "uk_phonetic": "/breɪv/",
+    "example_sentence_en": "He was the bravest soldier in the army.",
+    "example_sentence_cn": "他是军队里最勇敢的士兵。",
+    "inflection": "比较级: braver | 最高级: bravest"
+  },
+  {
+    "english": "hero",
+    "chinese": "英雄",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈhɪroʊ/",
+    "uk_phonetic": "/ˈhɪərəʊ/",
+    "example_sentence_en": "He became a hero after the event.",
+    "example_sentence_cn": "事件之后他成了一名英雄。",
+    "inflection": "复数: heroes"
+  },
+  {
+    "english": "award",
+    "chinese": "奖品；奖励",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈwɔːrd/",
+    "uk_phonetic": "/əˈwɔːd/",
+    "example_sentence_en": "She won the highest award last year.",
+    "example_sentence_cn": "她去年赢得了最高奖项。",
+    "inflection": "复数: awards"
+  },
+  {
+    "english": "ceremony",
+    "chinese": "典礼",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈserəmoʊni/",
+    "uk_phonetic": "/ˈserəməni/",
+    "example_sentence_en": "We attended the opening ceremony yesterday.",
+    "example_sentence_cn": "我们昨天参加了开幕式。",
+    "inflection": "复数: ceremonies"
+  },
+  {
+    "english": "perform",
+    "chinese": "表演；表现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈfɔːrm/",
+    "uk_phonetic": "/pəˈfɔːm/",
+    "example_sentence_en": "They performed perfectly last night.",
+    "example_sentence_cn": "他们昨晚表演得很完美。",
+    "inflection": "动词变化: performs / performed / performing"
+  },
+  {
+    "english": "audience",
+    "chinese": "观众",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɔːdiəns/",
+    "uk_phonetic": "/ˈɔːdiəns/",
+    "example_sentence_en": "The audience cheered loudly last night.",
+    "example_sentence_cn": "观众昨晚大声欢呼。",
+    "inflection": "复数: audiences"
+  },
+  {
+    "english": "cheer",
+    "chinese": "欢呼",
+    "part_of_speech": "v.",
+    "us_phonetic": "/tʃɪr/",
+    "uk_phonetic": "/tʃɪə(r)/",
+    "example_sentence_en": "We cheered for our team yesterday.",
+    "example_sentence_cn": "我们昨天为我们的队伍欢呼。",
+    "inflection": "动词变化: cheers / cheered / cheering"
+  },
+  {
+    "english": "clap",
+    "chinese": "鼓掌",
+    "part_of_speech": "v.",
+    "us_phonetic": "/klæp/",
+    "uk_phonetic": "/klæp/",
+    "example_sentence_en": "Everyone clapped at the end of the show.",
+    "example_sentence_cn": "演出结束时每个人都鼓掌了。",
+    "inflection": "动词变化: claps / clapped / clapping"
+  },
+  {
+    "english": "invite",
+    "chinese": "邀请",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈvaɪt/",
+    "uk_phonetic": "/ɪnˈvaɪt/",
+    "example_sentence_en": "She invited me to her party last week.",
+    "example_sentence_cn": "她上周邀请我参加她的聚会。",
+    "inflection": "动词变化: invites / invited / inviting"
+  },
+  {
+    "english": "arrival",
+    "chinese": "到达",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈraɪvl/",
+    "uk_phonetic": "/əˈraɪvl/",
+    "example_sentence_en": "His arrival was a surprise yesterday.",
+    "example_sentence_cn": "他昨天的到来是个惊喜。",
+    "inflection": "不可数名词/复数: arrivals"
+  },
+  {
+    "english": "depart",
+    "chinese": "离开；出发",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈpɑːrt/",
+    "uk_phonetic": "/dɪˈpɑːt/",
+    "example_sentence_en": "The train departed an hour ago.",
+    "example_sentence_cn": "火车一小时前出发了。",
+    "inflection": "动词变化: departs / departed / departing"
+  },
+  {
+    "english": "delay",
+    "chinese": "推迟；延误",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/dɪˈleɪ/",
+    "uk_phonetic": "/dɪˈleɪ/",
+    "example_sentence_en": "The flight was delayed yesterday.",
+    "example_sentence_cn": "航班昨天延误了。",
+    "inflection": "动词变化: delays / delayed / delaying; 复数: delays"
+  },
+  {
+    "english": "cancel",
+    "chinese": "取消",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkænsl/",
+    "uk_phonetic": "/ˈkænsl/",
+    "example_sentence_en": "They canceled the event last week.",
+    "example_sentence_cn": "他们上周取消了活动。",
+    "inflection": "动词变化: cancels / canceled / canceling"
+  },
+  {
+    "english": "announce",
+    "chinese": "宣布",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈnaʊns/",
+    "uk_phonetic": "/əˈnaʊns/",
+    "example_sentence_en": "He announced the news yesterday.",
+    "example_sentence_cn": "他昨天宣布了这个消息。",
+    "inflection": "动词变化: announces / announced / announcing"
+  },
+  {
+    "english": "discover",
+    "chinese": "发现",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈskʌvər/",
+    "uk_phonetic": "/dɪˈskʌvə(r)/",
+    "example_sentence_en": "They discovered a new island last year.",
+    "example_sentence_cn": "他们去年发现了一个新岛屿。",
+    "inflection": "动词变化: discovers / discovered / discovering"
+  },
+  {
+    "english": "explore",
+    "chinese": "探索",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈsplɔːr/",
+    "uk_phonetic": "/ɪkˈsplɔː(r)/",
+    "example_sentence_en": "We explored the forest yesterday.",
+    "example_sentence_cn": "我们昨天探索了森林。",
+    "inflection": "动词变化: explores / explored / exploring"
+  },
+  {
+    "english": "adventure",
+    "chinese": "冒险",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ədˈventʃər/",
+    "uk_phonetic": "/ədˈventʃə(r)/",
+    "example_sentence_en": "It was the greatest adventure of my life.",
+    "example_sentence_cn": "那是我一生中最伟大的冒险。",
+    "inflection": "复数: adventures"
+  },
+  {
+    "english": "plan",
+    "chinese": "计划",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/plæn/",
+    "uk_phonetic": "/plæn/",
+    "example_sentence_en": "He made the best plan for the trip.",
+    "example_sentence_cn": "他为这次旅行制定了最好的计划。",
+    "inflection": "动词变化: plans / planned / planning; 复数: plans"
+  },
+  {
+    "english": "decide",
+    "chinese": "决定",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈsaɪd/",
+    "uk_phonetic": "/dɪˈsaɪd/",
+    "example_sentence_en": "We decided to go to the beach yesterday.",
+    "example_sentence_cn": "我们昨天决定去海滩。",
+    "inflection": "动词变化: decides / decided / deciding"
+  },
+  {
+    "english": "decision",
+    "chinese": "决定",
+    "part_of_speech": "n.",
+    "us_phonetic": "/dɪˈsɪʒn/",
+    "uk_phonetic": "/dɪˈsɪʒn/",
+    "example_sentence_en": "She made the wisest decision.",
+    "example_sentence_cn": "她做出了最明智的决定。",
+    "inflection": "复数: decisions"
+  },
+  {
+    "english": "goal",
+    "chinese": "目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɡoʊl/",
+    "uk_phonetic": "/ɡəʊl/",
+    "example_sentence_en": "He achieved his goal last month.",
+    "example_sentence_cn": "他上个月实现了他的目标。",
+    "inflection": "复数: goals"
+  },
+  {
+    "english": "aim",
+    "chinese": "目的；旨在",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/eɪm/",
+    "uk_phonetic": "/eɪm/",
+    "example_sentence_en": "His aim was the highest in the class.",
+    "example_sentence_cn": "他的目标是班上最高的。",
+    "inflection": "动词变化: aims / aimed / aiming; 复数: aims"
+  },
+  {
+    "english": "purpose",
+    "chinese": "目的",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈpɜːrpəs/",
+    "uk_phonetic": "/ˈpɜːpəs/",
+    "example_sentence_en": "What was the purpose of your visit yesterday?",
+    "example_sentence_cn": "你昨天拜访的目的是什么？",
+    "inflection": "复数: purposes"
+  },
+  {
+    "english": "future",
+    "chinese": "未来",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈfjuːtʃər/",
+    "uk_phonetic": "/ˈfjuːtʃə(r)/",
+    "example_sentence_en": "He planned his future carefully last year.",
+    "example_sentence_cn": "他去年仔细规划了自己的未来。",
+    "inflection": "复数: futures"
+  },
+  {
+    "english": "prepare",
+    "chinese": "准备",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prɪˈper/",
+    "uk_phonetic": "/prɪˈpeə(r)/",
+    "example_sentence_en": "She prepared the most delicious dinner yesterday.",
+    "example_sentence_cn": "她昨天准备了最美味的晚餐。",
+    "inflection": "动词变化: prepares / prepared / preparing"
+  },
+  {
+    "english": "arrange",
+    "chinese": "安排",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈreɪndʒ/",
+    "uk_phonetic": "/əˈreɪndʒ/",
+    "example_sentence_en": "He arranged a meeting last Friday.",
+    "example_sentence_cn": "他上周五安排了一次会议。",
+    "inflection": "动词变化: arranges / arranged / arranging"
+  },
+  {
+    "english": "organize",
+    "chinese": "组织",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈɔːrɡənaɪz/",
+    "uk_phonetic": "/ˈɔːɡənaɪz/",
+    "example_sentence_en": "They organized the biggest event last year.",
+    "example_sentence_cn": "他们去年组织了最大的活动。",
+    "inflection": "动词变化: organizes / organized / organizing"
+  },
+  {
+    "english": "schedule",
+    "chinese": "日程表；安排",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈskedʒuːl/",
+    "uk_phonetic": "/ˈʃedjuːl/",
+    "example_sentence_en": "He completed the tightest schedule last month.",
+    "example_sentence_cn": "他上个月完成了最紧凑的日程。",
+    "inflection": "动词变化: schedules / scheduled / scheduling; 复数: schedules"
+  },
+  {
+    "english": "expect",
+    "chinese": "期望",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪkˈspekt/",
+    "uk_phonetic": "/ɪkˈspekt/",
+    "example_sentence_en": "I expected a better result yesterday.",
+    "example_sentence_cn": "我昨天期望一个更好的结果。",
+    "inflection": "动词变化: expects / expected / expecting"
+  },
+  {
+    "english": "intend",
+    "chinese": "打算",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈtend/",
+    "uk_phonetic": "/ɪnˈtend/",
+    "example_sentence_en": "He intended to study abroad last year.",
+    "example_sentence_cn": "他去年打算出国留学。",
+    "inflection": "动词变化: intends / intended / intending"
+  },
+  {
+    "english": "promise",
+    "chinese": "承诺",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈprɑːmɪs/",
+    "uk_phonetic": "/ˈprɒmɪs/",
+    "example_sentence_en": "He kept his promise yesterday.",
+    "example_sentence_cn": "他昨天遵守了承诺。",
+    "inflection": "动词变化: promises / promised / promising; 复数: promises"
+  },
+  {
+    "english": "resolution",
+    "chinese": "决心；决定",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌrezəˈluːʃn/",
+    "uk_phonetic": "/ˌrezəˈluːʃn/",
+    "example_sentence_en": "He made a New Year's resolution last year.",
+    "example_sentence_cn": "他去年定下了新年决心。",
+    "inflection": "复数: resolutions"
+  },
+  {
+    "english": "ambition",
+    "chinese": "抱负；雄心",
+    "part_of_speech": "n.",
+    "us_phonetic": "/æmˈbɪʃn/",
+    "uk_phonetic": "/æmˈbɪʃn/",
+    "example_sentence_en": "He had the greatest ambition in the team.",
+    "example_sentence_cn": "他是团队里雄心最大的。",
+    "inflection": "复数: ambitions"
+  },
+  {
+    "english": "dream",
+    "chinese": "梦想",
+    "part_of_speech": "n.",
+    "us_phonetic": "/driːm/",
+    "uk_phonetic": "/driːm/",
+    "example_sentence_en": "His dream came true last year.",
+    "example_sentence_cn": "他的梦想去年实现了。",
+    "inflection": "复数: dreams"
+  },
+  {
+    "english": "hope",
+    "chinese": "希望",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/hoʊp/",
+    "uk_phonetic": "/həʊp/",
+    "example_sentence_en": "I hoped for the best result yesterday.",
+    "example_sentence_cn": "我昨天希望得到最好的结果。",
+    "inflection": "动词变化: hopes / hoped / hoping"
+  },
+  {
+    "english": "wish",
+    "chinese": "祝愿；希望",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/wɪʃ/",
+    "uk_phonetic": "/wɪʃ/",
+    "example_sentence_en": "I wished I had studied harder last year.",
+    "example_sentence_cn": "我希望我去年学习更努力些。",
+    "inflection": "动词变化: wishes / wished / wishing; 复数: wishes"
+  },
+  {
+    "english": "attempt",
+    "chinese": "尝试",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/əˈtempt/",
+    "uk_phonetic": "/əˈtempt/",
+    "example_sentence_en": "He attempted the hardest climb last month.",
+    "example_sentence_cn": "他上个月尝试了最艰难的攀登。",
+    "inflection": "动词变化: attempts / attempted / attempting; 复数: attempts"
+  },
+  {
+    "english": "project",
+    "chinese": "项目；计划",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈprɑːdʒekt/",
+    "uk_phonetic": "/ˈprɒdʒekt/",
+    "example_sentence_en": "We finished the biggest project last week.",
+    "example_sentence_cn": "我们上周完成了最大的项目。",
+    "inflection": "复数: projects"
+  },
+  {
+    "english": "task",
+    "chinese": "任务",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tæsk/",
+    "uk_phonetic": "/tɑːsk/",
+    "example_sentence_en": "He completed the hardest task yesterday.",
+    "example_sentence_cn": "他昨天完成了最困难的任务。",
+    "inflection": "复数: tasks"
+  },
+  {
+    "english": "upcoming",
+    "chinese": "即将到来的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈʌpkʌmɪŋ/",
+    "uk_phonetic": "/ˈʌpkʌmɪŋ/",
+    "example_sentence_en": "We prepared for the upcoming exam last week.",
+    "example_sentence_cn": "我们上周为即将到来的考试做了准备。",
+    "inflection": "无"
+  },
+  {
+    "english": "arrangement",
+    "chinese": "安排",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈreɪndʒmənt/",
+    "uk_phonetic": "/əˈreɪndʒmənt/",
+    "example_sentence_en": "She made the best arrangement for us.",
+    "example_sentence_cn": "她为我们做出了最好的安排。",
+    "inflection": "复数: arrangements"
+  },
+  {
+    "english": "preparation",
+    "chinese": "准备",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˌprepəˈreɪʃn/",
+    "uk_phonetic": "/ˌprepəˈreɪʃn/",
+    "example_sentence_en": "He did the most preparation for the test.",
+    "example_sentence_cn": "他为考试做的准备最多。",
+    "inflection": "复数: preparations"
+  },
+  {
+    "english": "option",
+    "chinese": "选择",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈɑːpʃn/",
+    "uk_phonetic": "/ˈɒpʃn/",
+    "example_sentence_en": "That was the best option at that time.",
+    "example_sentence_cn": "那是当时最好的选择。",
+    "inflection": "复数: options"
+  },
+  {
+    "english": "choice",
+    "chinese": "选择",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tʃɔɪs/",
+    "uk_phonetic": "/tʃɔɪs/",
+    "example_sentence_en": "He made the right choice yesterday.",
+    "example_sentence_cn": "他昨天做出了正确的选择。",
+    "inflection": "复数: choices"
+  },
+  {
+    "english": "alternative",
+    "chinese": "替代选择",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ɔːlˈtɜːrnətɪv/",
+    "uk_phonetic": "/ɔːlˈtɜːnətɪv/",
+    "example_sentence_en": "We had no better alternative last week.",
+    "example_sentence_cn": "我们上周没有更好的替代选择。",
+    "inflection": "复数: alternatives"
+  },
+  {
+    "english": "consider",
+    "chinese": "考虑",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈsɪdər/",
+    "uk_phonetic": "/kənˈsɪdə(r)/",
+    "example_sentence_en": "I considered it carefully last night.",
+    "example_sentence_cn": "我昨晚仔细考虑了这件事。",
+    "inflection": "动词变化: considers / considered / considering"
+  },
+  {
+    "english": "determine",
+    "chinese": "决定；确定",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dɪˈtɜːrmɪn/",
+    "uk_phonetic": "/dɪˈtɜːmɪn/",
+    "example_sentence_en": "He determined to win first prize last year.",
+    "example_sentence_cn": "他去年下定决心要赢一等奖。",
+    "inflection": "动词变化: determines / determined / determining"
+  },
+  {
+    "english": "settle",
+    "chinese": "解决；定居",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈsetl/",
+    "uk_phonetic": "/ˈsetl/",
+    "example_sentence_en": "They settled the problem yesterday.",
+    "example_sentence_cn": "他们昨天解决了这个问题。",
+    "inflection": "动词变化: settles / settled / settling"
+  },
+  {
+    "english": "resolve",
+    "chinese": "解决；决心",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈzɑːlv/",
+    "uk_phonetic": "/rɪˈzɒlv/",
+    "example_sentence_en": "She resolved to study harder last term.",
+    "example_sentence_cn": "她上学期决心更努力学习。",
+    "inflection": "动词变化: resolves / resolved / resolving"
+  },
+  {
+    "english": "propose",
+    "chinese": "提议",
+    "part_of_speech": "v.",
+    "us_phonetic": "/prəˈpoʊz/",
+    "uk_phonetic": "/prəˈpəʊz/",
+    "example_sentence_en": "He proposed a new plan yesterday.",
+    "example_sentence_cn": "他昨天提议了一个新计划。",
+    "inflection": "动词变化: proposes / proposed / proposing"
+  },
+  {
+    "english": "agenda",
+    "chinese": "议程",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈdʒendə/",
+    "uk_phonetic": "/əˈdʒendə/",
+    "example_sentence_en": "What was on the agenda yesterday?",
+    "example_sentence_cn": "昨天的议程是什么？",
+    "inflection": "复数: agendas"
+  },
+  {
+    "english": "target",
+    "chinese": "目标",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈtɑːrɡɪt/",
+    "uk_phonetic": "/ˈtɑːɡɪt/",
+    "example_sentence_en": "He hit the target successfully last time.",
+    "example_sentence_cn": "他上次成功击中了目标。",
+    "inflection": "复数: targets"
+  },
+  {
+    "english": "milestone",
+    "chinese": "里程碑",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmaɪlstoʊn/",
+    "uk_phonetic": "/ˈmaɪlstəʊn/",
+    "example_sentence_en": "It was the most important milestone in his life.",
+    "example_sentence_cn": "那是他人生中最重要的里程碑。",
+    "inflection": "复数: milestones"
+  },
+  {
+    "english": "strategy",
+    "chinese": "策略",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈstrætədʒi/",
+    "uk_phonetic": "/ˈstrætədʒi/",
+    "example_sentence_en": "He used the best strategy to win.",
+    "example_sentence_cn": "他用了最好的策略来获胜。",
+    "inflection": "复数: strategies"
+  },
+  {
+    "english": "method",
+    "chinese": "方法",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈmeθəd/",
+    "uk_phonetic": "/ˈmeθəd/",
+    "example_sentence_en": "This is the easiest method to learn English.",
+    "example_sentence_cn": "这是学英语最简单的方法。",
+    "inflection": "复数: methods"
+  },
+  {
+    "english": "advice",
+    "chinese": "建议",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ədˈvaɪs/",
+    "uk_phonetic": "/ədˈvaɪs/",
+    "example_sentence_en": "He gave me the best advice yesterday.",
+    "example_sentence_cn": "他昨天给了我最好的建议。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "suggest",
+    "chinese": "建议",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səˈdʒest/",
+    "uk_phonetic": "/səˈdʒest/",
+    "example_sentence_en": "She suggested a good idea yesterday.",
+    "example_sentence_cn": "她昨天提出了一个好主意。",
+    "inflection": "动词变化: suggests / suggested / suggesting"
+  },
+  {
+    "english": "suggestion",
+    "chinese": "建议",
+    "part_of_speech": "n.",
+    "us_phonetic": "/səˈdʒestʃən/",
+    "uk_phonetic": "/səˈdʒestʃən/",
+    "example_sentence_en": "That was the most helpful suggestion.",
+    "example_sentence_cn": "那是最有帮助的建议。",
+    "inflection": "复数: suggestions"
+  },
+  {
+    "english": "recommend",
+    "chinese": "推荐",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌrekəˈmend/",
+    "uk_phonetic": "/ˌrekəˈmend/",
+    "example_sentence_en": "He recommended the best restaurant to me last week.",
+    "example_sentence_cn": "他上周向我推荐了最好的餐厅。",
+    "inflection": "动词变化: recommends / recommended / recommending"
+  },
+  {
+    "english": "tip",
+    "chinese": "提示；小费",
+    "part_of_speech": "n.",
+    "us_phonetic": "/tɪp/",
+    "uk_phonetic": "/tɪp/",
+    "example_sentence_en": "She gave me the most useful tip yesterday.",
+    "example_sentence_cn": "她昨天给了我最有用的提示。",
+    "inflection": "复数: tips"
+  },
+  {
+    "english": "idea",
+    "chinese": "主意",
+    "part_of_speech": "n.",
+    "us_phonetic": "/aɪˈdiːə/",
+    "uk_phonetic": "/aɪˈdɪə/",
+    "example_sentence_en": "That was the worst idea ever.",
+    "example_sentence_cn": "那是有史以来最糟糕的主意。",
+    "inflection": "复数: ideas"
+  },
+  {
+    "english": "opinion",
+    "chinese": "观点",
+    "part_of_speech": "n.",
+    "us_phonetic": "/əˈpɪnjən/",
+    "uk_phonetic": "/əˈpɪnjən/",
+    "example_sentence_en": "He expressed his opinion clearly yesterday.",
+    "example_sentence_cn": "他昨天清楚地表达了他的观点。",
+    "inflection": "复数: opinions"
+  },
+  {
+    "english": "view",
+    "chinese": "观点；风景",
+    "part_of_speech": "n.",
+    "us_phonetic": "/vjuː/",
+    "uk_phonetic": "/vjuː/",
+    "example_sentence_en": "What is your view on this matter?",
+    "example_sentence_cn": "你对这件事的观点是什么？",
+    "inflection": "复数: views"
+  },
+  {
+    "english": "ought",
+    "chinese": "应该",
+    "part_of_speech": "modal v.",
+    "us_phonetic": "/ˈɔːt/",
+    "uk_phonetic": "/ˈɔːt/",
+    "example_sentence_en": "He ought to have apologized yesterday.",
+    "example_sentence_cn": "他昨天本应该道歉的。",
+    "inflection": "无"
+  },
+  {
+    "english": "suppose",
+    "chinese": "假设；认为",
+    "part_of_speech": "v.",
+    "us_phonetic": "/səˈpoʊz/",
+    "uk_phonetic": "/səˈpəʊz/",
+    "example_sentence_en": "I supposed he was right yesterday.",
+    "example_sentence_cn": "我昨天认为他是对的。",
+    "inflection": "动词变化: supposes / supposed / supposing"
+  },
+  {
+    "english": "believe",
+    "chinese": "相信",
+    "part_of_speech": "v.",
+    "us_phonetic": "/bɪˈliːv/",
+    "uk_phonetic": "/bɪˈliːv/",
+    "example_sentence_en": "I believed his words yesterday.",
+    "example_sentence_cn": "我昨天相信了他的话。",
+    "inflection": "动词变化: believes / believed / believing"
+  },
+  {
+    "english": "agree",
+    "chinese": "同意",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈɡriː/",
+    "uk_phonetic": "/əˈɡriː/",
+    "example_sentence_en": "I agreed with your suggestion yesterday.",
+    "example_sentence_cn": "我昨天同意了你的建议。",
+    "inflection": "动词变化: agrees / agreed / agreeing"
+  },
+  {
+    "english": "disagree",
+    "chinese": "不同意",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˌdɪsəˈɡriː/",
+    "uk_phonetic": "/ˌdɪsəˈɡriː/",
+    "example_sentence_en": "He disagreed with me last time.",
+    "example_sentence_cn": "他上次不同意我的观点。",
+    "inflection": "动词变化: disagrees / disagreed / disagreeing"
+  },
+  {
+    "english": "accept",
+    "chinese": "接受",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əkˈsept/",
+    "uk_phonetic": "/əkˈsept/",
+    "example_sentence_en": "She accepted my advice yesterday.",
+    "example_sentence_cn": "她昨天接受了我的建议。",
+    "inflection": "动词变化: accepts / accepted / accepting"
+  },
+  {
+    "english": "refuse",
+    "chinese": "拒绝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈfjuːz/",
+    "uk_phonetic": "/rɪˈfjuːz/",
+    "example_sentence_en": "He refused my help yesterday.",
+    "example_sentence_cn": "他昨天拒绝了我的帮助。",
+    "inflection": "动词变化: refuses / refused / refusing"
+  },
+  {
+    "english": "reject",
+    "chinese": "驳回；拒绝",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈdʒekt/",
+    "uk_phonetic": "/rɪˈdʒekt/",
+    "example_sentence_en": "They rejected the proposal last week.",
+    "example_sentence_cn": "他们上周驳回了那个提议。",
+    "inflection": "动词变化: rejects / rejected / rejecting"
+  },
+  {
+    "english": "wise",
+    "chinese": "明智的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/waɪz/",
+    "uk_phonetic": "/waɪz/",
+    "example_sentence_en": "That was the wisest choice.",
+    "example_sentence_cn": "那是最明智的选择。",
+    "inflection": "比较级: wiser | 最高级: wisest"
+  },
+  {
+    "english": "correct",
+    "chinese": "正确的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/kəˈrekt/",
+    "uk_phonetic": "/kəˈrekt/",
+    "example_sentence_en": "He gave the correct answer yesterday.",
+    "example_sentence_cn": "他昨天给出了正确的答案。",
+    "inflection": "比较级: more correct | 最高级: most correct"
+  },
+  {
+    "english": "wrong",
+    "chinese": "错误的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/rɔːŋ/",
+    "uk_phonetic": "/rɒŋ/",
+    "example_sentence_en": "He realized he was wrong yesterday.",
+    "example_sentence_cn": "他昨天意识到他错了。",
+    "inflection": "比较级: wronger | 最高级: wrongest"
+  },
+  {
+    "english": "helpful",
+    "chinese": "有帮助的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈhelpfl/",
+    "uk_phonetic": "/ˈhelpfl/",
+    "example_sentence_en": "Your advice was the most helpful.",
+    "example_sentence_cn": "你的建议是最有帮助的。",
+    "inflection": "比较级: more helpful | 最高级: most helpful"
+  },
+  {
+    "english": "useful",
+    "chinese": "有用的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈjuːsfl/",
+    "uk_phonetic": "/ˈjuːsfl/",
+    "example_sentence_en": "This is the most useful tool I have.",
+    "example_sentence_cn": "这是我拥有的最有用的工具。",
+    "inflection": "比较级: more useful | 最高级: most useful"
+  },
+  {
+    "english": "proper",
+    "chinese": "合适的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈprɑːpər/",
+    "uk_phonetic": "/ˈprɒpə(r)/",
+    "example_sentence_en": "He found the proper way to solve it yesterday.",
+    "example_sentence_cn": "他昨天找到了解决它的合适方法。",
+    "inflection": "比较级: more proper | 最高级: most proper"
+  },
+  {
+    "english": "suitable",
+    "chinese": "适宜的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈsuːtəbl/",
+    "uk_phonetic": "/ˈsjuːtəbl/",
+    "example_sentence_en": "Is this the most suitable time?",
+    "example_sentence_cn": "这是最适宜的时间吗？",
+    "inflection": "比较级: more suitable | 最高级: most suitable"
+  },
+  {
+    "english": "necessary",
+    "chinese": "必要的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈnesəseri/",
+    "uk_phonetic": "/ˈnesəsəri/",
+    "example_sentence_en": "Sleep is the most necessary thing for health.",
+    "example_sentence_cn": "睡眠是对健康最必要的事情。",
+    "inflection": "比较级: more necessary | 最高级: most necessary"
+  },
+  {
+    "english": "important",
+    "chinese": "重要的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ɪmˈpɔːrtnt/",
+    "uk_phonetic": "/ɪmˈpɔːtnt/",
+    "example_sentence_en": "Health is the most important thing.",
+    "example_sentence_cn": "健康是最重要的事情。",
+    "inflection": "比较级: more important | 最高级: most important"
+  },
+  {
+    "english": "vital",
+    "chinese": "至关重要的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈvaɪtl/",
+    "uk_phonetic": "/ˈvaɪtl/",
+    "example_sentence_en": "Water is vital for our bodies.",
+    "example_sentence_cn": "水对我们的身体至关重要。",
+    "inflection": "比较级: more vital | 最高级: most vital"
+  },
+  {
+    "english": "careful",
+    "chinese": "小心的",
+    "part_of_speech": "adj.",
+    "us_phonetic": "/ˈkerfl/",
+    "uk_phonetic": "/ˈkeəfl/",
+    "example_sentence_en": "He is the most careful student in our class.",
+    "example_sentence_cn": "他是我们班最细心的学生。",
+    "inflection": "比较级: more careful | 最高级: most careful"
+  },
+  {
+    "english": "caution",
+    "chinese": "谨慎；警告",
+    "part_of_speech": "n.",
+    "us_phonetic": "/ˈkɔːʃn/",
+    "uk_phonetic": "/ˈkɔːʃn/",
+    "example_sentence_en": "He exercised caution yesterday.",
+    "example_sentence_cn": "他昨天表现得很谨慎。",
+    "inflection": "不可数名词"
+  },
+  {
+    "english": "warn",
+    "chinese": "警告",
+    "part_of_speech": "v.",
+    "us_phonetic": "/wɔːrn/",
+    "uk_phonetic": "/wɔːn/",
+    "example_sentence_en": "The doctor warned him last week.",
+    "example_sentence_cn": "医生上周警告过他。",
+    "inflection": "动词变化: warns / warned / warning"
+  },
+  {
+    "english": "remind",
+    "chinese": "提醒",
+    "part_of_speech": "v.",
+    "us_phonetic": "/rɪˈmaɪnd/",
+    "uk_phonetic": "/rɪˈmaɪnd/",
+    "example_sentence_en": "She reminded me of the meeting yesterday.",
+    "example_sentence_cn": "她昨天提醒我开会的事。",
+    "inflection": "动词变化: reminds / reminded / reminding"
+  },
+  {
+    "english": "persuade",
+    "chinese": "说服",
+    "part_of_speech": "v.",
+    "us_phonetic": "/pərˈsweɪd/",
+    "uk_phonetic": "/pəˈsweɪd/",
+    "example_sentence_en": "I persuaded him to see a doctor yesterday.",
+    "example_sentence_cn": "我昨天说服他去看医生了。",
+    "inflection": "动词变化: persuades / persuaded / persuading"
+  },
+  {
+    "english": "convince",
+    "chinese": "使确信",
+    "part_of_speech": "v.",
+    "us_phonetic": "/kənˈvɪns/",
+    "uk_phonetic": "/kənˈvɪns/",
+    "example_sentence_en": "He convinced me yesterday.",
+    "example_sentence_cn": "他昨天让我信服了。",
+    "inflection": "动词变化: convinces / convinced / convincing"
+  },
+  {
+    "english": "influence",
+    "chinese": "影响",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ˈɪnfluəns/",
+    "uk_phonetic": "/ˈɪnfluəns/",
+    "example_sentence_en": "His words influenced me greatly yesterday.",
+    "example_sentence_cn": "他的话昨天极大地影响了我。",
+    "inflection": "动词变化: influences / influenced / influencing"
+  },
+  {
+    "english": "guide",
+    "chinese": "指导",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/ɡaɪd/",
+    "uk_phonetic": "/ɡaɪd/",
+    "example_sentence_en": "He guided me to make the best decision yesterday.",
+    "example_sentence_cn": "他昨天指导我做出了最好的决定。",
+    "inflection": "动词变化: guides / guided / guiding; 复数: guides"
+  },
+  {
+    "english": "instruct",
+    "chinese": "指示；教授",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪnˈstrʌkt/",
+    "uk_phonetic": "/ɪnˈstrʌkt/",
+    "example_sentence_en": "She instructed us clearly yesterday.",
+    "example_sentence_cn": "她昨天清楚地指示了我们。",
+    "inflection": "动词变化: instructs / instructed / instructing"
+  },
+  {
+    "english": "evaluate",
+    "chinese": "评估",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ɪˈvæljueɪt/",
+    "uk_phonetic": "/ɪˈvæljueɪt/",
+    "example_sentence_en": "We evaluated the plan carefully yesterday.",
+    "example_sentence_cn": "我们昨天仔细评估了这项计划。",
+    "inflection": "动词变化: evaluates / evaluated / evaluating"
+  },
+  {
+    "english": "assess",
+    "chinese": "评定",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈses/",
+    "uk_phonetic": "/əˈses/",
+    "example_sentence_en": "The doctor assessed his health yesterday.",
+    "example_sentence_cn": "医生昨天评定他的健康状况。",
+    "inflection": "动词变化: assesses / assessed / assessing"
+  },
+  {
+    "english": "judge",
+    "chinese": "判断",
+    "part_of_speech": "v.",
+    "us_phonetic": "/dʒʌdʒ/",
+    "uk_phonetic": "/dʒʌdʒ/",
+    "example_sentence_en": "Don't judge a person by his appearance.",
+    "example_sentence_cn": "不要以貌取人。",
+    "inflection": "动词变化: judges / judged / judging"
+  },
+  {
+    "english": "comment",
+    "chinese": "评论",
+    "part_of_speech": "n. / v.",
+    "us_phonetic": "/ˈkɑːment/",
+    "uk_phonetic": "/ˈkɒment/",
+    "example_sentence_en": "He made a useful comment yesterday.",
+    "example_sentence_cn": "他昨天做了一条有用的评论。",
+    "inflection": "动词变化: comments / commented / commenting; 复数: comments"
+  },
+  {
+    "english": "criticize",
+    "chinese": "批评",
+    "part_of_speech": "v.",
+    "us_phonetic": "/ˈkrɪtɪsaɪz/",
+    "uk_phonetic": "/ˈkrɪtɪsaɪz/",
+    "example_sentence_en": "The teacher criticized him yesterday.",
+    "example_sentence_cn": "老师昨天批评了他。",
+    "inflection": "动词变化: criticizes / criticized / criticizing"
+  },
+  {
+    "english": "praise",
+    "chinese": "表扬",
+    "part_of_speech": "v.",
+    "us_phonetic": "/preɪz/",
+    "uk_phonetic": "/preɪz/",
+    "example_sentence_en": "The teacher praised him for his hard work yesterday.",
+    "example_sentence_cn": "老师昨天表扬了他的努力。",
+    "inflection": "动词变化: praises / praised / praising"
+  },
+  {
+    "english": "approve",
+    "chinese": "赞成；批准",
+    "part_of_speech": "v.",
+    "us_phonetic": "/əˈpruːv/",
+    "uk_phonetic": "/əˈpruːv/",
+    "example_sentence_en": "My parents approved my plan yesterday.",
+    "example_sentence_cn": "我父母昨天赞成我的计划。",
+    "inflection": "动词变化: approves / approved / approving"
+  },
+  {
+    "english": "support",
+    "chinese": "支持",
+    "part_of_speech": "v. / n.",
+    "us_phonetic": "/səˈpɔːrt/",
+    "uk_phonetic": "/səˈpɔːt/",
+    "example_sentence_en": "They supported my idea last time.",
+    "example_sentence_cn": "他们上次支持了我的想法。",
+    "inflection": "动词变化: supports / supported / supporting"
+  }
+]
