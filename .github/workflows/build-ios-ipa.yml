@@ -14,13 +14,6 @@ jobs:
           channel: stable
           cache: true
 
-      - name: Show tool versions
-        run: |
-          flutter --version
-          dart --version
-          xcodebuild -version
-          pod --version
-
       - name: Get Flutter dependencies
         run: flutter pub get
 
@@ -29,36 +22,22 @@ jobs:
           cd ios
           pod install
 
-      # 修复后的签名禁用步骤
+   
       - name: Disable Xcode code signing
         run: |
           cd ios
           sed -i '' 's/CODE_SIGN_STYLE = Automatic;/CODE_SIGN_STYLE = Manual;/g' Runner.xcodeproj/project.pbxproj
-          sed -i '' 's/DEVELOPMENT_TEAM = .*/DEVELOPMENT_TEAM = "";/g' Runner.xcodeproj/project.pbxproj
+
+          sed -i '' 's/DEVELOPMENT_TEAM = .*/DEVELOPMENT_TEAM = "0000000000";/g' Runner.xcodeproj/project.pbxproj
+
           sed -i '' 's/CODE_SIGN_IDENTITY = "iPhone Developer"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
           sed -i '' 's/CODE_SIGN_IDENTITY = "Apple Development"/CODE_SIGN_IDENTITY = ""/g' Runner.xcodeproj/project.pbxproj
           sed -i '' 's/PROVISIONING_PROFILE_SPECIFIER = .*/PROVISIONING_PROFILE_SPECIFIER = "";/g' Runner.xcodeproj/project.pbxproj
-          awk '
-          BEGIN { in_config = 0; found_release = 0; }
-          /Begin XCBuildConfiguration section/ { in_config = 1; }
-          /End XCBuildConfiguration section/ { in_config = 0; }
-          in_config {
-              print $0;
-              if ($0 ~ /name = Release;/) {
-                  found_release = 1;
-              } else if (found_release && $0 ~ /^[[:space:]]*;$/) {
-                  print "\t\tCODE_SIGNING_ALLOWED = NO;";
-                  print "\t\tCODE_SIGNING_REQUIRED = NO;";
-                  found_release = 0;
-              }
-          }
-          !in_config { print $0; }
-          ' Runner.xcodeproj/project.pbxproj > temp.pbxproj && mv temp.pbxproj Runner.xcodeproj/project.pbxproj
 
-      # 修复后的构建步骤
       - name: Build iOS app without signing
         run: |
-          flutter build ios --release --no-codesign --xcode-build-arguments="CODE_SIGNING_ALLOWED=NO,CODE_SIGNING_REQUIRED=NO"
+          flutter build ios --release --no-codesign \
+            --xcode-build-arguments='CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO'
 
       - name: Package unsigned IPA
         run: |
@@ -66,7 +45,7 @@ jobs:
           mkdir -p build/ios/iphoneos/Payload
           cp -R build/ios/iphoneos/Runner.app build/ios/iphoneos/Payload/
           cd build/ios/iphoneos
-          zip -r ios-unsigned.ipa Payload
+          zip -X -r ios-unsigned.ipa Payload
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
