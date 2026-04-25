@@ -1,47 +1,47 @@
-name: iOS Build
+name: Build iOS IPA (unsigned)
 
 on:
-  push:
-    branches: [ "main" ]
-    tags:
-      - 'v*.*.*'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+  pull_request:
 
 jobs:
-  build_ios:
-    name: Build iOS App
+  build-ios-ipa:
+    name: Build unsigned iOS IPA
     runs-on: macos-latest
+    timeout-minutes: 45
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Java
-        uses: actions/setup-java@v3
-        with:
-          distribution: 'zulu'
-          java-version: '17'
-
-      - name: Setup Flutter
+      - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.41.6'
-          channel: 'stable'
+          channel: stable
+          cache: true
 
-      - name: Install Dependencies
+      - name: Show tool versions
+        run: |
+          flutter --version
+          dart --version
+          xcodebuild -version
+          pod --version
+
+      - name: Get Flutter dependencies
         run: flutter pub get
 
       - name: Generate Flutter iOS build config
-        shell: bash
         run: |
-          mkdir -p ios/Flutter ios/Flutter/ephemeral build/logs build/ios/unsigned
+          mkdir -p ios/Flutter ios/Flutter/ephemeral
 
-          FLUTTER_BIN="$(which flutter)"
-          FLUTTER_ROOT="$(dirname "$(dirname "$FLUTTER_BIN")")"
+          FLUTTER_ROOT="$(dirname "$(dirname "$(which flutter)")")"
           APP_VERSION="$(ruby -e "match = File.read('pubspec.yaml').match(/^version:\s*([^\s]+)/); puts(match ? match[1] : '1.0.0+1')")"
           BUILD_NAME="${APP_VERSION%%+*}"
           BUILD_NUMBER="${APP_VERSION#*+}"
-
           if [ "$BUILD_NUMBER" = "$APP_VERSION" ]; then
             BUILD_NUMBER="1"
           fi
@@ -82,13 +82,12 @@ jobs:
           chmod +x ios/Flutter/flutter_export_environment.sh
 
       - name: Install CocoaPods dependencies
-        working-directory: ios
-        run: pod install
-
-      - name: Build iOS app without signing
-        shell: bash
         run: |
-          set -o pipefail
+          cd ios
+          pod install
+
+      - name: Build unsigned Runner.app with xcodebuild
+        run: |
           xcodebuild \
             -workspace ios/Runner.xcworkspace \
             -scheme Runner \
@@ -99,29 +98,28 @@ jobs:
             CODE_SIGNING_ALLOWED=NO \
             CODE_SIGNING_REQUIRED=NO \
             CODE_SIGN_IDENTITY="" \
-            CODE_SIGN_STYLE=Manual \
             DEVELOPMENT_TEAM="" \
             PROVISIONING_PROFILE_SPECIFIER="" \
-            VALIDATE_PRODUCT=NO \
-            build | tee build/logs/xcodebuild.log
+            build
 
-      - name: Create IPA
-        shell: bash
+      - name: Package unsigned IPA
         run: |
           rm -rf build/ios/unsigned/Payload
           mkdir -p build/ios/unsigned/Payload
           cp -R build/ios_derived/Build/Products/Release-iphoneos/Runner.app build/ios/unsigned/Payload/
           cd build/ios/unsigned
-          zip -r PikaMusic.ipa Payload
+          zip -r ios-unsigned.ipa Payload
 
-      - name: Upload IPA Artifact
+      - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
         with:
-          name: PikaMusic-iOS-Unsigned-IPA
-          path: build/ios/unsigned/PikaMusic.ipa
+          name: ios-unsigned-ipa
+          path: build/ios/unsigned/ios-unsigned.ipa
+          if-no-files-found: error
 
-      - name: Upload Build Log
+      - name: Upload app bundle artifact
         uses: actions/upload-artifact@v4
         with:
-          name: PikaMusic-iOS-Build-Log
-          path: build/logs/xcodebuild.log
+          name: ios-runner-app
+          path: build/ios_derived/Build/Products/Release-iphoneos/Runner.app
+          if-no-files-found: warn
