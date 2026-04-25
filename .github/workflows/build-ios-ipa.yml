@@ -72,4 +72,4 @@ jobs:
         with:
           name: ios-runner-app
           path: build/ios/iphoneos/Runner.app
-          if-no-files-found: warn
+          if-no-files-found: warn # 生成的是未签名 app bundle
