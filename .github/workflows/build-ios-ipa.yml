@@ -1,4 +1,4 @@
-name: Build iOS IPA
+name: Build iOS IPA (unsigned)
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-ios-ipa:
-    name: Build signed iOS IPA
+    name: Build unsigned iOS IPA
     runs-on: macos-latest
     timeout-minutes: 45
 
@@ -39,83 +39,27 @@ jobs:
           cd ios
           pod install
 
-      - name: Import signing certificate and provisioning profile
-        env:
-          IOS_P12_BASE64: ${{ secrets.IOS_P12_BASE64 }}
-          IOS_P12_PASSWORD: ${{ secrets.IOS_P12_PASSWORD }}
-          IOS_MOBILEPROVISION_BASE64: ${{ secrets.IOS_MOBILEPROVISION_BASE64 }}
+      - name: Build iOS app without signing
+        run: flutter build ios --release --no-codesign
+
+      - name: Package unsigned IPA
         run: |
-          if [ -z "$IOS_P12_BASE64" ] || [ -z "$IOS_P12_PASSWORD" ] || [ -z "$IOS_MOBILEPROVISION_BASE64" ]; then
-            echo "Missing required iOS signing secrets."
-            echo "Required: IOS_P12_BASE64, IOS_P12_PASSWORD, IOS_MOBILEPROVISION_BASE64"
-            exit 1
-          fi
-
-          CERTIFICATE_PATH="$RUNNER_TEMP/certificate.p12"
-          PROFILE_PATH="$RUNNER_TEMP/profile.mobileprovision"
-          KEYCHAIN_PATH="$RUNNER_TEMP/build.keychain-db"
-          KEYCHAIN_PASSWORD="$(uuidgen)"
-
-          echo -n "$IOS_P12_BASE64" | base64 --decode -o "$CERTIFICATE_PATH"
-          echo -n "$IOS_MOBILEPROVISION_BASE64" | base64 --decode -o "$PROFILE_PATH"
-
-          security create-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
-          security set-keychain-settings -lut 21600 "$KEYCHAIN_PATH"
-          security unlock-keychain -p "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
-          security list-keychains -d user -s "$KEYCHAIN_PATH" login.keychain-db
-          security default-keychain -d user -s "$KEYCHAIN_PATH"
-          security import "$CERTIFICATE_PATH" -P "$IOS_P12_PASSWORD" -A -t cert -f pkcs12 -k "$KEYCHAIN_PATH"
-          security set-key-partition-list -S apple-tool:,apple: -s -k "$KEYCHAIN_PASSWORD" "$KEYCHAIN_PATH"
-
-          mkdir -p "$HOME/Library/MobileDevice/Provisioning Profiles"
-          cp "$PROFILE_PATH" "$HOME/Library/MobileDevice/Provisioning Profiles/"
-
-      - name: Create ExportOptions.plist
-        env:
-          IOS_TEAM_ID: ${{ secrets.IOS_TEAM_ID }}
-          IOS_EXPORT_METHOD: ${{ secrets.IOS_EXPORT_METHOD }}
-        run: |
-          if [ -z "$IOS_TEAM_ID" ]; then
-            echo "Missing required secret: IOS_TEAM_ID"
-            exit 1
-          fi
-
-          EXPORT_METHOD="${IOS_EXPORT_METHOD:-ad-hoc}"
-
-          cat > ios/ExportOptions.plist <<EOF
-          <?xml version="1.0" encoding="UTF-8"?>
-          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
-          <plist version="1.0">
-          <dict>
-            <key>method</key>
-            <string>${EXPORT_METHOD}</string>
-            <key>signingStyle</key>
-            <string>automatic</string>
-            <key>stripSwiftSymbols</key>
-            <true/>
-            <key>teamID</key>
-            <string>${IOS_TEAM_ID}</string>
-            <key>compileBitcode</key>
-            <false/>
-            <key>destination</key>
-            <string>export</string>
-          </dict>
-          </plist>
-          EOF
-
-      - name: Build signed IPA
-        run: flutter build ipa --release --export-options-plist=ios/ExportOptions.plist
+          rm -rf build/ios/iphoneos/Payload
+          mkdir -p build/ios/iphoneos/Payload
+          cp -R build/ios/iphoneos/Runner.app build/ios/iphoneos/Payload/
+          cd build/ios/iphoneos
+          zip -r ios-unsigned.ipa Payload
 
       - name: Upload IPA artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ios-signed-ipa
-          path: build/ios/ipa/*.ipa
+          name: ios-unsigned-ipa
+          path: build/ios/iphoneos/ios-unsigned.ipa
           if-no-files-found: error
 
-      - name: Upload archive artifact
+      - name: Upload app bundle artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ios-xcarchive
-          path: build/ios/archive/*.xcarchive
+          name: ios-runner-app
+          path: build/ios/iphoneos/Runner.app
           if-no-files-found: warn
