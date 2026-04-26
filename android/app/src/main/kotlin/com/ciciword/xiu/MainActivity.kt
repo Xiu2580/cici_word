@@ -1,4 +1,4 @@
-package com.example.cici_word
+package com.ciciword.xiu
 
 import io.flutter.embedding.android.FlutterActivity
 
