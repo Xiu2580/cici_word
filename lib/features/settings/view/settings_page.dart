@@ -9,7 +9,7 @@ class SettingsPage extends StatelessWidget {
   const SettingsPage({super.key});
 
   static final Uri _projectUri =
-      Uri.parse('https://github.com/wfeng7578/cici_word');
+      Uri.parse('https://github.com/Xiu2580/cici_word');
 
   @override
   Widget build(BuildContext context) {
@@ -102,7 +102,8 @@ class SettingsPage extends StatelessWidget {
               _DialogSelectTile(
                 title: '默写提示方式',
                 subtitle: '设置开始默写时默认进入的模式',
-                valueLabel: settingsVm.dictationMode == 'full' ? '完整默写' : '提示默写',
+                valueLabel:
+                    settingsVm.dictationMode == 'full' ? '完整默写' : '提示默写',
                 onTap: () async {
                   final value = await _showSelectDialog<String>(
                     context: context,
@@ -137,11 +138,13 @@ class SettingsPage extends StatelessWidget {
                         content: const Text('确定要清空当前的学习进度和错词记录吗？'),
                         actions: [
                           TextButton(
-                            onPressed: () => Navigator.of(dialogContext).pop(false),
+                            onPressed: () =>
+                                Navigator.of(dialogContext).pop(false),
                             child: const Text('取消'),
                           ),
                           FilledButton(
-                            onPressed: () => Navigator.of(dialogContext).pop(true),
+                            onPressed: () =>
+                                Navigator.of(dialogContext).pop(true),
                             child: const Text('确定'),
                           ),
                         ],
