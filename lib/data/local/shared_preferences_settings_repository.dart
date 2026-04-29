@@ -154,6 +154,32 @@ class SharedPreferencesSettingsRepository implements ISettingsRepository {
     return [];
   }
 
+  @override
+  Future<List<Map<String, dynamic>>?> getCustomWordbookWords(int index) async {
+    final books = await getCustomWordbooks();
+    if (index < 0 || index >= books.length) return null;
+    final words = books[index]['words'];
+    if (words is List) {
+      return words.cast<Map<String, dynamic>>();
+    }
+    return null;
+  }
+
+  @override
+  Future<bool> deleteCustomWordbook(int index) async {
+    await _ensureLoaded();
+    final existing = _cache!['custom_wordbooks'] as List<dynamic>? ?? [];
+    if (index < 0 || index >= existing.length) return false;
+
+    existing.removeAt(index);
+    _cache!['custom_wordbooks'] = existing;
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString(
+        '${_prefix}custom_wordbooks', jsonEncode(existing));
+    return true;
+  }
+
   Map<String, dynamic>? _decodeJson(String raw) {
     try {
       final decoded = jsonDecode(raw);

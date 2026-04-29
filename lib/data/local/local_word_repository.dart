@@ -162,6 +162,11 @@ class LocalWordRepository implements IWordRepository {
   }
 
   Future<void> _loadBook(String bookId) async {
+    if (bookId.startsWith('custom_')) {
+      await _loadCustomBook(bookId);
+      return;
+    }
+
     final assetPath = _bookIdToAssetPath(bookId);
     if (assetPath == null) {
       _cache[bookId] = <Word>[];
@@ -177,6 +182,49 @@ class LocalWordRepository implements IWordRepository {
         final baseWord = Word.fromJson(
           entry.value as Map<String, dynamic>,
           id: id,
+        );
+        final hydratedWord = baseWord.copyWith(
+          isFavorite: _favoriteIds!.contains(id),
+          familiarity: _familiarityMap![id] ?? Familiarity.unknown,
+        );
+        _wordMap[id] = hydratedWord;
+        return hydratedWord;
+      }).toList();
+      _cache[bookId] = words;
+    } catch (_) {
+      _cache[bookId] = <Word>[];
+    }
+  }
+
+  Future<void> _loadCustomBook(String bookId) async {
+    final index = int.tryParse(bookId.replaceFirst('custom_', ''));
+    if (index == null) {
+      _cache[bookId] = <Word>[];
+      return;
+    }
+
+    try {
+      await _ensureStateLoaded();
+      final wordsRaw =
+          await _settingsRepository?.getCustomWordbookWords(index);
+      if (wordsRaw == null || wordsRaw.isEmpty) {
+        _cache[bookId] = <Word>[];
+        return;
+      }
+
+      final words = wordsRaw.asMap().entries.map((entry) {
+        final item = entry.value;
+        final id = 'custom_${index}_${entry.key}';
+        final baseWord = Word(
+          id: id,
+          english: (item['english'] ?? '') as String,
+          chinese: (item['chinese'] ?? '') as String,
+          partOfSpeech: (item['part_of_speech'] ?? '') as String,
+          usPhonetic: (item['us_phonetic'] ?? '') as String,
+          ukPhonetic: (item['uk_phonetic'] ?? '') as String,
+          exampleSentenceEn: (item['example_sentence_en'] ?? '') as String,
+          exampleSentenceCn: (item['example_sentence_cn'] ?? '') as String,
+          inflection: (item['inflection'] ?? '') as String,
         );
         final hydratedWord = baseWord.copyWith(
           isFavorite: _favoriteIds!.contains(id),

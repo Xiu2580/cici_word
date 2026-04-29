@@ -2,6 +2,7 @@ import 'package:cici_word/core/router/navigation_helpers.dart';
 import 'package:cici_word/core/services/i_tts_service.dart';
 import 'package:cici_word/core/theme/app_colors.dart';
 import 'package:cici_word/data/models/word.dart';
+import 'package:cici_word/data/repositories/i_settings_repository.dart';
 import 'package:cici_word/data/repositories/i_word_repository.dart';
 import 'package:cici_word/data/repositories/i_wordbook_repository.dart';
 import 'package:cici_word/features/dictation/dictation_route_helper.dart';
@@ -30,6 +31,7 @@ class WordbookDetailPage extends StatelessWidget {
         context.read<IWordbookRepository>(),
         context.read<IWordRepository>(),
         bookId: bookId,
+        settingsRepository: context.read<ISettingsRepository>(),
       )..ensureLoaded(),
       child: _WordbookDetailScaffold(
         bookId: bookId,

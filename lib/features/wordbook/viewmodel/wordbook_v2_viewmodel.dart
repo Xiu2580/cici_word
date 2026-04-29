@@ -20,6 +20,10 @@ class WordbookV2ViewModel extends ChangeNotifier {
           final settings = await settingsRepository?.getCustomWordbooks() ?? [];
           return _parseCustomWordbooks(settings);
         }),
+        _deleteCustomWordbook = ((int index) async {
+          return await settingsRepository?.deleteCustomWordbook(index) ??
+              false;
+        }),
         _loadPersistedSelectedBookId = (() async {
           final settings = await settingsRepository?.getSettings() ?? const <String, dynamic>{};
           return settings['current_wordbook_id'] as String?;
@@ -36,6 +40,7 @@ class WordbookV2ViewModel extends ChangeNotifier {
   })  : _loadWordbooks = (() async => wordbooks),
         _loadLearnedCount = loadLearnedCount ?? ((_) async => 0),
         _loadCustomWordbooks = (() async => []),
+        _deleteCustomWordbook = ((_) async => false),
         _loadPersistedSelectedBookId = (() async => selectedBookId),
         _persistSelectedBookId = ((_) async {}),
         _initialSelectedBookId = selectedBookId;
@@ -43,6 +48,7 @@ class WordbookV2ViewModel extends ChangeNotifier {
   final Future<List<Wordbook>> Function() _loadWordbooks;
   final Future<int> Function(String bookId) _loadLearnedCount;
   final Future<List<Wordbook>> Function() _loadCustomWordbooks;
+  final Future<bool> Function(int) _deleteCustomWordbook;
   final Future<String?> Function() _loadPersistedSelectedBookId;
   final Future<void> Function(String?) _persistSelectedBookId;
   final String? _initialSelectedBookId;
@@ -118,6 +124,22 @@ class WordbookV2ViewModel extends ChangeNotifier {
     _persistSelectedBookId(bookId);
     notifyListeners();
   }
+
+  Future<void> deleteCustomWordbook(String bookId) async {
+    final index = int.tryParse(bookId.replaceFirst('custom_', ''));
+    if (index == null) return;
+
+    final ok = await _deleteCustomWordbook(index);
+    if (!ok) return;
+
+    if (_selectedBookId == bookId) {
+      _selectedBookId = null;
+    }
+    _hasLoaded = false;
+    await load();
+  }
+
+  bool isCustomWordbook(String bookId) => bookId.startsWith('custom_');
 
   String progressLabel(Wordbook book) {
     if (book.learnedCount <= 0) {

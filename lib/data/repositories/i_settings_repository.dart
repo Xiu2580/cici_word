@@ -22,4 +22,10 @@ abstract class ISettingsRepository {
 
   /// 获取所有自定义词书
   Future<List<Map<String, dynamic>>> getCustomWordbooks();
+
+  /// 获取指定自定义词书的单词数据
+  Future<List<Map<String, dynamic>>?> getCustomWordbookWords(int index);
+
+  /// 删除指定自定义词书
+  Future<bool> deleteCustomWordbook(int index);
 }

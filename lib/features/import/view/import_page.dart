@@ -1,9 +1,11 @@
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:cici_word/core/router/navigation_helpers.dart';
 import 'package:cici_word/core/theme/app_colors.dart';
 import 'package:cici_word/data/models/word.dart';
 import 'package:cici_word/data/repositories/i_settings_repository.dart';
+import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
@@ -32,83 +34,54 @@ class ImportPage extends StatefulWidget {
 
 class _ImportPageState extends State<ImportPage> {
   final TextEditingController _nameController = TextEditingController();
-  final TextEditingController _contentController = TextEditingController();
 
   List<Word> _previewWords = const [];
   String? _errorText;
+  String? _loadedFileName;
 
   @override
   void dispose() {
     _nameController.dispose();
-    _contentController.dispose();
     super.dispose();
   }
 
-  void _buildPreview() {
-    final raw = _contentController.text.trim();
-    if (raw.isEmpty) {
-      setState(() {
-        _previewWords = const [];
-        _errorText = '请先输入词表内容';
-      });
-      return;
-    }
-
+  Future<void> _pickFile() async {
     try {
-      final words = _parseContent(raw);
+      final result = await FilePicker.platform.pickFiles(
+        type: FileType.custom,
+        allowedExtensions: ['json'],
+      );
+      if (result == null || result.files.isEmpty) return;
+
+      final file = result.files.first;
+      String content;
+      if (file.path != null) {
+        content = await File(file.path!).readAsString();
+      } else if (file.bytes != null) {
+        content = utf8.decode(file.bytes!);
+      } else {
+        return;
+      }
+
+      final words = _parseJsonContent(content);
+      final name = file.name.replaceAll('.json', '');
+      _nameController.text = name;
       setState(() {
         _previewWords = words;
         _errorText = null;
+        _loadedFileName = file.name;
       });
-    } catch (error) {
+    } on Exception catch (e) {
       setState(() {
         _previewWords = const [];
-        _errorText = error.toString().replaceFirst('Exception: ', '');
+        _errorText = e.toString().replaceFirst('Exception: ', '');
       });
-    }
-  }
-
-  List<Word> _parseContent(String raw) {
-    final normalized = raw.trimLeft();
-    if (normalized.startsWith('[') || normalized.startsWith('{')) {
-      return _parseJsonContent(raw);
-    }
-    return _parseTextContent(raw);
-  }
-
-  List<Word> _parseTextContent(String raw) {
-    final lines = raw
-        .split('\n')
-        .map((line) => line.trim())
-        .where((line) => line.isNotEmpty)
-        .toList();
-
-    if (lines.isEmpty) {
-      throw Exception('请先输入词表内容');
-    }
-
-    final words = <Word>[];
-    for (var index = 0; index < lines.length; index++) {
-      final parts = lines[index]
-          .split('|')
-          .map((part) => part.trim())
-          .where((part) => part.isNotEmpty)
-          .toList();
-
-      if (parts.length < 2) {
-        throw Exception('第 ${index + 1} 行格式不正确，请使用：英文 | 中文 | 词性');
-      }
-
-      words.add(
-        _buildWord(
-          index: index,
-          english: parts[0],
-          chinese: parts[1],
-          partOfSpeech: parts.length >= 3 ? parts[2] : '',
-        ),
+    } catch (_) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('文件读取失败，请检查文件格式')),
       );
     }
-    return words;
   }
 
   List<Word> _parseJsonContent(String raw) {
@@ -134,32 +107,41 @@ class _ImportPageState extends State<ImportPage> {
       }
 
       final english = _readString(item, const [
-        'english',
-        'word',
+        'english', 'word', 'name', 'en', 'term', 'entry', 'title',
       ]);
       final chinese = _readString(item, const [
-        'chinese',
-        'meaning',
-        'translation',
+        'chinese', 'meaning', 'translation', 'trans', 'cn', 'zh',
+        'definition', 'def',
       ]);
-      final partOfSpeech = _readOptionalString(item, const [
-        'part_of_speech',
-        'partOfSpeech',
-        'pos',
-      ]);
-
       if (english.isEmpty || chinese.isEmpty) {
-        throw Exception('第 ${index + 1} 个 JSON 项缺少 english 或 chinese');
+        throw Exception('第 ${index + 1} 个 JSON 项缺少单词或释义');
       }
 
-      words.add(
-        _buildWord(
-          index: index,
-          english: english,
-          chinese: chinese,
-          partOfSpeech: partOfSpeech,
-        ),
-      );
+      words.add(Word(
+        id: 'import_${index}_${english.toLowerCase()}',
+        english: english,
+        chinese: chinese,
+        partOfSpeech: _readString(item, const [
+          'part_of_speech', 'partOfSpeech', 'pos', 'type', 'category',
+        ]),
+        usPhonetic: _readString(item, const [
+          'us_phonetic', 'usPhonetic', 'phonetic_us', 'pronunciation_us',
+        ]),
+        ukPhonetic: _readString(item, const [
+          'uk_phonetic', 'ukPhonetic', 'phonetic_uk', 'pronunciation_uk',
+        ]),
+        exampleSentenceEn: _readString(item, const [
+          'example_sentence_en', 'exampleSentenceEn', 'example_en',
+          'sentence_en', 'example',
+        ]),
+        exampleSentenceCn: _readString(item, const [
+          'example_sentence_cn', 'exampleSentenceCn', 'example_cn',
+          'sentence_cn',
+        ]),
+        inflection: _readString(item, const [
+          'inflection', 'inflections', 'forms', 'word_forms',
+        ]),
+      ));
     }
     return words;
   }
@@ -174,34 +156,8 @@ class _ImportPageState extends State<ImportPage> {
     return '';
   }
 
-  String _readOptionalString(Map item, List<String> keys) {
-    return _readString(item, keys);
-  }
-
-  Word _buildWord({
-    required int index,
-    required String english,
-    required String chinese,
-    required String partOfSpeech,
-  }) {
-    return Word(
-      id: 'import_${index}_${english.toLowerCase()}',
-      english: english,
-      chinese: chinese,
-      partOfSpeech: partOfSpeech,
-      usPhonetic: '',
-      ukPhonetic: '',
-      exampleSentenceEn: '',
-      exampleSentenceCn: '',
-      inflection: '',
-    );
-  }
-
   Future<void> _submitImport() async {
-    if (_previewWords.isEmpty) {
-      _buildPreview();
-      return;
-    }
+    if (_previewWords.isEmpty) return;
 
     final draft = ImportedWordbookDraft(
       name: _nameController.text.trim().isEmpty
@@ -214,9 +170,7 @@ class _ImportPageState extends State<ImportPage> {
       widget.onImport!(draft);
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('已导入 ${draft.words.length} 个单词：${draft.name}'),
-        ),
+        SnackBar(content: Text('已导入 ${draft.words.length} 个单词：${draft.name}')),
       );
       return;
     }
@@ -229,9 +183,7 @@ class _ImportPageState extends State<ImportPage> {
       );
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('已导入 ${draft.words.length} 个单词：${draft.name}'),
-        ),
+        SnackBar(content: Text('已导入 ${draft.words.length} 个单词：${draft.name}')),
       );
       if (!mounted) return;
       context.go('/wordbook');
@@ -266,37 +218,18 @@ class _ImportPageState extends State<ImportPage> {
             ),
           ),
           const SizedBox(height: 16),
-          Text('词表内容', style: Theme.of(context).textTheme.titleMedium),
-          const SizedBox(height: 8),
-          TextField(
-            controller: _contentController,
-            minLines: 8,
-            maxLines: 12,
-            decoration: const InputDecoration(
-              hintText:
-                  '文本格式：apple | 苹果 | n.\n或 JSON 格式：[{"english":"apple","chinese":"苹果"}]',
-              border: OutlineInputBorder(),
-              alignLabelWithHint: true,
+          OutlinedButton.icon(
+            onPressed: _pickFile,
+            icon: const Icon(Icons.file_open),
+            label: const Text('选择 JSON 文件导入'),
+          ),
+          if (_loadedFileName != null) ...[
+            const SizedBox(height: 8),
+            Text(
+              '已加载: $_loadedFileName',
+              style: Theme.of(context).textTheme.bodySmall,
             ),
-          ),
-          const SizedBox(height: 12),
-          Row(
-            children: [
-              Expanded(
-                child: OutlinedButton(
-                  onPressed: _buildPreview,
-                  child: const Text('生成预览'),
-                ),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: FilledButton(
-                  onPressed: _submitImport,
-                  child: const Text('确认导入'),
-                ),
-              ),
-            ],
-          ),
+          ],
           if (_errorText != null) ...[
             const SizedBox(height: 12),
             Text(
@@ -307,13 +240,41 @@ class _ImportPageState extends State<ImportPage> {
             ),
           ],
           const SizedBox(height: 20),
-          Text('预览结果', style: Theme.of(context).textTheme.titleMedium),
+          Row(
+            children: [
+              Expanded(
+                child: Text(
+                  '预览结果',
+                  style: Theme.of(context).textTheme.titleMedium,
+                ),
+              ),
+              const SizedBox(width: 12),
+              FilledButton(
+                onPressed: _previewWords.isEmpty ? null : _submitImport,
+                child: Text(
+                  _previewWords.isEmpty ? '请先选择文件' : '确认导入 (${_previewWords.length} 词)',
+                ),
+              ),
+            ],
+          ),
           const SizedBox(height: 8),
           if (_previewWords.isEmpty)
-            const Card(
+            Card(
               child: Padding(
-                padding: EdgeInsets.all(16),
-                child: Text('暂无预览内容'),
+                padding: const EdgeInsets.all(16),
+                child: Row(
+                  children: [
+                    Icon(Icons.info_outline,
+                        size: 20, color: AppColors.textSecondaryLight),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Text(
+                        '请选择一个 JSON 格式的词书文件',
+                        style: Theme.of(context).textTheme.bodyMedium,
+                      ),
+                    ),
+                  ],
+                ),
               ),
             )
           else
@@ -323,17 +284,18 @@ class _ImportPageState extends State<ImportPage> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('共解析 ${_previewWords.length} 个单词'),
-                    const SizedBox(height: 12),
-                    for (var index = 0; index < _previewWords.take(8).length; index++) ...[
+                    for (var index = 0;
+                        index < _previewWords.take(8).length;
+                        index++) ...[
                       _PreviewRow(word: _previewWords[index]),
                       if (index != _previewWords.take(8).length - 1)
-                        const Divider(height: 20, color: AppColors.dividerLight),
+                        const Divider(
+                            height: 20, color: AppColors.dividerLight),
                     ],
                     if (_previewWords.length > 8) ...[
                       const SizedBox(height: 8),
                       Text(
-                        '仅展示前 8 个单词',
+                        '... 还有 ${_previewWords.length - 8} 个单词',
                         style: Theme.of(context).textTheme.bodySmall,
                       ),
                     ],

@@ -101,6 +101,38 @@ class _WordbookV2ScaffoldState extends State<_WordbookV2Scaffold> {
     }
   }
 
+  Future<void> _deleteBook(Wordbook book) async {
+    final confirmed = await showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: const Text('删除词书'),
+        content: Text('确定删除「${book.name}」吗？\n词书中的单词也将同时移除。'),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(false),
+            child: const Text('取消'),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.of(ctx).pop(true),
+            style: FilledButton.styleFrom(
+              backgroundColor: AppColors.unknown,
+            ),
+            child: const Text('删除'),
+          ),
+        ],
+      ),
+    );
+
+    if (confirmed != true || !mounted) return;
+
+    await _vm!.deleteCustomWordbook(book.id);
+
+    if (!mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text('已删除「${book.name}」')),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final vm = context.watch<WordbookV2ViewModel>();
@@ -191,6 +223,9 @@ class _WordbookV2ScaffoldState extends State<_WordbookV2Scaffold> {
                                 onViewWordList: widget.onViewWordList == null
                                     ? () => context.go('/wordbook/${book.id}')
                                     : () => widget.onViewWordList!(book),
+                                onDelete: vm.isCustomWordbook(book.id)
+                                    ? () => _deleteBook(book)
+                                    : null,
                               );
                             },
                           ),
@@ -209,6 +244,9 @@ class _WordbookV2ScaffoldState extends State<_WordbookV2Scaffold> {
                               onViewWordList: widget.onViewWordList == null
                                   ? () => context.go('/wordbook/${book.id}')
                                   : () => widget.onViewWordList!(book),
+                              onDelete: vm.isCustomWordbook(book.id)
+                                  ? () => _deleteBook(book)
+                                  : null,
                             ),
                           ),
                     ],
@@ -247,6 +285,7 @@ class _WordbookCard extends StatelessWidget {
     required this.isCompact,
     required this.onSelect,
     required this.onViewWordList,
+    this.onDelete,
   });
 
   final Wordbook book;
@@ -256,6 +295,7 @@ class _WordbookCard extends StatelessWidget {
   final bool isCompact;
   final VoidCallback onSelect;
   final VoidCallback onViewWordList;
+  final VoidCallback? onDelete;
 
   String get _displayName {
     switch (book.category) {
@@ -299,9 +339,21 @@ class _WordbookCard extends StatelessWidget {
                     const Padding(
                       padding: EdgeInsets.only(left: 6),
                       child: Icon(
-                      Icons.check_circle_rounded,
-                      color: AppColors.primaryDark,
+                        Icons.check_circle_rounded,
+                        color: AppColors.primaryDark,
+                      ),
                     ),
+                  if (onDelete != null)
+                    GestureDetector(
+                      onTap: onDelete,
+                      child: const Padding(
+                        padding: EdgeInsets.only(left: 6),
+                        child: Icon(
+                          Icons.close,
+                          size: 18,
+                          color: AppColors.textSecondaryLight,
+                        ),
+                      ),
                     ),
                 ],
               ),
