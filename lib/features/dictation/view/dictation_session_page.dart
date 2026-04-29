@@ -5,6 +5,7 @@ import 'package:cici_word/features/dictation/viewmodel/dictation_session_viewmod
 import 'package:cici_word/features/review/viewmodel/review_mistake_store.dart';
 import 'package:cici_word/shared/pages/session_summary_page.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
 class DictationSessionPage extends StatelessWidget {
@@ -53,6 +54,9 @@ class _DictationSessionBody extends StatefulWidget {
 class _DictationSessionBodyState extends State<_DictationSessionBody> {
   late final TextEditingController _controller;
   late final FocusNode _focusNode;
+  String _prevText = '';
+  int _prevWordIndex = 0;
+  DictationSessionViewModel? _vm;
 
   @override
   void initState() {
@@ -61,6 +65,8 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
     _focusNode = FocusNode();
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (mounted) {
+        _vm = context.read<DictationSessionViewModel>();
+        _vm!.addListener(_onWordChanged);
         _focusNode.requestFocus();
         Future<void>.delayed(const Duration(milliseconds: 120), () {
           if (mounted) {
@@ -71,23 +77,50 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
     });
   }
 
+  void _onWordChanged() {
+    if (!mounted || _vm == null) return;
+    if (_vm!.currentIndex != _prevWordIndex) {
+      _prevWordIndex = _vm!.currentIndex;
+      _resetController();
+    }
+  }
+
   @override
   void dispose() {
+    _vm?.removeListener(_onWordChanged);
     _focusNode.dispose();
     _controller.dispose();
     super.dispose();
   }
 
+  void _onChanged(String newText) {
+    final vm = context.read<DictationSessionViewModel>();
+    if (newText.length > _prevText.length) {
+      final added = newText.substring(_prevText.length);
+      for (var i = 0; i < added.length; i++) {
+        vm.onKey(added[i]);
+      }
+    } else if (newText.length < _prevText.length) {
+      final removed = _prevText.length - newText.length;
+      for (var i = 0; i < removed; i++) {
+        vm.deleteAtActive();
+      }
+    }
+    _prevText = newText;
+  }
+
+  void _resetController() {
+    _prevText = '';
+    _controller.clear();
+  }
+
+  void _onSubmitted(String _) {
+    context.read<DictationSessionViewModel>().submit();
+  }
+
   @override
   Widget build(BuildContext context) {
     final vm = context.watch<DictationSessionViewModel>();
-
-    if (_controller.text != vm.input) {
-      _controller.value = _controller.value.copyWith(
-        text: vm.input,
-        selection: TextSelection.collapsed(offset: vm.input.length),
-      );
-    }
 
     if (vm.isLoading) {
       return const Scaffold(
@@ -183,7 +216,8 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
                     value: vm.progress,
                     minHeight: 4,
                     backgroundColor: AppColors.dividerLight,
-                    valueColor: const AlwaysStoppedAnimation<Color>(AppColors.known),
+                    valueColor:
+                        const AlwaysStoppedAnimation<Color>(AppColors.known),
                   ),
                 ),
                 const SizedBox(height: 20),
@@ -198,8 +232,15 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
                         focusNode: _focusNode,
                         controller: _controller,
                         textInputAction: TextInputAction.done,
-                        onChanged: vm.updateInput,
-                        onSubmitted: (_) => vm.submit(),
+                        autocorrect: false,
+                        enableSuggestions: false,
+                        inputFormatters: [
+                          FilteringTextInputFormatter.allow(
+                            RegExp(r'[a-zA-Z]'),
+                          ),
+                        ],
+                        onChanged: _onChanged,
+                        onSubmitted: _onSubmitted,
                       ),
                     ),
                   ),
@@ -238,13 +279,20 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
                                 spacing: 8,
                                 runSpacing: 8,
                                 children: vm.letterCells
-                                    .map((cell) => DictationLetterBox(cell: cell))
+                                    .asMap()
+                                    .entries
+                                    .map((entry) => DictationLetterBox(
+                                          cell: entry.value,
+                                          onTap: () =>
+                                              vm.selectCell(entry.key),
+                                        ))
                                     .toList(),
                               ),
                             ),
                             const SizedBox(height: 18),
                             OutlinedButton(
-                              onPressed: vm.showResult ? null : vm.skipCurrent,
+                              onPressed:
+                                  vm.showResult ? null : vm.skipCurrent,
                               child: const Text('跳过'),
                             ),
                           ],
@@ -286,13 +334,61 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
   }
 }
 
-class DictationLetterBox extends StatelessWidget {
-  const DictationLetterBox({super.key, required this.cell});
+class DictationLetterBox extends StatefulWidget {
+  const DictationLetterBox({
+    super.key,
+    required this.cell,
+    this.onTap,
+  });
 
   final DictationLetterCell cell;
+  final VoidCallback? onTap;
+
+  @override
+  State<DictationLetterBox> createState() => _DictationLetterBoxState();
+}
+
+class _DictationLetterBoxState extends State<DictationLetterBox>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _pulse;
+  late final Animation<double> _opacity;
+
+  @override
+  void initState() {
+    super.initState();
+    _pulse = AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 700),
+    );
+    _opacity = Tween<double>(begin: 0.3, end: 1.0).animate(
+      CurvedAnimation(parent: _pulse, curve: Curves.easeInOut),
+    );
+    if (widget.cell.isFocused) {
+      _pulse.repeat(reverse: true);
+    }
+  }
+
+  @override
+  void didUpdateWidget(covariant DictationLetterBox oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (widget.cell.isFocused && !_pulse.isAnimating) {
+      _pulse.repeat(reverse: true);
+    } else if (!widget.cell.isFocused && _pulse.isAnimating) {
+      _pulse.stop();
+      _pulse.reset();
+    }
+  }
+
+  @override
+  void dispose() {
+    _pulse.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
+    final cell = widget.cell;
+
     Color borderColor = AppColors.dividerLight;
     Color backgroundColor = Colors.transparent;
     Color textColor = AppColors.textPrimaryLight;
@@ -321,21 +417,47 @@ class DictationLetterBox extends StatelessWidget {
         break;
     }
 
-    return Container(
-      width: 34,
-      height: 40,
-      decoration: BoxDecoration(
-        borderRadius: BorderRadius.circular(8),
-        border: Border.all(color: borderColor, width: 1.6),
-        color: backgroundColor,
-      ),
-      alignment: Alignment.center,
-      child: Text(
-        cell.value,
-        style: Theme.of(context).textTheme.titleMedium?.copyWith(
-              color: textColor,
-              fontWeight: FontWeight.w700,
+    return GestureDetector(
+      onTap: widget.onTap,
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Container(
+            width: 34,
+            height: 40,
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: borderColor, width: 1.6),
+              color: backgroundColor,
             ),
+            alignment: Alignment.center,
+            child: Text(
+              cell.value,
+              style: Theme.of(context).textTheme.titleMedium?.copyWith(
+                    color: textColor,
+                    fontWeight: FontWeight.w700,
+                  ),
+            ),
+          ),
+          if (cell.isFocused)
+            AnimatedBuilder(
+              animation: _opacity,
+              builder: (context, child) {
+                return Opacity(
+                  opacity: _opacity.value,
+                  child: Container(
+                    width: 16,
+                    height: 2.5,
+                    margin: const EdgeInsets.only(top: 4),
+                    decoration: BoxDecoration(
+                      color: AppColors.primary,
+                      borderRadius: BorderRadius.circular(2),
+                    ),
+                  ),
+                );
+              },
+            ),
+        ],
       ),
     );
   }
