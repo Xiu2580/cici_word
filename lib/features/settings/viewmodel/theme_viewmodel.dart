@@ -27,12 +27,12 @@ class ThemeViewModel extends ChangeNotifier {
     notifyListeners();
   }
 
-  void setThemeMode(ThemeMode mode) {
+  Future<void> setThemeMode(ThemeMode mode) async {
     if (_mode == mode) {
       return;
     }
     _mode = mode;
-    _settingsRepository?.saveSettings({'theme_mode': mode.name});
+    await _settingsRepository?.saveSettings({'theme_mode': mode.name});
     notifyListeners();
   }
 
@@ -40,14 +40,14 @@ class ThemeViewModel extends ChangeNotifier {
     setThemeMode(_mode == ThemeMode.dark ? ThemeMode.light : ThemeMode.dark);
   }
 
-  void setFontScale(double scale) {
+  Future<void> setFontScale(double scale) async {
     final next =
         scale.clamp(AppConstants.minFontScale, AppConstants.maxFontScale);
     if (_fontScale == next) {
       return;
     }
     _fontScale = next;
-    _settingsRepository?.saveSettings({'font_scale': next});
+    await _settingsRepository?.saveSettings({'font_scale': next});
     notifyListeners();
   }
 
@@ -55,12 +55,12 @@ class ThemeViewModel extends ChangeNotifier {
     setAnimationsEnabled(!_animationsEnabled);
   }
 
-  void setAnimationsEnabled(bool enabled) {
+  Future<void> setAnimationsEnabled(bool enabled) async {
     if (_animationsEnabled == enabled) {
       return;
     }
     _animationsEnabled = enabled;
-    _settingsRepository?.saveSettings({'animations_enabled': enabled});
+    await _settingsRepository?.saveSettings({'animations_enabled': enabled});
     notifyListeners();
   }
 

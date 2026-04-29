@@ -46,7 +46,7 @@ class DictationSessionViewModel extends ChangeNotifier {
   String? get correctAnswer => _correctAnswer;
   int get correctCount => _correctCount;
   int get wrongCount => _wrongCount;
-  double get progress => _words.isEmpty ? 0 : _currentIndex / _words.length;
+  double get progress => _words.isEmpty ? 0 : (_currentIndex + 1) / _words.length;
   Word? get currentWord =>
       _words.isEmpty || _currentIndex >= _words.length ? null : _words[_currentIndex];
 
@@ -133,13 +133,13 @@ class DictationSessionViewModel extends ChangeNotifier {
       return;
     }
 
+    final maxLen = word.english.length;
+    _input = value.length <= maxLen ? value : value.substring(0, maxLen);
     if (mode == 'hint') {
       final hiddenCount = _hiddenIndexes(word.english.length).length;
-      _input = value.length <= hiddenCount
-          ? value
-          : value.substring(0, hiddenCount);
-    } else {
-      _input = value;
+      _input = _input.length <= hiddenCount
+          ? _input
+          : _input.substring(0, hiddenCount);
     }
     notifyListeners();
   }
@@ -148,6 +148,20 @@ class DictationSessionViewModel extends ChangeNotifier {
     final word = currentWord;
     if (word == null || _showResult) {
       return;
+    }
+
+    // In hint mode, require all hidden positions to be filled
+    if (mode == 'hint') {
+      final hiddenCount = _hiddenIndexes(word.english.length).length;
+      if (_input.length < hiddenCount) {
+        _feedback = '请填写完整';
+        _correctAnswer = null;
+        _showResult = true;
+        _wrongCount += 1;
+        _mistakeStore?.addWord(word);
+        notifyListeners();
+        return;
+      }
     }
 
     final normalizedInput = _normalize(_buildAttemptedWord(word));

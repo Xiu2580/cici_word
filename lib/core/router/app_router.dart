@@ -80,7 +80,7 @@ final appRouter = GoRouter(
       path: '/dictation/session/:bookId',
       builder: (_, state) => DictationSessionPage(
         bookId: state.pathParameters['bookId']!,
-        mode: 'full',
+        mode: 'hint',
       ),
     ),
     GoRoute(

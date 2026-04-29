@@ -1,3 +1,5 @@
+import '../models/word.dart';
+
 /// 设置仓储层接口
 ///
 /// 定义用户设置数据操作的标准接口
@@ -11,4 +13,13 @@ abstract class ISettingsRepository {
   ///
   /// [settings] 要保存的设置键值对
   Future<void> saveSettings(Map<String, dynamic> settings);
+
+  /// 保存自定义词书
+  Future<void> saveCustomWordbook({
+    required String name,
+    required List<Word> words,
+  });
+
+  /// 获取所有自定义词书
+  Future<List<Map<String, dynamic>>> getCustomWordbooks();
 }

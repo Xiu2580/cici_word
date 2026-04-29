@@ -32,7 +32,10 @@ class DictationHomePage extends StatelessWidget {
 
     return ChangeNotifierProvider<DictationHomeViewModel>(
       create: (context) =>
-          DictationHomeViewModel(context.read<CurrentWordbookViewModel>()),
+          DictationHomeViewModel(context.read<CurrentWordbookViewModel>(),
+              defaultMode:
+                  Provider.of<SettingsViewModel?>(context, listen: false)
+                      ?.dictationMode),
       child: _DictationHomeScaffold(
         onBrowseWordbook: onBrowseWordbook,
         onStartDictation: onStartDictation,

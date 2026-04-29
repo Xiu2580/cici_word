@@ -16,6 +16,10 @@ class WordbookV2ViewModel extends ChangeNotifier {
           final words = await wordRepository.getWords(bookId);
           return words.where((word) => word.familiarity != Familiarity.unknown).length;
         }),
+        _loadCustomWordbooks = (() async {
+          final settings = await settingsRepository?.getCustomWordbooks() ?? [];
+          return _parseCustomWordbooks(settings);
+        }),
         _loadPersistedSelectedBookId = (() async {
           final settings = await settingsRepository?.getSettings() ?? const <String, dynamic>{};
           return settings['current_wordbook_id'] as String?;
@@ -31,12 +35,14 @@ class WordbookV2ViewModel extends ChangeNotifier {
     String? selectedBookId,
   })  : _loadWordbooks = (() async => wordbooks),
         _loadLearnedCount = loadLearnedCount ?? ((_) async => 0),
+        _loadCustomWordbooks = (() async => []),
         _loadPersistedSelectedBookId = (() async => selectedBookId),
         _persistSelectedBookId = ((_) async {}),
         _initialSelectedBookId = selectedBookId;
 
   final Future<List<Wordbook>> Function() _loadWordbooks;
   final Future<int> Function(String bookId) _loadLearnedCount;
+  final Future<List<Wordbook>> Function() _loadCustomWordbooks;
   final Future<String?> Function() _loadPersistedSelectedBookId;
   final Future<void> Function(String?) _persistSelectedBookId;
   final String? _initialSelectedBookId;
@@ -89,7 +95,8 @@ class WordbookV2ViewModel extends ChangeNotifier {
           );
         }),
       );
-      _sections = _groupWordbooks(hydratedWordbooks);
+      final customWordbooks = await _loadCustomWordbooks();
+      _sections = _groupWordbooks([...hydratedWordbooks, ...customWordbooks]);
       final persistedSelectedBookId = await _loadPersistedSelectedBookId();
       _selectedBookId = _resolveSelectedBookId(
         _initialSelectedBookId ?? persistedSelectedBookId,
@@ -180,6 +187,23 @@ class WordbookV2ViewModel extends ChangeNotifier {
       case WordbookCategory.custom:
         return '自定义词书';
     }
+  }
+
+  static List<Wordbook> _parseCustomWordbooks(List<Map<String, dynamic>> rawList) {
+    return rawList.asMap().entries.map((entry) {
+      final index = entry.key;
+      final data = entry.value;
+      final name = data['name'] as String? ?? '自定义词书 $index';
+      final wordsRaw = data['words'] as List<dynamic>? ?? [];
+      return Wordbook(
+        id: 'custom_$index',
+        name: name,
+        description: '导入词书 · ${wordsRaw.length} 词',
+        category: WordbookCategory.custom,
+        wordCount: wordsRaw.length,
+        coverColor: 0xFF0081CF,
+      );
+    }).toList();
   }
 
   String _subtitleFor(WordbookCategory category) {

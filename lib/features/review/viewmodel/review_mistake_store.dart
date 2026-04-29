@@ -14,19 +14,19 @@ class ReviewMistakeStore extends ChangeNotifier {
   final Map<String, Word> _mistakes = <String, Word>{};
 
   bool _isLoading = false;
-  bool _isLoaded = false;
+  bool _hasLoaded = false;
 
   List<Word> get words => _mistakes.values.toList(growable: false);
   int get count => _mistakes.length;
   bool get isEmpty => _mistakes.isEmpty;
 
   Future<void> ensureLoaded() async {
-    if (_isLoaded || _isLoading) {
+    if (_hasLoaded || _isLoading) {
       return;
     }
 
     if (_settingsRepository == null || _wordRepository == null) {
-      _isLoaded = true;
+      _hasLoaded = true;
       return;
     }
 
@@ -45,7 +45,7 @@ class ReviewMistakeStore extends ChangeNotifier {
     }
 
     _isLoading = false;
-    _isLoaded = true;
+    _hasLoaded = true;
     notifyListeners();
   }
 

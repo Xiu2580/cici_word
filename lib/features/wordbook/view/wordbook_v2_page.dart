@@ -70,33 +70,42 @@ class _WordbookV2Scaffold extends StatefulWidget {
 
 class _WordbookV2ScaffoldState extends State<_WordbookV2Scaffold> {
   bool _isGridLayout = false;
+  WordbookV2ViewModel? _vm;
 
   @override
   void initState() {
     super.initState();
+    _vm = context.read<WordbookV2ViewModel>();
+    _vm!.addListener(_syncSelectedBook);
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (!mounted) {
-        return;
-      }
-      context.read<WordbookV2ViewModel>().ensureLoaded();
+      if (!mounted) return;
+      _vm!.ensureLoaded();
+      _syncSelectedBook();
     });
+  }
+
+  @override
+  void dispose() {
+    _vm?.removeListener(_syncSelectedBook);
+    super.dispose();
+  }
+
+  void _syncSelectedBook() {
+    if (!mounted) {
+      return;
+    }
+    final currentWordbookVm = context.read<CurrentWordbookViewModel>();
+    final selectedBook = _vm!.selectedBook;
+    if (currentWordbookVm.currentId != selectedBook?.id) {
+      currentWordbookVm.setCurrent(selectedBook);
+    }
   }
 
   @override
   Widget build(BuildContext context) {
     final vm = context.watch<WordbookV2ViewModel>();
-    final currentWordbookVm = context.read<CurrentWordbookViewModel>();
     final settingsVm = Provider.of<SettingsViewModel?>(context, listen: false);
     final selectedBook = vm.selectedBook;
-
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (!mounted) {
-        return;
-      }
-      if (currentWordbookVm.currentId != selectedBook?.id) {
-        currentWordbookVm.setCurrent(selectedBook);
-      }
-    });
 
     return Scaffold(
       appBar: AppBar(

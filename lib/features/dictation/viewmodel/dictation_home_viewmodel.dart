@@ -3,13 +3,14 @@ import 'package:cici_word/features/wordbook/viewmodel/current_wordbook_viewmodel
 import 'package:flutter/foundation.dart';
 
 class DictationHomeViewModel extends ChangeNotifier {
-  DictationHomeViewModel(this._currentWordbookVm) {
+  DictationHomeViewModel(this._currentWordbookVm, {String? defaultMode})
+      : _dictationMode = defaultMode ?? 'hint' {
     _currentWordbookVm.addListener(notifyListeners);
   }
 
   final CurrentWordbookViewModel _currentWordbookVm;
 
-  String _dictationMode = 'full';
+  String _dictationMode;
 
   Wordbook? get currentWordbook => _currentWordbookVm.current;
   bool get hasWordbook => currentWordbook != null;

@@ -3,7 +3,10 @@ import 'dart:convert';
 import 'package:cici_word/core/router/navigation_helpers.dart';
 import 'package:cici_word/core/theme/app_colors.dart';
 import 'package:cici_word/data/models/word.dart';
+import 'package:cici_word/data/repositories/i_settings_repository.dart';
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
+import 'package:provider/provider.dart';
 
 class ImportedWordbookDraft {
   const ImportedWordbookDraft({
@@ -194,7 +197,7 @@ class _ImportPageState extends State<ImportPage> {
     );
   }
 
-  void _submitImport() {
+  Future<void> _submitImport() async {
     if (_previewWords.isEmpty) {
       _buildPreview();
       return;
@@ -207,13 +210,37 @@ class _ImportPageState extends State<ImportPage> {
       words: List.unmodifiable(_previewWords),
     );
 
-    widget.onImport?.call(draft);
+    if (widget.onImport != null) {
+      widget.onImport!(draft);
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('已导入 ${draft.words.length} 个单词：${draft.name}'),
+        ),
+      );
+      return;
+    }
 
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text('已导入 ${draft.words.length} 个单词：${draft.name}'),
-      ),
-    );
+    try {
+      final settingsRepo = context.read<ISettingsRepository>();
+      await settingsRepo.saveCustomWordbook(
+        name: draft.name,
+        words: draft.words,
+      );
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('已导入 ${draft.words.length} 个单词：${draft.name}'),
+        ),
+      );
+      if (!mounted) return;
+      context.go('/wordbook');
+    } catch (_) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('导入失败，请稍后重试')),
+      );
+    }
   }
 
   @override

@@ -9,7 +9,7 @@ class FavoritesViewModel extends ChangeNotifier {
   final IWordRepository _repository;
 
   bool _isLoading = false;
-  bool _isLoaded = false;
+  bool _hasLoaded = false;
   String? _error;
   List<Word> _words = const [];
 
@@ -19,11 +19,11 @@ class FavoritesViewModel extends ChangeNotifier {
   bool get isEmpty => _words.isEmpty;
 
   Future<void> ensureLoaded() async {
-    if (_isLoading || _isLoaded) {
+    if (_isLoading || _hasLoaded) {
       return;
     }
     await reload();
-    _isLoaded = true;
+    _hasLoaded = true;
   }
 
   Future<void> reload() async {

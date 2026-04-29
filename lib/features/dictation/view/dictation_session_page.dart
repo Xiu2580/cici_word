@@ -110,6 +110,8 @@ class _DictationSessionBodyState extends State<_DictationSessionBody> {
 
     if (vm.isCompleted) {
       return SessionSummaryPage(
+        knownCount: vm.correctCount,
+        unknownCount: vm.wrongCount,
         onRestart: vm.restart,
         onBackToWordbook: () => popOrGo(context, '/wordbook/${widget.bookId}'),
       );

@@ -15,15 +15,20 @@ class _WordbookListPageState extends State<WordbookListPage> {
   bool _isLoading = true;
   String? _error;
   List<Wordbook> _books = const [];
+  bool _hasLoaded = false;
 
   @override
-  void didChangeDependencies() {
-    super.didChangeDependencies();
-    Future<void>.microtask(_load);
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted) {
+        _load();
+      }
+    });
   }
 
   Future<void> _load() async {
-    if (!_isLoading && _books.isNotEmpty) {
+    if (_isLoading || _hasLoaded) {
       return;
     }
 
@@ -40,6 +45,7 @@ class _WordbookListPageState extends State<WordbookListPage> {
       }
       setState(() {
         _books = books;
+        _hasLoaded = true;
       });
     } catch (_) {
       if (!mounted) {

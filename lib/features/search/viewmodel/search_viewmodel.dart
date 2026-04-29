@@ -14,18 +14,18 @@ class SearchViewModel extends ChangeNotifier {
   List<Word> _results = const [];
 
   bool _isLoading = false;
-  bool _isLoaded = false;
+  bool _hasLoaded = false;
   String _query = '';
   String? _error;
 
   bool get isLoading => _isLoading;
-  bool get isLoaded => _isLoaded;
+  bool get isLoaded => _hasLoaded;
   String get query => _query;
   String? get error => _error;
   List<Word> get results => List.unmodifiable(_results);
 
   Future<void> ensureLoaded() async {
-    if (_isLoading || _isLoaded) {
+    if (_isLoading || _hasLoaded) {
       return;
     }
 
@@ -44,7 +44,7 @@ class SearchViewModel extends ChangeNotifier {
         ..clear()
         ..addAll(loadedWords);
       _applyQuery(_query);
-      _isLoaded = true;
+      _hasLoaded = true;
     } catch (_) {
       _error = '搜索内容加载失败，请稍后重试';
     } finally {
